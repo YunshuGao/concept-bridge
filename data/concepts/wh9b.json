@@ -470,5 +470,610 @@
       "war"
     ],
     "period": "1868年起"
+  },
+  {
+    "id": "second-industrial-revolution",
+    "zh": "第二次工业革命",
+    "pinyin": "dì'èrcì gōngyè gémìng",
+    "en": "the Second Industrial Revolution",
+    "def_zh": "19世纪六七十年代开始，特点是科学研究同工业生产紧密结合；电力成为新能源进入生产生活（“电气时代”），内燃机、化学工业与新材料相继突破。主要资本主义国家取得跨越式发展成为工业化强国，并出现垄断组织，资本主义由自由资本主义向垄断资本主义（帝国主义）阶段过渡。",
+    "def_en": "From the 1860s–70s, invention became science-driven: electricity entered factory and home (the age of electricity), the internal-combustion engine and industrial chemistry followed, and the leading capitalist economies leapt ahead — breeding giant combines as free-market capitalism shaded into monopoly capitalism, the stage the textbook, following Lenin, calls imperialism.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "the age of electricity",
+      "science-based industry",
+      "a technological leap",
+      "the electrification of industry"
+    ],
+    "example": "Techno-optimists' favourite chart starts here: the Second Industrial Revolution's cluster — electricity, engines, chemicals — powered the fastest sustained growth in human history.",
+    "nuance": "英语亦称 the Technological Revolution。分期口径：First（蒸汽/纺织）、Second（电力/钢铁/化学）——报告与媒体常用此框架讨论 AI 是否构成新一次革命。“跨越式发展”= leapfrog development（发展经济学高频词）。",
+    "links": [
+      {
+        "to": "industrial-revolution",
+        "rel": "replaced"
+      },
+      {
+        "to": "electricity-age",
+        "rel": "narrower"
+      },
+      {
+        "to": "internal-combustion",
+        "rel": "narrower"
+      },
+      {
+        "to": "monopoly-capitalism",
+        "rel": "effect"
+      }
+    ],
+    "themes": [
+      "economy",
+      "science-tech"
+    ],
+    "period": "1860年代–1914年"
+  },
+  {
+    "id": "electricity-age",
+    "zh": "电的应用（电气时代）",
+    "pinyin": "diànqì shídài",
+    "en": "the age of electricity",
+    "def_zh": "1831年法拉第发现电磁感应现象，据此发明发电机；19世纪70年代发电机进入生产领域，电力开始作为动力带动机器。爱迪生发明耐用白炽灯泡、碱性蓄电池、电影摄影机等（一生逾千项专利），并在纽约建美国第一座火力发电站；发电机、电动机、电话、电车、电报纷纷问世，人类进入“电气时代”。",
+    "def_en": "Faraday's electromagnetic induction (1831) begot the dynamo; by the 1870s electricity was driving machinery. Edison — a thousand patents, from the durable light bulb to the movie camera — built New York's first power station, and with motors, telephones, trams and telegraphs the world wired itself into the electrical age.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "electromagnetic induction",
+      "the power grid",
+      "a light-bulb moment",
+      "electrification"
+    ],
+    "example": "Economists still cite electrification as the classic slow-burn technology: factories took forty years to reorganise around the motor — the productivity lag now invoked for computers and AI.",
+    "nuance": "“发电机”早期称 dynamo（今 generator）；“白炽灯泡”= incandescent bulb。a light-bulb moment（灵光一现）是爱迪生留给英语的比喻。列宁名言可对照：共产主义=苏维埃政权+全国电气化（electrification）。",
+    "links": [
+      {
+        "to": "second-industrial-revolution",
+        "rel": "broader"
+      },
+      {
+        "to": "steam-engine",
+        "rel": "replaced"
+      }
+    ],
+    "themes": [
+      "science-tech"
+    ],
+    "period": "1831年–20世纪初"
+  },
+  {
+    "id": "internal-combustion",
+    "zh": "内燃机与新交通工具",
+    "pinyin": "nèiránjī",
+    "en": "the internal-combustion engine",
+    "def_zh": "第二次工业革命应用技术的另一重大成就：1876年奥托制煤气内燃机，1883年戴姆勒研制汽油内燃机，狄塞尔发明柴油内燃机——解决了交通工具的发动机问题。19世纪80年代本茨造出内燃机汽车；1903年莱特兄弟的飞机升空（中国人冯如随后造出更先进飞机）；汽车、轮船、飞机、拖拉机相继出现，并推动石油开采与石油化工兴起。",
+    "def_en": "Otto's gas engine (1876), Daimler's petrol engine (1883) and Diesel's namesake solved transport's power problem: Benz put the engine on wheels in the 1880s, the Wright brothers put it in the air in 1903, and cars, ships, aircraft and tractors followed — dragging petroleum and petrochemicals into the centre of the world economy.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "the internal-combustion engine (ICE)",
+      "petrol/diesel",
+      "the horseless carriage",
+      "take to the air"
+    ],
+    "example": "Every EV headline announces 'the end of the ICE age' — the pun only works because internal combustion defined a century.",
+    "nuance": "汽车动力语汇：petrol（英）/gasoline, gas（美）；diesel 即人名。当代能源转型报道中 ICE（internal combustion engine）为标准缩写。Daimler、Benz、Diesel、Ford 全部人名化为品牌——工业史直接写进了商标。",
+    "links": [
+      {
+        "to": "second-industrial-revolution",
+        "rel": "broader"
+      },
+      {
+        "to": "assembly-line",
+        "rel": "related"
+      },
+      {
+        "to": "steam-engine",
+        "rel": "replaced"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "economy"
+    ],
+    "period": "1876年–1913年"
+  },
+  {
+    "id": "assembly-line",
+    "zh": "流水线生产",
+    "pinyin": "liúshuǐxiàn shēngchǎn",
+    "en": "the assembly line (mass production)",
+    "def_zh": "1913年美国福特汽车公司使用流水线生产汽车，带来汽车制造业革命：价格大幅下降，汽车成为中等收入家庭的交通工具。T型车（1908–1927约1500万辆，占世界汽车产量一半）以低价优性著称，1914年起一律漆成黑色。",
+    "def_en": "Ford's moving assembly line (1913) revolutionised manufacture: prices collapsed and the car became middle-class property. The Model T — 15m built, half the world's output, any colour so long as it was black — turned a rich man's toy into everyman's transport.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "mass production",
+      "economies of scale",
+      "Fordism",
+      "any colour so long as it's black",
+      "roll off the assembly line"
+    ],
+    "example": "'Fordism' names the whole social bargain — standardised goods, high wages, mass consumption — and 'post-Fordist' its flexible successor; one factory floor christened an era.",
+    "nuance": "“流水线”= the assembly line；“大规模生产”= mass production；“规模经济”= economies of scale——三词构成基础经济词组。Fordism/Taylorism（福特制/泰勒制科学管理）是社科高频概念。福特名言 any colour so long as it's black 已成標準化的代名词。",
+    "links": [
+      {
+        "to": "internal-combustion",
+        "rel": "related"
+      },
+      {
+        "to": "factory-system",
+        "rel": "narrower"
+      },
+      {
+        "to": "manufactory",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy"
+    ],
+    "period": "1913年"
+  },
+  {
+    "id": "nobel-chemistry",
+    "zh": "诺贝尔与现代化学工业",
+    "pinyin": "Nuòbèi'ěr",
+    "en": "Nobel and the modern chemical industry",
+    "def_zh": "19世纪60–80年代新法生产碱、硫酸、人造染料成本更低性能更好；1867年瑞典化学家诺贝尔发明现代炸药（其弟死于工厂爆炸，他移船上实验），后研制无烟炸药，广泛用于军事工程并获巨富——遗嘱设立诺贝尔奖（1901年首颁，1968年增设经济学奖）。1869年海厄特发明赛璐珞开创塑料工业，1884年夏尔多内发明人造纤维。",
+    "def_en": "Chemistry industrialised: cheap alkalis, acids and synthetic dyes, Hyatt's celluloid (1869) founding plastics, Chardonnet's artificial fibre (1884) — and Nobel's dynamite (1867), invented at the cost of his brother's life and the source of the fortune that endows the prizes bearing his name (first awarded 1901; economics added 1968).",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "dynamite",
+      "synthetic materials",
+      "the Nobel Prize",
+      "merchant of death"
+    ],
+    "example": "A premature obituary branding him 'merchant of death' reportedly spurred Nobel to buy posterity a better verdict — the prize as history's most successful reputation trade.",
+    "nuance": "dynamite 作动词/比喻活跃（political dynamite 政治炸药=烫手议题）。“诺贝尔经济学奖”严格名为 the Sveriges Riksbank Prize——Economist 谈奖项常挑明此别。“人造/合成”前缀 synthetic 是化工词汇通配。",
+    "links": [
+      {
+        "to": "second-industrial-revolution",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "economy"
+    ],
+    "period": "1867年–1901年"
+  },
+  {
+    "id": "monopoly-capitalism",
+    "zh": "垄断组织与帝国主义",
+    "pinyin": "lǒngduàn zǔzhī",
+    "en": "monopoly capitalism (imperialism)",
+    "def_zh": "第二次工业革命后主要资本主义国家出现垄断组织，资本主义由自由资本主义向垄断资本主义即帝国主义阶段过渡，对外扩张随之增强，对世界产生深远影响。",
+    "def_en": "Out of the Second Industrial Revolution grew the great combines — trusts, cartels, syndicates — and with them, in the Marxist-Leninist frame the textbook uses, capitalism's passage from its free-competition stage to monopoly capitalism, i.e. imperialism, with intensified expansion abroad.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第5课 第二次工业革命"
+      }
+    ],
+    "collocations": [
+      "trusts and cartels",
+      "antitrust law",
+      "robber barons",
+      "market concentration",
+      "break up a monopoly"
+    ],
+    "example": "Today's antitrust suits against Big Tech recycle the Standard Oil script beat for beat: the trust, the muckrakers, the courtroom break-up.",
+    "nuance": "“垄断组织”具体形态英语各有其名：trust（托拉斯）、cartel（卡特尔）、syndicate（辛迪加）——中文音译词的本尊。“帝国主义=资本主义最高阶段”是列宁命题；英语一般语境 imperialism 仅指帝国扩张政策，无此阶段论含义——重要口径差异。相关活词：antitrust（反垄断）、robber barons（强盗大亨，指美国镀金时代巨头）、the Gilded Age（镀金时代）。",
+    "links": [
+      {
+        "to": "second-industrial-revolution",
+        "rel": "broader"
+      },
+      {
+        "to": "adam-smith",
+        "rel": "contrast"
+      },
+      {
+        "to": "east-india-company",
+        "rel": "related"
+      },
+      {
+        "to": "marxism",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "19世纪末–20世纪初"
+  },
+  {
+    "id": "urbanisation",
+    "zh": "城市化及其代价",
+    "pinyin": "chéngshìhuà",
+    "en": "urbanisation and its discontents",
+    "def_zh": "工业革命推动人口迅速增长（英国19世纪前50年翻倍；美国1914年破亿）与农村人口流向城市——19世纪后期大部分英国人已住在城市。劳动力结构巨变：农业劳动力到20世纪初不足工业的1/5，妇女走出家庭成为工业劳动者，为地位提高创造条件。早期城市缺乏规划、卫生恶劣（垃圾满街、贫民窟），19世纪中期后基础设施渐兴（铺路、煤气灯→电灯、排污管道、有轨电车）；同时环境污染严重、贫富分化加剧，工人从破坏机器到日益激烈的反抗。",
+    "def_en": "Industry multiplied people and moved them: Britain's population doubled in fifty years and by the 1870s was mostly urban; farm labour shrank to a fifth of factory labour, and women entering the mills began shifting their social standing. The early city was unplanned squalor — refuse in the streets, slums, cholera — slowly civilised by paving, gas then electric light, sewers and trams; meanwhile smoke and effluent poisoned air and rivers and the wealth gap yawned, from machine-breaking Luddites to organised revolt.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第6课 工业化国家的社会变化"
+      }
+    ],
+    "collocations": [
+      "rural exodus",
+      "slums",
+      "public health/sanitation",
+      "the Luddites",
+      "smokestack industries"
+    ],
+    "example": "Every developing megacity replays Manchester: the sewers arrive a generation after the migrants, and the clean-air act a generation after the sewers.",
+    "nuance": "“破坏机器的工人”= the Luddites（卢德分子）——今指抵制新技术者（a Luddite attitude to AI），Economist 常用。“贫民窟”= slum；“公共卫生”= public health/sanitation。勃里格斯所引曼彻斯特悖论（文明的奇迹/野蛮）出自托克维尔，常被引作工业化双面性的标准文本。",
+    "links": [
+      {
+        "to": "industrial-revolution",
+        "rel": "effect"
+      },
+      {
+        "to": "factory-system",
+        "rel": "related"
+      },
+      {
+        "to": "medieval-towns",
+        "rel": "related"
+      },
+      {
+        "to": "labour-movement",
+        "rel": "cause"
+      }
+    ],
+    "themes": [
+      "society",
+      "geography-environment"
+    ],
+    "period": "19世纪"
+  },
+  {
+    "id": "mass-education",
+    "zh": "大众教育",
+    "pinyin": "dàzhòng jiàoyù",
+    "en": "mass education",
+    "def_zh": "19世纪欧洲国家为适应工业化需要推广大众教育：德国率先建立初等—中等—大学系统教育体系；1802年法国立法开设政府资助的中等学校；1870年后英法对儿童实行免费义务教育。教育普及提高大众文化水平，促进社会发展。",
+    "def_en": "Industrial states discovered they needed literate workers: Germany built the first ladder of primary, secondary and university schooling; France legislated state-funded secondary schools in 1802; after 1870 Britain and France made elementary education free and compulsory — mass literacy as industrial infrastructure.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第6课 工业化国家的社会变化"
+      }
+    ],
+    "collocations": [
+      "compulsory education",
+      "universal literacy",
+      "state schooling",
+      "human capital"
+    ],
+    "example": "Economists file this under human capital: the countries that schooled their masses first industrialised deepest — a lesson every development plan since has copied.",
+    "nuance": "“义务教育”= compulsory education；“免费义务教育”= free compulsory schooling。人力资本 human capital 是把此史实带入当代讨论的桥梁词。对NSW教师有职业相关性：现代公立教育体系（state schooling）的血统即在此。",
+    "links": [
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "effect"
+      },
+      {
+        "to": "universities",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "culture"
+    ],
+    "period": "19世纪"
+  },
+  {
+    "id": "malthus",
+    "zh": "马尔萨斯人口论",
+    "pinyin": "Mǎ'ěrsàsī rénkǒulùn",
+    "en": "Malthusianism",
+    "def_zh": "英国经济学家马尔萨斯（1766–1834）在《人口原理》中提出：人口增长快于生活资料增长是“自然规律”，人口逼近生存极限时社会将出现饥馑、战争和疾病。教材评：提醒处理人口问题有积极意义，但把失业贫困归咎于人口过多是错误的。",
+    "def_en": "Malthus's Essay on the Principle of Population argued that population outruns subsistence until famine, war and disease cut it back. The textbook credits the warning and faults the diagnosis — blaming poverty on fertility rather than on the system. History's verdict was harsher still: the trap he described broke almost as he described it.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第6课 工业化国家的社会变化"
+      }
+    ],
+    "collocations": [
+      "the Malthusian trap",
+      "carrying capacity",
+      "neo-Malthusian",
+      "population outstripping resources"
+    ],
+    "example": "Every scare about food, oil or lithium gets labelled Malthusian, and every technological rescue anti-Malthusian — he lost the argument yet owns its vocabulary.",
+    "nuance": "Malthusian（马尔萨斯式的）是 Economist 极高频形容词，指一切“资源赶不上人口/需求”论调；the Malthusian trap（马尔萨斯陷阱）为经济史标准概念。用户具人口学硕士背景——此节点连接其专业词汇系统：demographic transition（人口转型）、fertility rate、carrying capacity。",
+    "links": [
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      },
+      {
+        "to": "adam-smith",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "influenced"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "society"
+    ],
+    "period": "1798年"
+  },
+  {
+    "id": "newton",
+    "zh": "牛顿",
+    "pinyin": "Niúdùn",
+    "en": "Isaac Newton",
+    "def_zh": "近代自然科学奠基人之一：万有引力定律、光学分析和微积分学为三大成就；1687年《自然哲学的数学原理》出版，物理学成为独立学科，人类对客观世界的探索向前迈进一大步。",
+    "def_en": "Co-founder of modern science: universal gravitation, the analysis of light and the calculus are his triple crown, and the Principia (1687) made physics a discipline — nature reduced, for the first time, to law.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "the laws of motion",
+      "standing on the shoulders of giants",
+      "Newtonian physics",
+      "an apple falling"
+    ],
+    "example": "'Standing on the shoulders of giants' — Newton's (borrowed) modesty — is now the epigraph of every literature review and the motto on the £2 coin.",
+    "nuance": "《自然哲学的数学原理》通称 the Principia。Newtonian 作形容词=机械决定论式的（a Newtonian view of markets）。牛顿苹果、炼金术痴迷、皇家铸币厂长打假币——英语科普的常备典故群。",
+    "links": [
+      {
+        "to": "enlightenment",
+        "rel": "influenced"
+      },
+      {
+        "to": "aristotle",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "ideas"
+    ],
+    "period": "1643年–1727年"
+  },
+  {
+    "id": "darwin",
+    "zh": "达尔文与进化论",
+    "pinyin": "Dá'ěrwén / jìnhuàlùn",
+    "en": "Darwin and evolution",
+    "def_zh": "1859年《物种起源》出版，提出进化论：物种不断变化、由低等到高等演变；生物进化不由神意或生物欲望决定，而是遗传变异、生存斗争和自然选择的结果；人类也是进化而来。打破“上帝创造万物”的神创论，在生物科学领域掀起伟大革命。（达尔文22岁随“小猎犬号”环球航行近5年，船长本盼他验证《圣经》，结论恰相反。）",
+    "def_en": "On the Origin of Species (1859) argued that species change endlessly through variation, struggle and natural selection — no design, no divine will, humanity included. It demolished special creation and revolutionised biology; fittingly, the voyage of the Beagle that seeded it had been meant to confirm scripture.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "natural selection",
+      "survival of the fittest",
+      "adapt or die",
+      "Darwinian competition",
+      "the descent of man"
+    ],
+    "example": "Business pages are helplessly Darwinian: markets 'select', firms 'adapt or die', and every shake-out is 'survival of the fittest' — Spencer's phrase, not Darwin's, as pedants note.",
+    "nuance": "survival of the fittest 出自斯宾塞而非达尔文；由此滋生的 Social Darwinism（社会达尔文主义）曾为殖民与优生学张目——严复《天演论》“物竞天择、适者生存”正是经此路径入华，中文语感自带的进步论色彩英语原文并没有。fittest 意为“最适应者”非“最强者”——高频误读。",
+    "links": [
+      {
+        "to": "malthus",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "newton",
+        "rel": "related"
+      },
+      {
+        "to": "age-of-discovery",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "ideas"
+    ],
+    "period": "1859年"
+  },
+  {
+    "id": "realist-literature",
+    "zh": "现实主义文学（巴尔扎克与托尔斯泰）",
+    "pinyin": "xiànshízhǔyì wénxué",
+    "en": "the realist novel: Balzac and Tolstoy",
+    "def_zh": "巴尔扎克以“人间喜剧”系列（《欧也妮·葛朗台》《高老头》）细绘转型期法国社会万象，留下巴黎上流社会变迁史——《高老头》写尽“一切为了金钱”的社会中家庭亦成欺骗掠夺之场。稍后俄国托尔斯泰以《战争与和平》《安娜·卡列尼娜》《复活》描绘各阶层生活，抨击沙皇专制与地主压榨、又否定暴力革命宣扬博爱，被列宁称为“俄国革命的镜子”。",
+    "def_en": "Balzac's Human Comedy anatomised money-mad France in transition — in Old Goriot even the family is a market — while Tolstoy's War and Peace, Anna Karenina and Resurrection painted every stratum of Russia, lashing autocracy and landlordism yet preaching love over revolution: 'the mirror of the Russian revolution', in Lenin's phrase.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "literary realism",
+      "a panorama of society",
+      "a Balzacian ambition",
+      "Tolstoyan"
+    ],
+    "example": "Critics call sprawling condition-of-the-nation novels 'Balzacian' and moral epics 'Tolstoyan' — the two adjectives divide the realist inheritance between them.",
+    "nuance": "“现实主义”= (literary) realism；“人间喜剧”= The Human Comedy。《安娜·卡列尼娜》开篇句是英语最常引用的小说首句之一：All happy families are alike…——经济学借为 the Anna Karenina principle（成功须万事俱备，失败一因足矣）。",
+    "links": [
+      {
+        "to": "shakespeare",
+        "rel": "related"
+      },
+      {
+        "to": "wage-labour",
+        "rel": "related"
+      },
+      {
+        "to": "serf-emancipation",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "19世纪"
+  },
+  {
+    "id": "beethoven",
+    "zh": "贝多芬",
+    "pinyin": "Bèiduōfēn",
+    "en": "Ludwig van Beethoven",
+    "def_zh": "德国天才作曲家：音乐充满想象力与激情。《英雄交响曲》（1804）反映重大社会题材，气势磅礴，表达对自由平等博爱的渴望——原为拿破仑而作，闻其称帝愤而抹去其名。28岁起患耳疾至全聋，咬木棒抵钢琴辨音坚持作曲。",
+    "def_en": "The composer who made music heroic: the Eroica (1804), blazing with liberty, equality and fraternity, bore Napoleon's name until news of the coronation made Beethoven scratch it out. Deaf from 28 — composing with a stick clenched in his teeth against the piano — he became art's byword for genius against fate.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "the Eroica",
+      "Ode to Joy",
+      "triumph over adversity",
+      "tear up the dedication"
+    ],
+    "example": "The scratched-out dedication is journalism's favourite parable of disillusion — idealists discovering their hero has crowned himself.",
+    "nuance": "《英雄交响曲》通称 the Eroica（意大利语“英雄的”）。《欢乐颂》Ode to Joy（第九交响曲）现为欧盟盟歌（the EU anthem）——政治报道会遇到。“扼住命运的咽喉”这句中文名言在英语中无固定对应，引用需意译。",
+    "links": [
+      {
+        "to": "napoleon",
+        "rel": "related"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "french-revolution",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "1770年–1827年"
+  },
+  {
+    "id": "van-gogh",
+    "zh": "梵高",
+    "pinyin": "Fàngāo",
+    "en": "Vincent van Gogh",
+    "def_zh": "荷兰画家，27岁始作画，短暂生涯中创作大量油画素描版画，《夜间的咖啡馆》《向日葵》为代表——明亮艳丽的黄色花瓣表达对生命的赞美与对美好生活的向往。生前作品不受重视、生活困窘，靠弟弟接济度日。",
+    "def_en": "The Dutch painter who started at 27 and burned out in a decade, leaving the Sunflowers and The Night Café — colour as pure feeling. Unsold and unsung in life, supported by his brother's allowance, he became after death the very archetype of the unrecognised genius.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "posthumous fame",
+      "a starving artist",
+      "fetch a record price at auction",
+      "post-Impressionism"
+    ],
+    "example": "Art-market stories adore the irony: canvases Van Gogh could not give away now anchor nine-figure auctions — posthumous fame as the cruellest asset class.",
+    "nuance": "英语发音注意：Van Gogh 英美读 /væn ˈɡoʊ/（“梵高”接近荷语原音反而更准）。“生前不遇”= unrecognised in his lifetime / posthumous fame。流派归属 post-Impressionism（后印象派）。",
+    "links": [
+      {
+        "to": "beethoven",
+        "rel": "related"
+      },
+      {
+        "to": "renaissance",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "1853年–1890年"
+  },
+  {
+    "id": "marie-curie",
+    "zh": "居里夫人",
+    "pinyin": "Jūlǐ fūrén",
+    "en": "Marie Curie",
+    "def_zh": "生于波兰、求学法国的物理学家化学家：与丈夫研究铀盐射线，1898年发现钋和镭，1903年获诺贝尔物理学奖；1910年提炼出金属态纯镭，1911年获诺贝尔化学奖——世界上第一位两度获诺贝尔奖的人。",
+    "def_en": "Polish-born, Paris-trained, she and Pierre isolated polonium and radium (1898); the physics Nobel followed in 1903 and the chemistry prize in 1911 — the first person ever to win twice, in a field and a century that expected women to win nothing.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第7课 近代科学与文化"
+      }
+    ],
+    "collocations": [
+      "radioactivity",
+      "a two-time Nobel laureate",
+      "break the glass ceiling",
+      "radium"
+    ],
+    "example": "Curie remains the patron saint of every women-in-STEM initiative: two Nobels, one borrowed lab, and a notebook still too radioactive to touch.",
+    "nuance": "“居里夫人”直译 Madame Curie 在英语中渐显旧式，学术与媒体通行 Marie Curie。radioactivity（放射性）一词即她所造。玻璃天花板 the glass ceiling 是相关报道的常配词。你书库中有其双语自传——绝佳的延伸阅读节点。",
+    "links": [
+      {
+        "to": "nobel-chemistry",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech"
+    ],
+    "period": "1867年–1934年"
   }
 ]
