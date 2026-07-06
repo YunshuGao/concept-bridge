@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "id": "wh9a",
+      "title_zh": "义务教育教科书·世界历史 九年级上册",
+      "title_en": "World History, Year 9 Volume 1",
+      "format": "pdf",
+      "path": "../History/义务教育教科书·世界历史九年级上册.pdf",
+      "phase": 1,
+      "status": "in-progress",
+      "chapters": []
+    }
+  ]
+}
