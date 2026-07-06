@@ -18,8 +18,8 @@ Sources live in `D:\NewGaoYunshu2024\5.Economist\`. The pipeline is format-agnos
 |---|---|---|
 | 0 | Scaffold: repo, schema, validator, build script, one sample chapter end-to-end | User reviews pilot pages |
 | 1 | 《世界历史·九年级上册》 complete | User reviews concept quality |
-| 2 | Remaining 8 history textbooks (初中历史 ×6 remainder, 高中历史选择性必修 1–3) | — |
-| 3 | Remaining 20 textbooks in `History\` (思想政治 ×10, 道德与法治 ×6, 人文地理 ×1, 美术 ×6 — note: actual counts per folder listing) | — |
+| 2 | Remaining 8 history textbooks (初中历史 ×5, 高中历史选择性必修 1–3) | — |
+| 3 | Remaining 20 textbooks in `History\` (思想政治 ×7, 道德与法治 ×6, 人文地理 ×1, 美术 ×6) | — |
 | 4 | Curated Chinese-language books from the wider `5.Economist` library (all formats). A candidate list is proposed to the user **before** any book is processed. Initial candidates: 道德经 (理雅各双语版), 荀子·劝学, 乡土中国 (From the Soil, 双语), 朱镕基讲话实录, 爱比克泰德论说集, 将人生哲学到底, 居里夫人自传 (双语), 天幕红尘, 基层女性. | User approves book list |
 | 5 | GitHub deployment: repo `yunshugao/concept-bridge`, GitHub Pages; redeploy after every subsequent phase | User confirms public vs private repo |
 
