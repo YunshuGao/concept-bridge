@@ -1,0 +1,52 @@
+[
+  {
+    "id": "chaxugeju",
+    "zh": "差序格局（《乡土中国》）",
+    "pinyin": "chàxù géjú",
+    "en": "the differential mode of association (From the Soil)",
+    "def_zh": "费孝通《乡土中国》（1947）的核心概念：中国社会结构如石子投水的同心波纹——以己为中心、按亲疏远近向外推的差序格局，与西方“捆柴式”的团体格局（组织界限分明、成员平等）相对。由此衍生：熟人社会（礼俗社会 vs 法理社会——费译滕尼斯 Gemeinschaft/Gesellschaft）、礼治秩序（教化而非法律维持——链礼法传统）、无讼、长老统治、血缘与地缘。英译本 From the Soil: The Foundations of Chinese Society（Hamilton & Wang, 1992）将差序格局译为 the differential mode of association——中国本土社会科学概念进入英语学术的典范。",
+    "def_en": "Fei Xiaotong's 1947 classic gave Chinese society its own sociology: social structure as ripples from a stone — each person the centre of concentric circles of diminishing obligation (the differential mode of association, chaxugeju) — against the West's 'bundled kindling' of bounded, equal-membered groups. From it flow the acquaintance society, order by ritual rather than law, aversion to litigation, gerontocracy, the bonds of blood and place. The 1992 translation From the Soil carried the vocabulary into English social science — the rare case of a Chinese analytical concept, not just a Chinese topic, entering the global toolkit.",
+    "sources": [
+      {
+        "book": "xtzg",
+        "chapter": "Chaxugeju: The Differential Mode of Association"
+      }
+    ],
+    "collocations": [
+      "the differential mode of association",
+      "acquaintance society",
+      "guanxi",
+      "rule of ritual",
+      "Gemeinschaft and Gesellschaft"
+    ],
+    "example": "Every western explainer of guanxi eventually quotes Fei's ripples — chaxugeju is the theory behind the buzzword, and 'acquaintance society' the standard translation of how trust actually travels in China.",
+    "nuance": "差序格局 = the differential mode of association（Hamilton/Wang 定译，学术通用）；乡土社会 = rural/earthbound China；礼俗/法理社会对应滕尼斯 Gemeinschaft/Gesellschaft（费孝通自己的对接——中西社会学互译的枢纽）。guanxi（关系）已入英语词典——本节点是其理论根系。链 [[zongfa]]、[[chinese-legal-tradition]]、[[hukou-baojia]]。",
+    "links": [
+      {
+        "to": "zongfa",
+        "rel": "related"
+      },
+      {
+        "to": "chinese-legal-tradition",
+        "rel": "related"
+      },
+      {
+        "to": "hukou-baojia",
+        "rel": "related"
+      },
+      {
+        "to": "clan-society",
+        "rel": "related"
+      },
+      {
+        "to": "burghers",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "society",
+      "ideas"
+    ],
+    "period": "1947年"
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "id": "harari-imagined-orders",
+    "zh": "想象的秩序（赫拉利三部曲）",
+    "pinyin": "xiǎngxiàng de zhìxù",
+    "en": "imagined orders: Harari's trilogy",
+    "def_zh": "《人类简史》（Sapiens）：智人胜出靠认知革命——用虚构故事（imagined orders 想象的秩序：神、国家、货币、公司、人权皆属“互为主体的现实”）实现大规模陌生人协作；农业革命是“史上最大骗局”。《未来简史》（Homo Deus）：人文主义之后的数据主义（dataism）。《智人之上》（Nexus）：信息网络史——信息的功能是连接而非求真，故需自我纠错机制。赫拉利体是当代英语大历史写作的通用语。",
+    "def_en": "Sapiens' engine-idea: Homo sapiens won by the Cognitive Revolution — fiction. Gods, nations, money, corporations and human rights are 'imagined orders', intersubjective realities that let millions of strangers cooperate; the Agricultural Revolution gets billed as 'history's biggest fraud'. Homo Deus extends the arc to dataism after humanism; Nexus recasts it all as the history of information networks, whose job is connection, not truth — hence the need for self-correcting mechanisms. Love it or roll your eyes, Harari-speak is the lingua franca of airport big history, and the Economist reviews each volume like a policy event.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Sapiens / Homo Deus / Nexus (Harari)"
+      }
+    ],
+    "collocations": [
+      "imagined orders/communities",
+      "intersubjective reality",
+      "the Cognitive Revolution",
+      "dataism"
+    ],
+    "example": "'Money is the most successful story ever told' is the Harari line every fintech keynote borrows — and a two-sentence bridge from [[jiaozi]] to [[world-monetary-system]] for your own essays.",
+    "nuance": "imagined orders 与安德森 imagined communities（想象的共同体——民族主义研究经典，链 [[westphalia]]）须区分而常混用。“互为主体”= intersubjective。赫拉利对 [[neolithic-farming]]、[[peking-man]] 的翻案叙事与教材叙事对读极有趣。",
+    "links": [
+      {
+        "to": "peking-man",
+        "rel": "related"
+      },
+      {
+        "to": "neolithic-farming",
+        "rel": "related"
+      },
+      {
+        "to": "jiaozi",
+        "rel": "related"
+      },
+      {
+        "to": "westphalia",
+        "rel": "related"
+      },
+      {
+        "to": "information-age",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "2011年–2024年"
+  },
+  {
+    "id": "guns-germs-steel",
+    "zh": "《枪炮、病菌与钢铁》（地理假说）",
+    "pinyin": "qiāngpào bìngjùn gāngtiě",
+    "en": "Guns, Germs, and Steel: the geography hypothesis",
+    "def_zh": "戴蒙德对“亚力的问题”（为何是欧洲人征服美洲而非相反）的回答：各大洲命运差异源于地理禀赋而非人种——欧亚大陆可驯化动植物多、东西轴线利于传播、人畜共处孕育病菌免疫（天花灭美洲——枪炮病菌钢铁三件套中病菌最致命）。反种族主义的环境决定论，亦因“决定论”倾向被批评（对比制度学派《国家为什么失败》）。",
+    "def_en": "Diamond's answer to Yali's question — why did Europeans conquer the Americas and not the reverse? Geography, not genes: Eurasia drew the domesticable plants and animals, its east-west axis spread them, and millennia beside livestock brewed the germs (smallpox above all) that did most of the conquering. An anti-racist environmental determinism — and the standing target of the institutions school (Why Nations Fail), making Diamond v. Acemoglu the default 'why the West' seminar debate.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Guns, Germs, and Steel (Diamond)"
+      }
+    ],
+    "collocations": [
+      "the geography hypothesis",
+      "domesticable species",
+      "continental axes",
+      "environmental determinism"
+    ],
+    "example": "The 90-percent-died-of-disease statistic behind [[triangular-trade]]'s labour shortage is this book's centrepiece — germs as the unlisted conquistador.",
+    "nuance": "环境决定论 = environmental determinism（链 [[human-geography-basics]] 的学科对轴——教材的“因地制宜”是其温和版）。与 [[columbian-exchange]]、[[epidemics-medicine]] 三点连线即美洲征服的完整解释框架。",
+    "links": [
+      {
+        "to": "columbian-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "epidemics-medicine",
+        "rel": "related"
+      },
+      {
+        "to": "human-geography-basics",
+        "rel": "related"
+      },
+      {
+        "to": "early-colonialism",
+        "rel": "related"
+      },
+      {
+        "to": "neolithic-farming",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "geography-environment"
+    ],
+    "period": "1997年"
+  },
+  {
+    "id": "econ-principles",
+    "zh": "经济学十大原理（曼昆）",
+    "pinyin": "jīngjìxué shídà yuánlǐ",
+    "en": "Mankiw's ten principles of economics",
+    "def_zh": "全球最流行经济学入门教材的开篇框架：人们面临权衡取舍（trade-offs）；机会成本（某物的成本是为得到它所放弃的东西）；理性人考虑边际量（marginal thinking）；人们会对激励作出反应（incentives）；贸易能使每个人状况更好（比较优势）；市场通常是组织经济活动的好方法（看不见的手）；政府有时能改善市场结果（市场失灵：外部性/市场势力）；生产率决定生活水平；货币超发引起通胀；社会面临通胀与失业的短期权衡（菲利普斯曲线）。",
+    "def_en": "The opening framework of the world's bestselling econ textbook — ten principles that double as the Economist's house grammar: trade-offs everywhere; opportunity cost ('what you give up to get it'); thinking at the margin; people respond to incentives; trade makes everyone better off (comparative advantage); markets usually organise activity well; governments can sometimes improve outcomes (market failure); productivity determines living standards; printing money causes inflation; and the short-run inflation-unemployment trade-off. Learn these ten and half of financial journalism parses itself.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Principles of Economics (Mankiw)"
+      }
+    ],
+    "collocations": [
+      "opportunity cost",
+      "at the margin",
+      "incentives matter",
+      "comparative advantage",
+      "there's no such thing as a free lunch"
+    ],
+    "example": "TANSTAAFL — 'there ain't no such thing as a free lunch' — is principle one in slang form; 天下没有免费的午餐 crossed into Chinese so completely that both languages now cite it at each other.",
+    "nuance": "机会成本 = opportunity cost；边际 = marginal（边际革命 the marginal revolution 为经济思想史节点）；比较优势 = comparative advantage（李嘉图——[[adam-smith]] 的续章）。本节点为 Economist 阅读的最小经济学装备。",
+    "links": [
+      {
+        "to": "adam-smith",
+        "rel": "broader"
+      },
+      {
+        "to": "market-government",
+        "rel": "related"
+      },
+      {
+        "to": "world-monetary-system",
+        "rel": "related"
+      },
+      {
+        "to": "wto-globalisation",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "1998年（教材）"
+  },
+  {
+    "id": "atomic-habits",
+    "zh": "《掌控习惯》（原子习惯）",
+    "pinyin": "yuánzǐ xíguàn",
+    "en": "Atomic Habits",
+    "def_zh": "克利尔的行为改变框架：微小改进的复利（每天好1%，一年37倍）；结果滞后于系统（“你不会升到目标的高度，只会落到系统的水平”）；身份认同驱动（不是“我要跑步”而是“我是跑步的人”）；习惯回路四法则——提示（显而易见）、渴求（有吸引力）、反应（简便易行：两分钟法则）、奖赏（令人满足）；环境设计胜过意志力。",
+    "def_en": "Clear's behaviour-change canon: the compound interest of 1% daily gains; 'you do not rise to the level of your goals, you fall to the level of your systems'; identity-based habits ('I am a runner' beats 'I want to run'); the four laws on the cue-craving-response-reward loop — obvious, attractive, easy (the two-minute rule), satisfying; and environment design over willpower. Self-help's current lingua franca — its vocabulary now appears in teacher PD and product design alike.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Atomic Habits (Clear)"
+      }
+    ],
+    "collocations": [
+      "habit loop",
+      "identity-based habits",
+      "the two-minute rule",
+      "compounding gains",
+      "environment design"
+    ],
+    "example": "习惯的复利 and marginal gains ([[econ-principles]]) are the same maths wearing different jackets — Clear借自 British Cycling 的 1% 哲学如今是中英自我提升话语的共同货币。",
+    "nuance": "“复利”跨域使用（金融→习惯）链 [[personal-finance-classics]]。cue/craving/response/reward 的中译（提示/渴求/反应/奖赏）已随中文版固定。与 [[xunzi-learning]] 积跬步传统的呼应是绝佳中西对照。",
+    "links": [
+      {
+        "to": "xunzi-learning",
+        "rel": "related"
+      },
+      {
+        "to": "ultralearning",
+        "rel": "related"
+      },
+      {
+        "to": "personal-finance-classics",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "2018年"
+  },
+  {
+    "id": "personal-finance-classics",
+    "zh": "个人理财经典概念",
+    "pinyin": "gèrén lǐcái",
+    "en": "the personal-finance canon",
+    "def_zh": "书库中的理财经典共享一套概念语汇：《富爸爸穷爸爸》——资产（把钱放进口袋）与负债（把钱掏出口袋）之辨、被动收入、“老鼠赛跑”；《邻家的百万富翁》——隐形富豪的节俭实证（收入≠财富）；《百万富翁快车道》——慢车道批判与规模化系统；《复利效应》——微小选择的指数积累；《思考致富》——目标与信念的先行。共同底层：复利、现金流、资产配置——与[[index-investing]]的被动投资哲学构成个人金融的两翼。",
+    "def_en": "The shelf shares one working vocabulary: Rich Dad's asset/liability test (does it put money in your pocket or take it out?), passive income and the rat race; The Millionaire Next Door's data on invisible frugal wealth (income ≠ net worth); The Millionaire Fastlane's attack on the slow lane in favour of scalable systems; The Compound Effect's exponential small choices; Think and Grow Rich's goal-fixation ur-text. Underneath: compounding, cash flow, allocation — the folk curriculum whose sophisticated sibling is [[index-investing]].",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Rich Dad / Millionaire Next Door / Fastlane / Compound Effect"
+      }
+    ],
+    "collocations": [
+      "assets vs liabilities",
+      "passive income",
+      "the rat race",
+      "cash flow",
+      "net worth"
+    ],
+    "example": "“睡后收入” — income while you sleep — is Chinese internet's translation of passive income, one of the rare finance memes that localised with a better pun.",
+    "nuance": "资产/负债的富爸爸定义与会计定义不同（修辞性再定义——阅读时须自觉）。“老鼠赛跑”= the rat race。此类书的美式布道文体（exhortative self-help register）本身是英语文体学样本。",
+    "links": [
+      {
+        "to": "index-investing",
+        "rel": "related"
+      },
+      {
+        "to": "atomic-habits",
+        "rel": "related"
+      },
+      {
+        "to": "econ-principles",
+        "rel": "related"
+      },
+      {
+        "to": "entrepreneurship-indie",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "1937年–2011年"
+  },
+  {
+    "id": "bitcoin-standard",
+    "zh": "《比特币本位》（健全货币论）",
+    "pinyin": "Bǐtèbì běnwèi",
+    "en": "The Bitcoin Standard and sound money",
+    "def_zh": "阿莫斯从奥地利学派立场重述货币史：健全货币（sound money——难以增发：贵金属的存量/增量比 stock-to-flow）造就低时间偏好（time preference）与文明积累；金本位崩溃后的法币时代即“政府货币”通胀时代；比特币被论证为数字时代的健全货币（2100万枚硬上限）。作为立场鲜明的奥派宣言，与主流货币经济学（[[world-monetary-system]]）对读方见全景。",
+    "def_en": "Ammous retells monetary history as an Austrian-school sermon: sound money (hard to inflate — high stock-to-flow, gold the historical champion) breeds low time preference and civilisation; the post-1971 fiat era is government money and chronic debasement; bitcoin, capped at 21 million, is nominated as the digital successor. Read as a manifesto against the mainstream account in [[world-monetary-system]] — the pairing is the whole crypto debate in two book spines.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "The Bitcoin Standard (Ammous)"
+      }
+    ],
+    "collocations": [
+      "sound money",
+      "fiat currency",
+      "time preference",
+      "stock-to-flow",
+      "debasement"
+    ],
+    "example": "'Fiat' went from monetary-economics jargon to crypto-Twitter insult — reading this book explains both the argument and the attitude behind every 'have fun staying poor'.",
+    "nuance": "健全货币 = sound money（奥派术语）；时间偏好 = time preference。奥地利学派 the Austrian School（哈耶克米塞斯——链 [[serfdom]] 的《通往奴役之路》作者）。中国语境下比特币讨论的政策约束是另一层对照。",
+    "links": [
+      {
+        "to": "world-monetary-system",
+        "rel": "contrast"
+      },
+      {
+        "to": "jiaozi",
+        "rel": "related"
+      },
+      {
+        "to": "chinese-currency",
+        "rel": "related"
+      },
+      {
+        "to": "great-depression",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "2018年"
+  },
+  {
+    "id": "ultralearning",
+    "zh": "《超学习》（自学方法论）",
+    "pinyin": "chāoxuéxí",
+    "en": "Ultralearning",
+    "def_zh": "斯科特·扬（MIT四年课程一年自学完成者）的高强度自学框架九原则：元学习（先画学习地图）、专注、直接性（directness——在目标场景中学：学语言就去说）、反复操练弱点（drill）、提取练习（retrieval——测试即学习）、反馈、保持（间隔重复）、直觉（费曼技巧）、实验。对本项目的直接意义：用概念网络+双语对读学英语正是 directness 与 retrieval 的实践。",
+    "def_en": "Scott Young's nine-principle framework for aggressive self-education (he speed-ran MIT's CS degree in a year): metalearning first (map the subject), focus, directness (learn in the context of use — speak the language, don't just study it), drill the weak sub-skills, retrieval over review, feedback, retention by spacing, intuition via the Feynman technique, experimentation. This knowledge base is itself an ultralearning artefact — directness and retrieval applied to Economist English.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Ultralearning (Scott Young)"
+      }
+    ],
+    "collocations": [
+      "metalearning",
+      "directness",
+      "retrieval practice",
+      "spaced repetition",
+      "the Feynman technique"
+    ],
+    "example": "'Retrieval practice beats rereading' is the one cognitive-science finding every teacher-training course now drills — the same principle whether the learner is your Year 9s or yourself with the Economist.",
+    "nuance": "提取练习 = retrieval practice；间隔重复 = spaced repetition（Anki 文化的理论根据）；费曼技巧 = the Feynman technique（以教代学）。与 [[instructional-science]] 共享证据基础——学与教是一枚硬币。",
+    "links": [
+      {
+        "to": "instructional-science",
+        "rel": "related"
+      },
+      {
+        "to": "atomic-habits",
+        "rel": "related"
+      },
+      {
+        "to": "xunzi-learning",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "2019年"
+  },
+  {
+    "id": "stoicism",
+    "zh": "斯多亚主义（《沉思录》与爱比克泰德）",
+    "pinyin": "Sīduōyà zhǔyì",
+    "en": "Stoicism: Marcus Aurelius and Epictetus",
+    "def_zh": "书库中《沉思录》（皇帝的私人札记）、爱比克泰德（奴隶出身的哲人）《论说集》及Stoic Six Pack：核心是控制二分法（dichotomy of control——有些事取决于我们，有些不；只为前者负责）、依自然而活、消极想象（premeditatio malorum 预想失去以珍惜当下）、把障碍变道路（“行动之障碍推进行动”）。当代复兴为硅谷与体育界的操作系统（Ryan Holiday）；与儒家修身、道家顺应的比较是中西心性论的常设议题。",
+    "def_en": "The emperor's private notebook (Meditations) and the freed slave's lectures (Epictetus) teach one operating system: the dichotomy of control — some things are up to us, some are not, and serenity lives in the difference; live according to nature; rehearse loss to relish presence (premeditatio malorum); 'the impediment to action advances action'. Reborn as Silicon Valley's and locker-room philosophy, and the standing western partner in any comparison with Confucian self-cultivation ([[zeng-guofan]]) or Daoist acceptance ([[laozi]]).",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Meditations / Epictetus / Stoic Six Pack"
+      }
+    ],
+    "collocations": [
+      "the dichotomy of control",
+      "amor fati",
+      "the obstacle is the way",
+      "negative visualisation",
+      "stoic (small s)"
+    ],
+    "example": "Small-s 'stoic' in everyday English ('she was stoic at the funeral') is this school fossilised into an adjective — the same lexicalisation路径 as [[sparta]]'s spartan.",
+    "nuance": "控制二分法 = the dichotomy of control（爱比克泰德《手册》开篇）。amor fati（爱命运）、memento mori（勿忘死）以拉丁语直接流通。马可·奥勒留 = Marcus Aurelius（[[roman-empire]] 的哲学家皇帝——五贤帝之一，历史与哲学在此合流）。",
+    "links": [
+      {
+        "to": "roman-empire",
+        "rel": "related"
+      },
+      {
+        "to": "laozi",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      },
+      {
+        "to": "courage-disliked",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "1–2世纪"
+  },
+  {
+    "id": "courage-disliked",
+    "zh": "《被讨厌的勇气》（阿德勒心理学）",
+    "pinyin": "bèi tǎoyàn de yǒngqì",
+    "en": "The Courage to Be Disliked: Adlerian psychology",
+    "def_zh": "岸见一郎以哲人—青年对话体普及阿德勒：目的论反因果论（不是过去决定你，而是你为当下目的“选用”过去——与弗洛伊德创伤决定论相对）；一切烦恼皆源于人际关系；课题分离（separation of tasks——分清谁的课题，不干涉他人课题、不让他人干涉你的）；被讨厌的勇气即自由的代价；共同体感觉与横向关系（鼓励而非表扬）。东亚现象级畅销，其词汇已入中文日常。",
+    "def_en": "Kishimi's philosopher-and-youth dialogues made Adler East Asia's therapist: teleology over trauma (you employ your past for present purposes — the anti-Freud); all problems are interpersonal problems; the separation of tasks (whose problem is it? intervene in no one's, surrender yours to no one); freedom is the willingness to be disliked; community feeling and horizontal relationships (encourage, don't praise). Its vocabulary — 课题分离 above all — is now everyday Chinese.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "The Courage to Be Disliked (Kishimi & Koga)"
+      }
+    ],
+    "collocations": [
+      "separation of tasks",
+      "teleology vs aetiology",
+      "community feeling",
+      "horizontal relationships"
+    ],
+    "example": "课题分离 and 'boundaries' ([[jiceng-women]]) are the decade's twin imports doing the same emotional work in Chinese — Adler via Japan, therapy-speak via America, converging on one skill.",
+    "nuance": "课题分离 = the separation of tasks（阿德勒学派术语经日文转译定型）。目的论 = teleology（哲学词的心理学挪用）。对话体（Socratic dialogue——链 [[socrates]]）是其文体前辈。",
+    "links": [
+      {
+        "to": "stoicism",
+        "rel": "related"
+      },
+      {
+        "to": "jiceng-women",
+        "rel": "related"
+      },
+      {
+        "to": "socrates",
+        "rel": "related"
+      },
+      {
+        "to": "trauma-psychology",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "2013年"
+  },
+  {
+    "id": "demography-core",
+    "zh": "人口学核心概念",
+    "pinyin": "rénkǒuxué",
+    "en": "the demographer's toolkit",
+    "def_zh": "人口学教科书（Lundquist等）的概念基座：人口转变理论（demographic transition——高出生高死亡→高出生低死亡（人口爆炸）→低低均衡；第二次人口转变：低于更替水平）；总和生育率（TFR，更替水平2.1）；人口金字塔与年龄结构（人口红利 demographic dividend、老龄化 population ageing、抚养比）；预期寿命；迁移（推拉理论）；队列与时期分析（cohort/period）。中国语境：从计划生育到三孩政策与“未富先老”——Economist 人口报道的全部词汇。",
+    "def_en": "The textbook toolkit of your master's field: demographic transition theory (high-high → boom → low-low, with the second transition below replacement); total fertility rate against the 2.1 replacement benchmark; population pyramids, dependency ratios, the demographic dividend and its ageing aftermath; life expectancy; migration's push-pull; cohort v. period analysis. Applied to China — one-child to three-child, 'getting old before getting rich' — it is the vocabulary of every Economist demography chart, which is to say, several per issue.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Demography: The Study of Human Population (Lundquist et al.)"
+      }
+    ],
+    "collocations": [
+      "demographic transition",
+      "total fertility rate",
+      "replacement level",
+      "demographic dividend",
+      "population ageing"
+    ],
+    "example": "'Getting old before getting rich' (未富先老) is the China-demography headline formula — a Chinese coinage that entered English intact, your two professional languages meeting in one phrase.",
+    "nuance": "人口转变 = the demographic transition；总和生育率 = TFR；人口红利 = the demographic dividend；抚养比 = dependency ratio。用户的人口学硕士背景使本节点为“专业词汇双语化”的锚点——链 [[malthus]]、[[ecology-population]]、[[qing-prosperity]] 人口线全网贯通。",
+    "links": [
+      {
+        "to": "malthus",
+        "rel": "broader"
+      },
+      {
+        "to": "ecology-population",
+        "rel": "related"
+      },
+      {
+        "to": "qing-prosperity",
+        "rel": "related"
+      },
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "science-tech"
+    ],
+    "period": "学科体系"
+  },
+  {
+    "id": "gis-core",
+    "zh": "GIS 与空间分析核心概念",
+    "pinyin": "dìlǐ xìnxī xìtǒng",
+    "en": "GIS and spatial analysis",
+    "def_zh": "Chang《地理信息系统导论》的概念骨架：数据模型（矢量 vector——点线面要素；栅格 raster——像元）；坐标系与投影（datum、UTM）；空间关系（拓扑、缓冲区 buffer、叠加 overlay）；空间分析（插值、密度、网络分析）；遥感与GPS数据源；地图学输出（专题图、分级设色 choropleth）。“地理学第一定律”（Tobler：万物相关，近者尤甚）为空间统计之魂。用户的本科专业——本节点即其专业英语的登记处。",
+    "def_en": "The conceptual skeleton of Chang's standard text — and of your undergraduate degree: data models (vector's points-lines-polygons v. raster's cells), coordinate systems and projections, topology, buffers and overlays, interpolation and network analysis, remote sensing and GPS inputs, cartographic output down to the choropleth map. Presiding over it, Tobler's First Law of Geography: everything is related to everything else, but near things are more related — the one-liner spatial statistics grew from.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Introduction to Geographic Information Systems (Chang)"
+      }
+    ],
+    "collocations": [
+      "vector and raster",
+      "buffer and overlay",
+      "choropleth map",
+      "Tobler's First Law",
+      "spatial autocorrelation"
+    ],
+    "example": "Every election-night map argument — precincts v. hexbins v. cartograms — is a GIS design seminar in public; the vocabulary here lets you critique it in both languages.",
+    "nuance": "矢量/栅格 = vector/raster；缓冲区分析 = buffer analysis；叠加 = overlay；分级设色图 = choropleth。链 [[human-geography-basics]]（学科的技术臂）与 [[demography-core]]（空间人口学）。",
+    "links": [
+      {
+        "to": "human-geography-basics",
+        "rel": "related"
+      },
+      {
+        "to": "demography-core",
+        "rel": "related"
+      },
+      {
+        "to": "information-age",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "geography-environment"
+    ],
+    "period": "学科体系"
+  },
+  {
+    "id": "instructional-science",
+    "zh": "教学科学核心概念（教师专业书）",
+    "pinyin": "jiàoxué kēxué",
+    "en": "the science of instruction",
+    "def_zh": "书库教师专业书群的共同知识底座：认知负荷理论（工作记忆有限——Willingham《为什么学生不喜欢上学》：记忆是思考的残留物）；Rosenshine 教学原则（小步子、大量提问、示范、检查理解、独立练习高成功率）；显性教学（Explicit Instruction, Archer）；Lemov《教无不胜》63技（冷不丁点名 cold call、不容退出 no opt out）；课堂行为管理（Bennett《掌控教室》：常规先于关系）；文化响应教学（Hammond：高期待+脚手架）；伍尔福克《教育心理学》总纲。NSW 教师职业语汇的原文层。",
+    "def_en": "The shared evidence base of your professional shelf: cognitive load theory and Willingham's 'memory is the residue of thought'; Rosenshine's principles (small steps, many checks, models, high-success practice); explicit instruction (Archer); Lemov's 63 techniques (cold call, no opt out); Bennett's behaviour-first classroom (routines before relationships); Hammond's culturally responsive teaching (high expectations plus scaffolds); Woolfolk's Ed Psych as the umbrella. This is the working English of NSW staffrooms and PD days — your trade's terminology at the source.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Rosenshine / Willingham / Lemov / Archer / Woolfolk"
+      },
+      {
+        "book": "reading",
+        "chapter": "Running the Room (Bennett) / Culturally Responsive Teaching (Hammond)"
+      }
+    ],
+    "collocations": [
+      "cognitive load",
+      "retrieval practice",
+      "explicit instruction",
+      "checking for understanding",
+      "scaffolding",
+      "behaviour curriculum"
+    ],
+    "example": "NESA's 'explicit teaching' push and every faculty meeting's 'CFU' and 'do now' come straight from these books — the node doubles as your induction-year glossary.",
+    "nuance": "认知负荷 = cognitive load（Sweller——澳洲学者！NSW 教育语境的本土权威）；提取练习链 [[ultralearning]]；脚手架 = scaffolding（布鲁纳/维果茨基 ZPD 最近发展区）。显性教学 vs 探究式（explicit vs inquiry）为当代教学论主战场——澳洲课程战争的核心词。",
+    "links": [
+      {
+        "to": "ultralearning",
+        "rel": "related"
+      },
+      {
+        "to": "mass-education",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "society"
+    ],
+    "period": "学科体系"
+  },
+  {
+    "id": "trauma-psychology",
+    "zh": "创伤心理学（《身体从未忘记》等）",
+    "pinyin": "chuāngshāng xīnlǐxué",
+    "en": "trauma psychology: the body keeps the score",
+    "def_zh": "范德考克《身体从未忘记》：创伤存储于身体与神经系统而非仅记忆——过度警觉、闪回、解离；治疗须经身体（EMDR、瑜伽、正念）而非仅谈话。佩里《登天之梯》：发展性创伤与神经序贯疗法——安抚先于说理（regulate-relate-reason）。沃克《不原谅也没关系》（CPTSD）：复杂性创伤后应激障碍、情绪闪回、内在批判者。ACEs（童年不良经历）研究为公共卫生框架。对教师的直接意义：创伤知情教学（trauma-informed practice）已入学校语汇。",
+    "def_en": "Van der Kolk's thesis made the title a proverb: trauma lives in body and nervous system, not just narrative — hypervigilance, flashbacks, dissociation — so healing must pass through the body (EMDR, yoga, mindfulness), not talk alone. Perry's sequence (regulate, relate, reason — calm before you converse) and Walker's CPTSD map (emotional flashbacks, the inner critic) extend it; the ACEs studies give it public-health teeth. For a teacher the cash value is immediate: 'trauma-informed practice' is now staffroom English, and this shelf is its source code.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "The Body Keeps the Score / The Boy Who Was Raised as a Dog / CPTSD"
+      }
+    ],
+    "collocations": [
+      "trauma-informed",
+      "hypervigilance",
+      "dissociation",
+      "ACEs",
+      "regulate-relate-reason",
+      "window of tolerance"
+    ],
+    "example": "'The body keeps the score' has become English's default metaphor for somatised stress — quoted far beyond psychology, exactly as 身体是诚实的 works in Chinese internet speech.",
+    "nuance": "创伤知情 = trauma-informed（教育与社工政策词）；复杂性创伤 = complex PTSD/CPTSD；解离 = dissociation。与 [[courage-disliked]] 的目的论构成当代心理话语的对轴（创伤决定 vs 目的选择）——两书并读即一场论战。",
+    "links": [
+      {
+        "to": "courage-disliked",
+        "rel": "contrast"
+      },
+      {
+        "to": "instructional-science",
+        "rel": "related"
+      },
+      {
+        "to": "epidemics-medicine",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "society"
+    ],
+    "period": "2014年"
+  },
+  {
+    "id": "lee-kuan-yew",
+    "zh": "李光耀与新加坡模式",
+    "pinyin": "Lǐ Guāngyào",
+    "en": "Lee Kuan Yew and the Singapore model",
+    "def_zh": "《从第三世界到第一世界》：李光耀自述新加坡1965年被迫独立后的立国工程——廉洁高薪养贤的精英治理（meritocracy——与科举传统的现代对话）、组屋制度（居者有其屋）、中央公积金、双语政策（英语工作语+母语传承——对用户处境极具镜鉴）、严刑峻法与社会纪律、招商引资的发展型国家。“新加坡模式”成为威权发展主义的样板：中国改革者研究它，西方以它质问民主与增长的关系。",
+    "def_en": "From Third World to First is the founder's own account of statecraft after unwanted independence in 1965: meritocratic, corruption-proofed governance (well-paid mandarins — the examination tradition modernised), near-universal public housing, the Central Provident Fund, bilingualism (English for work, mother tongue for roots — a policy with personal resonance for any bilingual professional), discipline by law, and courtship of multinationals. 'The Singapore model' became the exhibit in every debate on development without democracy — studied in Beijing, brandished in op-eds everywhere.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "From Third World to First (Lee Kuan Yew)"
+      }
+    ],
+    "collocations": [
+      "the Singapore model",
+      "meritocracy",
+      "clean government",
+      "Asian values",
+      "the developmental state"
+    ],
+    "example": "邓小平1978年访新后的感叹与后来'借鉴新加坡'的官方表述，使这本书成为中国治理讨论的暗引文献——Economist 谈中新比较时总要引李光耀对中国的预言。",
+    "nuance": "贤能政治 = meritocracy（贝淡宁 political meritocracy 论争——链 [[imperial-examinations]]、[[western-civil-service]]）；“亚洲价值观”= Asian values（1990年代论战关键词）。组屋 = HDB flats；发展型国家链 [[japanese-miracle]]。城邦国家链 [[greek-city-states]] 的现代回声。",
+    "links": [
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "japanese-miracle",
+        "rel": "related"
+      },
+      {
+        "to": "greek-city-states",
+        "rel": "related"
+      },
+      {
+        "to": "economic-reform",
+        "rel": "related"
+      },
+      {
+        "to": "western-civil-service",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "2000年"
+  },
+  {
+    "id": "xiang-biao",
+    "zh": "项飙（猎身、内卷与附近）",
+    "pinyin": "Xiàng Biāo",
+    "en": "Xiang Biao: body shopping, involution and 'the nearby'",
+    "def_zh": "《全球“猎身”》（Global Body Shopping，普林斯顿出版）：以印度IT劳务体系为对象的民族志——“猎身”指劳务行把程序员作为可全球调配的“身体”囤积转卖，揭示全球化劳动的抽象化机制。项飙其后成为中文公共讨论的关键声音：使“内卷”（involution——格尔茨农业内卷化概念的爆红转义：无发展的竞争加剧）、“悬浮”（suspension——为未来悬置当下）、“附近的消失”（the disappearing nearby）成为时代诊断词。中国学者以英文原创概念再反哺中文公共领域的标本。",
+    "def_en": "Global Body Shopping — a Chinese anthropologist's Princeton-published ethnography of India's IT labour system, where agents warehouse and resell programmers as globally deployable 'bodies' — won the field's top prize and modelled how globalised labour is abstracted. Xiang then became the key public voice of Chinese self-diagnosis: rebooting Geertz's 'involution' as 内卷 (intensifying competition without development — the word of the decade), coining 'suspension' (living deferred for a future) and 'the disappearing nearby'. The loop is the point: a Chinese scholar minting concepts in English that then re-enter Chinese as common speech — your mapping project's ideal case study.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "Global Body Shopping (Xiang Biao)"
+      }
+    ],
+    "collocations": [
+      "involution",
+      "lying flat",
+      "the nearby",
+      "ethnography",
+      "labour arbitrage"
+    ],
+    "example": "The Economist now uses 'involution' untranslated for China's rat-race discourse, paired with 'lying flat' (躺平) — two Chinese coinages that colonised English within five years, exactly the reverse traffic this knowledge base maps.",
+    "nuance": "内卷 = involution（格尔茨 agricultural involution→项飙转义→英语媒体回收）；躺平 = lying flat；附近 = the nearby。民族志 = ethnography。链 [[chaxugeju]]（中国概念入英语学术的前例）、[[imperial-examinations]]（内卷的科举史深层）。",
+    "links": [
+      {
+        "to": "chaxugeju",
+        "rel": "related"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "wto-globalisation",
+        "rel": "related"
+      },
+      {
+        "to": "jinbang-after",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "ideas"
+    ],
+    "period": "2007年/2020年"
+  },
+  {
+    "id": "ai-imagenet",
+    "zh": "李飞飞与 ImageNet（《我看见的世界》）",
+    "pinyin": "Lǐ Fēifēi",
+    "en": "Fei-Fei Li, ImageNet and the deep-learning turn",
+    "def_zh": "《我看见的世界》：李飞飞自传——成都出生、16岁移民美国、洗衣店打工到斯坦福AI实验室主任。核心科学叙事：ImageNet（1500万标注图像数据集）押注“数据比算法更稀缺”，2012年AlexNet在其竞赛上突破，点燃深度学习革命；提出“AI的北极星”（North Star）研究观与以人为本AI（human-centered AI）。移民叙事+科学史+AI伦理三线——兼为励志读物与AI入门。",
+    "def_en": "The Worlds I See braids memoir and science: Chengdu to New Jersey at sixteen, laundromat shifts to Stanford's AI lab — and the bet that made the deep-learning era: ImageNet, fifteen million labelled images, wagering that data, not algorithms, was the bottleneck, vindicated when AlexNet's 2012 win lit the fuse. Her framings — research 'North Stars', human-centered AI — now anchor the governance debate. As a bilingual immigrant-scientist narrative it reads like a companion volume to your own project.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "The Worlds I See (Fei-Fei Li)"
+      }
+    ],
+    "collocations": [
+      "ImageNet",
+      "deep learning",
+      "training data",
+      "human-centered AI",
+      "North Star"
+    ],
+    "example": "'Data is the new oil' arguments all cite ImageNet as proof-of-concept — and every AI-policy piece now toggles between 李飞飞 and Li Fei-Fei, a name whose two orders mark two worlds.",
+    "nuance": "深度学习 = deep learning；数据集 = dataset；以人为本的AI = human-centered AI（官方中译与中国政策语“以人为本”撞车——微妙的话语交叠）。链 [[information-age]]、[[science-two-bombs]] 钱学森（华人科学家美国叙事的两代对照）。",
+    "links": [
+      {
+        "to": "information-age",
+        "rel": "related"
+      },
+      {
+        "to": "science-two-bombs",
+        "rel": "related"
+      },
+      {
+        "to": "indo-european-migrations",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "society"
+    ],
+    "period": "2023年"
+  },
+  {
+    "id": "entrepreneurship-indie",
+    "zh": "独立创业与自力更生（indie hacking）",
+    "pinyin": "dúlì chuàngyè",
+    "en": "bootstrapping and the indie maker canon",
+    "def_zh": "《make.》（Pieter Levels）：一人公司方法论——不融资（bootstrapping 自力更生）、快速发布（ship fast）、公开构建（build in public）、最小可行产品（MVP）、以副业矩阵试错、自动化到“躺赚”；Hormozi《百万美元模式》：报价设计（offer）、价值方程。与风投叙事相对的 indie hacker 文化——对用户的教师SaaS构想即操作手册。",
+    "def_en": "Pieter Levels' make. is the one-person-company manual: no venture money (bootstrap), ship fast and often, build in public, MVP everything, run a portfolio of small bets, automate toward autonomy; Hormozi adds offer design and the value equation. The indie-hacker counterculture to VC's blitzscaling — and, practically, the operating manual for a teacher-built SaaS: your lesson-materials idea is exactly this book's target reader.",
+    "sources": [
+      {
+        "book": "enlib",
+        "chapter": "make. (Levels) / $100M Offers-Models (Hormozi)"
+      }
+    ],
+    "collocations": [
+      "bootstrapping",
+      "MVP",
+      "build in public",
+      "product-market fit",
+      "solopreneur"
+    ],
+    "example": "'Build in public' turned Twitter threads into a business school — Levels livestreaming revenue dashboards is the genre's founding act, and the pedagogy is pure [[ultralearning]] directness.",
+    "nuance": "自力更生（bootstrap）的中文旧词新用饶有意味——毛时代口号变创业术语。最小可行产品 = MVP；产品市场匹配 = product-market fit。一人公司 = solopreneur/company of one。链 [[corporations-exchanges]]（相对面：不上市不融资）。",
+    "links": [
+      {
+        "to": "personal-finance-classics",
+        "rel": "related"
+      },
+      {
+        "to": "corporations-exchanges",
+        "rel": "contrast"
+      },
+      {
+        "to": "ultralearning",
+        "rel": "related"
+      },
+      {
+        "to": "opening-up",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "2010年代"
+  }
+]

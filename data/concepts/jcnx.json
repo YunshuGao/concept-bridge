@@ -1,0 +1,48 @@
+[
+  {
+    "id": "jiceng-women",
+    "zh": "《基层女性》（经济独立与原生家庭）",
+    "pinyin": "jīcéng nǚxìng",
+    "en": "Grassroots Women: economic independence and the family of origin",
+    "def_zh": "王慧玲（vlogger“玲玲Peter和四只猫”）写给底层出身女性的生存手册：核心议题——原生家庭（“划清界限，灵魂断奶”：对重男轻女的索取型家庭设立边界）；经济独立是精神独立的前提（“走向经济独立、精神独立的第一步”）；婚姻的本质是共同创造利益价值，恋爱、婚姻、生育是三件不同的事（解绑传统人生脚本）。其语汇（基层/底层女性、扶弟魔、婚驴等网络延伸）构成当代中文性别讨论的活地层——与英语世界 boundaries、emotional labour、opting out 等词互为镜像。",
+    "def_en": "Wang Huiling's survival manual for women born poor: set boundaries with the extractive natal family ('draw the line — wean your soul'); economic independence as the precondition of every other independence; marriage demystified as the joint creation of value, with love, marriage and childbearing unbundled as three separate decisions. The book's vocabulary — and the internet slang orbiting it — is the live stratum of Chinese gender discourse, mirroring the Anglophone lexicon of boundaries, emotional labour and opting out almost term for term: a Rosetta stone for reading 小红书 and the Economist's China-gender pieces side by side.",
+    "sources": [
+      {
+        "book": "jcnx",
+        "chapter": "原生家庭/婚姻本质"
+      }
+    ],
+    "collocations": [
+      "family of origin",
+      "setting boundaries",
+      "economic independence",
+      "emotional labour",
+      "the marriage market"
+    ],
+    "example": "China's plunging marriage rate gets analysed in exactly this book's terms — 'why marry?' asked as a value proposition — and 原生家庭 maps onto 'family of origin' so cleanly that therapy-speak turns out to be the decade's great shared import.",
+    "nuance": "原生家庭 = family of origin（心理学词，两语同步流行）；界限 = boundaries（therapy English 的核心词）；“扶弟魔”等网络词无对应、需释译（a sister drained to fund her brother）。链 [[womens-rights]]、[[dalits]]（结构性位置）、[[confucius]] 孝道传统的当代张力。",
+    "links": [
+      {
+        "to": "womens-rights",
+        "rel": "related"
+      },
+      {
+        "to": "zongfa",
+        "rel": "related"
+      },
+      {
+        "to": "chaxugeju",
+        "rel": "related"
+      },
+      {
+        "to": "common-prosperity",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "ideas"
+    ],
+    "period": "2021年"
+  }
+]

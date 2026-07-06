@@ -1,0 +1,51 @@
+[
+  {
+    "id": "doudou-novels",
+    "zh": "豆豆小说（文化属性与见路不走）",
+    "pinyin": "Dòudòu xiǎoshuō",
+    "en": "Doudou's novels: cultural attributes and 'seeing the road, not walking it'",
+    "def_zh": "豆豆“天道三部曲”中的两部：《遥远的救世主》（电视剧《天道》原著）提出“文化属性”——强势文化造就强者、弱势文化期待救世主（“靠”的文化）；扶贫王庙村的“杀富济贫”实验演绎市场规律与救世主悖论：真正的救世主是实事求是的规律本身。《天幕红尘》以“见路不走”立论——不住一法、不拘经验教条，条件许可什么就做什么，是“实事求是”的个体化表述（叶子农：“见路不走就是实事求是”）。商界读者奉为思维小说，其概念已成中文互联网流行分析框架。",
+    "def_en": "Two of Doudou's cult 'novels of ideas': The Distant Saviour (adapted as the TV drama Tian Dao) coins 'cultural attributes' — strong cultures produce agency, weak ones wait for saviours — and runs a poverty-alleviation experiment to its merciless conclusion: the only saviour is reality's own law. Its sequel-in-spirit Tianmu Hongchen turns on 'see the road, don't walk it' (jianlu buzou): cling to no method, copy no precedent, do what conditions permit — the novelistic translation, the hero says outright, of 'seek truth from facts'. Business China reads them as strategy scripture; the vocabulary saturates Chinese internet analysis.",
+    "sources": [
+      {
+        "book": "tmhc",
+        "chapter": "天幕红尘"
+      },
+      {
+        "book": "reading",
+        "chapter": "遥远的救世主（豆豆）"
+      }
+    ],
+    "collocations": [
+      "cultural attributes",
+      "the saviour complex",
+      "first principles",
+      "seek truth from facts"
+    ],
+    "example": "'见路不走' is the Chinese boardroom's homegrown 'first principles thinking' — where Silicon Valley cites Musk citing physics, Chinese entrepreneurs cite a novel citing Mao's epistemology; the parallel is a perfect bilingual essay topic.",
+    "nuance": "“文化属性”= cultural attributes（无现成英语对应——直译加释）；“见路不走”可译 see the road, don't (just) walk it——与 first-principles thinking 的对照译法最传神。链 [[dialectical-materialism]] 实事求是、[[third-plenum]]。“救世主”话语反写《国际歌》“从来就没有什么救世主”——[[first-international]] 的文学回声。",
+    "links": [
+      {
+        "to": "dialectical-materialism",
+        "rel": "related"
+      },
+      {
+        "to": "third-plenum",
+        "rel": "related"
+      },
+      {
+        "to": "chinese-culture-core",
+        "rel": "related"
+      },
+      {
+        "to": "first-international",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "2005年/2013年"
+  }
+]

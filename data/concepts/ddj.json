@@ -1,0 +1,47 @@
+[
+  {
+    "id": "daodejing-english",
+    "zh": "《道德经》及其英译",
+    "pinyin": "Dàodéjīng",
+    "en": "the Daodejing in English",
+    "def_zh": "老子五千言，英译逾百种——世界上被翻译最多的中文典籍。理雅各（James Legge，牛津首任汉学教授）1891年译本为权威奠基之作：“道可道，非常道”译作 The Tao that can be trodden is not the enduring and unchanging Tao；后有韦利（Waley, The Way and Its Power）、林语堂、刘殿爵（D.C. Lau, 企鹅经典）、米切尔畅销意译等谱系。核心术语的翻译史即概念史：道（Tao→Dao/the Way）、德（virtue/power/integrity）、无为（non-action→effortless action）、自然（spontaneity/what-is-so-of-itself）——不可译性本身成为西方理解中国思想的入口。",
+    "def_en": "Five thousand characters with over a hundred English lives — the most-translated Chinese text in existence. James Legge (Oxford's first professor of Chinese, 1891) built the scholarly foundation ('The Tao that can be trodden is not the enduring and unchanging Tao'); Waley made it literature, D.C. Lau made it the Penguin standard, Stephen Mitchell made it a bestseller by paraphrase. Each key term's translation history is a philosophy seminar: Tao→Dao/the Way, de as virtue-power-integrity, wuwei from 'non-action' to 'effortless action' — the classic case of untranslatability becoming the West's very door into Chinese thought.",
+    "sources": [
+      {
+        "book": "ddj",
+        "chapter": "道德经（理雅各英译本）"
+      }
+    ],
+    "collocations": [
+      "the Tao that can be told",
+      "the Way",
+      "translation as interpretation",
+      "the untranslatable"
+    ],
+    "example": "'The journey of a thousand miles begins with a single step' — Daodejing 64 — may be English's most quoted Chinese sentence, usually with no idea of its source; tracing your favourite aphorisms back through Legge is bilingual reading at its purest.",
+    "nuance": "读双语《道德经》的方法论价值：同一句多译对读（Legge 严谨/Waley 流丽/Mitchell 意译）是训练翻译判断力的最佳材料。Tao/Dao 拼写即翻译史分期（威妥玛→拼音）。“天下皆知美之为美”等句的歧义处理最见译者立场。",
+    "links": [
+      {
+        "to": "laozi",
+        "rel": "broader"
+      },
+      {
+        "to": "chinese-culture-core",
+        "rel": "related"
+      },
+      {
+        "to": "tang-poetry",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "1891年（理雅各译本）"
+  }
+]

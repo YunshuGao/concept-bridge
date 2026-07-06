@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>英文书库（5.Economist） · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>英文书库（5.Economist）<span class="en">The English Library (5.Economist folder)</span></h1>
+<h2>Sapiens / Homo Deus / Nexus (Harari) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/harari-imagined-orders.html">想象的秩序（赫拉利三部曲） · imagined orders: Harari&#x27;s trilogy</a></div></div>
+<h2>Guns, Germs, and Steel (Diamond) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/guns-germs-steel.html">《枪炮、病菌与钢铁》（地理假说） · Guns, Germs, and Steel: the geography hypothesis</a></div></div>
+<h2>Principles of Economics (Mankiw) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/econ-principles.html">经济学十大原理（曼昆） · Mankiw&#x27;s ten principles of economics</a></div></div>
+<h2>Atomic Habits (Clear) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/atomic-habits.html">《掌控习惯》（原子习惯） · Atomic Habits</a></div></div>
+<h2>Rich Dad / Millionaire Next Door / Fastlane / Compound Effect <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/personal-finance-classics.html">个人理财经典概念 · the personal-finance canon</a></div></div>
+<h2>The Bitcoin Standard (Ammous) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/bitcoin-standard.html">《比特币本位》（健全货币论） · The Bitcoin Standard and sound money</a></div></div>
+<h2>Ultralearning (Scott Young) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ultralearning.html">《超学习》（自学方法论） · Ultralearning</a></div></div>
+<h2>Meditations / Epictetus / Stoic Six Pack <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/stoicism.html">斯多亚主义（《沉思录》与爱比克泰德） · Stoicism: Marcus Aurelius and Epictetus</a></div></div>
+<h2>The Courage to Be Disliked (Kishimi &amp; Koga) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/courage-disliked.html">《被讨厌的勇气》（阿德勒心理学） · The Courage to Be Disliked: Adlerian psychology</a></div></div>
+<h2>Demography: The Study of Human Population (Lundquist et al.) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/demography-core.html">人口学核心概念 · the demographer&#x27;s toolkit</a></div></div>
+<h2>Introduction to Geographic Information Systems (Chang) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/gis-core.html">GIS 与空间分析核心概念 · GIS and spatial analysis</a></div></div>
+<h2>Rosenshine / Willingham / Lemov / Archer / Woolfolk <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/instructional-science.html">教学科学核心概念（教师专业书） · the science of instruction</a></div></div>
+<h2>The Body Keeps the Score / The Boy Who Was Raised as a Dog / CPTSD <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/trauma-psychology.html">创伤心理学（《身体从未忘记》等） · trauma psychology: the body keeps the score</a></div></div>
+<h2>From Third World to First (Lee Kuan Yew) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/lee-kuan-yew.html">李光耀与新加坡模式 · Lee Kuan Yew and the Singapore model</a></div></div>
+<h2>Global Body Shopping (Xiang Biao) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/xiang-biao.html">项飙（猎身、内卷与附近） · Xiang Biao: body shopping, involution and &#x27;the nearby&#x27;</a></div></div>
+<h2>The Worlds I See (Fei-Fei Li) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ai-imagenet.html">李飞飞与 ImageNet（《我看见的世界》） · Fei-Fei Li, ImageNet and the deep-learning turn</a></div></div>
+<h2>make. (Levels) / $100M Offers-Models (Hormozi) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/entrepreneurship-indie.html">独立创业与自力更生（indie hacking） · bootstrapping and the indie maker canon</a></div></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

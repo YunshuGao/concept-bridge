@@ -1,0 +1,47 @@
+[
+  {
+    "id": "xunzi-learning",
+    "zh": "《劝学》（荀子）",
+    "pinyin": "Quànxué",
+    "en": "Xunzi's Exhortation to Learning",
+    "def_zh": "《荀子》首篇，中国劝学传统的源头文本：“学不可以已”（学习不可停止）；“青，取之于蓝，而青于蓝”（青出于蓝——学生超越老师、后来居上的千古名喻）；“不积跬步，无以至千里；不积小流，无以成江海”（积累）；“锲而不舍，金石可镂”（坚持）；“君子生非异也，善假于物也”（善用工具与外物）。荀子主性恶，故学以化性起伪——教育使人为善，与孟子性善说对峙，构成儒家人性论双轴。",
+    "def_en": "The opening chapter of the Xunzi and the fountainhead of China's learning ethos: 'learning must never cease'; 'blue comes from the indigo plant yet is bluer than indigo' — the proverb for students surpassing teachers; 'without accumulating half-steps, no thousand li' — compounding before compound interest; 'carve without giving up, and metal and stone can be engraved'; and the strikingly modern 'the gentleman is not different by nature — he is good at borrowing external things' (tools!). All grounded in Xunzi's dark premise — human nature is bad, so only education makes us good — the counter-pole to Mencius that gives Confucianism its nature-nurture debate two millennia before the phrase.",
+    "sources": [
+      {
+        "book": "xz",
+        "chapter": "劝学篇"
+      }
+    ],
+    "collocations": [
+      "lifelong learning",
+      "blue from indigo",
+      "accumulation and perseverance",
+      "nature versus nurture"
+    ],
+    "example": "青出于蓝 does the work 'standing on the shoulders of giants' does in English ([[newton]]) — paired, they make the perfect bilingual toast at any graduation.",
+    "nuance": "“青出于蓝”可译 blue surpasses the indigo it comes from（需释）；“锲而不舍”= perseverance furthers/carve without cease。性恶论 = the doctrine that human nature is bad（Hutton 译本作 human nature is bad——不是 evil，学术辨析点）。荀子已在 [[confucius]] 提及（礼治）——本节点补其教育哲学。“善假于物”与 [[ultralearning]]、工具观呼应。",
+    "links": [
+      {
+        "to": "confucius",
+        "rel": "broader"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "newton",
+        "rel": "related"
+      },
+      {
+        "to": "mass-education",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "战国"
+  }
+]

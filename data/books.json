@@ -526,6 +526,96 @@
       "phase": 3,
       "status": "covered by existing nodes",
       "chapters": []
+    },
+    {
+      "id": "ddj",
+      "title_zh": "英汉双语国学经典·道德经（理雅各英译本）",
+      "title_en": "The Daodejing (Legge bilingual edition)",
+      "format": "pdf",
+      "path": "../英汉双语国学经典 道德经 理雅各权威英译本 (（春秋）老子著) (Z-Library).pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "xtzg",
+      "title_zh": "乡土中国（英译本 From the Soil）",
+      "title_en": "From the Soil: The Foundations of Chinese Society (Fei Xiaotong)",
+      "format": "pdf",
+      "path": "../From the Soil The Foundations of Chinese Society (Xiaotong Fei, Gary G. Hamilton, Wang Zheng) (Z-Library).pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "xz",
+      "title_zh": "劝学篇（荀子）",
+      "title_en": "Xunzi: Exhortation to Learning",
+      "format": "pdf",
+      "path": "../中外劝学名篇系列 劝学篇 荀子.pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "zrj",
+      "title_zh": "朱镕基讲话实录（全四卷）",
+      "title_en": "Zhu Rongji on the Record",
+      "format": "epub",
+      "path": "../朱镕基讲话实录(全四卷).epub",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "tmhc",
+      "title_zh": "天幕红尘（豆豆）",
+      "title_en": "Tianmu Hongchen (Doudou)",
+      "format": "pdf",
+      "path": "../天幕红尘 (豆豆) (Z-Library).pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "jcnx",
+      "title_zh": "基层女性（王慧玲）",
+      "title_en": "Grassroots Women (Wang Huiling)",
+      "format": "pdf",
+      "path": "../基层女性 (王慧玲) (Z-Library).pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "jlfr",
+      "title_zh": "居里夫人自传（中英双语版）",
+      "title_en": "The Autobiography of Marie Curie (bilingual)",
+      "format": "pdf",
+      "path": "../居里夫人自传(中英双语版).pdf",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "enlib",
+      "title_zh": "英文书库（5.Economist）",
+      "title_en": "The English Library (5.Economist folder)",
+      "format": "collection",
+      "path": "../",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
+    },
+    {
+      "id": "reading",
+      "title_zh": "阅读书库（D:\\Reading）",
+      "title_en": "The Reading Library (D:/Reading)",
+      "format": "collection",
+      "path": "D:/Reading",
+      "phase": 4,
+      "status": "complete",
+      "chapters": []
     }
   ]
 }
