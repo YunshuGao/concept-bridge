@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>现代工厂制度 · the factory system · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第20课 第一次工业革命</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>现代工厂制度 <span class="pinyin">gōngchǎng zhìdù</span><span class="en">the factory system</span></h1>
+<p class="meta">⏳ 19世纪</p>
+<div class="card"><p class="zh">工厂有集中的生产场所、生产纪律和管理制度，与家庭生产不同。初期成年男工不愿进厂，工厂只能雇用妇女和贫民救济院的童工，纺纱工人常日工作十四五个小时；进入19世纪，传统手工工场逐渐被大工厂替代，现代工厂制度最终确立。</p><p class="endef">Concentrated premises, work discipline and management — everything cottage production was not. Early mills, shunned by adult men, ran on women and pauper children working fourteen-hour days; by the 19th century the factory had displaced the manufactory for good, and with it came the industrial way of life.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ factory discipline</li><li>▸ child labour</li><li>▸ the shop floor</li><li>▸ clock in/out</li><li>▸ dark satanic mills</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Debates about warehouse algorithms are factory-discipline debates in new clothes: who owns the worker&#x27;s minute has been the question since the first mill bell rang.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>factory（机器工厂）自此才取得现代义——与殖民时代的 factory（商馆）区分。布莱克诗句 dark satanic mills（黑暗的撒旦磨坊）是英语中工厂制度阴暗面的标准意象。“童工”= child labour；“血汗工厂”= sweatshop。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/industrial-revolution.html">第一次工业革命 · the (First) Industrial Revolution</a></li><li><span class="rel">取代了 replaced</span> <a class="node" href="../c/manufactory.html">手工工场 · the manufactory</a></li><li><span class="rel">结果 effect</span> <a class="node" href="../c/steam-engine.html">瓦特与蒸汽机 · Watt and the steam engine</a></li><li><span class="rel">原因 cause</span> <a class="node" href="../c/labour-movement.html">工人运动的兴起 · the rise of the labour movement</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/industrial-revolution.html">第一次工业革命 · the (First) Industrial Revolution</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/steam-engine.html">瓦特与蒸汽机 · Watt and the steam engine</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/labour-movement.html">工人运动的兴起 · the rise of the labour movement</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>wh9a 第20课 第一次工业革命</p>
+<p><a class="tag" href="../themes.html#economy">#economy</a><a class="tag" href="../themes.html#society">#society</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
