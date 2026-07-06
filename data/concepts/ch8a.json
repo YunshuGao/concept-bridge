@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "opium-war",
+    "zh": "鸦片战争与《南京条约》",
+    "pinyin": "Yāpiàn zhànzhēng",
+    "en": "the Opium War and the Treaty of Nanjing",
+    "def_zh": "英国正当贸易中中国出超，遂大量走私鸦片（掠走三四亿银元），白银外流、军民体质与战力俱损。1839年林则徐虎门销烟——中国人民禁烟斗争的伟大胜利。1840年6月英国发动鸦片战争；清朝制度腐败、经济落后、武器陈旧，关天培陈化成等战死，1842年8月被迫签中国近代史上第一个丧权辱国的不平等条约中英《南京条约》：开放广州福州厦门宁波上海五口通商、割香港岛、赔款2100万银元、协定关税；续有《虎门条约》获领事裁判权与片面最惠国待遇，中美《望厦条约》中法《黄埔条约》。中国开始沦为半殖民地半封建社会，鸦片战争成为中国近代史的开端。魏源编《海国图志》提出“师夷长技以制夷”。",
+    "def_en": "Britain, bleeding silver into a trade China dominated, balanced the books with smuggled opium — three to four hundred million dollars' worth — until Commissioner Lin Zexu destroyed 1.1m kg of it at Humen in 1839. London answered commerce's grievance with the fleet: the war of 1840–42 met brave garrisons and obsolete weapons, and ended aboard a British warship with the Treaty of Nanjing — five ports opened, Hong Kong island ceded, $21m indemnity, tariffs fixed by treaty — followed by extraterritoriality and most-favoured-nation clauses for Britain, America and France. China began its descent into what the textbook names 'semi-colonial, semi-feudal society'; modern Chinese history starts here, as does the search for answers — Wei Yuan's 'learn the barbarians' strengths to check the barbarians' first among them.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第1课 鸦片战争"
+      }
+    ],
+    "collocations": [
+      "the Opium War",
+      "unequal treaties",
+      "treaty ports",
+      "extraterritoriality",
+      "gunboat diplomacy",
+      "the century of humiliation"
+    ],
+    "example": "'Century of humiliation' — the frame every Chinese statement on sovereignty invokes — starts its clock in 1840; Western historiography counters with 'the opening of China', and the two phrases fight the same war forever.",
+    "nuance": "“半殖民地半封建社会”= semi-colonial, semi-feudal society（中国马克思主义史学的总定性，英语文献引用时通常带引号说明其框架属性）。“出超/入超”= trade surplus/deficit——本课直接教授贸易术语！“协定关税”= treaty tariffs（关税自主 tariff autonomy 的丧失）；“领事裁判权”= extraterritoriality/consular jurisdiction。马克思论鸦片贸易的引文显示教材的经典谱系。",
+    "links": [
+      {
+        "to": "canton-system",
+        "rel": "effect"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "effect"
+      },
+      {
+        "to": "second-opium-war",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "east-india-company",
+        "rel": "related"
+      },
+      {
+        "to": "washington-conference",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "economy",
+      "governance"
+    ],
+    "period": "1839年–1842年"
+  },
+  {
+    "id": "second-opium-war",
+    "zh": "第二次鸦片战争与火烧圆明园",
+    "pinyin": "dì'èrcì Yāpiàn zhànzhēng",
+    "en": "the Second Opium War and the burning of the Yuanmingyuan",
+    "def_zh": "列强欲进一步打开中国市场，英法借“亚罗号事件”“马神甫事件”发动战争（1856–60）：1858年《天津条约》（公使驻京、增开十口、内河航行），并被迫承认鸦片贸易合法化；1860年英法联军占北京，大肆抢劫后焚毁皇家园林圆明园（雨果：“两个强盗，一个叫法兰西，一个叫英吉利”），签《北京条约》（增开天津、割九龙司、增赔款）。沙俄趁火打劫，19世纪50–80年代通过《瑷珲条约》《北京条约》等割占中国东北西北150多万平方千米领土。半殖民地化程度进一步加深；1861年清设总理衙门办外交。",
+    "def_en": "Wanting more than Nanjing gave, Britain and France manufactured casus belli from a lapsed ship registration and an executed missionary: the war of 1856–60 legalised the opium trade, opened the Yangzi and ten more ports, put ambassadors in Beijing — and, in October 1860, looted and burned the Yuanmingyuan Summer Palace, the act Victor Hugo assigned to 'two robbers, one called France, the other England'. Russia, uninvited, collected the largest prize: 1.5m square kilometres of the northeast and northwest by treaties signed at China's moment of helplessness. The Zongli Yamen — China's first foreign ministry — was founded the next year to manage a world that had forced its way in.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第2课 第二次鸦片战争"
+      }
+    ],
+    "collocations": [
+      "the sack of the Summer Palace",
+      "loot and burn",
+      "territorial cession",
+      "looted artefacts"
+    ],
+    "example": "Every Christie's auction of a zodiac bronze reopens 1860: the Yuanmingyuan is the world's most politically active ruin, and 'looted art' debates from Athens to Benin cite it as precedent.",
+    "nuance": "圆明园 = the Old Summer Palace/Yuanmingyuan（区别于颐和园 the Summer Palace——高频混淆）。雨果信是中方叙事的标准西方证词。俄割领土问题在中俄友好语境下的低调处理 vs 教材地图的翔实标注——阅读当代中俄报道时的潜流。“趁火打劫”= loot a burning house / fish in troubled waters。",
+    "links": [
+      {
+        "to": "opium-war",
+        "rel": "replaced"
+      },
+      {
+        "to": "qing-frontier",
+        "rel": "related"
+      },
+      {
+        "to": "taiping",
+        "rel": "related"
+      },
+      {
+        "to": "self-strengthening",
+        "rel": "influenced"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1856年–1860年"
+  },
+  {
+    "id": "taiping",
+    "zh": "太平天国运动",
+    "pinyin": "Tàipíng Tiānguó",
+    "en": "the Taiping Rebellion",
+    "def_zh": "鸦片战争后赋税加重、灾荒频仍，1851年洪秀全（创拜上帝会）金田起义建号太平天国，1853年克南京改天京定都，颁《天朝田亩制度》（“有田同耕，有饭同食……无处不均匀，无人不饱暖”——因绝对平均主义无法实施）；北伐西征军事全盛。1856年天京事变由盛转衰；后期洪仁玕《资政新篇》提出向西方学习、发展资本主义（未能实行）。1864年在中外反动势力联合绞杀下天京陷落。历时14年、席卷大半个中国的规模宏大的农民战争，沉重打击了清朝统治和外国侵略势力，谱写了中国近代史上壮烈的一章。",
+    "def_en": "Out of post-war misery and a failed exam candidate's visions rose history's bloodiest civil war: Hong Xiuquan's God-Worshipping Society proclaimed the Heavenly Kingdom of Great Peace in 1851, took Nanjing as its Heavenly Capital in 1853, and decreed a land system of perfect communal equality — 'land tilled together, rice eaten together... no one anywhere unfed'. Internal slaughter in 1856 broke its momentum; a late programme for Western-style development was never tried; and in 1864, strangled jointly by Qing armies and foreign guns, the Heavenly Capital fell. Fourteen years, half of China, tens of millions dead — a peasant war that shook the dynasty and the foreign powers alike.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第3课 太平天国运动"
+      }
+    ],
+    "collocations": [
+      "the Taiping Heavenly Kingdom",
+      "millenarian rebellion",
+      "the deadliest civil war",
+      "egalitarian land programme"
+    ],
+    "example": "Western surveys rank the Taiping among history's deadliest conflicts, ahead of the First World War — the civil war Europe barely noticed while it was busy burning the emperor's garden.",
+    "nuance": "英语通称 the Taiping Rebellion（“叛乱”视角）；中文“运动/起义”视角——命名政治的又一案例。洪秀全的基督教渊源使西方研究兴趣浓厚（“上帝的中国儿子”）。《天朝田亩制度》= the Heavenly Land System；绝对平均主义 = absolute egalitarianism（教材点其空想性，链 [[communist-manifesto]] 的对照有深意）。",
+    "links": [
+      {
+        "to": "opium-war",
+        "rel": "effect"
+      },
+      {
+        "to": "chen-sheng-uprising",
+        "rel": "related"
+      },
+      {
+        "to": "rise-of-christianity",
+        "rel": "related"
+      },
+      {
+        "to": "self-strengthening",
+        "rel": "influenced"
+      }
+    ],
+    "themes": [
+      "war",
+      "society",
+      "ideas"
+    ],
+    "period": "1851年–1864年"
+  },
+  {
+    "id": "self-strengthening",
+    "zh": "洋务运动",
+    "pinyin": "Yángwù yùndòng",
+    "en": "the Self-Strengthening Movement",
+    "def_zh": "内忧外患中，奕䜣、曾国藩、李鸿章、左宗棠、张之洞等洋务派主张学习西方先进技术“自强”“求富”：60年代起办安庆内军械所、江南机器制造总局、福州船政局等军事工业，兴新式学校（京师同文馆）、译西书、派留学生；70年代起办轮船招商局、开平煤矿、汉阳铁厂等民用企业；建新式海陆军（北洋舰队最大、1885设海军衙门）。左宗棠收复新疆（1884新疆建省；1885台湾建省）。中国历史上第一次近代化运动：客观上促进民族资本主义产生、一定程度抵制外资入侵；但以维护清朝统治为根本目的，内有腐败外有挤压，没有使中国走上富强道路（李鸿章自评“纸糊的老虎”）。",
+    "def_en": "After the twin shocks of rebellion and burning palaces, a generation of reforming officials — Li Hongzhang and Zuo Zongtang foremost — tried to buy modernity without changing the state: arsenals and dockyards under 'self-strengthening', then shipping lines, mines and mills under 'seeking wealth'; translation bureaus, new schools, students sent abroad; the Beiyang fleet, and Zuo's reconquest of Xinjiang (made a province in 1884, Taiwan in 1885). It was China's first industrialisation drive — and it failed its own test, as Li admitted in old age: 'paper tigers, all of it... patching and papering over'. Technology grafted onto an unreformed system, the textbook concludes, could not make China strong.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第4课 洋务运动"
+      }
+    ],
+    "collocations": [
+      "self-strengthening",
+      "arsenals and dockyards",
+      "Chinese learning for essence, Western learning for use",
+      "defensive modernisation"
+    ],
+    "example": "洋务运动 v. 明治维新 is East Asia's great controlled experiment — same decade, same imported hardware, opposite institutional choices — and 1895 graded the papers; every 'why nations fail' course teaches the pair.",
+    "nuance": "“中体西用”（教材未直引但为运动纲领）= Chinese learning as essence, Western learning for use。“纸糊的老虎”即 paper tiger——毛泽东后来使此语全球闻名，其出处在李鸿章的自嘲，绝妙的语词考古。“近代化”= modernisation（中文“近代/现代”两分，英语一词——翻译陷阱）。与 [[meiji-restoration]]、[[peter-the-great]] 构成防御性现代化比较组。",
+    "links": [
+      {
+        "to": "second-opium-war",
+        "rel": "effect"
+      },
+      {
+        "to": "taiping",
+        "rel": "effect"
+      },
+      {
+        "to": "meiji-restoration",
+        "rel": "contrast"
+      },
+      {
+        "to": "jiawu-war",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "governance",
+      "science-tech"
+    ],
+    "period": "19世纪60–90年代"
+  },
+  {
+    "id": "jiawu-war",
+    "zh": "甲午中日战争与瓜分狂潮",
+    "pinyin": "Jiǎwǔ Zhōng-Rì zhànzhēng",
+    "en": "the First Sino-Japanese War and the scramble for China",
+    "def_zh": "1894年日本借朝鲜东学党起义蓄意挑起战争：平壤陷落（左宝贵牺牲）、黄海海战邓世昌致远舰壮烈殉国、旅顺大屠杀两万余人、1895威海卫北洋舰队全军覆没（丁汝昌自杀殉国）。《马关条约》：割辽东半岛（后三国干涉还辽、索“赎辽费”3000万两）台湾全岛及澎湖列岛，赔白银2亿两，开沙市重庆苏杭，允许日本在通商口岸开设工厂——外国侵略势力深入腹地，大大加深半殖民地化。台湾军民抗日百余战。列强掀起抢夺利权、强租租借地、划分“势力范围”的瓜分中国狂潮（时局图）；1899年美国提出“门户开放”照会，列强共同奴役中国。",
+    "def_en": "Japan's rebuilt state tested itself on China's half-rebuilt one in 1894 and the verdict was total: Pyongyang fell, the Beiyang fleet was shattered at the Yalu (Captain Deng Shichang ramming his sinking ship at the enemy), Port Arthur's population massacred, the fleet's remnant scuttled at Weihaiwei. The Treaty of Shimonoseki took Taiwan and the Penghus, two hundred million taels, new ports, and — the clause with teeth — the right to build factories in China; Taiwan's people fought the occupation through a hundred battles. Victory's real price came after: the powers, seeing the giant was hollow, scrambled for leaseholds and 'spheres of influence', while America's Open Door notes (1899) proposed sharing the meal rather than carving the diner.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第5课 甲午中日战争与列强瓜分中国狂潮"
+      }
+    ],
+    "collocations": [
+      "the Treaty of Shimonoseki",
+      "spheres of influence",
+      "the scramble for concessions",
+      "carving up the melon",
+      "the Open Door notes"
+    ],
+    "example": "The 'scramble for China' ran on the Africa template and the same cartoons — the famous 时局图 of bear, bulldog and eagle carving the map is East Asia's answer to the Berlin Conference caricatures.",
+    "nuance": "《马关条约》英语名 the Treaty of Shimonoseki。“瓜分”原意切瓜——carving up the (Chinese) melon 是当时英语报刊实际用语。三国干涉还辽 = the Triple Intervention。“门户开放”承接 [[washington-conference]] 节点完成美国对华政策线。甲午对日本=立国之战、对中国=体制审判——两国教科书叙事对读极有价值。",
+    "links": [
+      {
+        "to": "self-strengthening",
+        "rel": "effect"
+      },
+      {
+        "to": "meiji-restoration",
+        "rel": "effect"
+      },
+      {
+        "to": "wuxu-reform",
+        "rel": "influenced"
+      },
+      {
+        "to": "washington-conference",
+        "rel": "related"
+      },
+      {
+        "to": "zheng-chenggong",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1894年–1899年"
+  },
+  {
+    "id": "wuxu-reform",
+    "zh": "戊戌变法（百日维新）",
+    "pinyin": "Wùxū biànfǎ",
+    "en": "the Hundred Days' Reform",
+    "def_zh": "《马关条约》消息传京，1895年康有为梁启超联合1300多举人“公车上书”请求拒和迁都变法，拉开维新运动序幕；各地学会报刊宣传（梁启超《时务报》“变者天下之公理也”；严复《国闻报》、译《天演论》宣传“物竞天择，适者生存”）。1898年6月11日光绪帝颁“明定国是”诏变法103天：裁冗官、允官民上书、鼓励私人办厂、改革财政、废八股改策论、办新式学堂（京师大学堂）、裁绿营练新军。触犯以慈禧太后为首的顽固派利益，9月21日政变：囚光绪、捕维新士，谭嗣同等“戊戌六君子”遇害（“有心杀贼，无力回天”）。变法失败，但思想文化影响广泛持久。",
+    "def_en": "News of Shimonoseki detonated the examination halls: 1,300 provincial graduates petitioned the throne — the 'public vehicles memorial' — and reform became a movement, spread by study societies and a new press (Yan Fu's translation of Huxley making 'survival of the fittest' the era's watchword). In summer 1898 the young Guangxu emperor issued a hundred days of edicts: sinecures abolished, private industry encouraged, the eight-legged essay scrapped, a modern university founded, new armies planned. The Empress Dowager Cixi's coup ended it in September — emperor imprisoned, six reformers beheaded (Tan Sitong refusing escape: 'reform needs blood; let it begin with mine'). The institutions died; the ideas, the textbook notes, did not.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第6课 戊戌变法"
+      }
+    ],
+    "collocations": [
+      "the Hundred Days' Reform",
+      "reform from above",
+      "the reformers' blood",
+      "constitutional monarchy attempted"
+    ],
+    "example": "The Hundred Days is China's 'too little, too late' benchmark: every stalled liberalisation gets measured against 1898, and every conservative backlash against Cixi's coup.",
+    "nuance": "严复译《天演论》使 social Darwinism 成为救亡话语——链 [[darwin]] nuance 的中文接收史在此落地。康梁路线=君主立宪 constitutional monarchy（链 [[glorious-revolution]]、[[meiji-restoration]]——教材问题即比日本）。“百日维新”= the Hundred Days' Reform（拿破仑 Hundred Days 同名异事，防混）。",
+    "links": [
+      {
+        "to": "jiawu-war",
+        "rel": "effect"
+      },
+      {
+        "to": "meiji-restoration",
+        "rel": "related"
+      },
+      {
+        "to": "constitutional-monarchy",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "related"
+      },
+      {
+        "to": "wang-anshi",
+        "rel": "related"
+      },
+      {
+        "to": "boxer-protocol",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "1898年"
+  },
+  {
+    "id": "boxer-protocol",
+    "zh": "义和团与《辛丑条约》",
+    "pinyin": "Yìhétuán / Xīnchǒu tiáoyuē",
+    "en": "the Boxers and the Boxer Protocol",
+    "def_zh": "19世纪末反洋教斗争中义和团兴起山东直隶，提出“扶清灭洋”口号（具有爱国性质，亦有盲目排外落后性；“扶清”使其放松对清政府警惕）。1900年八国联军以镇压义和团为名侵华：廊坊阻击、天津保卫战（聂士成殉国）；联军攻陷北京，慈禧携光绪西逃并令剿杀义和团。1901年《辛丑条约》：赔款白银4.5亿两、分39年还清本息共9.8亿两；划东交民巷为使馆界不准中国人居住；拆炮台、允许各国驻兵北京至山海关铁路沿线；清政府保证严禁人民参加各种形式的反帝活动——清政府沦为帝国主义列强统治中国的工具，中国完全陷入半殖民地半封建社会的深渊。",
+    "def_en": "Anti-missionary fury bred the Boxers — 'support the Qing, destroy the foreign' — whose siege of the legations brought eight armies to Beijing in 1900; the court fled west, then turned on the movement it had blessed. The Boxer Protocol of 1901 was the century of humiliation's price list: 450 million taels (one per Chinese subject, 980 million with interest over 39 years), a legation quarter barred to Chinese, foreign garrisons down the railway to the sea, and — the clause the textbook lands on — a standing Qing guarantee to suppress its own people's anti-foreign movements: the dynasty now, in the set phrase, 'the court of the foreigners', and China at the bottom of the semi-colonial abyss.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第7课 八国联军侵华与《辛丑条约》签订"
+      }
+    ],
+    "collocations": [
+      "the Boxer Rising",
+      "the Eight-Nation Alliance",
+      "the Boxer indemnity",
+      "the legation quarter"
+    ],
+    "example": "The Boxer indemnity had a second life as soft power: America returned part of its share to fund Tsinghua and scholarships — the origin story cited whenever educational diplomacy is discussed.",
+    "nuance": "义和团英语旧称 the Boxers（拳民直译）——the Boxer Rebellion/Uprising 视角差再现。“扶清灭洋”= support the Qing, exterminate the foreigners。《辛丑条约》= the Boxer Protocol（1901）。“洋人的朝廷”= the court of the foreigners。人均一两白银的赔款设计是羞辱的算术——细节即修辞。",
+    "links": [
+      {
+        "to": "wuxu-reform",
+        "rel": "replaced"
+      },
+      {
+        "to": "jiawu-war",
+        "rel": "effect"
+      },
+      {
+        "to": "sun-yatsen",
+        "rel": "influenced"
+      },
+      {
+        "to": "crusades",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance",
+      "society"
+    ],
+    "period": "1899年–1901年"
+  },
+  {
+    "id": "sun-yatsen",
+    "zh": "孙中山与三民主义",
+    "pinyin": "Sūn Zhōngshān / Sānmín zhǔyì",
+    "en": "Sun Yat-sen and the Three Principles of the People",
+    "def_zh": "革命先行者孙中山早年上书李鸿章改革碰壁后走上革命道路：1894年檀香山创兴中会（“振兴中华”），1895年广州起义失败流亡海外。1905年在东京联合兴中会、华兴会、光复会成立中国同盟会——第一个全国规模的、统一的资产阶级革命政党，纲领“驱除鞑虏，恢复中华，创立民国，平均地权”，机关报《民报》发刊词将其阐发为“民族、民权、民生”三大主义——三民主义成为孙中山领导资产阶级革命的指导思想。",
+    "def_en": "Sun Yat-sen — mission-schooled, medically trained, radicalised when reform petitions went unread — founded the Revive China Society in Honolulu (1894) and spent a decade in exile organising, funding and failing at risings. In Tokyo in 1905 he fused the revolutionary groups into the Chinese United League (Tongmenghui), China's first nationwide revolutionary party, whose programme he distilled into the Three Principles of the People: nationalism, democracy, and the people's livelihood — the ideological operating system of the coming republic, claimed to this day by parties on both sides of the strait.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第8课 革命先行者孙中山"
+      }
+    ],
+    "collocations": [
+      "the Three Principles of the People",
+      "the forerunner of the revolution",
+      "nationalism, democracy, livelihood",
+      "revolutionary exile"
+    ],
+    "example": "Sun is modern China's shared ancestor — the one portrait hung in Tiananmen on National Day and in Taipei year-round; 'Father of the Nation' is the rare title both governments ratify.",
+    "nuance": "孙中山英语通行 Sun Yat-sen（粤拼“逸仙”）。三民主义 = the Three Principles of the People；“民生”译 the people's livelihood（孙自注可对应 socialism——思想史细节）。其名言“民有民治民享”即林肯句的移植——链 [[lincoln]] 的回路闭合。",
+    "links": [
+      {
+        "to": "boxer-protocol",
+        "rel": "effect"
+      },
+      {
+        "to": "xinhai-revolution",
+        "rel": "cause"
+      },
+      {
+        "to": "lincoln",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "american-revolution",
+        "rel": "influenced-by"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "governance"
+    ],
+    "period": "1894年–1905年"
+  },
+  {
+    "id": "xinhai-revolution",
+    "zh": "辛亥革命",
+    "pinyin": "Xīnhài gémìng",
+    "en": "the 1911 Revolution",
+    "def_zh": "同盟会成立后发动萍浏醴、安庆、广西等起义皆败；1911年4月黄花岗起义（黄兴，七十二烈士，“碧血横飞……草木为之含悲”）鼓舞斗志。1911年10月10日武昌起义：湖北新军中革命党人（文学社共进会）打响第一枪，占武昌、成立湖北军政府，各省纷纷响应，半数以上省份宣布独立。1911年为农历辛亥年，史称“辛亥革命”——推翻了清王朝的反动统治，宣告了中国两千多年君主专制制度的终结，开创了完全意义上的近代民族民主革命，极大推动了中华民族的思想解放，打开了中国进步潮流的闸门。",
+    "def_en": "After a decade of failed risings — the 72 martyrs of Canton's Yellow Flower Mound the most mourned — the revolution finally caught on 10 October 1911, when republican soldiers of the Wuchang New Army fired the first shots and took the city overnight; within weeks more than half the provinces had seceded from the dynasty. The Xinhai Revolution, named for its cyclical year, ended not just the Qing but two thousand years of monarchy itself — the sluice-gate of China's modern transformation, in the textbook's image, opened once and never closed.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第9课 辛亥革命"
+      }
+    ],
+    "collocations": [
+      "the Wuchang Uprising",
+      "Double Ten",
+      "the end of two millennia of monarchy",
+      "provincial secession"
+    ],
+    "example": "October Tenth — 'Double Ten' — is still Taiwan's national day and a mainland commemoration, the calendar's most contested inheritance from a shared revolution.",
+    "nuance": "英语通称 the 1911 Revolution / the Xinhai Revolution。“君主专制制度的终结”与法俄革命并列为共和革命三部曲——但中国的两千年纵深使其独一档（对照 [[french-revolution]]、[[english-revolution]]）。武昌起义偶然性（仓库爆炸暴露名册）与必然性的辩证是标准考点。",
+    "links": [
+      {
+        "to": "sun-yatsen",
+        "rel": "effect"
+      },
+      {
+        "to": "republic-of-china",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "french-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "october-revolution",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1911年"
+  },
+  {
+    "id": "republic-of-china",
+    "zh": "中华民国的创建",
+    "pinyin": "Zhōnghuá Mínguó",
+    "en": "the founding of the Republic of China",
+    "def_zh": "1912年1月1日孙中山在南京就任临时大总统，中华民国临时政府成立（民国纪年）。袁世凯借北洋军力与列强支持逼宫；1912年2月12日宣统帝下诏退位——清朝260多年统治结束；孙中山依约辞职，袁世凯在北京就任临时大总统。1912年3月颁布《中华民国临时约法》：主权属于全体国民、国民一律平等、有人身居住言论出版集会结社宗教信仰及请愿考试选举参政等自由权利；参议院行使立法权、司法独立、责任内阁制——中国历史上第一部具有资产阶级共和国宪法性质的重要文件。辛亥革命果实被袁世凯窃取。",
+    "def_en": "On New Year's Day 1912 Sun Yat-sen was sworn in at Nanjing as provisional president of Asia's first republic; six weeks later the boy emperor Puyi abdicated, closing 268 years of Qing and the imperial system entire. The price was the presidency itself: Yuan Shikai, commanding the only real army and the powers' confidence, took office in Beijing. The revolutionaries' insurance policy was the Provisional Constitution of March 1912 — popular sovereignty, equal citizenship, the full bill of liberties, separated powers, cabinet government: China's first republican constitutional document, drafted, pointedly, to cage the man about to inherit it.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第10课 中华民国的创建"
+      }
+    ],
+    "collocations": [
+      "provisional president",
+      "the abdication edict",
+      "a provisional constitution",
+      "the fruits of revolution stolen"
+    ],
+    "example": "Puyi's abdication edict and the republic's birth certificate share a filing cabinet — the negotiated end of monarchy that makes 1912 look, in comparative terms, more like 1688 than 1789.",
+    "nuance": "《临时约法》= the Provisional Constitution；责任内阁制 = cabinet/parliamentary government（因人设法防袁——宪法工具主义的经典案例，链 [[us-constitution]] 的反面）。“窃取革命果实”= usurped the fruits of the revolution（大陆史学定式表述，英语文献会作为立场句处理）。",
+    "links": [
+      {
+        "to": "xinhai-revolution",
+        "rel": "broader"
+      },
+      {
+        "to": "warlord-era",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "us-constitution",
+        "rel": "related"
+      },
+      {
+        "to": "glorious-revolution",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "1912年"
+  },
+  {
+    "id": "warlord-era",
+    "zh": "北洋政府与军阀割据",
+    "pinyin": "Běiyáng jūnfá",
+    "en": "the Beiyang government and the warlord era",
+    "def_zh": "袁世凯就任后破坏责任内阁制：1913年宋教仁遇刺（“宋案”）引发二次革命被镇压；袁强迫国会选其为正式大总统、解散国民党国会、废《临时约法》改总统制、修法可无限连任，1915年接受日本旨在灭亡中国的“二十一条”大部分内容以换支持，年底复辟帝制（“中华帝国”洪宪）。蔡锷等发动护国战争，1916年袁被迫取消帝制、忧惧而死。此后北洋军阀分裂：直系（冯国璋曹锟）、皖系（段祺瑞）、奉系（张作霖）等拥兵割据混战（一战期间日本扶皖奉、英美扶直），“城头变幻大王旗”，人民困苦不堪。",
+    "def_en": "Yuan Shikai dismantled the republic piece by piece — the parliamentary leader Song Jiaoren assassinated (1913), the opposition crushed, parliament dissolved, the constitution rewritten for a life presidency, Japan's Twenty-One Demands largely accepted as the price of support — until in 1915 he reached for the throne itself. The National Protection War forced the 'Hongxian Emperor' to unrobe within 83 days; he died months later, and his army fell apart into the warlord map: Zhili, Anhui and Fengtian cliques (each with a foreign patron) fighting over a capital whose flags changed, in Lu Xun's line, with every garrison — the fragmentation the next revolution would be organised to end.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第11课 北洋政府的统治与军阀割据"
+      }
+    ],
+    "collocations": [
+      "the warlord era",
+      "cliques and patrons",
+      "the Twenty-One Demands",
+      "an 83-day emperor"
+    ],
+    "example": "'Warlordism' entered comparative politics from this decade — the label now applied from Somalia to Libya was minted for the Beiyang generals, foreign patrons included.",
+    "nuance": "军阀 = warlord（中文借出的政治学概念之一）。“二十一条”= the Twenty-One Demands（链 [[wwi]]、五四的导火索背景）。袁氏复辟与 [[napoleon]]、[[cromwell]] 同属“共和吞噬者”原型——本知识库刻意织成的跨文明线。",
+    "links": [
+      {
+        "to": "republic-of-china",
+        "rel": "replaced"
+      },
+      {
+        "to": "an-lushan",
+        "rel": "related"
+      },
+      {
+        "to": "napoleon",
+        "rel": "related"
+      },
+      {
+        "to": "new-culture",
+        "rel": "influenced"
+      },
+      {
+        "to": "wwi",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "1912年–1928年"
+  },
+  {
+    "id": "new-culture",
+    "zh": "新文化运动",
+    "pinyin": "Xīnwénhuà yùndòng",
+    "en": "the New Culture Movement",
+    "def_zh": "辛亥后共和有名无实，先进知识分子认识到必须进行思想文化领域的革新。1915年陈独秀在上海创办《青年杂志》（后改《新青年》）掀起新文化运动，与北大（蔡元培“思想自由，兼容并包”）成为主阵地：高举“民主”（德先生）与“科学”（赛先生）两面大旗，抨击旧道德旧文化（针对尊孔复古逆流；鲁迅《狂人日记》揭露“吃人的礼教”），提倡新道德新文学——胡适《文学改良刍议》倡白话文，文学革命兴起。动摇了封建道德礼教的统治地位，使中国人民接受了一次民主与科学的洗礼，为五四运动起了思想宣传和铺垫作用（对传统文化的看法亦有片面性）。",
+    "def_en": "The republic's empty shell convinced a new intelligentsia that China's problem was deeper than institutions: it was the culture itself. From Chen Duxiu's New Youth magazine (1915) and Cai Yuanpei's tolerant Peking University, the movement raised its two famous banners — 'Mr Democracy' and 'Mr Science' — against the old ethics ('a Confucianism that eats people', Lu Xun's Diary of a Madman charged) and the old literary language, Hu Shi's vernacular revolution putting the written word within everyone's reach. A generation was baptised in doubt and possibility — the seedbed, the textbook says, of May Fourth and everything after, even if its iconoclasm swung too hard.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第12课 新文化运动"
+      }
+    ],
+    "collocations": [
+      "Mr Democracy and Mr Science",
+      "the vernacular movement",
+      "iconoclasm",
+      "New Youth"
+    ],
+    "example": "'德先生与赛先生' is the rare slogan that translates itself — Mr Democracy and Mr Science — and a century on, every debate about which China invited in first is still conducted in its terms.",
+    "nuance": "新文化运动 = the New Culture Movement；白话文运动 = the vernacular (language) movement——与 [[dante]]、[[ming-novels]] 的俗语革命同构，跨文明佐证。鲁迅 = Lu Xun（现代中国最重要的英译作家，《狂人日记》= Diary of a Madman）。“打倒孔家店”的激进与当代儒学复兴的回摆——百年思想史钟摆的两端。",
+    "links": [
+      {
+        "to": "warlord-era",
+        "rel": "effect"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "related"
+      },
+      {
+        "to": "renaissance",
+        "rel": "related"
+      },
+      {
+        "to": "may-fourth",
+        "rel": "influenced"
+      },
+      {
+        "to": "confucius",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "1915年–1920年代"
+  },
+  {
+    "id": "may-fourth",
+    "zh": "五四运动",
+    "pinyin": "Wǔsì yùndòng",
+    "en": "the May Fourth Movement",
+    "def_zh": "1919年巴黎和会上中国代表提出取消“二十一条”、收回山东权益等正当要求遭拒（列强将德国在山东权益转予日本）。5月4日北京学生天安门集会游行：“外争主权，内除国贼”“誓死力争，还我青岛”，火烧赵家楼；遭镇压后6月起上海工人罢工商人罢市——工人阶级成为运动主力，运动中心移至上海。北洋政府被迫释放学生、罢免曹汝霖等、中国代表拒签和约——五四运动的直接目标得到实现。是一次彻底反帝反封建的伟大爱国革命运动，中国工人阶级开始登上政治舞台，是中国旧民主主义革命走向新民主主义革命的转折点，为中共成立作了思想干部准备。",
+    "def_en": "Versailles handed Germany's Shandong rights to Japan, and on 4 May 1919 Beijing's students answered in Tiananmen Square: 'Defend sovereignty abroad, punish traitors at home'. Arrests only spread it — by June Shanghai's workers were on strike, the first entrance of Chinese labour onto the political stage — until the government released the students, sacked the pro-Japanese ministers, and refused to sign the treaty. The textbook's verdict is architectural: a thoroughly anti-imperialist, anti-feudal awakening, the hinge between the old democratic revolution and the new, and the direct preparation — in minds and cadres — for the party founded two years later.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第13课 五四运动"
+      }
+    ],
+    "collocations": [
+      "the May Fourth Movement",
+      "student protest",
+      "national awakening",
+      "the May Fourth spirit"
+    ],
+    "example": "Every student movement in Chinese history since — including the ones the state celebrates and the ones it doesn't — has claimed the May Fourth mantle; 'the spirit of May Fourth' is the most contested trademark in modern Chinese politics.",
+    "nuance": "五四与 [[versailles]]、[[washington-conference]] 山东问题直接相连——本知识库世界史/中国史两轨在此正式并轨。“外争主权，内除国贼”= defend sovereignty abroad, punish the traitors at home。新/旧民主主义革命 = the new/old democratic revolution（毛泽东分期框架，英语文献引用需注明）。",
+    "links": [
+      {
+        "to": "versailles",
+        "rel": "effect"
+      },
+      {
+        "to": "new-culture",
+        "rel": "effect"
+      },
+      {
+        "to": "ccp-founding",
+        "rel": "influenced"
+      },
+      {
+        "to": "washington-conference",
+        "rel": "related"
+      },
+      {
+        "to": "labour-movement",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "ideas",
+      "governance"
+    ],
+    "period": "1919年"
+  },
+  {
+    "id": "ccp-founding",
+    "zh": "中国共产党的诞生",
+    "pinyin": "Zhōngguó Gòngchǎndǎng dànshēng",
+    "en": "the founding of the Chinese Communist Party",
+    "def_zh": "十月革命后李大钊率先在中国传播马克思主义（《庶民的胜利》《布尔什维主义的胜利》《我的马克思主义观》）；五四后马克思主义与中国工人运动结合，1920年陈独秀在上海、李大钊在北京等地建共产党早期组织（“南陈北李，相约建党”）。1921年7月中共一大在上海（后转嘉兴南湖红船）召开，代表毛泽东董必武等13人，确定党的名称、奋斗目标（推翻资产阶级政权建立无产阶级专政实现共产主义）、中心工作（领导组织工人运动），选举陈独秀为中央局书记——中国共产党诞生是开天辟地的大事变，中国革命的面貌焕然一新。1922年二大制定民主革命纲领；1923年京汉铁路工人大罢工（二七惨案）表明单枪匹马不能取胜。",
+    "def_en": "The October Revolution 'delivered Marxism to China' (Mao's later phrase), Li Dazhao its first apostle; May Fourth wove it into the young labour movement, and in July 1921 thirteen delegates — Mao Zedong among them — convened in a Shanghai shikumen and finished aboard a pleasure boat on Jiaxing's South Lake: the First Congress of the Chinese Communist Party, goal proletarian revolution, method the organisation of labour, membership nationwide about fifty. The textbook's phrase for it is cosmological — 'an event that opened heaven and split the earth' — and the bloody failure of the 1923 railway strike taught the infant party its first strategic lesson: it could not win alone.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第14课 中国共产党诞生"
+      }
+    ],
+    "collocations": [
+      "the First Congress",
+      "the red boat",
+      "a founding myth",
+      "vanguard party"
+    ],
+    "example": "The 'red boat' of Jiaxing carries a hundred-plus years of iconography — party anniversaries are staged around it, and 'red boat spirit' is current official vocabulary; knowing the 1921 scene decodes the imagery instantly.",
+    "nuance": "中共 = the Chinese Communist Party (CCP；亦见 CPC——中国官方偏好后者，外媒用前者，用词即立场的微观案例)。“开天辟地”= earth-shaking/epoch-making（盘古开天神话的动用）。李大钊、陈独秀的后来命运（就义/开除）是党史叙事复杂性的入口。",
+    "links": [
+      {
+        "to": "may-fourth",
+        "rel": "effect"
+      },
+      {
+        "to": "october-revolution",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "marxism",
+        "rel": "effect"
+      },
+      {
+        "to": "communist-manifesto",
+        "rel": "related"
+      },
+      {
+        "to": "first-international",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "1921年"
+  },
+  {
+    "id": "northern-expedition",
+    "zh": "国共合作与北伐战争",
+    "pinyin": "Běifá zhànzhēng",
+    "en": "the First United Front and the Northern Expedition",
+    "def_zh": "1923年中共三大决定与国民党合作；1924年国民党一大（确立联俄联共扶助农工政策、新三民主义）标志国共第一次合作正式建立，创办黄埔军校（孙中山任命蒋介石任校长、周恩来任政治部主任）培养军事政治人才。1925年孙中山逝世。1926年广州国民政府北伐：对象吴佩孚孙传芳张作霖；叶挺独立团贺胜桥汀泗桥屡破吴部（“铁军”），北伐军从珠江流域打到长江流域，工农革命运动蓬勃发展。1927年蒋介石发动四一二反革命政变（南京国民政府）、汪精卫七一五“分共”——国民革命失败，第一次国共合作破裂；1928年张学良东北易帜，南京政府名义上统一全国。",
+    "def_en": "Taught by defeat that it needed allies, the young CCP joined Sun Yat-sen's reorganised Nationalists (KMT) in 1924 — Soviet advisers, the Whampoa Military Academy (Chiang Kai-shek commandant, Zhou Enlai in the political department), and a shared enemy in the warlords. The Northern Expedition (1926) swept from Canton to the Yangzi, Ye Ting's 'Iron Army' spearheading, mass movements rising in its wake — until Chiang turned the guns inward in the Shanghai coup of 12 April 1927, Wang Jingwei followed, and the first united front died in the purge. By 1928, with the Manchurian warlord's allegiance, Chiang's Nanjing government ruled a nominally reunified China.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第15课 国共合作与北伐战争"
+      }
+    ],
+    "collocations": [
+      "the First United Front",
+      "the Whampoa Academy",
+      "the Shanghai coup/purge",
+      "nominal unification"
+    ],
+    "example": "KMT-CCP cooperation-then-betrayal is the founding trauma both parties still narrate differently — and Whampoa the shared alma mater that let civil-war generals address each other as classmates.",
+    "nuance": "国民党 = the Kuomintang (KMT)/Nationalists；黄埔军校 = the Whampoa Military Academy。四一二政变英语多作 the Shanghai massacre/coup of 1927。“国民革命”= the National Revolution。统一战线 united front 是中共政治学关键概念的初版——今日 united front work 仍是外媒热词。",
+    "links": [
+      {
+        "to": "ccp-founding",
+        "rel": "effect"
+      },
+      {
+        "to": "sun-yatsen",
+        "rel": "related"
+      },
+      {
+        "to": "warlord-era",
+        "rel": "effect"
+      },
+      {
+        "to": "jinggangshan",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1924年–1928年"
+  },
+  {
+    "id": "jinggangshan",
+    "zh": "井冈山道路（工农武装割据）",
+    "pinyin": "Jǐnggāngshān dàolù",
+    "en": "the Jinggangshan road: encircling the cities from the countryside",
+    "def_zh": "国民革命失败后，1927年8月1日南昌起义（周恩来贺龙叶挺朱德刘伯承）打响武装反抗国民党反动统治第一枪；八七会议确定土地革命和武装反抗总方针、毛泽东提出“政权是由枪杆子中取得”；秋收起义受挫后毛泽东率部向敌人统治力量薄弱的农村进军，创建第一个农村革命根据地井冈山根据地；1928年朱毛会师成立工农革命军第四军。开展土地革命和游击战争，创造“工农武装割据”局面——农村包围城市、武装夺取政权的井冈山道路，是马克思主义基本原理同中国具体实际相结合的光辉典范。1931年成立中华苏维埃共和国临时中央政府（瑞金）。",
+    "def_en": "After 1927's massacres the party learned Mao's aphorism the hard way — 'political power grows out of the barrel of a gun'. The Nanchang rising of 1 August (still the army's birthday) fired the first shot; when attacks on cities failed, Mao marched the survivors of the Autumn Harvest rising into the Jinggang mountains and invented the model instead: a rural base area, land revolution to win the peasants, guerrilla war to keep it — 'encircling the cities from the countryside', Marxism bent to Chinese reality, the textbook's exemplar of adapting theory to fact. Zhu De's forces joined in 1928; a Soviet Republic followed at Ruijin in 1931.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第16课 毛泽东开辟井冈山道路"
+      }
+    ],
+    "collocations": [
+      "power from the barrel of a gun",
+      "rural base areas",
+      "guerrilla warfare",
+      "encircle the cities from the countryside"
+    ],
+    "example": "Insurgency studies worldwide teach the Jinggangshan playbook — Che Guevara and the Viet Minh read it, counterinsurgents reverse-engineer it — Mao's mountains became a global curriculum.",
+    "nuance": "“枪杆子里面出政权”= political power grows out of the barrel of a gun（毛语录最全球化的一句）。“农村包围城市”= encircling the cities from the countryside。根据地 = base areas；游击战 = guerrilla warfare（西语借词，与毛派战略在英语中深度绑定）。马克思主义中国化 = the sinicisation of Marxism——与 [[xiaowen-reforms]] 的 sinicisation 同词异史。",
+    "links": [
+      {
+        "to": "northern-expedition",
+        "rel": "effect"
+      },
+      {
+        "to": "long-march",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "marxism",
+        "rel": "related"
+      },
+      {
+        "to": "taiping",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "ideas",
+      "governance"
+    ],
+    "period": "1927年–1931年"
+  },
+  {
+    "id": "long-march",
+    "zh": "红军长征与遵义会议",
+    "pinyin": "Chángzhēng / Zūnyì huìyì",
+    "en": "the Long March and the Zunyi Conference",
+    "def_zh": "红军前四次反“围剿”胜利后，博古李德等“左”倾错误指挥致第五次反“围剿”失败，1934年10月中央红军被迫战略转移。冲破四道封锁线湘江战役损失惨重；1935年1月遵义会议：纠正“左”倾军事错误、肯定毛泽东正确军事主张、选毛泽东为政治局常委——确立以毛泽东为主要代表的马克思主义正确路线在党中央的领导地位，在极其危急关头挽救了党、红军和革命，是党的历史上生死攸关的转折点、党从幼年走向成熟的标志。四渡赤水、巧渡金沙江、强渡大渡河飞夺泸定桥、爬雪山过草地；1935年10月中央红军到达陕北吴起镇，1936年10月三大主力会宁会师——长征胜利结束，红军播下革命种子铸就长征精神，打开中国革命新局面。",
+    "def_en": "Strangled by the fifth encirclement campaign, the Red Army broke out in October 1934 into what survival made an epic: 25,000 li under fire — the Xiang River bloodletting, four crossings of the Chishui, the Luding chains, the snow mountains and the grasslands — from 86,000 marchers to the few thousand who reached Shaanxi a year later. Its pivot was a meeting: at Zunyi (January 1935) the party deposed its failed leadership and turned to Mao — 'the life-or-death turning point', where the CCP, in its own telling, came of age. The March lost an army and won a legend; the legend, endlessly retold, still does political work.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第17课 中国工农红军长征"
+      }
+    ],
+    "collocations": [
+      "the Long March",
+      "the Zunyi Conference",
+      "a strategic retreat made epic",
+      "the Long March spirit"
+    ],
+    "example": "China names rockets 'Long March' — the state's founding ordeal converted into a brand of endurance; every policy campaign 'begins a new Long March', from chip design to trade wars.",
+    "nuance": "长征 = the Long March（斯诺《西行漫记》Red Star Over China 使其进入英语——新闻史与革命史的交汇）。遵义会议的党史地位表述（“生死攸关的转折点”）是标准语。“万五千里”= 25,000 li（不必换算，保留原味）。",
+    "links": [
+      {
+        "to": "jinggangshan",
+        "rel": "broader"
+      },
+      {
+        "to": "xian-incident",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "alexander-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "ideas"
+    ],
+    "period": "1934年–1936年"
+  },
+  {
+    "id": "xian-incident",
+    "zh": "从九一八到西安事变",
+    "pinyin": "Xī'ān shìbiàn",
+    "en": "from Mukden to the Xi'an Incident",
+    "def_zh": "1931年九一八事变后（蒋介石不抵抗，东北三省沦陷、伪满洲国成立），中国人民局部抗战开始：东北抗日义勇军、杨靖宇游击队；1935年华北危机（“华北之大，已经安放不得一张平静的书桌了”）激起一二·九运动，中共发表八一宣言、瓦窑堡会议确立建立抗日民族统一战线方针。1936年12月12日张学良杨虎城为逼蒋抗日发动西安事变（兵谏）；中共从全民族利益出发主张和平解决，派周恩来赴西安谈判，蒋介石被迫接受停止内战联共抗日——十年内战基本结束，抗日民族统一战线初步形成。",
+    "def_en": "Japan took Manchuria in 1931 against orders not to resist, and the student cry of 1935 — 'North China is too small for a quiet desk' — measured the pressure building against Chiang's 'internal pacification first'. On 12 December 1936 his own generals, Zhang Xueliang and Yang Hucheng, kidnapped him at Xi'an to force the issue; the CCP, choosing nation over revenge, sent Zhou Enlai to negotiate his release on terms: end the civil war, fight Japan together. The decade of Communist-hunting closed, and the second united front — the wartime alliance — took shape.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第18课 从九一八事变到西安事变"
+      }
+    ],
+    "collocations": [
+      "the Mukden Incident",
+      "non-resistance",
+      "kidnapping the Generalissimo",
+      "the second united front"
+    ],
+    "example": "The Xi'an Incident is modern history's most consequential kidnapping — two weeks that redirected the war, the civil war, and arguably the century; Zhang Xueliang spent the next fifty years under house arrest for it.",
+    "nuance": "西安事变 = the Xi'an Incident；“兵谏”= a military remonstrance（谏的传统语汇武装化——链 [[tang-golden-age]] 的 remonstrance）。张学良的世纪软禁与晚年口述史是两岸史学富矿。“攘外必先安内”= first internal pacification, then external resistance。",
+    "links": [
+      {
+        "to": "japanese-militarism",
+        "rel": "effect"
+      },
+      {
+        "to": "long-march",
+        "rel": "related"
+      },
+      {
+        "to": "war-of-resistance",
+        "rel": "cause"
+      },
+      {
+        "to": "northern-expedition",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1931年–1936年"
+  },
+  {
+    "id": "war-of-resistance",
+    "zh": "全民族抗战（正面与敌后战场）",
+    "pinyin": "quánmínzú kàngzhàn",
+    "en": "the War of Resistance: front and rear battlefields",
+    "def_zh": "1937年七七事变（卢沟桥）后全民族抗战开始，国共二次合作（红军改编八路军新四军）。日军暴行：1937年12月南京大屠杀，屠杀手无寸铁的平民与放下武器的士兵达30万人以上。正面战场：淞沪会战（姚子青谢晋元）粉碎日军三个月灭亡中国迷梦；台儿庄战役（李宗仁，抗战以来正面战场最大胜利）；武汉会战（万家岭）后抗战进入相持阶段；第三次长沙会战。敌后战场：平型关大捷（八路军，全民族抗战以来中国军队第一个胜利）；毛泽东《论持久战》驳“亡国论”“速胜论”；根据地建设（地道战地雷战麻雀战）；1940年彭德怀指挥百团大战（破袭日军交通线、振奋抗战信心）。正面敌后相互配合，构成共同抗击日本侵略的战略态势。",
+    "def_en": "The Marco Polo Bridge shots of 7 July 1937 began total war and the second KMT-CCP alliance. Japan answered resistance with atrocity — the Nanjing Massacre of December 1937, over 300,000 civilians and disarmed soldiers murdered. Two battlefields shared the war: the frontal — Shanghai's three-month stand breaking the 'China in three months' boast, Li Zongren's victory at Taierzhuang, Wuhan bleeding the invasion to stalemate; and the rear — Eighth Route Army guerrillas from the first win at Pingxingguan to Peng Dehuai's Hundred Regiments offensive, fighting the tunnel-and-mine war of the base areas, all inside the strategic frame of Mao's On Protracted War: neither doom nor quick victory, but time, space and people ground against a smaller invader.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第19课 七七事变与全民族抗战"
+      },
+      {
+        "book": "ch8a",
+        "chapter": "第20课 正面战场的抗战"
+      },
+      {
+        "book": "ch8a",
+        "chapter": "第21课 敌后战场的抗战"
+      }
+    ],
+    "collocations": [
+      "the Marco Polo Bridge Incident",
+      "the Nanjing Massacre",
+      "protracted war",
+      "the two battlefields"
+    ],
+    "example": "The Nanjing Massacre's memory politics — Japanese textbook revisions, memorial diplomacy, Iris Chang's book — make this the East Asian analogue of Holocaust remembrance debates, and December 13 a national memorial day.",
+    "nuance": "南京大屠杀 = the Nanjing Massacre（西方旧称 the Rape of Nanking）。《论持久战》= On Protracted War——战略经典，西点与商学院皆读。正面/敌后战场 = the frontal/rear-area battlefields（两个战场的贡献权重是两岸史学的持久争点——教材当前表述强调“相互配合”）。",
+    "links": [
+      {
+        "to": "xian-incident",
+        "rel": "effect"
+      },
+      {
+        "to": "wwii",
+        "rel": "broader"
+      },
+      {
+        "to": "japanese-militarism",
+        "rel": "effect"
+      },
+      {
+        "to": "victory-1945",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "war"
+    ],
+    "period": "1937年–1945年"
+  },
+  {
+    "id": "victory-1945",
+    "zh": "抗日战争的胜利",
+    "pinyin": "Kàngzhàn shènglì",
+    "en": "victory in the War of Resistance",
+    "def_zh": "全民族坚持抗战：枣宜会战张自忠、狼牙山五壮士、佟麟阁赵登禹等殉国；日本在占领区的残暴统治（“三光”政策、细菌战、慰安妇制度）。1945年中共七大（延安）：制定党的政治路线、确立毛泽东思想为党的指导思想、选举以毛泽东为首的中央领导集体——为夺取抗战最后胜利准备了条件。1945年8月15日日本宣布无条件投降，9月2日签署投降书；台湾及澎湖列岛回归祖国。中国人民抗日战争是近代以来中国人民反抗外敌入侵第一次取得完全胜利的民族解放战争，促进了中华民族觉醒；中国战场是世界反法西斯战争的东方主战场，对世界反法西斯战争胜利作出巨大贡献（伤亡3500万以上），中国的国际地位得到提高。",
+    "def_en": "Fourteen years from Mukden, eight of total war, over 35 million casualties: Japan's surrender on 15 August 1945 gave modern China its first complete victory over foreign invasion — and returned Taiwan and the Penghus after fifty years. The textbook's summa: a war of national awakening; the eastern main theatre of the world anti-fascist war; the foundation of China's restored international standing (a permanent Security Council seat among the spoils of contribution). The party, meanwhile, left its Seventh Congress at Yan'an with Mao Thought written into its constitution and Mao unchallenged at its head — armed, organised and legitimated for what came next.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第22课 抗日战争的胜利"
+      }
+    ],
+    "collocations": [
+      "unconditional surrender",
+      "the fourteen-year war",
+      "national liberation",
+      "wartime atrocities"
+    ],
+    "example": "September 3rd military parades and the 'fourteen-year' periodisation (from 1931, adopted in 2017 textbooks) show victory's memory still under active management — dating a war is claiming it.",
+    "nuance": "“十四年抗战”表述（1931起算）为教材现行框架——与西方 1937/1939 分期并读。慰安妇 = 'comfort women'（引号为学界惯例，直译的委婉语性质须点破）。中共七大与毛泽东思想 = Mao Zedong Thought（专名，区别于 Maoism 毛主义——外部称呼）。",
+    "links": [
+      {
+        "to": "war-of-resistance",
+        "rel": "broader"
+      },
+      {
+        "to": "wwii",
+        "rel": "broader"
+      },
+      {
+        "to": "yalta-potsdam",
+        "rel": "related"
+      },
+      {
+        "to": "civil-war-1946",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "united-nations",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1945年"
+  },
+  {
+    "id": "civil-war-1946",
+    "zh": "人民解放战争",
+    "pinyin": "Jiěfàng zhànzhēng",
+    "en": "the Chinese Civil War (War of Liberation)",
+    "def_zh": "抗战胜利后全国人民渴望和平民主；1945年毛泽东赴重庆谈判（“弥天大勇”）签《双十协定》；1946年政治协商会议。但1946年6月蒋介石撕毁协定全面进攻中原解放区，内战爆发；国民党进攻陕北山东，中共以运动战粉碎（毛泽东转战陕北、彭德怀青化砭沙家店，粟裕孟良崮）。解放区土地改革（《中国土地法大纲》耕者有其田）使农民踊跃参军支前。1947年刘邓大军千里跃进大别山揭开战略进攻序幕；1948–49年辽沈、淮海、平津三大战役（歼灭和改编国民党军150多万、北平和平解放）基本消灭国民党军主力；1949年4月渡江战役解放南京，国民党在大陆的统治结束。（国统区经济崩溃、通货膨胀，第二条战线反饥饿反内战运动。）",
+    "def_en": "Peace talks at Chongqing produced an accord Chiang tore up within a year: full civil war from June 1946. The script inverted expectations — the Nationalists' 4.3 million men and American equipment against a party whose land reform ('land to the tiller') turned the northern peasantry into its rear, whose generals traded cities for annihilation battles, and whose enemy's currency was dying of hyperinflation. Liu Bocheng and Deng Xiaoping's 1947 lunge to the Dabie mountains turned the tide; the three great campaigns of 1948–49 — Liaoshen, Huaihai, Pingjin — devoured 1.5 million Nationalist troops (Beiping surrendering intact); and in April 1949 the PLA crossed the Yangzi and took Nanjing: Nationalist rule on the mainland was over.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第23课 内战爆发"
+      },
+      {
+        "book": "ch8a",
+        "chapter": "第24课 人民解放战争的胜利"
+      }
+    ],
+    "collocations": [
+      "the Chongqing negotiations",
+      "land to the tiller",
+      "the three great campaigns",
+      "cross the Yangzi",
+      "lose the mainland"
+    ],
+    "example": "'Who lost China?' convulsed American politics for a decade and fed McCarthyism — Washington's own civil war about this one, proof that 1949's shockwaves were global.",
+    "nuance": "“解放战争”= the War of Liberation（中方名）/the Chinese Civil War（通名）——again, naming is narrating。淮海战役国际文献亦作 the Huaihai Campaign。“耕者有其田”= land to the tiller（孙中山口号由中共兑现——继承政治的修辞学）。金圆券恶性通胀链 [[versailles]] 魏玛、[[jiaozi]]。",
+    "links": [
+      {
+        "to": "victory-1945",
+        "rel": "effect"
+      },
+      {
+        "to": "northern-expedition",
+        "rel": "related"
+      },
+      {
+        "to": "jinggangshan",
+        "rel": "related"
+      },
+      {
+        "to": "october-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "cold-war",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance",
+      "society"
+    ],
+    "period": "1946年–1949年"
+  },
+  {
+    "id": "modern-society-change",
+    "zh": "近代经济、社会与文教变化",
+    "pinyin": "jìndài jīngjì shèhuì biànhuà",
+    "en": "economic and social change in the Republican era",
+    "def_zh": "民族资本主义：19世纪六七十年代产生；甲午后张謇“实业救国”创办大生纱厂（状元办厂）；辛亥革命后与一战期间（列强忙于欧战放松掠夺）迎来“短暂的春天”；一战后再受挤压，在夹缝中顽强挣扎（荣氏兄弟等）——总体落后、集中于轻工业与沿海沿江。社会生活：剪辫易服劝禁缠足、改称呼（“先生”）废跪拜，火车轮船电车汽车、照相电影报纸（《申报》）出版（商务印书馆）改变生活；崇洋逐新与传统并存、新旧并呈多元发展、不平衡。教育文化：京师大学堂、1905年废科举兴学堂学制；鲁迅《狂人日记》《阿Q正传》、齐白石徐悲鸿（《愚公移山》）、聂耳《义勇军进行曲》冼星海《黄河大合唱》、茅盾巴金老舍曹禺等。",
+    "def_en": "Beneath the wars, a society modernised in fragments: 'saving the nation through industry' built Zhang Jian's cotton mills (a top examination graduate turned manufacturer — the status revolution in one career), and the First World War's distraction gave native capitalism its 'brief spring' before foreign competition returned. Queues were cut, feet unbound, 'Mister' replaced kowtows; trains, trams, photographs, the Shen Bao press and the Commercial Press remade daily life — unevenly, coast before interior, city before village, new jostling old. The exams gave way to schools (1905), and a modern culture found its canon: Lu Xun's fiction, Xu Beihong's brushes, and the resistance anthems — 'March of the Volunteers' among them — that a later state would make its own.",
+    "sources": [
+      {
+        "book": "ch8a",
+        "chapter": "第25课 经济和社会生活的变化"
+      },
+      {
+        "book": "ch8a",
+        "chapter": "第26课 教育文化事业的发展"
+      }
+    ],
+    "collocations": [
+      "national capitalism",
+      "saving the nation through industry",
+      "a brief spring",
+      "the abolition of the examinations (1905)"
+    ],
+    "example": "China's national anthem premiered in a 1935 movie as a resistance song — 'March of the Volunteers' is film music that conquered a state, the era's cultural churn in a single fact.",
+    "nuance": "民族资本主义 = national/native capitalism（“民族”此处指本国民族资本，非 ethnic——高频误译）。1905废科举收束 [[imperial-examinations]] 的1300年长线。“短暂的春天”与一战的关联链 [[wwi]]——世界史事件的中国经济效应。张謇“状元办厂”= the zhuangyuan industrialist（状元无对应词，音译加注）。",
+    "links": [
+      {
+        "to": "self-strengthening",
+        "rel": "effect"
+      },
+      {
+        "to": "wwi",
+        "rel": "related"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "new-culture",
+        "rel": "related"
+      },
+      {
+        "to": "burghers",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "society",
+      "culture"
+    ],
+    "period": "1860年代–1949年"
+  }
+]
