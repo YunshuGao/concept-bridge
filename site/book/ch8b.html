@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>义务教育教科书·历史 八年级下册 · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>义务教育教科书·历史 八年级下册<span class="en">Chinese History, Year 8 Volume 2</span></h1>
+<h2>第1课 中华人民共和国成立 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/prc-founding.html">中华人民共和国成立 · the founding of the People&#x27;s Republic of China</a></div></div>
+<h2>第2课 抗美援朝 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/korean-war.html">抗美援朝 · the War to Resist America and Aid Korea</a></div></div>
+<h2>第3课 土地改革 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/land-reform-1950.html">土地改革（1950–52） · the Land Reform of 1950-52</a></div></div>
+<h2>第4课 新中国工业化的起步和人民代表大会制度的确立 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/first-fyp.html">一五计划与人民代表大会制度 · the First Five-Year Plan and the people&#x27;s congress system</a></div></div>
+<h2>第5课 三大改造 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/three-transformations.html">三大改造 · the Three Great Transformations</a></div></div>
+<h2>第6课 艰辛探索与建设成就 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/exploration-setbacks.html">艰辛探索与建设成就（1956–76） · the arduous exploration, 1956-76</a></div></div>
+<h2>第7课 伟大的历史转折 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/third-plenum.html">十一届三中全会（伟大的历史转折） · the Third Plenum of 1978</a></div></div>
+<h2>第8课 经济体制改革 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/economic-reform.html">经济体制改革 · the economic system reforms</a></div></div>
+<h2>第9课 对外开放 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/opening-up.html">对外开放 · the opening to the world</a></div></div>
+<h2>第10课 建设中国特色社会主义 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/socialism-chinese.html">中国特色社会主义理论体系 · socialism with Chinese characteristics</a></div></div>
+<h2>第11课 为实现中国梦而努力奋斗 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/socialism-chinese.html">中国特色社会主义理论体系 · socialism with Chinese characteristics</a></div></div>
+<h2>第12课 民族大团结 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ethnic-autonomy.html">民族区域自治制度 · regional ethnic autonomy</a></div></div>
+<h2>第13课 香港和澳门回归祖国 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/one-country-two-systems.html">一国两制与香港澳门回归 · One Country, Two Systems and the return of Hong Kong and Macau</a></div></div>
+<h2>第14课 海峡两岸的交往 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/cross-strait.html">海峡两岸的交往 · cross-strait relations</a></div></div>
+<h2>第15课 钢铁长城 <span class='count'>(0)</span></h2><div class='grid'></div>
+<h2>第16课 独立自主的和平外交 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/prc-diplomacy.html">新中国外交（从和平共处到大国外交） · PRC diplomacy: from Five Principles to great-power diplomacy</a></div></div>
+<h2>第17课 外交事业的发展 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/prc-diplomacy.html">新中国外交（从和平共处到大国外交） · PRC diplomacy: from Five Principles to great-power diplomacy</a></div></div>
+<h2>第18课 科技文化成就 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/science-two-bombs.html">科技文化成就与社会生活变迁 · science and life: from Two Bombs, One Satellite to the high-speed era</a></div></div>
+<h2>第19课 社会生活的变迁 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/science-two-bombs.html">科技文化成就与社会生活变迁 · science and life: from Two Bombs, One Satellite to the high-speed era</a></div></div>
+<h2>第20课 活动课：生活环境的巨大变化 <span class='count'>(0)</span></h2><div class='grid'></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
