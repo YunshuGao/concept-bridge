@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Graph · ConceptBridge</title>
+<title>法老 · pharaoh · ConceptBridge</title>
 <style>
 :root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
         --muted:#6b6b7b; --line:#e5e0d8; }
@@ -49,50 +49,25 @@ canvas { width:100%; background:var(--card); border:1px solid var(--line); borde
 </head>
 <body>
 <header>
-  <a href="index.html">概念桥 ConceptBridge</a>
-  <span class="crumb"></span>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第1课 古代埃及</span>
   <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
          autocomplete="off">
   <div id="results" style="display:none"></div>
 </header>
 <main>
-<h1>网络图 <span class='en'>Concept graph — click a node</span></h1><canvas id='g' style='height:560px'></canvas><script>const GDATA={"nodes": [{"id": "nile-river", "zh": "尼罗河"}, {"id": "ancient-egypt", "zh": "古埃及文明"}, {"id": "pharaoh", "zh": "法老"}, {"id": "pyramids", "zh": "金字塔"}, {"id": "sphinx", "zh": "狮身人面像"}, {"id": "hieroglyphs", "zh": "象形文字"}, {"id": "solar-calendar", "zh": "太阳历"}, {"id": "mummification", "zh": "木乃伊"}, {"id": "river-valley-civilizations", "zh": "大河文明"}, {"id": "primitive-society", "zh": "原始社会"}, {"id": "slave-society", "zh": "奴隶社会"}, {"id": "clan-society", "zh": "氏族社会"}, {"id": "private-property", "zh": "私有制"}], "edges": [{"s": "nile-river", "t": "ancient-egypt"}, {"s": "nile-river", "t": "river-valley-civilizations"}, {"s": "nile-river", "t": "solar-calendar"}, {"s": "ancient-egypt", "t": "pharaoh"}, {"s": "ancient-egypt", "t": "river-valley-civilizations"}, {"s": "pharaoh", "t": "pyramids"}, {"s": "pharaoh", "t": "ancient-egypt"}, {"s": "pyramids", "t": "pharaoh"}, {"s": "pyramids", "t": "sphinx"}, {"s": "sphinx", "t": "pyramids"}, {"s": "hieroglyphs", "t": "ancient-egypt"}, {"s": "solar-calendar", "t": "nile-river"}, {"s": "mummification", "t": "ancient-egypt"}, {"s": "river-valley-civilizations", "t": "nile-river"}, {"s": "primitive-society", "t": "slave-society"}, {"s": "primitive-society", "t": "clan-society"}, {"s": "primitive-society", "t": "private-property"}, {"s": "slave-society", "t": "primitive-society"}, {"s": "slave-society", "t": "private-property"}, {"s": "clan-society", "t": "primitive-society"}, {"s": "private-property", "t": "primitive-society"}, {"s": "private-property", "t": "slave-society"}]};
-const cv=document.getElementById('g'),ctx=cv.getContext('2d');
-const W=cv.width=cv.clientWidth*devicePixelRatio,H=cv.height=560*devicePixelRatio;
-const N=GDATA.nodes.map((n,i)=>({...n,x:Math.random()*W,y:Math.random()*H,vx:0,vy:0}));
-const byId=Object.fromEntries(N.map(n=>[n.id,n]));
-const E=GDATA.edges.filter(e=>byId[e.s]&&byId[e.t]);
-function step(){
-  for(const a of N){a.vx*=.6;a.vy*=.6;
-    for(const b of N){ if(a===b)continue;
-      let dx=a.x-b.x,dy=a.y-b.y,d2=dx*dx+dy*dy+40;const f=1800*devicePixelRatio/d2;
-      a.vx+=dx*f/Math.sqrt(d2);a.vy+=dy*f/Math.sqrt(d2);}
-    a.vx+=(W/2-a.x)*.0012;a.vy+=(H/2-a.y)*.0012;}
-  for(const e of E){const s=byId[e.s],t=byId[e.t];
-    const dx=t.x-s.x,dy=t.y-s.y,d=Math.sqrt(dx*dx+dy*dy)||1,f=(d-90*devicePixelRatio)*.004;
-    s.vx+=dx/d*f;s.vy+=dy/d*f;t.vx-=dx/d*f;t.vy-=dy/d*f;}
-  for(const n of N){n.x+=n.vx;n.y+=n.vy;
-    n.x=Math.max(20,Math.min(W-20,n.x));n.y=Math.max(20,Math.min(H-20,n.y));}
-}
-function draw(){
-  ctx.clearRect(0,0,W,H);ctx.strokeStyle='#d8d2c6';
-  for(const e of E){const s=byId[e.s],t=byId[e.t];
-    ctx.beginPath();ctx.moveTo(s.x,s.y);ctx.lineTo(t.x,t.y);ctx.stroke();}
-  ctx.font=`${11*devicePixelRatio}px sans-serif`;ctx.textAlign='center';
-  for(const n of N){ctx.fillStyle='#1f6f8b';
-    ctx.beginPath();ctx.arc(n.x,n.y,5*devicePixelRatio,0,7);ctx.fill();
-    ctx.fillStyle='#1a1a2e';ctx.fillText(n.zh,n.x,n.y-9*devicePixelRatio);}
-}
-let ticks=0;(function loop(){step();draw();if(++ticks<400)requestAnimationFrame(loop);})();
-cv.addEventListener('click',ev=>{
-  const r=cv.getBoundingClientRect();
-  const x=(ev.clientX-r.left)*devicePixelRatio,y=(ev.clientY-r.top)*devicePixelRatio;
-  for(const n of N){ if((n.x-x)**2+(n.y-y)**2<180*devicePixelRatio)location.href='c/'+n.id+'.html';}
-});
-</script>
+<h1>法老 <span class="pinyin">fǎlǎo</span><span class="en">pharaoh</span></h1>
+<p class="meta">⏳ 前3100年–前30年</p>
+<div class="card"><p class="zh">古埃及最高统治者的称号，集军、政、财、神权于一身，被尊为“神之子”，拥有无上权威。</p><p class="endef">The god-king of ancient Egypt, concentrating military, political, fiscal and religious authority in one person and revered as the son of the gods.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ under the pharaohs</li><li>▸ pharaonic rule/power</li><li>▸ the pharaoh&#x27;s divine authority</li><li>▸ a living god</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Egypt&#x27;s bureaucratic tradition long predates the modern state: the pharaohs were levying grain taxes four millennia before anyone had heard of income tax.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>英语里 pharaonic 常作比喻，形容工程浩大或权力集中（a pharaonic infrastructure project — 常带批评色彩，暗指劳民伤财），中文“法老”无此引申义。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/pyramids.html">金字塔 · the pyramids</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/ancient-egypt.html">古埃及文明 · ancient Egyptian civilisation</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/ancient-egypt.html">古埃及文明 · ancient Egyptian civilisation</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/pyramids.html">金字塔 · the pyramids</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>wh9a 第1课 古代埃及</p>
+<p><a class="tag" href="../themes.html#governance">#governance</a><a class="tag" href="../themes.html#religion">#religion</a></p>
 </main>
 <footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
-<script>const ROOT="";
+<script>const ROOT="../";
 const box=document.getElementById('q'),res=document.getElementById('results');
 let IDX=null;
 async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
