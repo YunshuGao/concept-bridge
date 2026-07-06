@@ -1,0 +1,223 @@
+[
+  {
+    "id": "chinese-culture-core",
+    "zh": "中华优秀传统文化的内涵与特点",
+    "pinyin": "Zhōnghuá yōuxiù chuántǒng wénhuà",
+    "en": "the core ideas of Chinese traditional culture",
+    "def_zh": "内涵：重视以人为本（周公“敬天保民”、孔子“仁者爱人”），政治伦理上即民本思想（管子顺民意、孟子“民为贵，社稷次之，君为轻”）；崇尚天人合一、道法自然（老子；荀子“制天命而用之”——人与自然和谐）；提倡爱国、追求家国情怀（“修身齐家治国平天下”；张载四句；范仲淹先忧后乐；顾炎武“天下兴亡，匹夫有责”）；崇德尚贤、天下为公（“为政以德”“选贤与能”）；崇尚自强不息、厚德载物（《周易》）；主张和而不同（“和实生物，同则不继”“和为贵”）。特点：本土性、多样性、包容性（兼收并蓄）、凝聚性、连续性。发展脉络：先秦奠基—汉尊儒术—儒佛道交融—宋明理学（朱熹格物致知；陆王心学知行合一）—明清批判（黄宗羲顾炎武王夫之经世致用）—近代救亡转型。取其精华去其糟粕、古为今用推陈出新。",
+    "def_en": "The official anatomy of the tradition, formulation by formulation: humanity as the root (ren, 'the people are noblest, the ruler lightest'); heaven-and-humanity as one (harmony with nature's way, not conquest of it); family-state devotion ('cultivate self, order family, govern state, pacify all under heaven' — down to 'every commoner shares responsibility for the world's rise and fall'); virtue and worthiness exalted, 'all under heaven as public trust'; ceaseless self-strengthening bearing all things (the Zhouyi's twinned mottoes); and harmony-without-uniformity as the method of difference. Its listed characters — indigenous origin, diversity, inclusiveness, cohesion, continuity — and its long arc from pre-Qin foundation through Neo-Confucian synthesis to modern reinvention are the frame within which 'cultural confidence' speaks today.",
+    "sources": [
+      {
+        "book": "hx3",
+        "chapter": "第1课 中华优秀传统文化的内涵与特点"
+      }
+    ],
+    "collocations": [
+      "people-centred thought",
+      "harmony between humanity and nature",
+      "family-state sentiment",
+      "harmony without uniformity",
+      "cultural confidence"
+    ],
+    "example": "When 天人合一 appears in a climate speech or 和而不同 at a diplomatic forum, this chapter is the source code — official English renders them 'harmony between humanity and nature' and 'harmony in diversity', and the citations are doing policy work.",
+    "nuance": "官方译语集：以人为本 = people-centred/people first；民本 = people-as-foundation（区别于 democracy——民本 vs 民主的概念史是中西政治思想比较的枢纽，链 [[tang-golden-age]] 舟水之喻、[[declaration-of-independence]]）；天人合一 = the unity of heaven and humanity；家国情怀 = family-state sentiment/patriotic devotion；和而不同 = harmony without uniformity；文化自信 = cultural confidence。理学 = Neo-Confucianism（朱熹 Zhu Xi；心学 the School of Mind，王阳明 Wang Yangming——日韩及当代管理学的活传统）。",
+    "links": [
+      {
+        "to": "confucius",
+        "rel": "broader"
+      },
+      {
+        "to": "laozi",
+        "rel": "related"
+      },
+      {
+        "to": "hundred-schools",
+        "rel": "related"
+      },
+      {
+        "to": "socialism-chinese",
+        "rel": "related"
+      },
+      {
+        "to": "daoism-buddhism-china",
+        "rel": "related"
+      },
+      {
+        "to": "renaissance",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "先秦至今"
+  },
+  {
+    "id": "indo-european-migrations",
+    "zh": "古代人类迁徙与区域文化",
+    "pinyin": "Yìn-Ōu rén qiānxǐ",
+    "en": "the great migrations: Indo-Europeans and after",
+    "def_zh": "约公元前2千纪起，可能起源于东欧平原的印欧人（驯化马、使用马拉战车）大规模迁徙：赫梯人入小亚细亚（冶铁）、波斯人建大帝国、希腊人融合爱琴文明、雅利安人入印度（种姓制度吠陀时代）——深刻影响亚欧大陆区域文化格局。公元3–6世纪亚欧游牧民族大迁徙第二波：匈奴西迁压迫日耳曼人（西罗马灭亡）、五胡内迁（北方民族大交融）——迁徙改变政治版图亦促成文化交融。近代殖民活动引发人口跨地域转移（欧洲人移民美洲大洋洲、非洲奴隶贸易、华工出国——苦力贸易与唐人街），现代移民社会呈多元文化（美国“大熔炉”与文化多样性；新加坡多元和谐）。",
+    "def_en": "History's demography moves in waves. The Indo-Europeans — horse-tamers from the steppe, c. 2000 BC onward — became Hittites in Anatolia, Persians on the plateau, Greeks in the Aegean, Indo-Aryans on the Ganges: one language family's dispersal underlying half the ancient world (why 'mother' sounds alike from Delhi to Dublin). A second wave, 3rd–6th centuries AD, ran the chain Huns → Goths → Rome's fall in the west while the northern peoples merged into China in the east. The modern waves were forced and free together — settlers, slaves and indentured 'coolies' — making today's migration politics, melting pots and Chinatowns this chapter's living epilogue.",
+    "sources": [
+      {
+        "book": "hx3",
+        "chapter": "第6课 古代人类的迁徙和区域文化的形成"
+      },
+      {
+        "book": "hx3",
+        "chapter": "第7课 近代殖民活动和人口的跨地域转移"
+      }
+    ],
+    "collocations": [
+      "the Indo-European family",
+      "steppe migrations",
+      "the Völkerwanderung",
+      "chain migration",
+      "diaspora"
+    ],
+    "example": "That 'mother/mātā/māter' cognate set is philology's founding astonishment (Sir William Jones, Calcutta, 1786) — the discovery that Sanskrit and Latin are cousins created historical linguistics and this chapter's map.",
+    "nuance": "印欧语系 = the Indo-European (language) family——比较语言学的地基（琼斯发现是学术史名场面）。民族大迁徙 = the Migration Period/Völkerwanderung（德语借词）。苦力 = coolie（自汉语/泰米尔语入英——注意其贬义史，学术表述 indentured labourers）。diaspora（离散社群）为移民研究核心词。链 [[aryans]]、[[jin-disunion]]、[[fall-of-rome]]、[[triangular-trade]] 全线贯通。",
+    "links": [
+      {
+        "to": "aryans",
+        "rel": "broader"
+      },
+      {
+        "to": "jin-disunion",
+        "rel": "related"
+      },
+      {
+        "to": "fall-of-rome",
+        "rel": "related"
+      },
+      {
+        "to": "genghis-khan",
+        "rel": "related"
+      },
+      {
+        "to": "triangular-trade",
+        "rel": "related"
+      },
+      {
+        "to": "decolonisation",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "culture",
+      "geography-environment"
+    ],
+    "period": "前2000年至今"
+  },
+  {
+    "id": "cultural-transmission",
+    "zh": "文化传承的载体（学校、书籍、图书馆、博物馆）",
+    "pinyin": "wénhuà chuánchéng zàitǐ",
+    "en": "the vehicles of cultural transmission",
+    "def_zh": "学校：汉太学与地方官学、唐以后书院（白鹿洞书院朱熹学规）传承儒家经典；近代大学（京师大学堂→北京大学；清华）与留学教育；新中国教育体系（扫盲—义务教育—科教兴国）。书籍：简帛—造纸—雕版—活字—近代机器印刷（商务印书馆张元济）；《永乐大典》《四库全书》大型典籍编纂。图书馆：亚述巴尼拔王家图书馆（最早之一）、亚历山大图书馆、中世纪修道院与大学图书馆、近代公共图书馆（国家图书馆前身京师图书馆1909）。博物馆：亚历山大缪斯宫（缪斯神庙——museum词源）、1683牛津阿什莫林（第一个大学博物馆）、大英卢浮宫，中国自然历史博物院（1868法人办）、南通博物苑（1905张謇——中国人自建第一个公共博物馆）、故宫博物院（1925）、国家博物馆——征集收藏展示研究，全方位向公众提供知识教育欣赏，是国民教育与文化传承的重要场所。",
+    "def_en": "Culture survives by institution: schools (the Han Imperial Academy, the Song academies with Zhu Xi's White Deer Grotto rules, the modern university from the Imperial University of 1898 to today's); books (bamboo to paper to print to the Complete Library of the Four Treasuries — and the presses, like the Commercial Press, that industrialised literacy); libraries (Ashurbanipal's tablets, Alexandria's scrolls, the monastery, the public library); and museums — from the Muses' shrine that named them through the Ashmolean (1683) to the Louvre and the Palace Museum (1925), with Zhang Jian's Nantong Museum (1905) as China's first self-built one. The textbook's summary function: collect, preserve, research, display — the memory organs of civilisation.",
+    "sources": [
+      {
+        "book": "hx3",
+        "chapter": "第14课 文化传承的多种载体及其发展"
+      }
+    ],
+    "collocations": [
+      "academies",
+      "the printing press",
+      "public libraries",
+      "museum collections",
+      "cultural memory"
+    ],
+    "example": "The Library of Alexandria's burning is the West's founding data-loss parable, and the British Museum's contested holdings its live curation debate — institutions of memory are never politically neutral, which is this chapter's quiet lesson.",
+    "nuance": "书院 = academies (of classical learning)（岳麓书院至今为湖南大学一部——活的连续性）。museum ← mouseion（缪斯宫）——词源即链 [[alexander-empire]] 的亚历山大城。《四库全书》= the Complete Library of the Four Treasuries（其编纂与文字狱同一时期——文化工程的两面性，链 [[grand-council]]）。张謇再现（链 [[modern-society-change]]）。",
+    "links": [
+      {
+        "to": "universities",
+        "rel": "related"
+      },
+      {
+        "to": "papermaking",
+        "rel": "related"
+      },
+      {
+        "to": "song-yuan-inventions",
+        "rel": "related"
+      },
+      {
+        "to": "house-of-wisdom",
+        "rel": "related"
+      },
+      {
+        "to": "modern-society-change",
+        "rel": "related"
+      },
+      {
+        "to": "cultural-heritage",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "period": "古代至今"
+  },
+  {
+    "id": "cultural-heritage",
+    "zh": "文化遗产：全人类共同的财富",
+    "pinyin": "wénhuà yíchǎn",
+    "en": "cultural heritage: the common wealth of humanity",
+    "def_zh": "文化遗产面临天灾人祸威胁（战争劫掠、环境破坏、过度开发），保护刻不容缓。保护历程：各国立法（1834希腊古迹保护法为最早之一；中国1906《保存古物推广办法》、1930《古物保存法》、1961全国重点文物保护单位、1982《文物保护法》）；国际合作——1964《威尼斯宪章》（真实性完整性原则），1972年联合国教科文组织《保护世界文化和自然遗产公约》确立世界遗产体系（文化遗产、自然遗产、双重遗产），2003年《保护非物质文化遗产公约》（中国2004年加入；昆曲古琴等入选人类非遗代表作名录）。中国1985年加入世界遗产公约，已列入世界遗产名录数十项（长城故宫莫高窟秦陵兵马俑良渚等）——保护遗产、传承文明是全人类共同责任。",
+    "def_en": "Heritage dies by war, weather and development, so the modern world built it a legal ark: national statutes from Greece's antiquities law (1834) to China's Cultural Relics Protection Law (1982); the Venice Charter's authenticity-and-integrity principles (1964); and UNESCO's 1972 World Heritage Convention — the system behind every plaque — extended in 2003 to intangible heritage, where Kunqu opera and the guqin were early listings. China joined in 1985 and has stacked the list from the Great Wall and Mogao to Liangzhu; the textbook's closing note is the convention's own: heritage belongs to everyone, and so does the duty of keeping it.",
+    "sources": [
+      {
+        "book": "hx3",
+        "chapter": "第15课 文化遗产：全人类共同的财富"
+      }
+    ],
+    "collocations": [
+      "World Heritage Site",
+      "intangible cultural heritage",
+      "authenticity and integrity",
+      "restitution of artefacts",
+      "in danger listing"
+    ],
+    "example": "UNESCO listing moves markets and armies alike — tourism booms, restorations fund, and 'World Heritage in Danger' becomes a diplomatic instrument from Palmyra to Liverpool (delisted 2021, to general shock).",
+    "nuance": "物质/非物质文化遗产 = tangible/intangible cultural heritage（ICH 为标准缩写）。《威尼斯宪章》真实性 = authenticity（修旧如旧 vs 重建的国际准则之争——中式复建常在此受质疑，文化差异点）。文物返还 = restitution/repatriation of artefacts——链 [[second-opium-war]] 圆明园兽首。良渚申遗链 [[liangzhu]] 收环。",
+    "links": [
+      {
+        "to": "liangzhu",
+        "rel": "related"
+      },
+      {
+        "to": "great-wall-forbidden-city",
+        "rel": "related"
+      },
+      {
+        "to": "second-opium-war",
+        "rel": "related"
+      },
+      {
+        "to": "united-nations",
+        "rel": "related"
+      },
+      {
+        "to": "cultural-transmission",
+        "rel": "related"
+      },
+      {
+        "to": "dream-red-chamber",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "governance"
+    ],
+    "period": "1834年至今"
+  }
+]
