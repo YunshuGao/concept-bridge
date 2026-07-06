@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "peking-man",
+    "zh": "北京人与中国早期人类",
+    "pinyin": "Běijīngrén",
+    "en": "Peking Man and early humans in China",
+    "def_zh": "中国是发现古人类遗址最多的国家之一：元谋人（距今约170万年，境内已确认最早）已能制作工具、知道用火。北京人（周口店龙骨山，距今约70万–20万年；1929年裴文中发现第一个头盖骨）能直立行走，用打制石器（旧石器时代）猎取采集、群体生活，会使用并保存火种——学会用火是人类进化史上的里程碑。距今约3万年的山顶洞人已具现代人特征，掌握磨光钻孔技术、懂人工取火、有爱美意识并埋葬逝者。",
+    "def_en": "China's fossil record of early humans is among the world's richest: Yuanmou Man (c. 1.7m years ago) already made tools and knew fire; Peking Man of Zhoukoudian (700,000–200,000 years ago, the first skullcap found by Pei Wenzhong in 1929) walked upright, hunted with flaked Palaeolithic stone tools, lived in bands and kept fire alive — mastering fire being a milestone of human evolution. By 30,000 years ago the Upper Cave people were essentially modern, grinding and drilling their tools, kindling fire at will, wearing ornaments and burying their dead.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第1课 中国境内早期人类的代表——北京人"
+      }
+    ],
+    "collocations": [
+      "Homo erectus",
+      "the Palaeolithic (Old Stone Age)",
+      "hominid fossils",
+      "master fire",
+      "hunter-gatherers"
+    ],
+    "example": "Peking Man's skulls, lost in the chaos of 1941 and never found, remain palaeontology's most famous missing luggage — and China's founding contribution to the human-origins story.",
+    "nuance": "“北京人”学名 Peking Man（保留旧拼法 Peking，不作 Beijing Man——学史名词的化石性）；直立人 = Homo erectus；智人 = Homo sapiens。旧石器/新石器时代 = the Palaeolithic/Neolithic（英式拼写含ae）。“打制/磨制石器”= flaked/polished stone tools。",
+    "links": [
+      {
+        "to": "primitive-society",
+        "rel": "related"
+      },
+      {
+        "to": "neolithic-farming",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "society",
+      "science-tech"
+    ],
+    "period": "约170万年前–3万年前"
+  },
+  {
+    "id": "neolithic-farming",
+    "zh": "原始农耕（河姆渡与半坡）",
+    "pinyin": "yuánshǐ nónggēng",
+    "en": "Neolithic farming: Hemudu and Banpo",
+    "def_zh": "约一万年前中国进入新石器时代：世界最早的栽培稻、粟、黍均发现于中国——长江中下游先民栽培稻，北方栽培粟黍，是中国先民对人类文明的重要贡献。农作物种植、家畜饲养、聚落与磨制石器是原始农业兴起的标志，为文明社会奠定物质基础。河姆渡遗址（距今约7000年，浙江余姚）：干栏式建筑（中国最早木构建筑）、木结构水井、骨耜、猪狗水牛、陶器玉器骨哨。半坡遗址（距今约6000年，西安）：半地穴式圆形房屋、磨制石器种粟、彩陶（人面鱼纹盆）、纺轮制衣。",
+    "def_en": "Around 10,000 years ago China entered the Neolithic with a world first: the earliest domesticated rice (Yangzi valley) and millets (the north) yet found anywhere. Crops, livestock, settled villages and polished tools mark agriculture's rise — civilisation's material base. Hemudu (c. 7,000 years ago, near today's Ningbo) built China's first timber-framed, stilt-raised houses and its oldest wooden well, tilled paddies with bone spades and kept pigs and water buffalo; Banpo near Xi'an (c. 6,000 years ago) lived in semi-subterranean roundhouses, grew millet, spun and wove, and painted its pottery with the famous human-fish masks.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第2课 原始农耕生活"
+      }
+    ],
+    "collocations": [
+      "the domestication of rice/millet",
+      "the Neolithic revolution",
+      "sedentism (settled life)",
+      "painted pottery"
+    ],
+    "example": "Agricultural origins are a two-centre story: wheat and barley radiated from the Fertile Crescent, rice and millet from China — every bowl of fried rice cites a 10,000-year-old patent.",
+    "nuance": "“驯化”= domestication（农业起源研究的核心词）；“新石器革命”= the Neolithic revolution（柴尔德术语）。“干栏式建筑”= stilt/pile dwellings；“半地穴式”= semi-subterranean。河姆渡/半坡英语文献作 Hemudu/Banpo。",
+    "links": [
+      {
+        "to": "peking-man",
+        "rel": "replaced"
+      },
+      {
+        "to": "river-valley-civilizations",
+        "rel": "related"
+      },
+      {
+        "to": "liangzhu",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "clan-society",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "society"
+    ],
+    "period": "约1万年前–5000年前"
+  },
+  {
+    "id": "liangzhu",
+    "zh": "良渚古城与中华五千年文明",
+    "pinyin": "Liángzhǔ",
+    "en": "Liangzhu and 5,000 years of Chinese civilisation",
+    "def_zh": "良渚古城（杭州余杭，距今5300–4300年）：宫殿区内城外城、同期世界最大的水利系统（影响面积100平方千米）、30万平方米人工高台，工程总量超1000万立方米——见证经济发展水平与统治者的组织调动能力；权贵墓随葬精美玉琮玉璧玉钺与普通墓对比鲜明，阶级分化明显。良渚证实距今约5000年长江下游已出现早期国家、进入文明社会；2019年列入《世界遗产名录》。（陶寺、大汶口、龙山等发现共同表明中华文明起源“多元一体”。）",
+    "def_en": "Liangzhu, near Hangzhou (5,300–4,300 years ago): a walled city with palace precinct, the largest water-management system of its age anywhere, and monumental platforms whose earthworks exceed ten million cubic metres — evidence of a state that could command labour on that scale, its elite buried under heaps of ritual jades while commoners took almost nothing. It is the site that grounds the claim of '5,000 years of Chinese civilisation' in archaeology, UNESCO-listed in 2019; with Taosi, Dawenkou and Longshan it shows a civilisation born plural and converging — 'diverse in origin, one in body'.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第2课 原始农耕生活"
+      }
+    ],
+    "collocations": [
+      "early state formation",
+      "social stratification",
+      "ritual jades (cong and bi)",
+      "UNESCO World Heritage"
+    ],
+    "example": "When Xinhua says archaeology 'proves 5,000 years of civilisation', Liangzhu is exhibit A — and Western prehistorians increasingly concur, which is why the site's 2019 UNESCO listing was reported as a diplomatic event.",
+    "nuance": "“多元一体”官方译法 diverse in origin yet unified / pluralistic unity——中华文明叙事的关键词，英译不统一，引用时宜附中文。“早期国家”= early state；“阶级分化”= social stratification。玉琮玉璧英语直接作 cong、bi。",
+    "links": [
+      {
+        "to": "neolithic-farming",
+        "rel": "broader"
+      },
+      {
+        "to": "yan-huang",
+        "rel": "related"
+      },
+      {
+        "to": "xia-dynasty",
+        "rel": "related"
+      },
+      {
+        "to": "river-valley-civilizations",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "governance"
+    ],
+    "period": "约前3300年–前2300年"
+  },
+  {
+    "id": "yan-huang",
+    "zh": "炎黄传说与人文初祖",
+    "pinyin": "Yán-Huáng",
+    "en": "the Yan and Yellow Emperors",
+    "def_zh": "五六千年前中国进入部落联盟时期：黄帝在阪泉之战胜炎帝、两部结盟，又在涿鹿之战败蚩尤，被推举为部落联盟首领，该联盟逐渐形成华夏族——故炎黄被尊为中华民族的“人文初祖”，海内外华人自称“炎黄子孙”。传说炎帝教民耕种制陶，黄帝建宫室、制衣裳、造船只，嫘祖缫丝、仓颉造字。梁启超：华夏民族“诸族错居……渐化合以成一族”。",
+    "def_en": "In legend, five to six millennia ago the Yellow Emperor defeated the Yan Emperor at Banquan and absorbed his people, then crushed Chiyou at Zhuolu and led the allied tribes that would become the Huaxia — hence the two are honoured as the 'first ancestors of civilisation', and Chinese worldwide call themselves 'descendants of Yan and Huang'. The legends credit them with farming, pottery, houses, boats, silk and writing; as Liang Qichao noted, the Chinese nation formed by many peoples 'blending their small differences into one great sameness'.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第3课 远古的传说"
+      }
+    ],
+    "collocations": [
+      "the Yellow Emperor",
+      "descendants of the dragon/of Yan and Huang",
+      "founding myths",
+      "legendary sage-kings"
+    ],
+    "example": "State visits to the Yellow Emperor's mausoleum make the front page in China for the same reason Bastille Day does in France: founding myths are load-bearing politics.",
+    "nuance": "黄帝 = the Yellow Emperor（专名意译，勿音译 Huangdi 单用致歧义——与“皇帝”同音）。“人文初祖”无固定英译，可作 the founding ancestors of Chinese civilisation。myth/legend 在英语学术中为中性词（founding myth 不含贬义）——这与中文“神话≠史实”的敏感不同，翻译叙述立场时须留意。",
+    "links": [
+      {
+        "to": "liangzhu",
+        "rel": "related"
+      },
+      {
+        "to": "shanrang",
+        "rel": "related"
+      },
+      {
+        "to": "homer-epics",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "period": "约5000–6000年前（传说）"
+  },
+  {
+    "id": "shanrang",
+    "zh": "禅让制与大禹治水",
+    "pinyin": "shànràngzhì",
+    "en": "abdication to the worthy and Yu the flood-tamer",
+    "def_zh": "尧舜禹时期部族联盟实行禅让制：将联盟首领之位传给贤德之人——尧举舜，舜让禹。禹之父鲧堵水九年无功被处死；禹总结教训改用疏导，开渠引洪入海，“三过家门而不入”，十余年消除水患，被尊“大禹”。",
+    "def_en": "Under the legendary sage-kings Yao, Shun and Yu, leadership passed by abdication to the worthiest, not the son. Yu earned it by taming the great flood: where his father's dykes had failed for nine years, Yu dredged and channelled the waters to the sea, thrice passing his own gate without entering — thirteen years of public service that made him 'Yu the Great'.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第3课 远古的传说"
+      }
+    ],
+    "collocations": [
+      "the sage-kings",
+      "abdicate in favour of the worthy",
+      "flood control",
+      "merit over birth"
+    ],
+    "example": "Yu's flood beats Noah's as a political story: where the Bible's hero builds a boat and escapes, China's digs channels and governs — the founding myth of the engineering state.",
+    "nuance": "“禅让”可译 abdication in favour of the worthy（无现成英语对应——概念本身即中西政治想象的分岔点）。大禹治水 vs 诺亚方舟的对比（治理 vs 逃离）是中西文明比较的经典段子，向英语读者解释中国国家观时极好用。“三过家门而不入”需意译：thrice passed his door without entering。",
+    "links": [
+      {
+        "to": "yan-huang",
+        "rel": "related"
+      },
+      {
+        "to": "xia-dynasty",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "athenian-democracy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "约前22世纪（传说）"
+  },
+  {
+    "id": "xia-dynasty",
+    "zh": "夏朝与世袭制",
+    "pinyin": "Xiàcháo / shìxízhì",
+    "en": "the Xia dynasty and hereditary succession",
+    "def_zh": "约前2070年禹建立夏朝——中国历史上第一个王朝；禹死后其子启凭强大势力继位，世袭制代替禅让制（“夏传子，家天下”），并建军队、定刑法、设监狱。洛阳平原二里头遗址（宫殿建筑群、青铜酒器、镶绿松石铜牌、最早青铜礼器铜鼎）反映夏朝的阶级分化与文明进程。历经400多年至夏桀，奢侈暴虐，为商汤所灭。",
+    "def_en": "Founded by Yu around 2070 BC — China's first dynasty. When Yu's son Qi took the throne by force of his backing, hereditary succession replaced abdication: 'the realm became a family possession'. The Erlitou site near Luoyang — palace compounds, bronze ritual vessels, turquoise-inlaid plaques — shows the stratified, bronze-using polity behind the tradition; after four centuries the tyrant Jie fell to Tang of Shang.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第4课 夏商周的更替"
+      }
+    ],
+    "collocations": [
+      "hereditary succession",
+      "the dynastic cycle",
+      "all under heaven as family property",
+      "the Mandate dynasties"
+    ],
+    "example": "The Xia is where Chinese history's operating system boots up: hereditary kingship, the bad-last-emperor story, and the dynasty-falls-to-virtue plot that every later transition reruns.",
+    "nuance": "“家天下”对译 the realm as family property / all-under-Heaven becomes a family estate（《礼记》“天下为公→天下为家”即 the great commonwealth 让位于 family rule）。西方学界对夏是否史实存审慎态度（Erlitou culture 为中性表述）——读英语文献时的口径差异点。",
+    "links": [
+      {
+        "to": "shanrang",
+        "rel": "replaced"
+      },
+      {
+        "to": "shang-zhou",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "slave-society",
+        "rel": "related"
+      },
+      {
+        "to": "pharaoh",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "约前2070年–前1600年"
+  },
+  {
+    "id": "shang-zhou",
+    "zh": "商汤灭夏与武王伐纣",
+    "pinyin": "Shāng-Zhōu gēngtì",
+    "en": "the Shang-Zhou transitions",
+    "def_zh": "约前1600年汤灭桀建商（都亳，后盘庚迁殷）；商长期征战拓土，设监狱酷刑控制奴隶平民；奴隶集体劳动、可被买卖屠杀殉葬（殷墟商王大墓殉葬奴隶400多）。末王纣“酒池肉林”、赋敛酷刑。周部族兴于渭水周原，前1046年武王联合各族牧野决战，商军倒戈，纣亡国灭；武王建周都镐京，史称西周。（前841年“国人暴动”厉王逃亡；前771年犬戎灭西周，平王东迁洛邑为东周。）",
+    "def_en": "Tang overthrew the tyrant Jie around 1600 BC and founded Shang — a conquest state of bronze, war and human sacrifice, whose royal tombs at Yinxu hold hundreds of slaughtered retainers. Its last king Zhou, of 'wine-pool and meat-forest' infamy, fell in 1046 BC when King Wu of Zhou met the Shang host at Muye and its conscripts turned their spears; the Zhou reigned from Haojing until nomad invasion in 771 BC pushed the court east to Luoyi — Western Zhou giving way to Eastern.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第4课 夏商周的更替"
+      }
+    ],
+    "collocations": [
+      "dynastic overthrow",
+      "the Mandate of Heaven",
+      "human sacrifice",
+      "the bad last king"
+    ],
+    "example": "The 'bad last emperor' is Chinese historiography's stock character — Jie, then Zhou of Shang, wrote the role every fallen dynasty's finale would recast.",
+    "nuance": "“汤武革命”传统正是 the Mandate of Heaven（天命）叙事的源头：暴君失德则天命转移、征诛有理——与欧洲 divine right（不可转移）成镜像，是本知识库最有力的中西对照之一。纣王 King Zhou of Shang 与周朝 the Zhou dynasty 拼写相同——英语文献靠上下文区分，写作时须自觉消歧。",
+    "links": [
+      {
+        "to": "xia-dynasty",
+        "rel": "replaced"
+      },
+      {
+        "to": "fengjian",
+        "rel": "related"
+      },
+      {
+        "to": "oracle-bones",
+        "rel": "related"
+      },
+      {
+        "to": "divine-right",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "约前1600年–前771年"
+  },
+  {
+    "id": "fengjian",
+    "zh": "西周分封制",
+    "pinyin": "fēnfēngzhì",
+    "en": "the Western Zhou enfeoffment system",
+    "en_alt": [
+      "the fengjian system",
+      "Zhou 'feudalism'"
+    ],
+    "def_zh": "周王为稳定政局巩固疆土，据血缘远近与功劳大小分封宗亲功臣到各地建诸侯国，授予土地人民的管理权；诸侯独立性较大，但须进献贡物、服从调兵，且可在封地内再分封——确立“分封制”等级社会：天子、诸侯、卿大夫、士。（“我的附庸的附庸，不是我的附庸”式的层级在中国同样成立。）",
+    "def_en": "To hold its new conquests the Zhou king parcelled the land among kinsmen and meritorious allies, each ruling a vassal state owing tribute and troops, each free to subinfeudate in turn — a graded order of king, lords, ministers and knights bound by blood and ritual. This fengjian ('enfeoffment') order is what the Chinese word 封建 originally meant.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第4课 夏商周的更替"
+      }
+    ],
+    "collocations": [
+      "enfeoffment",
+      "vassal states",
+      "kinship-based rule",
+      "subinfeudation",
+      "tribute and military service"
+    ],
+    "example": "Here is the pivot of the 封建 trap: Zhou enfeoffment genuinely resembles European feudalism — which is why calling imperial China after Qin 'feudal' is doubly wrong: the First Emperor's whole point was abolishing this system for governors he could fire.",
+    "nuance": "本知识库核心枢纽：封建 fengjian 的本义即此制，与欧洲 feudalism（[[lords-and-vassals]]）真正可比；而马克思主义分期把秦以后两千年称“封建社会”，与两者皆异——英语写作谈周制用 enfeoffment/the fengjian order，谈欧洲用 feudalism，谈帝制中国用 imperial China。三分清楚，误译绝迹。",
+    "links": [
+      {
+        "to": "shang-zhou",
+        "rel": "broader"
+      },
+      {
+        "to": "lords-and-vassals",
+        "rel": "contrast"
+      },
+      {
+        "to": "junxian",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "ritual-bronzes",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "前1046年–前771年"
+  },
+  {
+    "id": "ritual-bronzes",
+    "zh": "青铜器与礼制",
+    "pinyin": "qīngtóngqì",
+    "en": "ritual bronzes",
+    "def_zh": "商周青铜器由食器发展为礼器，成为身份地位乃至国家权力的象征，类型数量体现权力大小与森严等级：西周以鼎簋数量区分贵族等级（天子九鼎八簋、诸侯七鼎六簋……）。工匠准确掌握铜锡铅比例，泥范铸造；司母戊鼎（后母戊鼎）重832.84千克，为世界出土最重青铜器；利簋铭文记武王伐纣；三星堆出土金杖、青铜树与人像别具一格。",
+    "def_en": "Shang and Zhou bronze vessels evolved from cookware into the regalia of rank: the number of ding tripods and gui tureens one might use was fixed by grade — nine and eight for the Son of Heaven down the ladder — making tableware a written constitution. Cast in piece-moulds to precise copper-tin recipes, they include the 833kg Simuwu ding, the heaviest bronze ever unearthed, the Li gui whose inscription dates the conquest of Shang, and Sanxingdui's utterly unclassical masks and trees.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第5课 青铜器与甲骨文"
+      }
+    ],
+    "collocations": [
+      "ritual vessels",
+      "the ding tripod",
+      "sumptuary rules",
+      "piece-mould casting",
+      "inscribed bronzes"
+    ],
+    "example": "'问鼎' — asking the weight of the king's tripods — still means eyeing the top prize, from the Champions League to the presidency: three thousand years old and in this morning's sports pages.",
+    "nuance": "鼎 = ding (tripod cauldron)，英语考古文献直接用拼音。“问鼎中原”典出楚庄王——向英语读者解释可作 to covet the throne（字面 ask about the tripods）。“礼器”= ritual vessels；等级用器规定即 sumptuary rules（禁奢令，欧洲中世纪同有——绝佳平行概念）。",
+    "links": [
+      {
+        "to": "fengjian",
+        "rel": "related"
+      },
+      {
+        "to": "oracle-bones",
+        "rel": "related"
+      },
+      {
+        "to": "shang-zhou",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "culture",
+      "governance"
+    ],
+    "period": "前16世纪–前771年"
+  },
+  {
+    "id": "oracle-bones",
+    "zh": "甲骨文",
+    "pinyin": "jiǎgǔwén",
+    "en": "the oracle bone script",
+    "def_zh": "商周刻写在龟甲兽骨上的文字，1899年王懿荣从中药“龙骨”上首次发现；出土商代有字甲骨约15万片、单字4400以上、已识1500以上。内容涉祭祀战争农牧官制刑法医药天文历法。使用象形、指事、会意、形声、假借等造字法（象形约40%，形声最进步），已具备汉字基本结构——中国已发现年代最早、体系较完整的文字；我国有文字可考的历史从商朝开始。（青铜器铭文称金文。）",
+    "def_en": "The script of Shang divination, carved on turtle plastrons and ox scapulae — recognised in 1899 when the scholar Wang Yirong noticed writing on 'dragon bones' sold as medicine. Some 150,000 inscribed pieces record sacrifices, wars, harvests and star-signs in over 4,400 characters, built by the same methods (pictographs, compound ideas, phonetic compounds) that still generate Chinese characters: the earliest systematic Chinese writing, and the point where China's documented history begins.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第5课 青铜器与甲骨文"
+      }
+    ],
+    "collocations": [
+      "oracle bones",
+      "divination",
+      "pictographs and phonetic compounds",
+      "epigraphy",
+      "bronze inscriptions"
+    ],
+    "example": "The oracle bones did for Shang what the Rosetta Stone did for Egypt — turned legend into chronicle; unlike hieroglyphs, though, their script never died: today's 日 and 月 are their direct descendants.",
+    "nuance": "“甲骨文”= oracle bone script/inscriptions；“占卜”= divination。汉字英语规范称 Chinese characters（勿称 hieroglyphs——回链 [[hieroglyphs]] 的警告）。金文 = bronze inscriptions。“形声字”= phonetic compounds/phono-semantic characters。汉字未断裂的连续性是中英文明对比常用论据。",
+    "links": [
+      {
+        "to": "hieroglyphs",
+        "rel": "contrast"
+      },
+      {
+        "to": "cuneiform",
+        "rel": "contrast"
+      },
+      {
+        "to": "ritual-bronzes",
+        "rel": "related"
+      },
+      {
+        "to": "shang-zhou",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "culture",
+      "science-tech"
+    ],
+    "period": "商周时期"
+  },
+  {
+    "id": "spring-autumn",
+    "zh": "春秋争霸与王室衰微",
+    "pinyin": "Chūnqiū zhēngbà",
+    "en": "the Spring and Autumn hegemons",
+    "def_zh": "前770年平王东迁，东周前期为春秋时期（前770–前476，因孔子《春秋》得名）。铁农具与牛耕出现促进深耕细作，工商业发展、金属货币流通。周王室统治力大减、仅辖洛邑一带，诸侯各自为政不再纳贡；一些诸侯国设县郡、委派官员，分封制逐步瓦解。强大诸侯以“尊王攘夷”名义征战争霸：齐桓公（任管仲改革内政）首霸，晋文公、秦穆公、楚庄王等继起；中原“诸夏”与周边民族在长期交往斗争中大规模交融。",
+    "def_en": "After the court fled east in 770 BC, the Zhou king reigned over little more than Luoyi while his vassals ruled themselves — the Spring and Autumn era (named for Confucius's chronicle). Iron tools and ox-ploughing lifted farming, trade and coinage spread, and ambitious states began replacing fiefs with appointed counties. The strong contended for hegemony 'honouring the king, expelling the barbarians': Duke Huan of Qi (with Guan Zhong's reforms) first among the Five Hegemons — while constant contact fused the central 'Xia' peoples with their neighbours.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第6课 动荡的春秋时期"
+      }
+    ],
+    "collocations": [
+      "the hegemon (ba)",
+      "honour the king, expel the barbarians",
+      "interstate rivalry",
+      "de facto power vs nominal authority"
+    ],
+    "example": "IR theorists mine this era shamelessly: 'hegemon' discourse about America maps straight onto the ba, and 尊王攘夷 returned verbatim in Japan's 1860s as sonnō jōi.",
+    "nuance": "“霸主”= hegemon（希腊语词恰好精准对应“霸”——中西概念巧合）；“尊王攘夷”可译 honour the king and expel the barbarians（此口号在幕末日本复活，回链 [[meiji-restoration]]）。天子虚位而霸主执政的结构可与 [[shogunate]]、[[charlemagne]] 对读。",
+    "links": [
+      {
+        "to": "fengjian",
+        "rel": "effect"
+      },
+      {
+        "to": "warring-states",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "shogunate",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "前770年–前476年"
+  },
+  {
+    "id": "warring-states",
+    "zh": "战国七雄",
+    "pinyin": "Zhànguó qīxióng",
+    "en": "the Warring States",
+    "def_zh": "三家分晋、田氏代齐后，齐楚燕韩赵魏秦七国并强（“战国七雄”，前475–前221，因《战国策》得名）。诸侯不再尊王攘夷，各自为政、扩军拓疆；战争规模空前（秦楚兵力达百万），桂陵、马陵、长平之战皆此期。各国变法图强，秦渐成最强，威胁东方六国。",
+    "def_en": "Once Jin split in three and the Tian usurped Qi, seven great powers — Qi, Chu, Yan, Han, Zhao, Wei, Qin — dropped all pretence of serving the king and fought openly for the world: armies in the hundreds of thousands, the epoch of Guiling, Maling and the slaughter at Changping. Reform was survival; Qin, reformed hardest, grew strongest.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第7课 战国时期的社会变化"
+      }
+    ],
+    "collocations": [
+      "the Warring States period",
+      "a multi-state system",
+      "total war",
+      "the balance of power",
+      "vertical and horizontal alliances"
+    ],
+    "example": "Strategists call pre-1945 Europe 'a Warring States system' and mean it precisely: sovereign rivals, shifting alliances, and no emperor until somebody wins.",
+    "nuance": "战国与近代欧洲主权国家体系的类比是国际关系学的常备框架（the Warring States as multipolar anarchy）。“合纵连横”= vertical and horizontal alliances（联弱抗强 vs 傍强击弱——博弈论意味十足）。《战国策》= the Stratagems of the Warring States。",
+    "links": [
+      {
+        "to": "spring-autumn",
+        "rel": "replaced"
+      },
+      {
+        "to": "shang-yang",
+        "rel": "related"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "ww1-alliances",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "前475年–前221年"
+  },
+  {
+    "id": "shang-yang",
+    "zh": "商鞅变法",
+    "pinyin": "Shāng Yāng biànfǎ",
+    "en": "the Shang Yang reforms",
+    "def_zh": "战国铁器牛耕推广、新兴地主阶级势力增强，各国变法以求富国强兵，秦国商鞅变法成效最大（前356年，秦孝公任用）。政治：确立县制由国君直接派官治理、废贵族世袭特权、改革户籍、严明法度；经济：废井田允许土地自由买卖、奖励耕织（多产免徭役）、统一度量衡；军事：奖励军功授爵赐地。秦国力大增、一跃最强，为统一奠基。商鞅“法令至行，公平无私，罚不讳强大”；孝公死后遭诬陷，兵败被车裂——而新法未废。",
+    "def_en": "As iron and ox-ploughs empowered a new landowning class, every state reformed to survive; Qin under Shang Yang (from 356 BC) reformed most ruthlessly. Counties under appointed officials replaced hereditary fiefs; aristocratic privilege was abolished, households registered, law enforced without fear or favour ('punishment did not spare the strong'); the well-field land system gave way to private sale, production and battlefield merit earned rank and land, weights and measures were standardised. Qin became the terror of the six states. Shang Yang himself, his patron dead, was torn apart by chariots — but the laws stood.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第7课 战国时期的社会变化"
+      }
+    ],
+    "collocations": [
+      "Legalist reforms",
+      "meritocracy of war",
+      "abolish hereditary privilege",
+      "the reformer dies, the reform survives"
+    ],
+    "example": "'The reformer dies but the reform survives' is the Shang Yang teaching every Chinese policy debate still cites — pain now, power later, and don't expect gratitude.",
+    "nuance": "“变法”= reform（历史语境常大写专名：the Shang Yang Reforms），隐含“变更成法”的激进义，比 reform 更烈。“井田制”= the well-field system（字面因“井”字田块）。“车裂”= torn apart by chariots——史家爱用的残酷反讽结尾。与 [[peter-the-great]]、[[meiji-restoration]] 同属强制现代化家族。",
+    "links": [
+      {
+        "to": "warring-states",
+        "rel": "broader"
+      },
+      {
+        "to": "legalism",
+        "rel": "related"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "cause"
+      },
+      {
+        "to": "peter-the-great",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "前356年起"
+  },
+  {
+    "id": "dujiangyan",
+    "zh": "都江堰",
+    "pinyin": "Dūjiāngyàn",
+    "en": "the Dujiangyan waterworks",
+    "def_zh": "前256年蜀郡郡守李冰主持，在成都附近岷江上修建的综合性水利枢纽：鱼嘴分水（内江灌溉、外江分洪）、宝瓶口引水、飞沙堰泄洪排沙，集防洪灌溉水运于一体。建成后成都平原“水旱从人，不知饥馑”，成为“天府之国”；2200多年持续发挥作用（灌溉面积今超千万亩），2008年汶川8级地震中主体安然无恙——世界水利史上绝无仅有。",
+    "def_en": "Built from 256 BC by Li Bing, governor of Shu, on the Min river above Chengdu: a fish-mouth levee splitting the flow (inner channel for irrigation, outer for flood), a rock-cut 'bottle-neck' intake, a spillway shedding silt and floodwater — flood control, irrigation and navigation in one gravity-driven system, no dam at all. It made the Chengdu plain 'the land of heaven's abundance', still waters ten million mu today, and rode out the magnitude-8 quake of 2008 essentially intact: nothing else in hydraulic history comes close.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第7课 战国时期的社会变化"
+      }
+    ],
+    "collocations": [
+      "hydraulic engineering",
+      "work with the water, not against it",
+      "flood control and irrigation",
+      "sustainable infrastructure"
+    ],
+    "example": "Engineers cite Dujiangyan against every mega-dam: 2,200 years of service without a wall across the river — infrastructure that negotiates with nature instead of arresting it.",
+    "nuance": "“天府之国”= the land of abundance/heaven's storehouse。魏特夫“治水社会”（hydraulic society/Oriental despotism）理论以中国水利立论而广受批判——链 [[absolute-monarchy]] 的 nuance 警告。都江堰 vs 大坝的对比是可持续工程叙事的常用素材。",
+    "links": [
+      {
+        "to": "shang-yang",
+        "rel": "related"
+      },
+      {
+        "to": "nile-river",
+        "rel": "related"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "economy",
+      "geography-environment"
+    ],
+    "period": "前256年"
+  },
+  {
+    "id": "laozi",
+    "zh": "老子与道家",
+    "pinyin": "Lǎozǐ / Dàojiā",
+    "en": "Laozi and Daoism",
+    "def_zh": "春秋后期楚国人，道家学派创始人，曾任周朝史官。认为万物运行有其自然法则、人应顺应自然；事物皆有对立面且可相互转化（难易、长短、祸福）；政治上主张“无为而治”。学说集中于《老子》（《道德经》）。战国庄子发展其学，强调顺应自然民心、追求精神自由与独立人格。",
+    "def_en": "A Zhou archivist from Chu and the fountainhead of Daoism: all things follow a natural way (dao) that force cannot improve; opposites — hard and easy, fortune and ruin — turn into one another; the wisest government 'acts without acting' (wuwei). His slim Daodejing became the school's classic; Zhuangzi later stretched the teaching toward inner freedom and the integrity of the self.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第8课 百家争鸣"
+      }
+    ],
+    "collocations": [
+      "the Dao/the Way",
+      "wuwei (effortless action)",
+      "go with the flow",
+      "the Daodejing",
+      "yin and yang"
+    ],
+    "example": "Silicon Valley rediscovers wuwei every decade under new names — 'don't fight the market', 'ship and iterate' — management theory's laissez-faire has a Chinese elder brother.",
+    "nuance": "规范拼写：Daoism/Dao（学术）与 Taoism/Tao（传统威妥玛，仍常见）并存。“无为”译 non-action 易误解为消极——effortless action / acting by not forcing 更达意。wuwei 与 [[adam-smith]] 的 laissez-faire 常被并论（“治大国若烹小鲜”即最早的最小干预论）。",
+    "links": [
+      {
+        "to": "hundred-schools",
+        "rel": "broader"
+      },
+      {
+        "to": "confucius",
+        "rel": "contrast"
+      },
+      {
+        "to": "adam-smith",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "春秋后期"
+  },
+  {
+    "id": "confucius",
+    "zh": "孔子与儒家",
+    "pinyin": "Kǒngzǐ / Rújiā",
+    "en": "Confucius and Confucianism",
+    "def_zh": "春秋后期鲁国人，儒家创始人。核心思想“仁”：仁者爱人、“己所不欲勿施于人”，为处理人际关系的最高准则；政治上推崇西周制度、主张以德治国（“为政以德，譬如北辰”）、反对苛政。创办私学打破贵族垄断教育，主张“有教无类”，弟子三千；总结教学规律（因材施教、温故知新），晚年整理文化典籍。弟子辑其言为《论语》。战国孟子倡“仁政”、提出“民为贵，社稷次之，君为轻”；荀子主“礼治”明尊卑。",
+    "def_en": "A minor Lu aristocrat turned teacher, the founder of Confucianism. Its core is ren, humaneness — 'do not impose on others what you would not wish for yourself' — as the supreme rule of human relations; in politics, rule by virtue and example ('like the pole star'), never by harshness. He opened teaching to all comers ('education without class distinction'), broke the aristocratic monopoly on learning with three thousand disciples, and edited the classics; his sayings became the Analects. Mencius later preached benevolent government — 'the people first, the altars second, the ruler last' — while Xunzi answered with ritual and rank.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第8课 百家争鸣"
+      }
+    ],
+    "collocations": [
+      "the Analects",
+      "the golden rule (negative form)",
+      "rule by virtue",
+      "benevolent government",
+      "Confucian values"
+    ],
+    "example": "'Confucian values' explains everything from Asian growth to Asian authoritarianism, depending on the columnist — the sage does more op-ed work than any thinker alive.",
+    "nuance": "Confucius 为拉丁化名（Kong Fuzi→Confucius，耶稣会士手笔）；“仁”译 humaneness/benevolence（无定译，学术常直接用 ren）。“己所不欲勿施于人”即西方伦理的 the (negative) Golden Rule——先于基督教版本五百年，是跨文明伦理对话的标准引证。“有教无类”= education for all without class distinction。",
+    "links": [
+      {
+        "to": "hundred-schools",
+        "rel": "broader"
+      },
+      {
+        "to": "laozi",
+        "rel": "contrast"
+      },
+      {
+        "to": "legalism",
+        "rel": "contrast"
+      },
+      {
+        "to": "socrates",
+        "rel": "related"
+      },
+      {
+        "to": "universities",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "前551年–前479年"
+  },
+  {
+    "id": "legalism",
+    "zh": "法家",
+    "pinyin": "Fǎjiā",
+    "en": "Legalism",
+    "def_zh": "主张君主治国靠法令、权术和威势使臣民慑服；战国末期韩非集大成：反对空谈仁义，强调以法治国、树立君主权威、建立中央集权专制统治。（墨家墨子主张“兼爱”“非攻”、选贤节俭；兵家孙武《孙子兵法》奠定古代军事理论基础。）",
+    "def_en": "Rule by law, technique and awe: men are governed by rewards and punishments, not sermons. Han Fei, the school's synthesiser, scorned talk of benevolence — codify the law, exalt the ruler, centralise all power. (Alongside: Mozi's universal love and anti-aggression, and Sunzi's Art of War, the foundation of Chinese strategy.)",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第8课 百家争鸣"
+      }
+    ],
+    "collocations": [
+      "rule by law vs rule of law",
+      "carrots and sticks",
+      "The Art of War",
+      "realpolitik"
+    ],
+    "example": "Han Fei reads like Machiavelli with better prose and eighteen centuries' head start — the comparison every intro-to-Chinese-philosophy course makes, because it works.",
+    "nuance": "致命区分：法家是 rule BY law（法为君主工具）非 rule OF law（法在君上，链 [[twelve-tables]]、[[magna-carta]]）——中西政治传统的分水岭概念。Legalism 首字母大写指法家（小写 legalism 义为“律条主义”）。《孙子兵法》= The Art of War（商学院常销书）；“兼爱”= universal/impartial love。",
+    "links": [
+      {
+        "to": "hundred-schools",
+        "rel": "broader"
+      },
+      {
+        "to": "shang-yang",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "contrast"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "influenced"
+      },
+      {
+        "to": "magna-carta",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "governance"
+    ],
+    "period": "战国时期"
+  },
+  {
+    "id": "hundred-schools",
+    "zh": "百家争鸣",
+    "pinyin": "bǎijiā zhēngmíng",
+    "en": "the Hundred Schools of Thought",
+    "def_zh": "战国旧制度瓦解、新制度确立之际，学术思想空前活跃：墨儒道法兵等学派各陈其说、聚众讲学、著书立说，提出各种治国方略，激烈辩论又相互取长补短——中国古代第一次思想文化发展高峰，为中国古代文化奠基。（《诗经》为我国第一部诗歌总集；屈原以楚辞《离骚》抒爱国之情。）",
+    "def_en": "As the old order dissolved, thought exploded: Confucians, Daoists, Mohists, Legalists and strategists toured the courts with rival programmes for saving the world, debating fiercely and borrowing freely — China's first great age of ideas, contemporary with classical Greece, and the foundation everything later Chinese thought builds on.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第8课 百家争鸣"
+      }
+    ],
+    "collocations": [
+      "let a hundred schools of thought contend",
+      "the Axial Age",
+      "itinerant philosophers",
+      "contending schools"
+    ],
+    "example": "Karl Jaspers's 'Axial Age' — Confucius, Buddha, Socrates and the Hebrew prophets thinking within two centuries of each other — remains the grandest coincidence in intellectual history, and this chapter is China's seat at that table.",
+    "nuance": "“百家争鸣”固定译法 let a hundred schools of thought contend（毛1956年双百方针使此语在英语世界二次走红——词条自带现代政治回声）。雅斯贝尔斯“轴心时代”= the Axial Age，是向英语读者定位诸子的最佳坐标系。",
+    "links": [
+      {
+        "to": "confucius",
+        "rel": "narrower"
+      },
+      {
+        "to": "laozi",
+        "rel": "narrower"
+      },
+      {
+        "to": "legalism",
+        "rel": "narrower"
+      },
+      {
+        "to": "warring-states",
+        "rel": "related"
+      },
+      {
+        "to": "socrates",
+        "rel": "related"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "period": "战国时期"
+  },
+  {
+    "id": "qin-unification",
+    "zh": "秦统一中国",
+    "pinyin": "Qín tǒngyī Zhōngguó",
+    "en": "the Qin unification of China",
+    "def_zh": "商鞅变法后秦实力超六国；嬴政广纳各国人才（李斯、尉缭），前230年起十年间灭韩赵魏楚燕齐，前221年完成统一、定都咸阳，又北进南下开拓边疆——结束春秋战国长期战乱，建立我国历史上第一个统一的多民族的封建国家。嬴政自称“始皇帝”，总揽一切军政大权，其下丞相、太尉、御史大夫分掌行政军事监察。",
+    "def_en": "Hardened by Shang Yang's laws and staffed by talent from every rival court, Qin swallowed the six states in a decade and in 221 BC King Zheng ruled all China — the first unified, multi-ethnic state in its history. He minted a new title, First Emperor (Shi Huangdi), keeping every lever in his own hands above a chancellor, marshal and censor-in-chief.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第9课 秦统一中国"
+      }
+    ],
+    "collocations": [
+      "the First Emperor",
+      "unify all under heaven",
+      "the terracotta army",
+      "a centralised bureaucratic empire"
+    ],
+    "example": "'Qin' is probably where 'China' comes from — the conqueror's name became, via Sanskrit and Latin, the word the world calls his conquest.",
+    "nuance": "“皇帝”合三皇五帝而成新号，英译 emperor 掩盖了这一造词野心——学术常保留 huangdi 说明。教材称秦为“封建国家”是马克思主义分期用语；英语表述作 the first centralised empire，绝不用 feudal（郡县制正是 fengjian 的否定——链 [[fengjian]] 的核心警告）。兵马俑 = the Terracotta Army/Warriors。",
+    "links": [
+      {
+        "to": "warring-states",
+        "rel": "replaced"
+      },
+      {
+        "to": "shang-yang",
+        "rel": "effect"
+      },
+      {
+        "to": "junxian",
+        "rel": "narrower"
+      },
+      {
+        "to": "legalism",
+        "rel": "effect"
+      },
+      {
+        "to": "alexander-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "前221年"
+  },
+  {
+    "id": "junxian",
+    "zh": "郡县制",
+    "pinyin": "jùnxiànzhì",
+    "en": "the commandery-county system",
+    "def_zh": "秦进一步废除分封制，建立由中央直接管辖的郡县制：全国36郡（后40多），郡守县令均由朝廷直接任免，县下设乡里亭——皇帝和朝廷牢牢控制全国权力，把政治法律军事土地赋役制度推向全国，开创此后历代王朝地方行政的基本模式。汉武帝又建刺史制度监察地方。",
+    "def_en": "Qin abolished enfeoffment outright: the realm became 36 (later 40-odd) commanderies and their counties, every governor and magistrate appointed — and dismissable — by the throne, with wards and villages below. Power now ran from the centre to the fields, the template of Chinese local government for the next two thousand years; Han Wudi added circuit inspectors to watch the watchers.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第9课 秦统一中国"
+      },
+      {
+        "book": "ch7a",
+        "chapter": "第12课 汉武帝巩固大一统王朝"
+      }
+    ],
+    "collocations": [
+      "appointed (not hereditary) officials",
+      "centralised administration",
+      "prefectures and counties",
+      "the bureaucratic state"
+    ],
+    "example": "Political scientists call imperial China 'the first modern state' on this evidence: salaried, appointed, transferable officials a thousand years before Europe had them — Fukuyama's Origins of Political Order builds its whole argument here.",
+    "nuance": "郡 = commandery（史学定译）；后世的州县多译 prefectures and counties。这一节点是驳“中国两千年封建社会”直译的证据核心：appointed officials 正是 feudal lords 的反面。福山、韦伯对中国官僚制的论述是 Economist 谈中国治理的常用底本。",
+    "links": [
+      {
+        "to": "fengjian",
+        "rel": "replaced"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "broader"
+      },
+      {
+        "to": "spring-autumn",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "absolute-monarchy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "前221年起"
+  },
+  {
+    "id": "qin-standardisation",
+    "zh": "书同文、车同轨",
+    "pinyin": "shū tóng wén",
+    "en": "the Qin standardisations",
+    "def_zh": "秦始皇为适应统一：命李斯统一文字为小篆（政令通行、沟通顺畅、利于文化交流发展）；废六国货币行圆形方孔半两钱；统一度量衡（国家监制）；统一车轨道路、修筑贯通全国的道路；开凿灵渠沟通长江珠江水系；派蒙恬北击匈奴、修筑西起临洮东到辽东的万里长城。",
+    "def_en": "One script (Li Si's small seal — so that orders ran and strangers could correspond), one round-square-holed coin, one set of weights and measures, one axle-gauge on new trunk roads, the Lingqu canal linking the Yangzi and Pearl river systems, and the first Great Wall from Lintao to Liaodong against the Xiongnu: unification made physical, in an empire you could write to, trade with and march across.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第9课 秦统一中国"
+      }
+    ],
+    "collocations": [
+      "standardisation of script/currency/weights",
+      "the Great Wall",
+      "same script, same axle",
+      "infrastructure of empire"
+    ],
+    "example": "The EU's single market is 书同文车同轨 with lawyers: harmonised standards as the true cement of union — Brussels rediscovered what Xianyang knew.",
+    "nuance": "统一文字使方言互异者书面互通——汉字超方言性（script over speech）是中国统一性的技术基座，与欧洲拼音文字裂解为诸语成对照（向英语读者解释中国之“大一统”的必备论点）。长城 = the Great Wall（比喻义：a great wall of tariffs）。",
+    "links": [
+      {
+        "to": "qin-unification",
+        "rel": "broader"
+      },
+      {
+        "to": "oracle-bones",
+        "rel": "related"
+      },
+      {
+        "to": "european-integration",
+        "rel": "related"
+      },
+      {
+        "to": "dujiangyan",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy",
+      "culture"
+    ],
+    "period": "前221年–前210年"
+  },
+  {
+    "id": "chen-sheng-uprising",
+    "zh": "秦的暴政与陈胜吴广起义",
+    "pinyin": "Chén Shèng Wú Guǎng qǐyì",
+    "en": "Qin tyranny and the Chen Sheng-Wu Guang rising",
+    "def_zh": "秦始皇急于求成而暴虐：赋税征收获物2/3，每年徭役兵役300万人（骊山陵、阿房宫、长城、南征），法律严苛株连、刑罚残酷，又“焚书坑儒”禁锢思想。秦二世更甚。前209年戍卒遇雨误期当斩，陈胜吴广在大泽乡揭竿而起——“王侯将相宁有种乎！”中国历史上第一次农民大起义。起义虽败，项羽巨鹿之战破釜沉舟歼秦军主力，刘邦前207年入咸阳，秦仅十几年而亡；楚汉之争四年，善用人才收揽民心的刘邦胜刚愎自用的项羽。",
+    "def_en": "The First Emperor built at frenzy's pace on the backs of the taxed and conscripted — two-thirds of harvests taken, three million a year on corvée, books burned and scholars buried alive — and his son was worse. In 209 BC conscripts delayed by rain and facing execution rose at Daze: 'are kings and nobles born to it?' — China's first great peasant revolt. It failed, but Xiang Yu burned his boats at Julu and destroyed the Qin army, Liu Bang took the capital in 207 BC, and the dynasty built for ten thousand generations died at fifteen. Four more years of Chu-Han war crowned the man who could use talent over the man who could only fight.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第10课 秦末农民大起义"
+      }
+    ],
+    "collocations": [
+      "tyranny and corvée",
+      "burning of the books",
+      "are kings born to it?",
+      "burn one's boats",
+      "the Chu-Han contention"
+    ],
+    "example": "破釜沉舟 and burning one's boats — China and Rome minted the same idiom independently (Xiang Yu, 207 BC; Caesar's era legend) — the rare perfect 中英 match in the whole vocabulary of resolve.",
+    "nuance": "“焚书坑儒”= the burning of books and burying of scholars（英语史学固定语）。“王侯将相宁有种乎”是中国平等主义的原声——可与 [[english-revolution]] 时代平等派并读。象棋“楚河汉界”即楚汉之争的活化石。“暴政”= tyranny；“徭役”= corvée (labour)。",
+    "links": [
+      {
+        "to": "qin-unification",
+        "rel": "effect"
+      },
+      {
+        "to": "han-founding",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "spartacus-uprising",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "governance",
+      "war"
+    ],
+    "period": "前209年–前202年"
+  },
+  {
+    "id": "han-founding",
+    "zh": "西汉建立与文景之治",
+    "pinyin": "Wén-Jǐng zhī zhì",
+    "en": "the Han founding and the Wenjing era",
+    "def_zh": "前202年刘邦建汉都长安（汉高祖）。秦末战乱使社会残破（“自天子不能具醇驷，将相或乘牛车”），高祖吸取秦亡教训行休养生息：兵皆罢归家、释奴婢为平民、轻徭薄赋（什五税一）。文帝景帝继之：以农为本、田赋降至三十税一、废肉刑“以德化民”、勤俭治国（文帝在位二十余年宫室车骑无所增）——政治清明、经济发展、库藏充盈，史称“文景之治”。",
+    "def_en": "Liu Bang founded the Han in 202 BC over a wasteland — the emperor could not match four horses of one colour, his ministers rode ox-carts. Learning from Qin's death-by-exertion, the early Han governed by 'rest and recuperation': soldiers sent home to farm, slaves freed, taxes cut to a fifteenth and then a thirtieth of the crop, mutilating punishments abolished, the palace kept frugal. Two generations of deliberate under-government filled the granaries — the Wenjing golden age, China's founding case for small-state economics.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第11课 西汉建立和“文景之治”"
+      }
+    ],
+    "collocations": [
+      "rest and recuperation",
+      "light taxes and light corvée",
+      "govern by non-interference",
+      "replenish the treasury"
+    ],
+    "example": "Reform-era economists reached straight for 休养生息 to explain the 1980s: after political exhaustion, govern less, tax less, and let the peasants make the country rich again.",
+    "nuance": "“休养生息”= rest and recuperation（政策名，直译能懂）；“轻徭薄赋”= light corvée and low taxation。文景之治是“无为而治”的实践版——链 [[laozi]] 与 [[adam-smith]]：黄老政治与自由放任的比较是思想史常题。“之治”体例（golden age of X）后有贞观、开元。",
+    "links": [
+      {
+        "to": "chen-sheng-uprising",
+        "rel": "effect"
+      },
+      {
+        "to": "laozi",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "han-wudi",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "adam-smith",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "前202年–前141年"
+  },
+  {
+    "id": "han-wudi",
+    "zh": "汉武帝巩固大一统",
+    "pinyin": "Hàn Wǔdì dàyītǒng",
+    "en": "Han Wudi's consolidation of the unified state",
+    "def_zh": "汉武帝（前141–前87在位）多管齐下强化中央：政治上采主父偃议行“推恩令”，令诸侯分封子弟侯国、封地愈分愈小，又借故削爵除国，并立刺史监察地方、定察举制选官；思想上采董仲舒议罢黜百家尊崇儒术，长安兴太学以五经为教材——儒学自此居正统主导、为历代推崇；经济上收铸币权铸五铢钱、盐铁官营专卖、统一调配平抑物价；军事上卫青霍去病三击匈奴（前119年漠北战役重创之，部分匈奴西迁）。西汉进入鼎盛。",
+    "def_en": "Wudi (r. 141–87 BC) fastened the empire together on every front: the 'grace-extending decree' obliged princes to subdivide their fiefs among all their sons until none could threaten the throne; inspectors policed the provinces and recommendation examinations recruited officials; Dong Zhongshu's synthesis made Confucianism state orthodoxy, taught from the new Imperial Academy — the ideology of empire for two millennia thereafter; coinage, salt and iron became state monopolies funding it all; and Wei Qing and Huo Qubing broke the Xiongnu in the steppe, sending part of them migrating west. The Han reached its zenith.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第12课 汉武帝巩固大一统王朝"
+      }
+    ],
+    "collocations": [
+      "state orthodoxy",
+      "the salt and iron monopolies",
+      "divide and diminish the fiefs",
+      "the Imperial Academy",
+      "the recommendation system"
+    ],
+    "example": "The 'salt and iron' debate of 81 BC — state monopoly v. free enterprise — reads like a modern SOE-reform panel; Chinese economic commentary still calls the topic 盐铁论 without needing a footnote.",
+    "nuance": "“大一统”= the grand unification/unity（中国政治思想的元概念，直译 grand unification 需加注）。“推恩令”巧在以恩为名行削藩之实——可译 the decree of extended favour（分析性译法）。“罢黜百家，独尊儒术”= dismissing the hundred schools, honouring Confucianism alone。盐铁专卖 = the state salt and iron monopolies——国企议题的两千年前源头，链 [[monopoly-capitalism]]。",
+    "links": [
+      {
+        "to": "han-founding",
+        "rel": "replaced"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      },
+      {
+        "to": "junxian",
+        "rel": "related"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "hundred-schools",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy",
+      "ideas"
+    ],
+    "period": "前141年–前87年"
+  },
+  {
+    "id": "silk-road",
+    "zh": "丝绸之路与张骞通西域",
+    "pinyin": "Sīchóu zhī lù",
+    "en": "the Silk Road and Zhang Qian's missions",
+    "def_zh": "前138年张骞应募出使西域联络大月氏夹击匈奴，两度被匈奴扣留（前后十余年）“持汉节不失”，前119年再使乌孙等国——“凿空”之举使汉与西域相互了解往来。商人自长安经河西走廊、西域达中亚西亚转欧洲：丝绸漆器与开渠凿井铸铁技术西去，核桃葡萄石榴苜蓿良马乐器东来——沟通欧亚的“丝绸之路”，古代东西方往来的大动脉。汉又辟海上丝绸之路（经马六甲达印度锡兰）。前60年西汉设西域都护，标志西域（今新疆及巴尔喀什湖以东以南）正式归属中央政权。东汉班超经营西域30余年，遣甘英使大秦（罗马）至安息受阻。",
+    "def_en": "In 138 BC Zhang Qian volunteered to cross Xiongnu country and recruit the Yuezhi — captured twice, held thirteen years, 'never letting fall the Han envoy's staff'. His 'road-opening' linked the Han to Central Asia: silk and ironworking went west from Chang'an through the Hexi corridor, grapes, walnuts, alfalfa, blood-horses and lutes came east — the Silk Road, Eurasia's great artery, with a maritime branch reaching India and Ceylon. In 60 BC the Protectorate of the Western Regions placed today's Xinjiang under central administration; under the Eastern Han, Ban Chao ran the Regions for thirty years and his envoy Gan Ying reached the Persian Gulf, one sea short of Rome.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第14课 沟通中外文明的“丝绸之路”"
+      }
+    ],
+    "collocations": [
+      "the Silk Road/Roads",
+      "the Western Regions",
+      "the Hexi corridor",
+      "the Belt and Road Initiative",
+      "caravan trade"
+    ],
+    "example": "Every Belt and Road communiqué opens with Zhang Qian — 2013's trillion-dollar infrastructure venture wears a 2,100-year-old brand, which is precisely the point.",
+    "nuance": "Silk Road 一词实为德国地理学家李希霍芬1877年所造（die Seidenstraße）——概念史彩蛋。“凿空”可译 the road-opening/piercing the void（需注释）。西域都护府是新疆自古属中国论述的关键史实——英语表述 the Protectorate of the Western Regions (60 BC)。“一带一路”官方英译 the Belt and Road Initiative (BRI)。",
+    "links": [
+      {
+        "to": "han-wudi",
+        "rel": "broader"
+      },
+      {
+        "to": "house-of-wisdom",
+        "rel": "related"
+      },
+      {
+        "to": "columbian-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "buddhism",
+        "rel": "related"
+      },
+      {
+        "to": "roman-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "geography-environment",
+      "culture"
+    ],
+    "period": "前138年–前60年"
+  },
+  {
+    "id": "papermaking",
+    "zh": "造纸术",
+    "pinyin": "zàozhǐshù",
+    "en": "papermaking",
+    "def_zh": "纸问世前文字书于甲骨简帛：简重帛贵，使用受限。西汉已懂造纸基本方法（考古发现西汉麻纸）；东汉蔡伦总结前人经验改进工艺，以树皮麻头破布旧渔网等植物纤维造纸（“蔡侯纸”），质量大增、原料易得价廉——纸逐渐取代简帛成为广泛书写材料，便利典籍流传。世界各国造纸术大都自中国辗转流传，是中国对世界文明的伟大贡献之一。",
+    "def_en": "Before paper, China wrote on bone, bamboo and silk — the one heavy, the other dear. Western Han workshops already made rough paper; in the Eastern Han the palace officer Cai Lun perfected it from bark, hemp, rags and old fishing nets — cheap, light, everywhere copyable. Paper displaced bamboo and silk, set texts free, and travelled (via Talas and the Arabs) to remake every literate civilisation: China's gift to the written world.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第15课 两汉的科技和文化"
+      }
+    ],
+    "collocations": [
+      "the four great inventions",
+      "plant-fibre paper",
+      "the spread of literacy",
+      "paper trail"
+    ],
+    "example": "Gutenberg gets the statues, but his press would have printed nothing affordable without the Chinese invention it pressed on — paper is the four great inventions' quiet monopolist.",
+    "nuance": "“四大发明”= the four great inventions (paper, printing, the compass, gunpowder)——李约瑟框架，英语世界通行。造纸术西传节点即怛罗斯之战（链 [[arab-empire]]）。“简帛”= bamboo slips and silk manuscripts。",
+    "links": [
+      {
+        "to": "han-wudi",
+        "rel": "related"
+      },
+      {
+        "to": "house-of-wisdom",
+        "rel": "influenced"
+      },
+      {
+        "to": "oracle-bones",
+        "rel": "related"
+      },
+      {
+        "to": "renaissance",
+        "rel": "influenced"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "culture"
+    ],
+    "period": "东汉（105年）"
+  },
+  {
+    "id": "han-medicine",
+    "zh": "张仲景与华佗（中医奠基）",
+    "pinyin": "Zhāng Zhòngjǐng / Huà Tuó",
+    "en": "Zhang Zhongjing, Hua Tuo and classical Chinese medicine",
+    "def_zh": "中医在两汉发展到较高水平：扁鹊已创望闻问切四诊法，《黄帝内经》奠定理论基础。东汉末张仲景广集民间药方结合临床写成《伤寒杂病论》，提出辨证分析对症治疗、发展“治未病”思想——中医临床理论体系开创者，后世尊“医圣”。华佗擅针灸汤药并能外科手术，发明麻醉药剂“麻沸散”，创编强身健体的“五禽戏”。",
+    "def_en": "Han medicine systematised a tradition: the four diagnostics (looking, listening, asking, pulse-taking) from Bian Que, theory from the Yellow Emperor's Inner Canon. Zhang Zhongjing's Treatise on Cold Damage founded clinical method — pattern diagnosis, treatment to the case, and 'treating illness before it arises' — earning him the title Sage of Medicine; Hua Tuo performed surgery under his own anaesthetic, mafeisan, and prescribed exercise in the Five Animal Frolics.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第15课 两汉的科技和文化"
+      }
+    ],
+    "collocations": [
+      "traditional Chinese medicine (TCM)",
+      "preventive medicine",
+      "pattern diagnosis",
+      "acupuncture",
+      "herbal formulae"
+    ],
+    "example": "'治未病' translates uncannily as preventive medicine — public-health economists cite the 2,000-year-old phrase when arguing that health systems pay for sickness and should pay for health.",
+    "nuance": "中医 = traditional Chinese medicine (TCM，标准缩写)。“辨证论治”= pattern/syndrome differentiation and treatment（TCM 英语文献术语）。华佗麻醉早于西方乙醚约1600年——医学史常引；“刮骨疗毒”等典故出《三国演义》而非正史，引用须辨。",
+    "links": [
+      {
+        "to": "papermaking",
+        "rel": "related"
+      },
+      {
+        "to": "mummification",
+        "rel": "related"
+      },
+      {
+        "to": "hundred-schools",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech"
+    ],
+    "period": "东汉末"
+  },
+  {
+    "id": "shiji",
+    "zh": "司马迁与《史记》",
+    "pinyin": "Sīmǎ Qiān / Shǐjì",
+    "en": "Sima Qian and the Records of the Grand Historian",
+    "def_zh": "司马迁继父任太史令，因仗义执言下狱受酷刑，忍辱发愤十余年著成《史记》——中国古代第一部纪传体通史，记传说中黄帝至汉武帝时史事：记帝王将相亦为下层人物立传，公正记事、爱憎分明、秉笔直书，对中国史学影响深远，文学地位亦崇高（“人固有一死，或重于泰山，或轻于鸿毛”）。纪传体为此后“正史”二十四史通用体裁。",
+    "def_en": "Grand historian like his father, Sima Qian spoke up for a disgraced general, suffered castration for it, and chose a decade of shamed labour over honourable death to finish the Shiji: China's first comprehensive history in the biographic mode, from the Yellow Emperor to his own emperor — kings and assassins, ministers and merchants, judged without fear ('a death may be weightier than Mount Tai or lighter than a feather'). All twenty-four dynastic histories after it wear its form.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第15课 两汉的科技和文化"
+      }
+    ],
+    "collocations": [
+      "the Grand Historian",
+      "dynastic histories",
+      "annals-biography form",
+      "write without fear or favour"
+    ],
+    "example": "Sima Qian is China's Herodotus and Thucydides in one body — the comparison every Western sinology course opens with, usually adding that he out-suffered both.",
+    "nuance": "《史记》英语定名 Records of the Grand Historian（华兹生译名）。“纪传体”= the annals-biography form；“正史”= the standard/dynastic histories。“秉笔直书”传统 = the historian who writes without fear or favour——与 [[socrates]] 式殉道并为知识人风骨的中西原型。",
+    "links": [
+      {
+        "to": "han-wudi",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      },
+      {
+        "to": "homer-epics",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "period": "前1世纪"
+  },
+  {
+    "id": "daoism-buddhism-china",
+    "zh": "道教兴起与佛教传入",
+    "pinyin": "Dàojiào yǔ Fójiào chuánrù",
+    "en": "the rise of religious Daoism and Buddhism's arrival",
+    "def_zh": "东汉末民众苦难深重，张角创太平道（尊奉黄帝老子、以治病传道）、张陵创五斗米道——早期道教受下层民众信奉。佛教（产生于前6世纪古印度）经丝绸之路传入：东汉明帝时西域僧人载佛经至洛阳（白马寺为中国最早佛寺），得上层扶持渐播——丰富了中国文化，在思想文学建筑雕刻绘画诸方面影响深远；“五体投地”“大千世界”“在劫难逃”“因果”等语汇皆源佛经。",
+    "def_en": "In the misery of the late Eastern Han, Zhang Jue's Way of Great Peace and Zhang Ling's Five Pecks of Rice sect turned Laozi into a god and healing into recruitment — religious Daoism was born among the desperate. Buddhism arrived by the Silk Road: sutras carried to Luoyang under Emperor Ming (the White Horse Temple its first house), patronage from the top, and in time a transformation of Chinese thought, letters, building and art — Chinese itself still speaks Buddhist loanwords daily, from 'world' to 'karma'.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第15课 两汉的科技和文化"
+      }
+    ],
+    "collocations": [
+      "religious Daoism",
+      "the transmission of Buddhism",
+      "sutra translation",
+      "karma",
+      "sinicisation of Buddhism"
+    ],
+    "example": "Buddhism's journey into China is the classic case study in how religions localise — 'sinicisation of religion' is today's policy word, but the process it names began in a Luoyang temple two millennia ago.",
+    "nuance": "哲学道家（[[laozi]]）与宗教道教（religious Daoism）英语必须分开——中文一个“道”字统摄，英语 Daoist philosophy vs Daoist religion。“白马寺”= the White Horse Temple。汉语佛源词（世界、因果、刹那、方便）是绝佳的语言接触案例，与英语中的拉丁/法语层对照。",
+    "links": [
+      {
+        "to": "buddhism",
+        "rel": "broader"
+      },
+      {
+        "to": "laozi",
+        "rel": "related"
+      },
+      {
+        "to": "silk-road",
+        "rel": "effect"
+      },
+      {
+        "to": "rise-of-christianity",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "religion",
+      "culture"
+    ],
+    "period": "东汉"
+  },
+  {
+    "id": "eastern-han",
+    "zh": "东汉兴衰与黄巾起义",
+    "pinyin": "Dōnghàn xīngshuāi",
+    "en": "the Eastern Han: revival, eunuchs and the Yellow Turbans",
+    "def_zh": "公元9年外戚王莽篡汉建新朝，施政加剧动荡被农民起义推翻；25年宗室刘秀称帝都洛阳（光武帝），释奴婢、轻负担、并郡县、惩贪吏、允许少数民族内迁——“光武中兴”。中期后皇帝多年幼，太后外戚专权，皇帝长成又依宦官除外戚——外戚宦官交替专权恶性循环，政治腐朽（“直如弦，死道边；曲如钩，反封侯”）。184年张角创太平道十余年、信徒数十万，发动有组织有准备的黄巾起义；虽被镇压，东汉一蹶不振，改刺史为州牧又酿军阀割据。",
+    "def_en": "The usurper Wang Mang's 'New Dynasty' (AD 9) collapsed in rebellion; Liu Xiu restored the Han at Luoyang in 25 and his frugal, emancipating reign earned the name 'Guangwu revival'. Then the dynasty aged into its disease: child emperors, regent in-law clans, and the eunuchs each grown emperor used to destroy them — a rotation of parasites ('straight as a bowstring, die by the road; bent as a hook, be made a marquis'). In 184 the Daoist healer Zhang Jue launched the organised, yellow-scarfed rising of millions; it was crushed, but the throne never recovered, and the warlord governors who suppressed it kept their armies.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第13课 东汉的兴衰"
+      }
+    ],
+    "collocations": [
+      "usurpation",
+      "regents and eunuchs",
+      "palace politics",
+      "the Yellow Turban rebellion",
+      "warlordism"
+    ],
+    "example": "'Eunuch politics' remains the working metaphor for courtiers whose power depends wholly on the ruler's person — the Eastern Han wrote the case study every palace-intrigue drama still adapts.",
+    "nuance": "“外戚”= consort clans/imperial in-laws；“宦官”= eunuchs；“专权”= monopolise power。黄巾起义 = the Yellow Turban Rebellion（turban 约定俗成，实为黄巾裹头）。“军阀”= warlord——20世纪中国史高频词在此发源。",
+    "links": [
+      {
+        "to": "han-wudi",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "daoism-buddhism-china",
+        "rel": "related"
+      },
+      {
+        "to": "three-kingdoms",
+        "rel": "cause"
+      },
+      {
+        "to": "chen-sheng-uprising",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "25年–220年"
+  },
+  {
+    "id": "three-kingdoms",
+    "zh": "三国鼎立",
+    "pinyin": "Sānguó dǐnglì",
+    "en": "the Three Kingdoms",
+    "def_zh": "曹操挟汉献帝号令天下、屯田筹粮，200年官渡之战声东击西烧袁绍乌巢军粮、以少胜多统一北方基础成。208年曹操南下，刘备（三顾茅庐得诸葛亮）联孙权，周瑜黄盖诈降火攻，赤壁之战以约5万破20余万——奠定三分。220年曹丕废汉献帝建魏都洛阳；221年刘备成都称帝国号汉（蜀汉）；229年孙权称帝建吴都建业。魏兴水利，吴开发江东、230年卫温率万人船队达夷洲（今台湾），蜀诸葛亮治蜀开发西南。",
+    "def_en": "Cao Cao ruled through a captive emperor and fed his armies from military farms; at Guandu (200) he burned Yuan Shao's grain and won the north with the smaller force. Marching south in 208 he met the alliance Zhuge Liang had brokered — thrice-visited in his cottage — between Liu Bei and Sun Quan: at Red Cliffs, fireships behind a false surrender routed 200,000 with 50,000, and China split three ways. Wei (Cao Pi, 220), Shu-Han (Liu Bei, 221) and Wu (Sun Quan, 229) each built their base — Wu's fleet reaching Yizhou, today's Taiwan, in 230.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第16课 三国鼎立"
+      }
+    ],
+    "collocations": [
+      "the Three Kingdoms",
+      "the Battle of Red Cliffs",
+      "hold the emperor to command the lords",
+      "the Romance of the Three Kingdoms"
+    ],
+    "example": "The Romance of the Three Kingdoms is East Asia's shared strategy canon — Japanese CEOs, Korean gamers and Chinese officials all quote it; John Woo's Red Cliff simply filmed what the boardroom already knew.",
+    "nuance": "史书《三国志》(Records of the Three Kingdoms) 与小说《三国演义》(Romance of the Three Kingdoms) 英语书名固定、须分清——教材特意出题辨析草船借箭等为小说虚构。“挟天子以令诸侯”= holding the emperor hostage to command the nobles（与 [[shogunate]]、[[charlemagne]] 的“挟虚君”结构同型）。卫温赴夷洲为两岸论述常引史实。",
+    "links": [
+      {
+        "to": "eastern-han",
+        "rel": "effect"
+      },
+      {
+        "to": "jin-disunion",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "legalism",
+        "rel": "related"
+      },
+      {
+        "to": "shogunate",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance",
+      "culture"
+    ],
+    "period": "220年–280年"
+  },
+  {
+    "id": "jin-disunion",
+    "zh": "西晋短暂统一与八王之乱",
+    "pinyin": "Xījìn / Bāwáng zhī luàn",
+    "en": "the brief Jin unification and the War of the Eight Princes",
+    "def_zh": "263年魏灭蜀；266年司马炎代魏建晋（西晋），280年灭吴统一全国。但晋室出身大地主大贵族，处处维护家族权势、以奢侈为荣（石崇王恺斗富）；武帝大封同姓诸王、遣王据守重镇，惠帝昏庸时八王为争中央政权混战十几年（“八王之乱”），西晋从此衰落，中原人口大量南逃——中国古代第一次大规模人口迁徙高潮。同期匈奴鲜卑羯氐羌等游牧民族不断内迁（山西陕西内迁各族已占人口一半），受西晋暴政压迫而起兵；316年匈奴人灭西晋，此后北方陷入十六国混战（前秦苻坚一度统一北方）。",
+    "def_en": "The Sima clan absorbed Wei (266) and finished Wu (280) — then squandered the reunification within a generation: an aristocracy that competed in extravagance, princes of the blood given armies and provinces, and, under an incapable emperor, the Eight Princes' decade of civil war that bled the dynasty white. Millions fled south in China's first great migration; the Xiongnu, Xianbei and other borderers who had settled the depopulated north — half its people in Shanxi and Shaanxi — rose against Jin misrule, extinguished the dynasty in 316, and the north dissolved into the Sixteen Kingdoms.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第17课 西晋的短暂统一和北方各族的内迁"
+      }
+    ],
+    "collocations": [
+      "a war of succession",
+      "princely fiefs",
+      "mass migration southward",
+      "the Sixteen Kingdoms",
+      "the five 'barbarian' peoples"
+    ],
+    "example": "The Eight Princes are China's answer to the Wars of the Roses — the standing proof, cited from the Federalist Papers' China-watchers to Beijing's own historians, that armed royal relatives are a constitution's worst clause.",
+    "nuance": "“八王之乱”= the War/Rebellion of the Eight Princes。“五胡内迁”旧称 the Five Barbarians——英语学界现用 non-Han/steppe peoples（barbarian 须打引号）。“衣冠南渡”这类南迁专语可译 the southward flight of the elite。晋武帝重蹈分封覆辙与 [[han-wudi]] 推恩令形成制度学习的正反面。",
+    "links": [
+      {
+        "to": "three-kingdoms",
+        "rel": "replaced"
+      },
+      {
+        "to": "jiangnan-development",
+        "rel": "cause"
+      },
+      {
+        "to": "xiaowen-reforms",
+        "rel": "related"
+      },
+      {
+        "to": "fall-of-rome",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "266年–316年"
+  },
+  {
+    "id": "jiangnan-development",
+    "zh": "江南地区的开发",
+    "pinyin": "Jiāngnán kāifā",
+    "en": "the opening-up of the Yangzi south",
+    "def_zh": "秦汉时黄河流域为全国经济重心、江南地广人稀（《史记》：“楚越之地……无积聚而多贫”）。西晋末大批北人南下避乱，带来劳动力与中原先进工具技术；东晋（317年司马睿建康重建、“王与马共天下”；祖逖北伐中流击楫）及南朝（宋齐梁陈，420–589）时江南相对安定：垦荒兴水利、犁耕育秧移栽、麦稻兼作双季稻，缫丝制瓷冶铸造船造纸皆进，建康成为最活跃大都市，海外贸易远及天竺西亚欧非——《宋书》：“地广野丰……丝绵布帛之饶，覆衣天下”。为日后经济重心南移奠基。",
+    "def_en": "Under the Qin and Han the Yellow River fed China and the south was a poor frontier — 'vast, thinly peopled, without stores' (Shiji). War sent the north's people and know-how across the Yangzi; under the Eastern Jin and Southern Dynasties the south, spared the worst fighting, was cleared, dyked and double-cropped, its silk, ceramics, shipyards and paper mills booming, Jiankang (Nanjing) the busiest city of the age, its traders reaching India and beyond — 'its silks clothe the empire' (Songshu). The economic centre of Chinese history had begun its long move south.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第18课 东晋南朝时期江南地区的开发"
+      }
+    ],
+    "collocations": [
+      "the economic centre of gravity",
+      "migration-led development",
+      "land clearance",
+      "the Yangzi delta"
+    ],
+    "example": "The Yangzi delta's dominance of Chinese GDP is a 1,700-year trend line — this chapter is where economists start the series.",
+    "nuance": "“经济重心南移”= the southward shift of the economic centre of gravity（中国经济史核心命题）。“江南”= Jiangnan / the lower Yangzi（英语文献直接用 Jiangnan）。史料对读法（《史记》贫江南 vs《宋书》富江南）是教材给出的最佳论证示范——写英语文章时的引证模板。",
+    "links": [
+      {
+        "to": "jin-disunion",
+        "rel": "effect"
+      },
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      },
+      {
+        "to": "medieval-towns",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "geography-environment"
+    ],
+    "period": "317年–589年"
+  },
+  {
+    "id": "xiaowen-reforms",
+    "zh": "淝水之战与北魏孝文帝改革",
+    "pinyin": "Xiàowéndì gǎigé",
+    "en": "the Battle of Fei River and the Xiaowen sinicisation reforms",
+    "def_zh": "383年前秦苻坚不顾反对强征各族87万大军南下欲灭东晋（“投鞭断流”），东晋8万精兵淝水以少胜多（“草木皆兵”“风声鹤唳”），前秦土崩瓦解、北方再乱。鲜卑拓跋部建北魏，439年统一北方。孝文帝（冯太后奠基）立志移风易俗：494年迁都洛阳，规定朝廷用汉语禁鲜卑语、改穿汉服、改汉姓（拓跋→元）、鼓励与汉人贵族联姻——促进民族交融、增强国力。北朝后期北方民族大交融：胡人农耕、汉人牧畜，胡床方凳入中原，汉语成通用语，“胡”“汉”观念淡薄——为中华民族注入新活力，为隋唐多民族国家的繁荣奠基。",
+    "def_en": "In 383 Fu Jian hurled a conscript horde ('my army could dam the river with its whips') at the Eastern Jin and lost to 80,000 at the Fei River — panic phrases from that rout ('every bush a soldier', 'wind-cries and crane-calls') are still daily Chinese. From the wreckage the Xianbei Tuoba built Northern Wei, unified the north (439), and under Emperor Xiaowen chose assimilation over apartness: capital moved to Luoyang (494), Chinese mandated at court, Xianbei dress and surnames abolished (Tuoba became Yuan), intermarriage promoted. The great fusion followed — herders farming, farmers herding, 'Hu' and 'Han' fading as labels — the demographic and cultural base on which Sui-Tang greatness would be built.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第19课 北魏政治和北方民族大交融"
+      }
+    ],
+    "collocations": [
+      "sinicisation",
+      "ethnic fusion/integration",
+      "assimilation from the top",
+      "change surnames and dress"
+    ],
+    "example": "Xiaowen is world history's cleanest case of a conquering elite legislating itself out of existence — the mirror image of colonial rulers who legislated apartness, which is why comparativists pair this chapter with [[apartheid]].",
+    "nuance": "“汉化”= sinicisation（当代政策语境同词，含义演变须自觉）；“民族交融”官方译 ethnic integration/fusion（区别于 assimilation 同化的单向义——教材强调双向）。淝水之战成语群：草木皆兵 every bush and tree looks like an enemy soldier；风声鹤唳 the sound of wind and crane alike spell pursuit——中文成语英译的展示柜。",
+    "links": [
+      {
+        "to": "jin-disunion",
+        "rel": "effect"
+      },
+      {
+        "to": "meiji-restoration",
+        "rel": "related"
+      },
+      {
+        "to": "apartheid",
+        "rel": "contrast"
+      },
+      {
+        "to": "frankish-kingdom",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society",
+      "culture"
+    ],
+    "period": "383年–499年"
+  },
+  {
+    "id": "weijin-culture",
+    "zh": "魏晋南北朝的科技与文化",
+    "pinyin": "Wèi-Jìn kējì wénhuà",
+    "en": "science and arts of the Wei-Jin era",
+    "def_zh": "贾思勰《齐民要术》为我国现存最早完整农书：总结农林牧副渔技术，强调顺天时量地利、因地制宜、多种经营——世界农学史地位重要。祖冲之运用刘徽割圆术把圆周率精确到小数点后第七位（领先世界近千年），创《大明历》（岁差仅50秒）、造指南车水碓磨。书法成为专门艺术：锺繇创楷书，东晋王羲之《兰亭集序》“天下第一行书”、被誉“书圣”；顾恺之《女史箴图》《洛神赋图》；云冈龙门石窟融合中外雕塑艺术；范缜《神灭论》系统阐述无神论。（郦道元《水经注》为综合地理巨著。）",
+    "def_en": "Division did not dim invention: Jia Sixie's Essential Techniques for the Common People, China's oldest complete agricultural treatise, codified farming by season, soil and diversification; Zu Chongzhi fixed pi between 3.1415926 and 3.1415927 — unmatched for nearly a thousand years — and calibrated the year to within 50 seconds. Calligraphy became high art: Wang Xizhi's Orchid Pavilion Preface remains 'the finest running script under heaven'; Gu Kaizhi's scroll paintings, and the colossal cave sculptures of Yungang and Longmen — Chinese tradition fused with Buddhist art off the Silk Road — crowned the age; Fan Zhen's Essay on the Extinction of the Soul even argued systematic atheism against it all.",
+    "sources": [
+      {
+        "book": "ch7a",
+        "chapter": "第20课 魏晋南北朝的科技与文化"
+      }
+    ],
+    "collocations": [
+      "the value of pi",
+      "calligraphy as high art",
+      "running script",
+      "Buddhist cave temples/grottoes"
+    ],
+    "example": "Zu Chongzhi's pi is China's favourite exhibit in the 'we were ahead for a millennium' cabinet — and the honest footnote to Needham's grand question of why the lead was later lost.",
+    "nuance": "书法 = calligraphy；行书/楷书/草书 = running/regular/cursive script。《兰亭集序》= the Orchid Pavilion Preface。石窟 = grottoes/cave temples（Yungang, Longmen——均为世遗）。李约瑟问题 the Needham Question（中国科技何以先盛后衰）是此类成就叙事在英语世界的总框架。",
+    "links": [
+      {
+        "to": "xiaowen-reforms",
+        "rel": "related"
+      },
+      {
+        "to": "daoism-buddhism-china",
+        "rel": "related"
+      },
+      {
+        "to": "aristotle",
+        "rel": "related"
+      },
+      {
+        "to": "papermaking",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "culture"
+    ],
+    "period": "220年–589年"
+  }
+]
