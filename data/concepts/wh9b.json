@@ -1,0 +1,474 @@
+[
+  {
+    "id": "latin-american-independence",
+    "zh": "拉丁美洲独立运动",
+    "pinyin": "Lādīng Měizhōu dúlì yùndòng",
+    "en": "the Latin American wars of independence",
+    "def_zh": "拉丁美洲（美国以南、以西葡语为主的美洲）自16世纪初为西、葡殖民地，形成按血统划分的金字塔等级社会：白人殖民者居顶，其下土生白人（地主商人）、混血种人、最底层印第安人与黑人。18世纪末19世纪初，受美国独立战争与法国大革命影响，独立运动烽火燃遍北起墨西哥、南到阿根廷的广大地区；玻利瓦尔与圣马丁被誉为南美“解放者”。",
+    "def_en": "Spain and Portugal's American empire was a caste pyramid — peninsular officials on top, then creole landowners, mixed-race artisans, and Indians and Blacks at the bottom. Fired by the American and French examples, the colonies rose from Mexico to Argentina in the early 19th century; Bolívar and San Martín earned the shared title of Liberator.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第1课 殖民地人民的反抗斗争"
+      }
+    ],
+    "collocations": [
+      "creoles (American-born whites)",
+      "wars of independence",
+      "the casta system",
+      "throw off colonial rule"
+    ],
+    "example": "Latin America's founding paradox still shapes its politics: independence was won by creole elites, so flags changed faster than landowners.",
+    "nuance": "“土生白人”= creoles（关键史学词——注意 creole 另有克里奥尔语/人的含义，语境定音）；“混血种人”历史语境作 mestizos（印欧混血）/mulattoes（后者今带冒犯性，学术引用需谨慎）。“解放者”= the Liberator（Bolívar 的固定尊称）。",
+    "links": [
+      {
+        "to": "bolivar",
+        "rel": "narrower"
+      },
+      {
+        "to": "american-revolution",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "french-revolution",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "early-colonialism",
+        "rel": "effect"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1791年–1826年"
+  },
+  {
+    "id": "bolivar",
+    "zh": "玻利瓦尔",
+    "pinyin": "Bōlìwǎ'ěr",
+    "en": "Simón Bolívar",
+    "def_zh": "生于加拉加斯，青年赴欧求学、深受法国启蒙思想影响。宣布解放黑奴、承诺分地给起义士兵，1819年率军越过积雪的安第斯山脉大败西班牙军，解放哥伦比亚、委内瑞拉、厄瓜多尔等地，建“大哥伦比亚共和国”并当选总统；憧憬拉美各国联盟。玻利维亚以其名命名。",
+    "def_en": "Caracas-born and Enlightenment-schooled, he freed slaves who joined him, led his army over the snowbound Andes in 1819 to rout the Spanish, liberated the lands he formed into Gran Colombia, and dreamed of a league of Latin republics; Bolivia bears his name — a country named after its liberator.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第1课 殖民地人民的反抗斗争"
+      }
+    ],
+    "collocations": [
+      "the Liberator",
+      "Bolivarian",
+      "cross the Andes",
+      "pan-American unity"
+    ],
+    "example": "Venezuela styles itself the 'Bolivarian Republic', and Chávez claimed the Liberator's mantle — proof that in Latin America Bolívar remains the ancestor every politician wants.",
+    "nuance": "Bolivarian（玻利瓦尔主义的）是当代拉美政治报道高频词，特指委内瑞拉查韦斯一系的左翼民族主义。他与拿破仑同时代且同样越山奇袭——英语叙事常并提 crossing the Andes/Alps。",
+    "links": [
+      {
+        "to": "latin-american-independence",
+        "rel": "broader"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "napoleon",
+        "rel": "related"
+      },
+      {
+        "to": "washington",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1783年–1830年"
+  },
+  {
+    "id": "indian-rebellion-1857",
+    "zh": "印度民族大起义",
+    "pinyin": "Yìndù mínzú dàqǐyì",
+    "en": "the Indian Rebellion of 1857",
+    "en_alt": [
+      "the Sepoy Mutiny (dated)",
+      "the First War of Independence (Indian usage)"
+    ],
+    "def_zh": "19世纪中期印度沦为英国殖民地：英国棉纺织品倾销摧毁印度发达的手工棉纺织业，殖民者兼并王公领地（无嗣即归英国）、虐待“土兵”并不尊重其宗教信仰。1857年土兵率先起义，农民、手工业者与被夺权的王公响应，席卷印度北部中部，夺取德里；章西女王率军激战、壮烈牺牲。起义沉重打击英国殖民者，反映印度民族意识觉醒；英国政府随之取消东印度公司统治权（1858年撤销该公司），改为直接统治印度。",
+    "def_en": "By mid-century Britain had beggared India's famous handloom industry with machine-made cloth, annexed princely states whenever a ruler died heirless, and abused its sepoy soldiers' pay and faith. In 1857 the sepoys rose, joined by peasants, artisans and dispossessed princes; Delhi fell to them, and the Rani of Jhansi died leading her troops. The rising was crushed, but it ended Company rule — from 1858 the British Crown governed India directly — and it announced the awakening of Indian national feeling.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第1课 殖民地人民的反抗斗争"
+      }
+    ],
+    "collocations": [
+      "sepoys",
+      "the British Raj",
+      "princely states",
+      "the doctrine of lapse",
+      "deindustrialisation"
+    ],
+    "example": "Historians still argue over the name — Mutiny, Rebellion, or First War of Independence — because what you call 1857 declares whose side of the Raj you narrate.",
+    "nuance": "“土兵”= sepoy（波斯语借词，英印军队的印度士兵）。命名即立场：英方旧称 the Sepoy Mutiny（兵变），现代学界中性称 the Indian Rebellion/Uprising of 1857，印度官方称第一次独立战争。“无嗣归英”政策专名 the doctrine of lapse。1858年后的英属印度称 the (British) Raj——Economist 关于印度的报道常用。",
+    "links": [
+      {
+        "to": "east-india-company",
+        "rel": "effect"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "caste-system",
+        "rel": "related"
+      },
+      {
+        "to": "spartacus-uprising",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "society"
+    ],
+    "period": "1857年–1858年"
+  },
+  {
+    "id": "peter-the-great",
+    "zh": "彼得一世改革",
+    "pinyin": "Bǐdé yīshì gǎigé",
+    "en": "Peter the Great's reforms",
+    "def_zh": "莫斯科公国在反抗蒙古统治中崛起，16世纪初统一俄罗斯，伊凡四世始称“沙皇”（源自拉丁语“凯撒”）。沙皇专制下农奴制盛行、俄国封闭落后。彼得一世（1682–1725在位）号召向西方学习：改组行政强化集权、建新式常备军、按功才提拔、兴办手工工场（准许工场主购买整村农奴）、办科学院学校报纸、派留学生、倡西方礼节生活方式。俄国经济军事实力大增，胜瑞典夺波罗的海出海口，营建新都圣彼得堡；改革开启俄国近代化进程，但农奴制进一步强化，成为日后发展障碍。",
+    "def_en": "Muscovy, risen through the Mongol wars and united by 1500, took the title Tsar (from Caesar) under Ivan IV; serfdom deepened as the state hardened. Peter the Great forced Russia to school with the West: a centralised administration, a disciplined standing army, promotion by merit, state-fostered manufactories (allowed to buy whole villages of serfs), academies, schools, newspapers and Western manners. Victory over Sweden won the Baltic coast and a new capital, St Petersburg — Russia's 'window on the West'. Modernisation began; serfdom, its foundation, grew stronger still.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第2课 俄国的改革"
+      }
+    ],
+    "collocations": [
+      "a window on the West",
+      "Westernisation",
+      "top-down reform",
+      "catch-up modernisation"
+    ],
+    "example": "Every state-led modernisation drive gets measured against Peter: can you import the West's technology without importing its politics? Russia has been testing the proposition for three centuries.",
+    "nuance": "“沙皇”= tsar（亦拼 czar——美式媒体用 czar 指政策主管：drug czar 禁毒沙皇）。“西化”= Westernisation；“自上而下的改革”= top-down reform。圣彼得堡作为 window on/to the West（普希金语）是英语文化常引意象。",
+    "links": [
+      {
+        "to": "absolute-monarchy",
+        "rel": "related"
+      },
+      {
+        "to": "serf-emancipation",
+        "rel": "related"
+      },
+      {
+        "to": "taika-reform",
+        "rel": "related"
+      },
+      {
+        "to": "byzantine-empire",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "julius-caesar",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "1682年–1725年"
+  },
+  {
+    "id": "serf-emancipation",
+    "zh": "1861年俄国废除农奴制",
+    "pinyin": "fèichú nóngnúzhì",
+    "en": "the Emancipation of the Serfs (1861)",
+    "def_zh": "19世纪中期农奴制严重制约俄国资本主义发展（近40%工业劳动者是农奴，购买力低下）；克里木战争败于英法支持的奥斯曼，暴露军事经济落后。亚历山大二世称“与其等农民自下而上起来解放自己，不如自上而下解放农民”，1861年颁令废除农奴制：农奴获人身自由、可转换职业，并可获得份地但须高价赎买——列宁评：农民获得“自由”时已被剥夺得一干二净。俄国历史的重要转折点，走上资本主义道路，但农奴制残余仍存。",
+    "def_en": "Serfdom was strangling Russian capitalism — two-fifths of industrial workers were serfs — and defeat in the Crimea laid the backwardness bare. 'Better to abolish serfdom from above,' Alexander II reasoned, 'than wait for it to abolish itself from below': his 1861 edict freed the serfs in person but made them buy their allotments at above-market 'redemption payments' — free, as Lenin put it, and fleeced. A turning point onto the capitalist road, with the old order's residue everywhere.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第2课 俄国的改革"
+      }
+    ],
+    "collocations": [
+      "emancipation from above",
+      "redemption payments",
+      "the Crimean War",
+      "the Decembrists"
+    ],
+    "example": "Reform-from-above is autocracy's favourite insurance policy — Alexander II wrote its motto, and paid its usual premium: emancipator abroad, assassinated at home.",
+    "nuance": "“自上而下/自下而上”= from above / from below（史学固定表述）。“赎买”= redemption payments。背景词：克里木战争 = the Crimean War（南丁格尔、轻骑兵冲锋皆出此役）；十二月党人 = the Decembrists（1825年12月起义得名，流放西伯利亚的贵族革命者——俄国文学常客）。与美国1863年解放黑奴仅隔两年，英语史学常并论 the two emancipations。",
+    "links": [
+      {
+        "to": "serfdom",
+        "rel": "related"
+      },
+      {
+        "to": "peter-the-great",
+        "rel": "related"
+      },
+      {
+        "to": "emancipation-proclamation",
+        "rel": "related"
+      },
+      {
+        "to": "ottoman-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "economy",
+      "governance"
+    ],
+    "period": "1861年"
+  },
+  {
+    "id": "american-civil-war",
+    "zh": "美国内战（南北战争）",
+    "pinyin": "Měiguó nèizhàn",
+    "en": "the American Civil War",
+    "def_zh": "19世纪中期美国工业居世界第四：北方完成工业革命，南方以种植园经济为主、大量使用黑奴（内战前夕400万）。南北矛盾激化：关税（南方要低关税换英国工业品，北方要高关税护本国工业）与西部新增土地建蓄奴州还是自由州之争；北方废奴运动兴起（废奴社、“地下铁道”）。1860年林肯当选总统，南方7州退出联邦成立“南部同盟”，1861年4月南方挑起战争；1865年北方获胜，避免分裂。实质是美国第二次资产阶级革命：维护统一、废除奴隶制，为经济迅速发展扫清最大障碍。",
+    "def_en": "By 1860 America was the world's fourth industrial power — an industrialised North yoked to a plantation South worked by four million slaves. Tariffs (the North wanted protection, the South cheap British goods) and the fate of the West (free soil or slave states?) split the union; abolitionists ran their Underground Railroad while the South ran on cotton. Lincoln's election triggered secession and the Confederacy; four years of war ended in 1865 with the union saved and slavery dead — a 'second American revolution' that cleared capitalism's greatest obstacle.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第3课 美国内战"
+      }
+    ],
+    "collocations": [
+      "secession",
+      "the Union and the Confederacy",
+      "abolitionists",
+      "the Underground Railroad",
+      "slave states and free states"
+    ],
+    "example": "'Civil war' remains America's ultimate political swear-word: every deep division gets measured against 1861, the one argument the constitution could not contain.",
+    "nuance": "“南部同盟”= the Confederacy（正式名 the Confederate States of America）；北方即 the Union。“退出联邦”= secession（今泛用于任何分离运动：Scottish secession）。“地下铁道”= the Underground Railroad（既非地下也非铁路——著名的隐喻组织名）。“废奴运动”= abolitionism。",
+    "links": [
+      {
+        "to": "lincoln",
+        "rel": "related"
+      },
+      {
+        "to": "emancipation-proclamation",
+        "rel": "narrower"
+      },
+      {
+        "to": "triangular-trade",
+        "rel": "related"
+      },
+      {
+        "to": "us-constitution",
+        "rel": "related"
+      },
+      {
+        "to": "english-revolution",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance",
+      "economy"
+    ],
+    "period": "1861年–1865年"
+  },
+  {
+    "id": "lincoln",
+    "zh": "林肯",
+    "pinyin": "Línkěn",
+    "en": "Abraham Lincoln",
+    "def_zh": "生于肯塔基贫困家庭，几乎未受正规教育，刻苦自修成为律师、议员；1860年作为共和党候选人当选第16任总统。同情奴隶、痛恨奴隶制，但主张以和平方式逐步限制、最终废除，反对激化矛盾导致分裂（“一幢裂开的房子是站立不住的”）。内战中颁《宅地法》、发表《解放黑人奴隶宣言》扭转战局；1865年被拥护奴隶制的狂热分子刺杀。为维护国家统一和解放黑奴作出杰出贡献。",
+    "def_en": "Born poor in Kentucky and almost wholly self-taught, lawyer, legislator, then sixteenth president. He hated slavery but meant to strangle it lawfully — 'a house divided against itself cannot stand' — and only war made him its destroyer; the Homestead Act and the Emancipation Proclamation turned the tide he did not choose. Murdered in victory, he became the republic's martyr-president.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第3课 美国内战"
+      }
+    ],
+    "collocations": [
+      "a house divided",
+      "government of the people, by the people, for the people",
+      "the Great Emancipator",
+      "log cabin to White House"
+    ],
+    "example": "The Gettysburg formula — government of the people, by the people, for the people — is democracy's most borrowed sentence; 孙中山's 三民主义 is one of its translations.",
+    "nuance": "“民有、民治、民享”即葛底斯堡演说句——中译回路值得注意（林肯→孙中山）。log cabin to White House（从小木屋到白宫）是美式奋斗叙事的原型短语；the Great Emancipator 为其尊称。",
+    "links": [
+      {
+        "to": "american-civil-war",
+        "rel": "broader"
+      },
+      {
+        "to": "emancipation-proclamation",
+        "rel": "cause"
+      },
+      {
+        "to": "washington",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "1809年–1865年"
+  },
+  {
+    "id": "emancipation-proclamation",
+    "zh": "《解放黑人奴隶宣言》与《宅地法》",
+    "pinyin": "Jiěfàng hēirén núlì xuānyán",
+    "en": "the Emancipation Proclamation and the Homestead Act",
+    "def_zh": "1862年联邦政府颁《宅地法》：年满21岁、未参加叛乱的公民交10美元登记费即可在西部得160英亩土地，连续耕种5年归己——鼓励西部垦殖。随后林肯发表《解放黑人奴隶宣言》：1863年元旦起南方叛乱地区奴隶永远获得自由、可以自由人身份参加北方军队。两法深得人心，农民与黑奴踊跃参军，扭转北方被动战局。",
+    "def_en": "The Homestead Act (1862) offered any loyal adult 160 western acres for a $10 fee and five years' tillage — land for loyalty; the Emancipation Proclamation then declared slaves in rebel territory free from New Year's Day 1863 and welcome in Union blue. Together they turned the war's manpower and its meaning: a war for union became a war for freedom, with farmers and freedmen filling the ranks.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第3课 美国内战"
+      }
+    ],
+    "collocations": [
+      "free the slaves",
+      "homesteaders",
+      "forty acres and a mule",
+      "turn the tide of war"
+    ],
+    "example": "Wars are won by redefining them: Lincoln's proclamation cost nothing on the battlefield and everything to the Confederacy's cause abroad — no European power could now back the slaveholders.",
+    "nuance": "proclamation（文告）与 declaration（宣言）体裁有别；宣言只解放“叛乱地区”奴隶——全面废奴须待宪法第十三修正案（the Thirteenth Amendment, 1865）。“获得自由的奴隶”= freedmen。40 acres and a mule（四十英亩加一头骡）是战后对黑人的著名空头承诺，今为赔偿议题的代名词。",
+    "links": [
+      {
+        "to": "american-civil-war",
+        "rel": "broader"
+      },
+      {
+        "to": "lincoln",
+        "rel": "effect"
+      },
+      {
+        "to": "serf-emancipation",
+        "rel": "related"
+      },
+      {
+        "to": "westward-expansion",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "1862年–1863年"
+  },
+  {
+    "id": "westward-expansion",
+    "zh": "西进运动",
+    "pinyin": "xījìn yùndòng",
+    "en": "the Westward Expansion",
+    "def_zh": "美国独立后领土从大西洋岸迅速扩张到太平洋岸，大批移民由东部迁往西部垦殖，出现“小麦王国”“棉花王国”与新兴工厂城市；但大批印第安人被屠杀或驱赶到更远地区，其被迫迁徙之路称“血泪之路”。",
+    "def_en": "Independent America swept from ocean to ocean as settlers poured west, raising wheat and cotton kingdoms and new factory towns — while Native Americans were massacred or driven ever further out, their forced marches remembered as the Trail of Tears.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第3课 美国内战"
+      }
+    ],
+    "collocations": [
+      "manifest destiny",
+      "the frontier",
+      "the Trail of Tears",
+      "settlers and homesteaders",
+      "the Wild West"
+    ],
+    "example": "'The frontier' never closed in American rhetoric — space, the internet and AI have each been declared the new one, Turner's thesis wearing new clothes.",
+    "nuance": "教材未名而英语必备：“昭昭天命”= manifest destiny（扩张的意识形态口号）；“边疆”= the frontier（特纳边疆学说 the frontier thesis 是美国自我理解的核心）。“血泪之路”= the Trail of Tears（专名，特指切罗基人被驱逐）。",
+    "links": [
+      {
+        "to": "american-civil-war",
+        "rel": "related"
+      },
+      {
+        "to": "emancipation-proclamation",
+        "rel": "related"
+      },
+      {
+        "to": "columbus",
+        "rel": "related"
+      },
+      {
+        "to": "early-colonialism",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "geography-environment",
+      "society"
+    ],
+    "period": "19世纪"
+  },
+  {
+    "id": "meiji-restoration",
+    "zh": "明治维新",
+    "pinyin": "Míngzhì wéixīn",
+    "en": "the Meiji Restoration",
+    "def_zh": "19世纪中期德川幕府锁国（仅与中荷有限贸易）阻碍日本发展；1853–54年美国舰队两次强行进入日本港口（“黑船来航”），日本被迫签不平等条约开港，经济受冲击、幕府动摇。中下级武士联合西南强藩与朝廷公卿发动倒幕运动，1868年“王政复古”政变结束幕府统治，改元明治。明治维新以西方为榜样全面改造日本：废藩置县加强中央集权；征兵制建新式军队；地税改革、“殖产兴业”发展近代经济；“文明开化”改造教育文化生活。日本迅速走上资本主义道路、跻身强国之列，但保留大量旧制度残余、军国主义色彩浓厚，强大后很快对外侵略扩张。",
+    "def_en": "Two centuries of Tokugawa seclusion ended when Perry's 'black ships' forced Japan open in 1853–54 on unequal terms; the shaken shogunate fell to an alliance of lower samurai, powerful south-western domains and the court, and in 1868 power was 'restored' to the Meiji emperor. The new state remade Japan on Western lines — domains into prefectures, conscription in place of samurai, land-tax finance, 'rich country, strong army' industrialisation, 'civilisation and enlightenment' in schooling and daily life. Japan vaulted into the ranks of the powers — carrying forward, the textbook stresses, a heavy strain of militarism that soon turned outward.",
+    "sources": [
+      {
+        "book": "wh9b",
+        "chapter": "第4课 日本明治维新"
+      }
+    ],
+    "collocations": [
+      "the black ships",
+      "unequal treaties",
+      "rich country, strong army (fukoku kyohei)",
+      "civilisation and enlightenment",
+      "abolish the domains and establish prefectures"
+    ],
+    "example": "Meiji Japan is development economics' favourite case study: the one 19th-century country that answered Western gunboats by out-modernising the West, tariffs, textbooks and all.",
+    "nuance": "英语定名 the Meiji Restoration（“复古”着眼于王政复古），中文“维新”着眼于革新——同一事件两种命名重心。“锁国”= sakoku/national seclusion；“不平等条约”= unequal treaties（该词同样用于中国近代史）；“殖产兴业”“富国强兵”英语常直接用 fukoku kyōhei 或译 rich country, strong army。与1861俄国、1860s美国并观：19世纪60年代全球改革潮是常见比较史框架。",
+    "links": [
+      {
+        "to": "shogunate",
+        "rel": "replaced"
+      },
+      {
+        "to": "taika-reform",
+        "rel": "related"
+      },
+      {
+        "to": "peter-the-great",
+        "rel": "related"
+      },
+      {
+        "to": "samurai",
+        "rel": "related"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "constitutional-monarchy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy",
+      "war"
+    ],
+    "period": "1868年起"
+  }
+]

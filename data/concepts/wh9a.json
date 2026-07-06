@@ -3649,6 +3649,10 @@
       {
         "book": "wh9a",
         "chapter": "第16课 早期殖民掠夺"
+      },
+      {
+        "book": "wh9b",
+        "chapter": "第1课 殖民地人民的反抗斗争"
       }
     ],
     "collocations": [
@@ -3670,6 +3674,10 @@
       },
       {
         "to": "guilds",
+        "rel": "related"
+      },
+      {
+        "to": "indian-rebellion-1857",
         "rel": "related"
       }
     ],
