@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>义务教育教科书·中国历史 八年级上册 · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>义务教育教科书·中国历史 八年级上册<span class="en">Chinese History, Year 8 Volume 1</span></h1>
+<h2>第1课 鸦片战争 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/opium-war.html">鸦片战争与《南京条约》 · the Opium War and the Treaty of Nanjing</a></div></div>
+<h2>第2课 第二次鸦片战争 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/second-opium-war.html">第二次鸦片战争与火烧圆明园 · the Second Opium War and the burning of the Yuanmingyuan</a></div></div>
+<h2>第3课 太平天国运动 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/taiping.html">太平天国运动 · the Taiping Rebellion</a></div></div>
+<h2>第4课 洋务运动 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/self-strengthening.html">洋务运动 · the Self-Strengthening Movement</a></div></div>
+<h2>第5课 甲午中日战争与列强瓜分中国狂潮 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/jiawu-war.html">甲午中日战争与瓜分狂潮 · the First Sino-Japanese War and the scramble for China</a></div></div>
+<h2>第6课 戊戌变法 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/wuxu-reform.html">戊戌变法（百日维新） · the Hundred Days&#x27; Reform</a></div></div>
+<h2>第7课 八国联军侵华与《辛丑条约》签订 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/boxer-protocol.html">义和团与《辛丑条约》 · the Boxers and the Boxer Protocol</a></div></div>
+<h2>第8课 革命先行者孙中山 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/sun-yatsen.html">孙中山与三民主义 · Sun Yat-sen and the Three Principles of the People</a></div></div>
+<h2>第9课 辛亥革命 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/xinhai-revolution.html">辛亥革命 · the 1911 Revolution</a></div></div>
+<h2>第10课 中华民国的创建 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/republic-of-china.html">中华民国的创建 · the founding of the Republic of China</a></div></div>
+<h2>第11课 北洋政府的统治与军阀割据 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/warlord-era.html">北洋政府与军阀割据 · the Beiyang government and the warlord era</a></div></div>
+<h2>第12课 新文化运动 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/new-culture.html">新文化运动 · the New Culture Movement</a></div></div>
+<h2>第13课 五四运动 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/may-fourth.html">五四运动 · the May Fourth Movement</a></div></div>
+<h2>第14课 中国共产党诞生 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ccp-founding.html">中国共产党的诞生 · the founding of the Chinese Communist Party</a></div></div>
+<h2>第15课 国共合作与北伐战争 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/northern-expedition.html">国共合作与北伐战争 · the First United Front and the Northern Expedition</a></div></div>
+<h2>第16课 毛泽东开辟井冈山道路 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/jinggangshan.html">井冈山道路（工农武装割据） · the Jinggangshan road: encircling the cities from the countryside</a></div></div>
+<h2>第17课 中国工农红军长征 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/long-march.html">红军长征与遵义会议 · the Long March and the Zunyi Conference</a></div></div>
+<h2>第18课 从九一八事变到西安事变 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/xian-incident.html">从九一八到西安事变 · from Mukden to the Xi&#x27;an Incident</a></div></div>
+<h2>第19课 七七事变与全民族抗战 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/war-of-resistance.html">全民族抗战（正面与敌后战场） · the War of Resistance: front and rear battlefields</a></div></div>
+<h2>第20课 正面战场的抗战 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/war-of-resistance.html">全民族抗战（正面与敌后战场） · the War of Resistance: front and rear battlefields</a></div></div>
+<h2>第21课 敌后战场的抗战 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/war-of-resistance.html">全民族抗战（正面与敌后战场） · the War of Resistance: front and rear battlefields</a></div></div>
+<h2>第22课 抗日战争的胜利 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/victory-1945.html">抗日战争的胜利 · victory in the War of Resistance</a></div></div>
+<h2>第23课 内战爆发 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/civil-war-1946.html">人民解放战争 · the Chinese Civil War (War of Liberation)</a></div></div>
+<h2>第24课 人民解放战争的胜利 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/civil-war-1946.html">人民解放战争 · the Chinese Civil War (War of Liberation)</a></div></div>
+<h2>第25课 经济和社会生活的变化 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/modern-society-change.html">近代经济、社会与文教变化 · economic and social change in the Republican era</a></div></div>
+<h2>第26课 教育文化事业的发展 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/modern-society-change.html">近代经济、社会与文教变化 · economic and social change in the Republican era</a></div></div>
+<h2>第27课 活动课：考察近代历史遗迹 <span class='count'>(0)</span></h2><div class='grid'></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
