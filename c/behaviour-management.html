@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>课堂行为管理 · behaviour management: routines before rapport before rules · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Bill Rogers 行为管理系列 / The First Days of School (Wong) / Classroom Management That Works (Marzano) / No-Drama Discipline (Siegel)</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>课堂行为管理 <span class="pinyin">kètáng xíngwéi guǎnlǐ</span><span class="en">behaviour management: routines before rapport before rules</span></h1>
+<p class="meta">🔊 <span class="ipa">de-escalation /diːˌɛskəˈleɪʃən/</span></p>
+<div class="card"><p class="zh">罗杰斯（最少侵入干预、战术性忽略、修复式跟进）、黄（开学头两周立程序）、马扎诺（证据基础）、西格尔（先连接后纠正）——英语教育界的行为管理词汇群:routine、de-escalation、restorative practice、take-up time。</p><p class="endef">Bill Rogers (least-intrusive intervention, tactical ignoring, repair and rebuild), Wong (the first days establish procedures), Marzano (the evidence base), Siegel (connect before you correct). The working lexicon: routines, de-escalation, restorative practice, take-up time.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>discipline 源自拉丁 discipulus（学生,discere 学习）——“纪律”与“学科”同词:纪律本义是“使可教”,不是惩罚。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>restorative practice</b> <span class='ipa'>/rɪˈstɔːrətɪv ˈpræktɪs/</span><br><em>Restorative practice asks who was harmed, not only which rule broke.</em></li><li>▸ <b>tactical ignoring</b> <span class='ipa'>/ˈtæktɪkəl ɪɡˈnɔːrɪŋ/</span><br><em>Tactical ignoring starves the secondary behaviour while the primary instruction continues.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ least-intrusive intervention</li><li>▸ take-up time</li><li>▸ the establishment phase</li><li>▸ follow up, follow through</li><li>▸ connect before you correct</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Give the direction, give take-up time, move away — Rogers in one sentence, and the difference between a request and a standoff.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>discipline 词源即立场:使可学,非使痛苦——与“没有规矩不成方圆”对译时注意英语文献重程序与修复,轻惩戒;NSW 学校话语（PBL/restorative）全在此谱系。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/instructional-science.html">教学科学核心概念（教师专业书） · the science of instruction</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/high-conflict.html">高冲突 · high conflict vs good conflict</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/trauma-psychology.html">创伤心理学（《身体从未忘记》等） · trauma psychology: the body keeps the score</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/high-conflict.html">高冲突 · high conflict vs good conflict</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/impro-status.html">即兴剧场与地位游戏 · Impro: status transactions</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>enlib Bill Rogers 行为管理系列 / The First Days of School (Wong) / Classroom Management That Works (Marzano) / No-Drama Discipline (Siegel)</p>
+<p><a class="tag" href="../themes.html#teaching">#teaching</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

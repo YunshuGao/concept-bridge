@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>算法与计算思维经典 · algorithms: Big-O and the classic shelf · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Introduction to Algorithms (CLRS) / Algorithms (Sedgewick) / Grokking Algorithms / Code (Petzold)</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>算法与计算思维经典 <span class="pinyin">suànfǎ</span><span class="en">algorithms: Big-O and the classic shelf</span></h1>
+<p class="meta">🔊 <span class="ipa">algorithm /ˈælɡərɪðəm/</span></p>
+<div class="card"><p class="zh">CLRS《算法导论》、塞奇威克、《图解算法》、佩措尔德《编码》:大O记号（渐进复杂度）、分治、贪心、动态规划、数据结构;《编码》以电报与继电器讲透抽象层级——比特如何一路搭成计算机。</p><p class="endef">CLRS, Sedgewick, Grokking Algorithms, and Petzold&#x27;s Code: Big-O notation, divide-and-conquer, greedy, dynamic programming, data structures — and Code&#x27;s masterclass in abstraction layers, from telegraph relays to a working computer.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>algorithm 源自9世纪巴格达数学家花剌子模（al-Khwārizmī）的拉丁化名——一位波斯学者的名字成了计算机科学的地基词;algebra 出自其书名 al-jabr。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>Big-O notation</b> <span class='ipa'>/bɪɡ ˈoʊ noʊˈteɪʃən/</span><br><em>Big-O prices an algorithm by how it scales, not how it sprints.</em></li><li>▸ <b>abstraction layer</b> <span class='ipa'>/æbˈstrækʃən ˈleɪər/</span><br><em>Every abstraction layer is a promise: you may forget what&#x27;s below.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ time complexity</li><li>▸ divide and conquer</li><li>▸ space-time trade-off</li><li>▸ premature optimisation</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>花剌子模 to House of Wisdom to CS degree: your algorithms course footnotes the Baghdad translation movement.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>对接 UT Austin CS 课程与教材“逻辑与思维”:算法即形式化推理。词源链 al-Khwārizmī→algorithm 连通 house-of-wisdom 节点——历史与代码同网。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">受影响于 influenced-by</span> <a class="node" href="../c/house-of-wisdom.html">智慧宫与阿拉伯文化 · the House of Wisdom and Arab learning</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/logic-toolkit.html">逻辑与思维（形式逻辑与推理） · the logic toolkit: laws and inference</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/computational-thinking.html">计算思维 · computational thinking</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/word-roots.html">英语词根系统 · Greco-Latin word roots (Word Power Made Easy)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/computational-thinking.html">计算思维 · computational thinking</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>enlib Introduction to Algorithms (CLRS) / Algorithms (Sedgewick) / Grokking Algorithms / Code (Petzold)</p>
+<p><a class="tag" href="../themes.html#technology">#technology</a><a class="tag" href="../themes.html#science">#science</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
