@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>西方文学经典（Goodreads 最佳书单） · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>西方文学经典（Goodreads 最佳书单）<span class="en">The Western Canon (Goodreads Best Books Ever)</span></h1>
+<h2>1984 / Brave New World / Fahrenheit 451 / The Handmaid&#x27;s Tale <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/dystopia.html">反乌托邦 · dystopia</a></div></div>
+<h2>1984 (George Orwell) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/orwellian.html">奥威尔式／老大哥 · Orwellian; Big Brother</a></div></div>
+<h2>Animal Farm (George Orwell) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/animal-farm-allegory.html">《动物庄园》寓言 · Animal Farm: political allegory</a></div></div>
+<h2>Brave New World (Aldous Huxley) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/brave-new-world.html">《美丽新世界》 · Brave New World: the soft dystopia</a></div></div>
+<h2>Catch-22 (Joseph Heller) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/catch-22.html">第二十二条军规 · catch-22</a></div></div>
+<h2>Don Quixote (Cervantes) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/quixotic.html">堂吉诃德式 · quixotic; tilting at windmills</a></div></div>
+<h2>The Great Gatsby (F. Scott Fitzgerald) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/great-gatsby-dream.html">盖茨比与美国梦 · The Great Gatsby &amp; the American Dream</a></div></div>
+<h2>Frankenstein (Mary Shelley) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/frankenstein-metaphor.html">弗兰肯斯坦隐喻 · Frankenstein(&#x27;s monster)</a></div></div>
+<h2>A Tale of Two Cities / Great Expectations (Dickens) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/dickensian.html">狄更斯式 · Dickensian</a></div></div>
+<h2>Lord of the Flies (William Golding) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/lord-of-the-flies.html">《蝇王》 · Lord of the Flies: the thin veneer</a></div></div>
+<h2>The Handmaid&#x27;s Tale (Margaret Atwood) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/handmaids-tale.html">《使女的故事》 · The Handmaid&#x27;s Tale</a></div></div>
+<h2>To Kill a Mockingbird (Harper Lee) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/mockingbird-atticus.html">《杀死一只知更鸟》 · To Kill a Mockingbird &amp; Atticus Finch</a></div></div>
+<h2>Crime and Punishment / The Brothers Karamazov (Dostoevsky) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/dostoevsky-conscience.html">陀思妥耶夫斯基之问 · Dostoevsky: crime, conscience and the Grand Inquisitor</a></div></div>
+<h2>Anna Karenina (Leo Tolstoy) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/anna-karenina-principle.html">安娜·卡列尼娜原理 · the Anna Karenina principle</a></div></div>
+<h2>One Hundred Years of Solitude (Gabriel García Márquez) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/magical-realism.html">魔幻现实主义 · magical realism</a></div></div>
+<h2>Les Misérables (Victor Hugo) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/les-miserables.html">《悲惨世界》 · Les Misérables</a></div></div>
+<h2>The Old Man and the Sea (Ernest Hemingway) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/hemingway-iceberg.html">海明威冰山理论 · Hemingway &amp; the iceberg theory</a></div></div>
+<h2>The Adventures of Sherlock Holmes (Conan Doyle) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/sherlock-deduction.html">福尔摩斯与推理 · Sherlock Holmes &amp; deduction</a></div></div>
+<h2>Alice&#x27;s Adventures in Wonderland (Lewis Carroll) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/alice-wonderland.html">爱丽丝的隐喻库 · Alice in Wonderland: the metaphor mine</a></div></div>
+<h2>Pride and Prejudice (Jane Austen) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/austen-marriage-market.html">《傲慢与偏见》与婚姻市场 · Pride and Prejudice &amp; the marriage market</a></div></div>
+<h2>The Adventures of Huckleberry Finn (Mark Twain) <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/huck-finn-vernacular.html">《哈克贝利·费恩》与美国白话 · Huckleberry Finn &amp; the American vernacular</a></div></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

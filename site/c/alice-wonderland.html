@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>爱丽丝的隐喻库 · Alice in Wonderland: the metaphor mine · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Alice&#x27;s Adventures in Wonderland (Lewis Carroll)</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>爱丽丝的隐喻库 <span class="pinyin">àilìsī</span><span class="en">Alice in Wonderland: the metaphor mine</span></h1>
+<p class="meta">🔊 <span class="ipa">Cheshire /ˈtʃɛʃər/</span></p>
+<div class="card"><p class="zh">卡罗尔两部爱丽丝书是英语隐喻的高产矿：down the rabbit hole（越陷越深的探索）、through the looking glass（颠倒世界）、Cheshire cat grin、Mad Hatter、Red Queen race（红皇后竞赛：拼命奔跑才能留在原地）——最后者已是演化生物学与商业竞争的正式术语。</p><p class="endef">Carroll&#x27;s Alice books are English&#x27;s richest metaphor mine: down the rabbit hole, through the looking glass, Cheshire-cat grins, Mad Hatters, and the Red Queen&#x27;s race — running flat out to stay in place, now a formal term in evolutionary biology and business strategy.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>作者本名 Charles Dodgson,牛津数学逻辑学家——书中悖论与语言游戏皆本行；Jabberwocky 的自造词（chortle, galumph）竟入正规词典。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>rabbit hole</b> <span class='ipa'>/ˈræbɪt hoʊl/</span><br><em>One footnote and three hours later, the rabbit hole had a bibliography.</em></li><li>▸ <b>Red Queen effect</b> <span class='ipa'>/rɛd kwin ɪˈfɛkt/</span><br><em>Antibiotic resistance is the Red Queen effect with a body count.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ go down the rabbit hole</li><li>▸ through the looking glass</li><li>▸ grin like a Cheshire cat</li><li>▸ we&#x27;re all mad here</li><li>▸ curiouser and curiouser</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Chip export controls sent both governments through the looking glass: each running the Red Queen&#x27;s race just to hold its place.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>Red Queen 假说（Van Valen 1973）是文学典故变正式科学术语的又一例,与 Anna Karenina principle 同类。rabbit hole 今多指网络沉迷式钻研,已半脱离原书。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/darwin.html">达尔文与进化论 · Darwin and evolution</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/wittgenstein-language.html">维特根斯坦（语言的界限） · Wittgenstein: the limits of language</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/logic-toolkit.html">逻辑与思维（形式逻辑与推理） · the logic toolkit: laws and inference</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>grbest Alice&#x27;s Adventures in Wonderland (Lewis Carroll)</p>
+<p><a class="tag" href="../themes.html#culture">#culture</a><a class="tag" href="../themes.html#ideas">#ideas</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

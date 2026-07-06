@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "dystopia",
+    "zh": "反乌托邦",
+    "pinyin": "fǎn wūtuōbāng",
+    "en": "dystopia",
+    "def_zh": "与乌托邦相反的想象社会：以《1984》《美丽新世界》《华氏451》《使女的故事》《饥饿游戏》为代表的文学类型，用极端化的未来警示当下的政治与技术趋势。",
+    "def_en": "An imagined society worse than our own — the inverse of utopia. The canonical quartet (Orwell, Huxley, Bradbury, Atwood) supplies modern English with its vocabulary for warning about surveillance, hedonism, censorship and patriarchy.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "1984 / Brave New World / Fahrenheit 451 / The Handmaid's Tale"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "dystopia /dɪsˈtəʊpiə/",
+    "etymology": "dys-（希腊语“坏、恶”）+ topos（地方）——莫尔造 utopia（乌有之乡）三百年后，密尔1868年在议会演讲中造出其反义词。",
+    "synonyms": [
+      {
+        "word": "cautionary tale",
+        "ipa": "/ˈkɔʃəˌnɛri teɪl/",
+        "sentence": "Every dystopia is a cautionary tale with a plot."
+      },
+      {
+        "word": "anti-utopia",
+        "ipa": "/ˈænti juːˈtəʊpiə/",
+        "sentence": "An anti-utopia takes a promise and follows it to prison."
+      }
+    ],
+    "collocations": [
+      "a dystopian future/novel/regime",
+      "veer into dystopia",
+      "dystopian surveillance",
+      "the dystopian imagination"
+    ],
+    "example": "Critics of the social-credit experiments reached, inevitably, for the dystopian shelf: part Orwell, part Huxley.",
+    "nuance": "奥威尔式与赫胥黎式是两种相反的反乌托邦：前者靠恐惧与匮乏统治（老大哥在看着你），后者靠快感与丰裕统治（无人想读被禁的书，因为无人想读书）。《经济学人》引用时常暗含这一区分。",
+    "links": [
+      {
+        "to": "utopian-socialism",
+        "rel": "contrast"
+      },
+      {
+        "to": "soviet-model",
+        "rel": "related"
+      },
+      {
+        "to": "information-age",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "orwellian",
+    "zh": "奥威尔式／老大哥",
+    "pinyin": "àowēiěr shì / lǎodàgē",
+    "en": "Orwellian; Big Brother",
+    "def_zh": "源自《1984》的一组英语政治词汇：Big Brother（老大哥＝无所不在的监控者）、doublethink（双重思想）、newspeak（新话＝为限制思想而设计的语言）、memory hole（记忆洞）、thought police（思想警察）。",
+    "def_en": "The vocabulary Nineteen Eighty-Four donated to politics: Big Brother, doublethink, newspeak, the memory hole, thought police. 'Orwellian' describes state deception and surveillance — the highest compliment English pays a novelist is an adjective.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "1984 (George Orwell)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "governance"
+    ],
+    "pron": "Orwellian /ɔːˈwɛliən/",
+    "etymology": "Orwell 为埃里克·布莱尔的笔名，取自英格兰 Orwell 河；-ian 使人名成形容词——与 Kafkaesque、Dickensian 同属“作家变形容词”俱乐部。",
+    "synonyms": [
+      {
+        "word": "surveillance state",
+        "ipa": "/səˈveɪləns steɪt/",
+        "sentence": "A surveillance state files what it cannot yet punish."
+      },
+      {
+        "word": "doublethink",
+        "ipa": "/ˈdʌbəlˌθɪŋk/",
+        "sentence": "Doublethink lets an official believe the statistics he falsified."
+      }
+    ],
+    "collocations": [
+      "an Orwellian turn",
+      "Big Brother is watching",
+      "straight out of Orwell",
+      "newspeak euphemisms"
+    ],
+    "example": "Renaming the ministry's censorship office a 'truth and harmony bureau' was an Orwellian flourish the columnists could not resist.",
+    "nuance": "Orwellian 描述的是被批评的体制，而非奥威尔本人的风格；夸奖某人文笔像奥威尔要说 Orwell-like clarity。此外老大哥真人秀（Big Brother）已使该词在流行文化中软化，政治语境仍取原义。",
+    "links": [
+      {
+        "to": "dystopia",
+        "rel": "narrower"
+      },
+      {
+        "to": "soviet-model",
+        "rel": "related"
+      },
+      {
+        "to": "wittgenstein-language",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "animal-farm-allegory",
+    "zh": "《动物庄园》寓言",
+    "pinyin": "dòngwù zhuāngyuán",
+    "en": "Animal Farm: political allegory",
+    "def_zh": "奥威尔以农场动物影射苏联革命史的寓言：起义（十月革命）、拿破仑猪（斯大林）、雪球（托洛茨基）、七诫的篡改——名句“所有动物一律平等，但有些动物比其他动物更平等”成为特权的英语代号。",
+    "def_en": "Orwell's barnyard retelling of Soviet history. 'All animals are equal, but some animals are more equal than others' is now English's standard sarcasm for privileged equality; 'Napoleon the pig' needs no footnote.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Animal Farm (George Orwell)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "governance"
+    ],
+    "pron": "allegory /ˈælɪɡəri/",
+    "etymology": "allegory 源自希腊 allos（他）+ agoreuein（公开说）——“说此指彼”；动物寓言（beast fable）传统上溯伊索。",
+    "synonyms": [
+      {
+        "word": "satire",
+        "ipa": "/ˈsæˌtaɪər/",
+        "sentence": "Satire is anger that learned table manners."
+      },
+      {
+        "word": "fable",
+        "ipa": "/ˈfeɪbəl/",
+        "sentence": "A fable convicts the reader before naming the defendant."
+      }
+    ],
+    "collocations": [
+      "more equal than others",
+      "the revolution betrayed",
+      "rewrite the commandments",
+      "pigs walking on two legs"
+    ],
+    "example": "When the co-op's founders voted themselves salaries, someone left a copy of Animal Farm in the break room.",
+    "nuance": "读过中国史教材的读者占优势：这部寓言逐段对应苏联史（新经济政策、集体化、大清洗、德苏条约），映射越熟悉,讽刺越锋利。中文世界常译“动物农场／动物庄园”两名并行。",
+    "links": [
+      {
+        "to": "october-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "soviet-model",
+        "rel": "related"
+      },
+      {
+        "to": "orwellian",
+        "rel": "related"
+      },
+      {
+        "to": "dante",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "brave-new-world",
+    "zh": "《美丽新世界》",
+    "pinyin": "měilì xīn shìjiè",
+    "en": "Brave New World: the soft dystopia",
+    "def_zh": "赫胥黎1932年的反乌托邦：以基因分级、条件反射教育与快乐药“唆麻”（soma）维持的极权——不靠恐惧靠快感。书名反讽地取自莎士比亚《暴风雨》台词。",
+    "def_en": "Huxley's dystopia of engineered castes, conditioning and the happiness drug soma — tyranny by pleasure rather than pain. The title is Miranda's line from The Tempest, used with maximum irony.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Brave New World (Aldous Huxley)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "soma /ˈsəʊmə/",
+    "etymology": "soma 借自梵语（吠陀祭祀的神饮）兼希腊语 sōma（身体）——一词双关：神性的麻醉，身体的统治。",
+    "synonyms": [
+      {
+        "word": "hedonism",
+        "ipa": "/ˈhidənɪzəm/",
+        "sentence": "State hedonism sedates the citizens it no longer needs to convince."
+      },
+      {
+        "word": "conditioning",
+        "ipa": "/kənˈdɪʃənɪŋ/",
+        "sentence": "Conditioning manufactures consent before the age of consent."
+      }
+    ],
+    "collocations": [
+      "a brave new world of ...",
+      "engineered contentment",
+      "the soma of ...",
+      "Huxleyan rather than Orwellian"
+    ],
+    "example": "Infinite-scroll entertainment looks less like Big Brother and more like soma — a brave new world we swiped into voluntarily.",
+    "nuance": "英语中 a brave new world of X 常半反讽地指“令人不安的新时代”（a brave new world of gene editing）；直译“勇敢的新世界”丢失反讽。与《1984》的对照（快感 vs 恐惧）是英文评论的常用框架。",
+    "links": [
+      {
+        "to": "dystopia",
+        "rel": "narrower"
+      },
+      {
+        "to": "orwellian",
+        "rel": "contrast"
+      },
+      {
+        "to": "shakespeare",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "catch-22",
+    "zh": "第二十二条军规",
+    "pinyin": "dì èrshíèr tiáo jūnguī",
+    "en": "catch-22",
+    "def_zh": "海勒同名小说贡献给英语的普通名词：自相矛盾、无法逃脱的规则困境——想以疯狂为由停飞就证明你清醒，清醒就必须飞。今泛指一切循环悖论式困境。",
+    "def_en": "From Heller's novel: a self-defeating rule you cannot escape — pleading insanity to stop flying proves you sane enough to fly. Now the standard English noun for any circular bind.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Catch-22 (Joseph Heller)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "catch-22 /kætʃ ˌtwɛnti ˈtu/",
+    "etymology": "catch 此处取“圈套、暗藏的难处”义（What's the catch?）；数字22无义——初稿本为 Catch-18，因撞书名改之，偶然性本身很海勒。",
+    "synonyms": [
+      {
+        "word": "double bind",
+        "ipa": "/ˈdʌbəl baɪnd/",
+        "sentence": "A double bind punishes both obedience and refusal."
+      },
+      {
+        "word": "vicious circle",
+        "ipa": "/ˈvɪʃəs ˈsɜrkəl/",
+        "sentence": "No experience, no job; no job, no experience — the oldest vicious circle."
+      }
+    ],
+    "collocations": [
+      "a classic catch-22",
+      "caught in a catch-22",
+      "the catch-22 of credit history",
+      "a catch-22 situation"
+    ],
+    "example": "Start-ups face a catch-22: banks lend only against revenue, and revenue needs the loan.",
+    "nuance": "已完全普通名词化,不需斜体或解释,常小写；中文语境须整句意译（“先有鸡还是先有蛋”只覆盖部分场景，catch-22 强调规则本身的恶意设计）。",
+    "links": [
+      {
+        "to": "wwii",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "quixotic",
+    "zh": "堂吉诃德式",
+    "pinyin": "táng jíhēdé shì",
+    "en": "quixotic; tilting at windmills",
+    "def_zh": "源自塞万提斯《堂吉诃德》（1605，常被称为第一部现代小说）：quixotic＝理想主义到不切实际的；tilt at windmills（挑战风车）＝与想象出来的敌人作战。",
+    "def_en": "From Cervantes' Don Quixote, often called the first modern novel: quixotic means noble-mindedly impractical; to tilt at windmills is to battle imaginary enemies. Both are Economist staples.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Don Quixote (Cervantes)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "quixotic /kwɪkˈsɒtɪk/",
+    "etymology": "西语 Quixote 读“基霍特”，英语却按拼写读 /kwɪk-/——词形入英后本土化发音，与人名原音分家，本身就是一堂借词课。",
+    "synonyms": [
+      {
+        "word": "idealistic",
+        "ipa": "/aɪˌdiəˈlɪstɪk/",
+        "sentence": "Idealistic plans budget for everything except reality."
+      },
+      {
+        "word": "crusading",
+        "ipa": "/kruˈseɪdɪŋ/",
+        "sentence": "The crusading auditor charged at every windmill in the ledger."
+      }
+    ],
+    "collocations": [
+      "a quixotic bid/quest/campaign",
+      "tilting at windmills",
+      "quixotic idealism",
+      "his Dulcinea"
+    ],
+    "example": "Analysts called the one-man lawsuit against the cartel quixotic — right up until the windmill fell over.",
+    "nuance": "quixotic 兼含敬意与讥讽：既赞其理想主义,又断其必败——比 impractical 温柔,比 heroic 悲观。注意发音 /kwɪkˈsɒtɪk/,而人名 Don Quixote 今多读西语式 /ˌdɒn kiːˈhəʊti/。",
+    "links": [
+      {
+        "to": "renaissance",
+        "rel": "related"
+      },
+      {
+        "to": "story-craft",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "great-gatsby-dream",
+    "zh": "盖茨比与美国梦",
+    "pinyin": "gàicíbǐ / měiguó mèng",
+    "en": "The Great Gatsby & the American Dream",
+    "def_zh": "菲茨杰拉德1925年小说：白手起家的盖茨比、绿灯（可望不可即的欲望对象）、爵士时代（Jazz Age，菲氏自造词）——英语中讨论美国梦及其幻灭的第一引用源。",
+    "def_en": "Fitzgerald's 1925 novel is English's first citation for the American Dream and its hollowness: Gatsby the self-made striver, the green light of unreachable desire, the Jazz Age (Fitzgerald's own coinage).",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "The Great Gatsby (F. Scott Fitzgerald)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "economy"
+    ],
+    "pron": "Gatsby /ˈɡætsbi/",
+    "etymology": "American Dream 一词1931年由历史学家 James Truslow Adams 定名——小说先于口号六年写出其挽歌。",
+    "synonyms": [
+      {
+        "word": "self-made man",
+        "ipa": "/sɛlf meɪd mæn/",
+        "sentence": "The self-made man edits the chapters about his investors."
+      },
+      {
+        "word": "social mobility",
+        "ipa": "/ˈsəʊʃəl moʊˈbɪlɪti/",
+        "sentence": "The Great Gatsby Curve plots social mobility against inequality — economists borrowed the title knowingly."
+      }
+    ],
+    "collocations": [
+      "the green light",
+      "Gatsby-esque parties",
+      "the Great Gatsby Curve",
+      "old money vs new money"
+    ],
+    "example": "Economists christened the inequality-mobility chart the Great Gatsby Curve — proof the novel now footnotes the discipline.",
+    "nuance": "经济学正式借用：Great Gatsby Curve（克鲁格2012）指不平等越高、代际流动越低——文学典故变成计量图表的名字。old money／new money（世家旧富与暴发新贵）之分也由此书普及。",
+    "links": [
+      {
+        "to": "westward-expansion",
+        "rel": "related"
+      },
+      {
+        "to": "great-depression",
+        "rel": "related"
+      },
+      {
+        "to": "jinbang-after",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "frankenstein-metaphor",
+    "zh": "弗兰肯斯坦隐喻",
+    "pinyin": "fúlánkěnsītǎn",
+    "en": "Frankenstein('s monster)",
+    "def_zh": "玛丽·雪莱1818年小说（常被称为第一部科幻小说）：科学家造物反噬其主。今为讨论人工智能、基因编辑等技术风险的首选英语隐喻；亦贡献 Frankenfood（转基因食品贬称）等构词。",
+    "def_en": "Mary Shelley's 1818 novel — arguably the first science fiction — gave English its master metaphor for creations that turn on their creators, from AI to GMOs (Frankenfood).",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Frankenstein (Mary Shelley)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Frankenstein /ˈfræŋkənˌstaɪn/",
+    "etymology": "Franken- 已成活跃前缀（Frankenfood, Frankenfish）——一个人名裂解为构词语素，是文学影响语言的极端案例。",
+    "synonyms": [
+      {
+        "word": "creation myth",
+        "ipa": "/kriˈeɪʃən mɪθ/",
+        "sentence": "Every technology writes its own creation myth, then meets its monster."
+      },
+      {
+        "word": "unintended consequences",
+        "ipa": "/ˌʌnɪnˈtɛndɪd ˈkɒnsɪkwənsɪz/",
+        "sentence": "Unintended consequences are the monster's legal name."
+      }
+    ],
+    "collocations": [
+      "create a Frankenstein('s monster)",
+      "a Frankenstein moment",
+      "Frankenfood",
+      "playing God"
+    ],
+    "example": "Regulators worry the model's creators have built a Frankenstein they can neither explain nor unplug.",
+    "nuance": "常见误用：Frankenstein 是科学家的名字，怪物无名——严格说应说 Frankenstein's monster,但日常英语已普遍用 Frankenstein 指怪物本身，《经济学人》两用皆见。副标题 The Modern Prometheus 连通希腊盗火神话。",
+    "links": [
+      {
+        "to": "ai-imagenet",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "related"
+      },
+      {
+        "to": "dystopia",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "dickensian",
+    "zh": "狄更斯式",
+    "pinyin": "dígèngsī shì",
+    "en": "Dickensian",
+    "def_zh": "形容词化的狄更斯（《双城记》《远大前程》）：指维多利亚式的贫困、童工、济贫院与官僚荒诞。名句“这是最好的时代，也是最坏的时代”是英语评论最常引的开头；Scrooge（守财奴）也出自狄更斯。",
+    "def_en": "Dickens as adjective: Victorian squalor, child labour, workhouses and bureaucratic absurdity. 'It was the best of times, it was the worst of times' is journalism's most borrowed opening; Scrooge is its byword for misers.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "A Tale of Two Cities / Great Expectations (Dickens)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "economy"
+    ],
+    "pron": "Dickensian /dɪˈkɛnziən/",
+    "etymology": "Dickens + -ian——与 Orwellian 同式；Scrooge、Micawber、Podsnappery 等角色名皆已入词典：狄更斯是为英语造人名普通名词最多的作家。",
+    "synonyms": [
+      {
+        "word": "squalor",
+        "ipa": "/ˈskwɒlər/",
+        "sentence": "Dickensian squalor persists wherever the inspector's route does not."
+      },
+      {
+        "word": "workhouse",
+        "ipa": "/ˈwɜrkˌhaʊs/",
+        "sentence": "The workhouse fed the poor just badly enough to keep poverty unpopular."
+      }
+    ],
+    "collocations": [
+      "Dickensian conditions",
+      "a tale of two cities/economies",
+      "the best of times, the worst of times",
+      "a Scrooge-like reluctance"
+    ],
+    "example": "Reports described Dickensian conditions in the warehouse — a tale of two economies inside one postcode.",
+    "nuance": "a tale of two X 已是英语标题万能模板（A Tale of Two Chinas／Recoveries／Housing Markets）——原书写法国大革命,今用其对照结构而非情节。狄更斯与教材工业革命、城市化单元互为脚注。",
+    "links": [
+      {
+        "to": "industrial-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      },
+      {
+        "to": "french-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "realist-literature",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "lord-of-the-flies",
+    "zh": "《蝇王》",
+    "pinyin": "yíng wáng",
+    "en": "Lord of the Flies: the thin veneer",
+    "def_zh": "戈尔丁1954年小说：流落荒岛的男孩们从文明退化为部落暴力——“文明只是薄薄一层外壳”的标准英语引用；海螺（conch）成为议事规则与合法性的象征。",
+    "def_en": "Golding's boys descend from choir to tribe: English's standard citation for the thin veneer of civilisation. The conch — speak only while holding it — is shorthand for procedural legitimacy and its fragility.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Lord of the Flies (William Golding)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "governance"
+    ],
+    "pron": "conch /kɒŋk/",
+    "etymology": "书名直译自希伯来语 Beelzebub（巴力西卜，“苍蝇之王”）——魔鬼别名；小说以昆虫学面目引神学典。",
+    "synonyms": [
+      {
+        "word": "state of nature",
+        "ipa": "/steɪt ʌv ˈneɪtʃər/",
+        "sentence": "Hobbes's state of nature got its film adaptation on Golding's island."
+      },
+      {
+        "word": "mob rule",
+        "ipa": "/mɒb rul/",
+        "sentence": "Mob rule begins when the conch stops being passed."
+      }
+    ],
+    "collocations": [
+      "a Lord of the Flies situation",
+      "the veneer of civilisation",
+      "who holds the conch",
+      "descend into savagery"
+    ],
+    "example": "Deprived of moderators for a week, the forum went full Lord of the Flies by Wednesday.",
+    "nuance": "与卢梭“高贵野蛮人”相反的性恶论寓言——2020年真实荒岛少年互助生还的报道（Rutger Bregman）常被引来反驳戈尔丁,两案并引已成英文评论套路。",
+    "links": [
+      {
+        "to": "enlightenment",
+        "rel": "contrast"
+      },
+      {
+        "to": "hammurabi-code",
+        "rel": "related"
+      },
+      {
+        "to": "athenian-democracy",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "handmaids-tale",
+    "zh": "《使女的故事》",
+    "pinyin": "shǐnǚ de gùshì",
+    "en": "The Handmaid's Tale",
+    "def_zh": "阿特伍德1985年小说：神权国家基列（Gilead）将女性降为生育工具。使女的红袍白帽已成全球妇女权利抗议的现成符号；阿特伍德坚称其为“推演小说”——书中一切皆有史实先例。",
+    "def_en": "Atwood's Gilead reduces women to wombs of the state. The handmaid's red cloak is now protest costume worldwide; Atwood calls it speculative fiction because every practice in it has a historical precedent.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "The Handmaid's Tale (Margaret Atwood)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Gilead /ˈɡɪliəd/",
+    "etymology": "handmaid 为《圣经》旧词（婢女，创世记辟拉代孕典）——阿特伍德整套术语皆刻意仿经文，神权以词汇先行。",
+    "synonyms": [
+      {
+        "word": "theocracy",
+        "ipa": "/θiˈɒkrəsi/",
+        "sentence": "A theocracy legislates from a book its subjects may not annotate."
+      },
+      {
+        "word": "reproductive rights",
+        "ipa": "/ˌriprəˈdʌktɪv raɪts/",
+        "sentence": "Reproductive rights debates now arrive pre-costumed in red cloaks."
+      }
+    ],
+    "collocations": [
+      "a Handmaid's Tale scenario",
+      "red-cloak protests",
+      "Blessed be the fruit",
+      "Gilead-style laws"
+    ],
+    "example": "Outside the statehouse, rows of red cloaks made the legislature's agenda legible without a single placard.",
+    "nuance": "与《1984》同属监控极权，但轴心是性别而非阶级；英文评论区分 Orwellian（政治监控）与 Gileadean（性别神权）。文学符号变街头装束,是文学进入政治的当代顶级案例。",
+    "links": [
+      {
+        "to": "womens-rights",
+        "rel": "related"
+      },
+      {
+        "to": "dystopia",
+        "rel": "narrower"
+      },
+      {
+        "to": "rise-of-christianity",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "mockingbird-atticus",
+    "zh": "《杀死一只知更鸟》",
+    "pinyin": "shāsǐ yì zhī zhīgēngniǎo",
+    "en": "To Kill a Mockingbird & Atticus Finch",
+    "def_zh": "哈珀·李1960年小说：大萧条时期南方小镇的种族冤案。律师阿蒂克斯·芬奇是英语世界程序正义与职业操守的头号偶像——明知必败仍为黑人被告辩护；“杀死知更鸟”即伤害无辜。",
+    "def_en": "Harper Lee's Depression-era South: Atticus Finch, defending a doomed Black client because the law deserves it, is the Anglosphere's icon of due process; to kill a mockingbird is to harm the innocent.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "To Kill a Mockingbird (Harper Lee)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "law"
+    ],
+    "pron": "Atticus /ˈætɪkəs/",
+    "etymology": "mockingbird（嘲鸫）由 mock（模仿）得名——只模仿他鸟之歌、于人无害，故“杀之是罪”；中译“知更鸟”实为误译（知更鸟是 robin），将错就错已成通名。",
+    "synonyms": [
+      {
+        "word": "due process",
+        "ipa": "/du ˈprɒsɛs/",
+        "sentence": "Atticus lost the verdict and vindicated due process — both mattered."
+      },
+      {
+        "word": "moral courage",
+        "ipa": "/ˈmɒrəl ˈkʌrɪdʒ/",
+        "sentence": "Moral courage is doing the arithmetic of defeat and proceeding anyway."
+      }
+    ],
+    "collocations": [
+      "an Atticus Finch figure",
+      "walk in someone's shoes",
+      "it's a sin to kill a mockingbird",
+      "stand in someone else's skin"
+    ],
+    "example": "The defence bar still invokes Atticus Finch the way physicists invoke Newton — a founding constant of the profession.",
+    "nuance": "美国法学院与律协言必称 Atticus,与宾厄姆《法治》同读效果最佳：一个给出法治的八项原则,一个给出法治的人格化身。中译书名之误（mockingbird≠知更鸟）本身是绝佳翻译课案例。",
+    "links": [
+      {
+        "to": "bingham-rule-of-law",
+        "rel": "related"
+      },
+      {
+        "to": "american-civil-war",
+        "rel": "related"
+      },
+      {
+        "to": "great-depression",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "dostoevsky-conscience",
+    "zh": "陀思妥耶夫斯基之问",
+    "pinyin": "tuósītuǒyēfūsījī",
+    "en": "Dostoevsky: crime, conscience and the Grand Inquisitor",
+    "def_zh": "《罪与罚》（超人理论者拉斯柯尔尼科夫杀人后被良心审判）与《卡拉马佐夫兄弟》（宗教大法官章：人愿以自由换面包）——英语思想写作引用最频的两台俄国思想实验。",
+    "def_en": "Crime and Punishment (Raskolnikov's superman theory broken by conscience) and The Brothers Karamazov (the Grand Inquisitor: men trade freedom for bread) — the two Russian thought experiments English essayists cite most.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Crime and Punishment / The Brothers Karamazov (Dostoevsky)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Dostoevsky /ˌdɒstɔɪˈɛfski/",
+    "etymology": "英译名句 If God does not exist, everything is permitted 实为萨特转述的浓缩——原文更迂回；名句常常是翻译的再创作。",
+    "synonyms": [
+      {
+        "word": "conscience",
+        "ipa": "/ˈkɒnʃəns/",
+        "sentence": "Conscience is the court that convenes after the acquittal."
+      },
+      {
+        "word": "the Grand Inquisitor",
+        "ipa": "/ðə ɡrænd ɪnˈkwɪzɪtər/",
+        "sentence": "Every paternalist state rehearses the Grand Inquisitor's defence: bread is kinder than freedom."
+      }
+    ],
+    "collocations": [
+      "a Raskolnikov moment",
+      "freedom versus bread",
+      "the extraordinary man theory",
+      "Dostoevskian intensity"
+    ],
+    "example": "The Grand Inquisitor gets quoted whenever a government offers welfare in exchange for obedience — bread for freedom, the oldest trade.",
+    "nuance": "“自由换面包”与教材中“生存权发展权是首要人权”的论述构成正面对话——同一问题的两种答案，读《经济学人》中国报道时此典频现。",
+    "links": [
+      {
+        "to": "realist-literature",
+        "rel": "related"
+      },
+      {
+        "to": "rise-of-christianity",
+        "rel": "related"
+      },
+      {
+        "to": "fromm-love",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "anna-karenina-principle",
+    "zh": "安娜·卡列尼娜原理",
+    "pinyin": "ānnà kǎliènínà yuánlǐ",
+    "en": "the Anna Karenina principle",
+    "def_zh": "托翁开篇“幸福的家庭都是相似的，不幸的家庭各有各的不幸”被科学界借为方法论：成功须同时满足全部条件，失败只需一条不满足——贾雷德·戴蒙德用它解释为何仅十四种大型动物被驯化。",
+    "def_en": "Tolstoy's opening line — happy families are all alike; every unhappy family is unhappy in its own way — became a scientific principle: success requires passing every test, failure needs only one. Diamond uses it to explain why so few animals were ever domesticated.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Anna Karenina (Leo Tolstoy)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Karenina /kəˈrɛnɪnə/",
+    "etymology": "俄语姓氏阴性形式 -ina：Karenin 之妻作 Karenina——英译保留此屈折，是英语读者初遇俄语语法之处。",
+    "synonyms": [
+      {
+        "word": "necessary condition",
+        "ipa": "/ˈnɛsəˌsɛri kənˈdɪʃən/",
+        "sentence": "Each necessary condition is a veto the project must survive."
+      },
+      {
+        "word": "single point of failure",
+        "ipa": "/ˈsɪŋɡəl pɔɪnt ʌv ˈfeɪljər/",
+        "sentence": "Every unhappy system fails at its own single point of failure."
+      }
+    ],
+    "collocations": [
+      "the Anna Karenina principle of ...",
+      "happy families are all alike",
+      "fail in its own way",
+      "domesticable species"
+    ],
+    "example": "Venture capital obeys the Anna Karenina principle: successful startups clear every hurdle, failed ones each trip on a different fence.",
+    "nuance": "文学名句→科学原理的罕见路径：《枪炮、病菌与钢铁》第九章使其成为生态学与商学院通货。引用时通常只需前半句,后半句读者自动补全——英文名句的“接龙默契”。",
+    "links": [
+      {
+        "to": "guns-germs-steel",
+        "rel": "related"
+      },
+      {
+        "to": "realist-literature",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "magical-realism",
+    "zh": "魔幻现实主义",
+    "pinyin": "móhuàn xiànshí zhǔyì",
+    "en": "magical realism",
+    "def_zh": "以马尔克斯《百年孤独》为旗帜的拉美文学手法：把神迹当日常、把史实当传说地平静叙述。马孔多镇＝拉美史缩影；香蕉公司大屠杀章直写真实历史。莫言获诺奖使该词进入中文批评主流。",
+    "def_en": "The Latin American mode flying García Márquez's flag: miracles narrated deadpan, history narrated as legend. Macondo compresses a continent's history; the banana-company massacre is real. The Nobel committee cited Mo Yan's 'hallucinatory realism' — the term travelled to China.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "One Hundred Years of Solitude (Gabriel García Márquez)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "magical realism /ˈmædʒɪkəl ˈriəˌlɪzəm/",
+    "etymology": "德语 Magischer Realismus 本为1925年艺术批评词，经西语 realismo mágico 转世为文学旗号——术语自己也有一部迁徙史。",
+    "synonyms": [
+      {
+        "word": "the Boom",
+        "ipa": "/ðə bum/",
+        "sentence": "The Latin American Boom exported novels the way neighbours exported coffee."
+      },
+      {
+        "word": "deadpan",
+        "ipa": "/ˈdɛdˌpæn/",
+        "sentence": "Magical realism is deadpan delivery applied to miracles."
+      }
+    ],
+    "collocations": [
+      "a touch of magical realism",
+      "Macondo-like isolation",
+      "solitude as destiny",
+      "the banana massacre"
+    ],
+    "example": "Reporting from the flooded delta read like magical realism — which is to say, like accurate Latin American history.",
+    "nuance": "易误为“奇幻文学”：魔幻现实主义的魔幻服务于历史创伤的表达（殖民、内战、跨国公司），奇幻则自建世界。马尔克斯自辩：拉美现实本身即魔幻,他只是照实写。",
+    "links": [
+      {
+        "to": "latin-american-independence",
+        "rel": "related"
+      },
+      {
+        "to": "bolivar",
+        "rel": "related"
+      },
+      {
+        "to": "realist-literature",
+        "rel": "contrast"
+      },
+      {
+        "to": "story-craft",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "les-miserables",
+    "zh": "《悲惨世界》",
+    "pinyin": "bēicǎn shìjiè",
+    "en": "Les Misérables",
+    "def_zh": "雨果1862年巨著：冉阿让因偷面包服役十九年，出狱后被主教之恩改造；沙威代表无慈悲的法条主义。背景为1832年巴黎六月起义（非大革命）。“偷面包”已成英语讨论罪与贫的速记。",
+    "def_en": "Hugo's Jean Valjean serves nineteen years for stealing bread and is remade by a bishop's mercy; Javert embodies law without grace. Set against the 1832 June Rebellion (not the Revolution). 'Stealing bread' is now shorthand for poverty-driven crime.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Les Misérables (Victor Hugo)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "law"
+    ],
+    "pron": "Les Misérables /leɪ ˌmɪzəˈrɑːblə/",
+    "etymology": "法语书名保留不译——misérables 兼指“悲惨者”与“卑贱者”，英语无一词能双关，遂径用法文，缩称 Les Mis。",
+    "synonyms": [
+      {
+        "word": "clemency",
+        "ipa": "/ˈklɛmənsi/",
+        "sentence": "One act of clemency financed a lifetime of restitution."
+      },
+      {
+        "word": "legalism",
+        "ipa": "/ˈliɡəˌlɪzəm/",
+        "sentence": "Javert's legalism could enforce every statute and understand none."
+      }
+    ],
+    "collocations": [
+      "stealing bread to feed a family",
+      "Javert-like zeal",
+      "man on a barricade",
+      "Les Mis economics"
+    ],
+    "example": "Sentencing reformers reach for Valjean: nineteen years for a loaf is the picture their statistics cannot paint.",
+    "nuance": "沙威 vs 主教＝rule by law vs mercy 的文学版，与教材“法治与德治相结合”意外同题。注意历史场景是1832年六月起义,英文评论常误作1789——纠正它是加分项。",
+    "links": [
+      {
+        "to": "french-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "law-based-governance",
+        "rel": "related"
+      },
+      {
+        "to": "bingham-rule-of-law",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "hemingway-iceberg",
+    "zh": "海明威冰山理论",
+    "pinyin": "hǎimíngwēi bīngshān lǐlùn",
+    "en": "Hemingway & the iceberg theory",
+    "def_zh": "《老人与海》作者的写作学说：八分之七沉在水下——只写表面动作，情感靠省略传达。Hemingwayesque＝极简、短句、白描。名句“人可以被毁灭，但不能被打败”。",
+    "def_en": "From the author of The Old Man and the Sea: show the eighth above water, sink the rest. Hemingwayesque means short declarative sentences and surgical omission. 'A man can be destroyed but not defeated.'",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "The Old Man and the Sea (Ernest Hemingway)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Hemingway /ˈhɛmɪŋˌweɪ/",
+    "etymology": "iceberg 借自荷兰语 ijsberg（冰山，berg=山）——理论名取“水下八分之七”之喻，见于《午后之死》。",
+    "synonyms": [
+      {
+        "word": "understatement",
+        "ipa": "/ˈʌndərˌsteɪtmənt/",
+        "sentence": "Understatement trusts the reader to supply the scream."
+      },
+      {
+        "word": "omission",
+        "ipa": "/oʊˈmɪʃən/",
+        "sentence": "In the iceberg theory, omission is a load-bearing wall."
+      }
+    ],
+    "collocations": [
+      "Hemingwayesque prose",
+      "the iceberg theory",
+      "grace under pressure",
+      "short declarative sentences"
+    ],
+    "example": "Editors prescribe Hemingway to florid writers the way doctors prescribe fasting: cut until only the necessary survives.",
+    "nuance": "对中文写作者尤具校正意义：中文书面语偏繁复对仗,海明威式英语以省略与短句为力量——学术英语与新闻英语的默认审美更近海明威而非狄更斯。",
+    "links": [
+      {
+        "to": "story-craft",
+        "rel": "related"
+      },
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      },
+      {
+        "to": "stoicism",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "sherlock-deduction",
+    "zh": "福尔摩斯与推理",
+    "pinyin": "fúěrmósī",
+    "en": "Sherlock Holmes & deduction",
+    "def_zh": "柯南·道尔塑造的咨询侦探：英语中理性推断的人格化身。名言“排除一切不可能，剩下的再不可思议也是真相”；elementary、no-brainer 式的 Sherlock 反讽（“可真是大侦探啊”）皆入日常英语。",
+    "def_en": "Conan Doyle's consulting detective personifies inference in English. 'When you have eliminated the impossible, whatever remains must be the truth'; calling someone 'Sherlock' is now standard sarcasm for stating the obvious.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "The Adventures of Sherlock Holmes (Conan Doyle)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "deduction /dɪˈdʌkʃən/",
+    "etymology": "严格说福尔摩斯多用溯因推理（abduction，皮尔士术语：由果推最佳解释）而非演绎（deduction）——小说把术语用“错”了一百多年，逻辑课的经典开场白。",
+    "synonyms": [
+      {
+        "word": "abduction",
+        "ipa": "/æbˈdʌkʃən/",
+        "sentence": "Abduction guesses the hypothesis that would make the clues unsurprising."
+      },
+      {
+        "word": "no smoking gun",
+        "ipa": "/noʊ ˈsmoʊkɪŋ ɡʌn/",
+        "sentence": "Without a smoking gun, the case rests on the dog that did not bark."
+      }
+    ],
+    "collocations": [
+      "no shit, Sherlock",
+      "the dog that didn't bark",
+      "eliminate the impossible",
+      "a Watson to his Holmes"
+    ],
+    "example": "The auditors worked like Holmes: the fraud showed not in what the ledger said, but in the entries that did not bark.",
+    "nuance": "the dog that didn't bark（沉默的狗＝缺失的证据本身是证据）是《经济学人》高频典故。名句 Elementary, my dear Watson 原著从未出现——典故考据的又一案例。",
+    "links": [
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      },
+      {
+        "to": "socrates",
+        "rel": "related"
+      },
+      {
+        "to": "aristotle",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "alice-wonderland",
+    "zh": "爱丽丝的隐喻库",
+    "pinyin": "àilìsī",
+    "en": "Alice in Wonderland: the metaphor mine",
+    "def_zh": "卡罗尔两部爱丽丝书是英语隐喻的高产矿：down the rabbit hole（越陷越深的探索）、through the looking glass（颠倒世界）、Cheshire cat grin、Mad Hatter、Red Queen race（红皇后竞赛：拼命奔跑才能留在原地）——最后者已是演化生物学与商业竞争的正式术语。",
+    "def_en": "Carroll's Alice books are English's richest metaphor mine: down the rabbit hole, through the looking glass, Cheshire-cat grins, Mad Hatters, and the Red Queen's race — running flat out to stay in place, now a formal term in evolutionary biology and business strategy.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Alice's Adventures in Wonderland (Lewis Carroll)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "Cheshire /ˈtʃɛʃər/",
+    "etymology": "作者本名 Charles Dodgson,牛津数学逻辑学家——书中悖论与语言游戏皆本行；Jabberwocky 的自造词（chortle, galumph）竟入正规词典。",
+    "synonyms": [
+      {
+        "word": "rabbit hole",
+        "ipa": "/ˈræbɪt hoʊl/",
+        "sentence": "One footnote and three hours later, the rabbit hole had a bibliography."
+      },
+      {
+        "word": "Red Queen effect",
+        "ipa": "/rɛd kwin ɪˈfɛkt/",
+        "sentence": "Antibiotic resistance is the Red Queen effect with a body count."
+      }
+    ],
+    "collocations": [
+      "go down the rabbit hole",
+      "through the looking glass",
+      "grin like a Cheshire cat",
+      "we're all mad here",
+      "curiouser and curiouser"
+    ],
+    "example": "Chip export controls sent both governments through the looking glass: each running the Red Queen's race just to hold its place.",
+    "nuance": "Red Queen 假说（Van Valen 1973）是文学典故变正式科学术语的又一例,与 Anna Karenina principle 同类。rabbit hole 今多指网络沉迷式钻研,已半脱离原书。",
+    "links": [
+      {
+        "to": "darwin",
+        "rel": "related"
+      },
+      {
+        "to": "wittgenstein-language",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "austen-marriage-market",
+    "zh": "《傲慢与偏见》与婚姻市场",
+    "pinyin": "àomàn yǔ piānjiàn",
+    "en": "Pride and Prejudice & the marriage market",
+    "def_zh": "奥斯汀1813年小说：摄政时代乡绅阶层的婚姻经济学——限定继承（entail）、年金与身价（a year 收入报价）驱动情节。开篇“凡有产业的单身汉总要娶位太太，这是一条举世公认的真理”是英语最著名的反讽句式模板。",
+    "def_en": "Austen's Regency marriage economics — entailed estates, annuities, men quoted at so much a year. 'It is a truth universally acknowledged...' is English's most productive ironic template.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "Pride and Prejudice (Jane Austen)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas",
+      "economy"
+    ],
+    "pron": "Austen /ˈɒstɪn/",
+    "etymology": "prejudice 源自拉丁 prae（先）+ judicium（判断）——“预先判断”；书名原拟 First Impressions（第一印象），改名后两个抽象名词各归一位主角。",
+    "synonyms": [
+      {
+        "word": "truth universally acknowledged",
+        "ipa": "/truθ ˌjunəˈvɜrsəli əkˈnɒlɪdʒd/",
+        "sentence": "It is a truth universally acknowledged that any headline in this format is being ironic."
+      },
+      {
+        "word": "marriage market",
+        "ipa": "/ˈmærɪdʒ ˈmɑrkɪt/",
+        "sentence": "Becker analysed the marriage market with equations; Austen had done it with dialogue."
+      }
+    ],
+    "collocations": [
+      "a truth universally acknowledged",
+      "in want of a wife",
+      "ten thousand a year",
+      "an advantageous match"
+    ],
+    "example": "It is a truth universally acknowledged that a central bank in possession of low inflation must be in want of a crisis — the template outlives the novel.",
+    "nuance": "经济学家（贝克尔婚姻经济学）与《经济学人》标题作者都在反复挪用此开篇——识别 It is a truth universally acknowledged 变体是读英文评论的入门测试。entail（限定继承）一词也主要靠奥斯汀存活于普通读者词汇中。",
+    "links": [
+      {
+        "to": "realist-literature",
+        "rel": "related"
+      },
+      {
+        "to": "jiceng-women",
+        "rel": "related"
+      },
+      {
+        "to": "econ-principles",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "huck-finn-vernacular",
+    "zh": "《哈克贝利·费恩》与美国白话",
+    "pinyin": "hākèbèilì fèiēn",
+    "en": "Huckleberry Finn & the American vernacular",
+    "def_zh": "马克·吐温1884年小说：白人少年与逃亡奴隶吉姆沿密西西比河漂流。海明威断言“全部现代美国文学源于此书”——它把口语白话变成文学语言；哈克“那好吧，我就下地狱”一句是良心对法律的著名反叛。",
+    "def_en": "Twain's boy and the runaway slave Jim raft down the Mississippi. Hemingway claimed all modern American literature descends from it — it made the spoken vernacular literary. Huck's 'All right, then, I'll go to hell' is conscience overruling law.",
+    "sources": [
+      {
+        "book": "grbest",
+        "chapter": "The Adventures of Huckleberry Finn (Mark Twain)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "vernacular /vərˈnækjʊlər/",
+    "etymology": "vernacular 源自拉丁 verna（家生奴隶）——“土语”本义“奴隶的语言”，用于一部关于奴隶制的白话小说，词源即评论。",
+    "synonyms": [
+      {
+        "word": "colloquial",
+        "ipa": "/kəˈloʊkwiəl/",
+        "sentence": "Colloquial prose smuggles truth past the reader's defences."
+      },
+      {
+        "word": "picaresque",
+        "ipa": "/ˌpɪkəˈrɛsk/",
+        "sentence": "The picaresque novel travels episode by episode, like the river it follows."
+      }
+    ],
+    "collocations": [
+      "the Great American Novel",
+      "light out for the Territory",
+      "down the Mississippi",
+      "sivilised — with Huck's spelling"
+    ],
+    "example": "When the memo dropped its jargon and started talking like a person, the prose finally lit out for the Territory.",
+    "nuance": "与新文化运动的白话文革命同构：文言→白话，标准书面英语→美国口语——胡适们做的事,吐温早四十年在英语里做过。该书因方言与种族词汇长居美国“被禁/被删改书目”前列,book banning 议题的常客。",
+    "links": [
+      {
+        "to": "new-culture",
+        "rel": "related"
+      },
+      {
+        "to": "american-civil-war",
+        "rel": "related"
+      },
+      {
+        "to": "mockingbird-atticus",
+        "rel": "related"
+      }
+    ]
+  }
+]
