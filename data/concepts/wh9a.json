@@ -1,1 +1,243 @@
-[]
+[
+  {
+    "id": "nile-river",
+    "zh": "尼罗河",
+    "pinyin": "Níluóhé",
+    "en": "the Nile",
+    "en_alt": ["the Nile River", "the Nile valley"],
+    "def_zh": "世界最长河流，贯穿埃及南北；其每年定期泛滥留下沃土，孕育了古埃及文明，故埃及有“尼罗河的赠礼”之称。",
+    "def_en": "The world's longest river, whose annual flooding deposited fertile silt along its banks and made Egyptian agriculture — and civilisation — possible; hence Herodotus's famous line that Egypt is 'the gift of the Nile'.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the gift of the Nile", "the Nile's annual flooding/inundation", "the fertile Nile valley/delta", "downstream/upstream along the Nile"],
+    "example": "Egypt's population still crowds the same narrow green ribbon that fed the pharaohs: 95% of Egyptians live within a few miles of the Nile.",
+    "nuance": "“定期泛滥”地道说法是 the annual flood/inundation of the Nile；不要直译成 'regular overflow'。“尼罗河的赠礼”固定译法为 'the gift of the Nile'（希罗多德语）。",
+    "links": [
+      {"to": "ancient-egypt", "rel": "cause"},
+      {"to": "river-valley-civilizations", "rel": "related"},
+      {"to": "solar-calendar", "rel": "cause"}
+    ],
+    "themes": ["geography-environment"],
+    "period": "前3500年起"
+  },
+  {
+    "id": "ancient-egypt",
+    "zh": "古埃及文明",
+    "pinyin": "gǔ Āijí wénmíng",
+    "en": "ancient Egyptian civilisation",
+    "en_alt": ["ancient Egypt", "pharaonic Egypt"],
+    "def_zh": "兴起于尼罗河下游的早期文明，约公元前3100年初步统一，后历经分裂与外族入侵，先后被波斯、亚历山大帝国和罗马帝国占领，文明未能延续至今。",
+    "def_en": "One of the world's earliest civilisations, unified along the lower Nile around 3100 BC; after cycles of division and foreign conquest — Persian, Macedonian, then Roman — its native tradition was eventually extinguished rather than continuously inherited.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the unification of Egypt", "pharaonic Egypt", "Upper and Lower Egypt", "the conquest of Egypt by Persia/Alexander/Rome"],
+    "example": "Unlike China, whose script and statecraft show an unbroken lineage, ancient Egyptian civilisation was cut short — by the time Rome annexed it, even hieroglyphic literacy was dying out.",
+    "nuance": "中文教材强调古埃及文明“没有延续下去”，与中华文明的连续性对比；英语中表达这种对比常用 continuity vs rupture、an unbroken tradition 等说法。",
+    "links": [
+      {"to": "pharaoh", "rel": "related"},
+      {"to": "river-valley-civilizations", "rel": "narrower"}
+    ],
+    "themes": ["culture", "governance"],
+    "period": "前3100年–前30年"
+  },
+  {
+    "id": "pharaoh",
+    "zh": "法老",
+    "pinyin": "fǎlǎo",
+    "en": "pharaoh",
+    "def_zh": "古埃及最高统治者的称号，集军、政、财、神权于一身，被尊为“神之子”，拥有无上权威。",
+    "def_en": "The god-king of ancient Egypt, concentrating military, political, fiscal and religious authority in one person and revered as the son of the gods.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["under the pharaohs", "pharaonic rule/power", "the pharaoh's divine authority", "a living god"],
+    "example": "Egypt's bureaucratic tradition long predates the modern state: the pharaohs were levying grain taxes four millennia before anyone had heard of income tax.",
+    "nuance": "英语里 pharaonic 常作比喻，形容工程浩大或权力集中（a pharaonic infrastructure project — 常带批评色彩，暗指劳民伤财），中文“法老”无此引申义。",
+    "links": [
+      {"to": "pyramids", "rel": "related"},
+      {"to": "ancient-egypt", "rel": "related"}
+    ],
+    "themes": ["governance", "religion"],
+    "period": "前3100年–前30年"
+  },
+  {
+    "id": "pyramids",
+    "zh": "金字塔",
+    "pinyin": "jīnzìtǎ",
+    "en": "the pyramids",
+    "en_alt": ["the Great Pyramid of Giza", "the pyramid of Khufu (Cheops)"],
+    "def_zh": "古埃及法老的角锥体陵墓，因侧面形似汉字“金”而得中文名；是古埃及文明的象征，反映了王权的强大与社会经济发展水平。最大者为胡夫金字塔（约建于公元前2600年）。",
+    "def_en": "The monumental royal tombs of Egypt's pharaohs, of which the Great Pyramid of Khufu (c. 2600 BC) is the largest; symbols at once of Egyptian civilisation and of the absolute power that could command such labour.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["build/erect the pyramids", "the Great Pyramid of Giza", "a monument to royal power", "pyramid-building"],
+    "example": "Every age gets the megaprojects its rulers can extract: the pyramids were less an engineering feat than a statement about who commanded Egypt's surplus.",
+    "nuance": "中文名源于字形“金”，纯属汉字联想；英语 pyramid 来自希腊语 pyramis。注意 pyramid scheme（传销/金字塔骗局）是完全不同的固定用法。教材点出“金字塔越修越小，反映王权衰落”——用英语表达即 the shrinking pyramids track the waning of royal power。",
+    "links": [
+      {"to": "pharaoh", "rel": "effect"},
+      {"to": "sphinx", "rel": "related"}
+    ],
+    "themes": ["culture", "governance"],
+    "period": "约前2600年"
+  },
+  {
+    "id": "sphinx",
+    "zh": "狮身人面像",
+    "pinyin": "shīshēnrénmiànxiàng",
+    "en": "the Great Sphinx",
+    "en_alt": ["the Sphinx of Giza"],
+    "def_zh": "位于哈夫拉金字塔前的巨型雕像，狮身人面，由整块巨石雕成，高20余米、长50余米，与金字塔共同构成宏大的历史景观。",
+    "def_en": "The colossal lion-bodied, human-headed statue carved from a single outcrop beside Khafre's pyramid at Giza — over 20 metres high and 50 metres long.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the riddle of the Sphinx", "sphinx-like (inscrutable)", "carved from a single block of stone"],
+    "example": "Central bankers cultivate a sphinx-like inscrutability: the less markets can read them, the freer their hands.",
+    "nuance": "英语 sphinx-like 形容人高深莫测、不露声色（源自希腊斯芬克斯之谜，而非埃及雕像）；中文“狮身人面像”只是雕像名，无此比喻义。希腊神话的 Sphinx 与埃及的 Great Sphinx 在英语中共用一词，语境需分清。",
+    "links": [
+      {"to": "pyramids", "rel": "related"}
+    ],
+    "themes": ["culture"],
+    "period": "约前2500年"
+  },
+  {
+    "id": "hieroglyphs",
+    "zh": "象形文字",
+    "pinyin": "xiàngxíng wénzì",
+    "en": "hieroglyphs",
+    "en_alt": ["hieroglyphic script", "Egyptian hieroglyphics"],
+    "def_zh": "古埃及使用的文字，是世界上最早的文字之一；19世纪被成功释读，开启了古埃及研究的新纪元。",
+    "def_en": "The pictorial writing system of ancient Egypt, among the world's earliest scripts; its decipherment in the 19th century (Champollion, via the Rosetta Stone, 1822) founded modern Egyptology.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["decipher hieroglyphs", "the Rosetta Stone", "hieroglyphic inscriptions"],
+    "example": "The Rosetta Stone did for hieroglyphs what a bilingual dictionary does for any dead language: it turned decoration back into speech.",
+    "nuance": "重要陷阱：hieroglyphs 专指埃及（及少数中美洲）文字；汉字的“象形”特征应说 pictographic/pictographic origins，甲骨文是 oracle bone script，切勿称汉字为 hieroglyphs。泛指“难认的文字”时英语可戏称 hieroglyphics（These doctors' notes are pure hieroglyphics）。",
+    "links": [
+      {"to": "ancient-egypt", "rel": "related"}
+    ],
+    "themes": ["culture", "science-tech"],
+    "period": "约前3100年起"
+  },
+  {
+    "id": "solar-calendar",
+    "zh": "太阳历",
+    "pinyin": "tàiyánglì",
+    "en": "the solar calendar",
+    "def_zh": "古埃及天文学的突出成就：古埃及人依据天狼星与太阳同时升起、尼罗河随之涨水的规律，制定了每年365天的历法。",
+    "def_en": "Egypt's 365-day calendar, devised by observing that the Nile began to rise when Sirius first appeared alongside the rising sun — astronomy in the service of agriculture.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["a solar/lunar calendar", "the heliacal rising of Sirius", "calendar reform"],
+    "example": "Calendars are technologies of the state: Egypt's solar year let officials predict the flood, and therefore the harvest, and therefore the tax take.",
+    "nuance": "solar calendar（阳历）与 lunar calendar（阴历）相对；中国农历是阴阳合历 lunisolar calendar——介绍中国历法时勿简单说 lunar calendar。",
+    "links": [
+      {"to": "nile-river", "rel": "effect"}
+    ],
+    "themes": ["science-tech"],
+    "period": "古埃及时期"
+  },
+  {
+    "id": "mummification",
+    "zh": "木乃伊",
+    "pinyin": "mùnǎiyī",
+    "en": "mummification",
+    "en_alt": ["mummy", "embalming"],
+    "def_zh": "古埃及人将遗体制成木乃伊的防腐技术；制作过程增长了解剖知识，客观上促进了医学发展。",
+    "def_en": "The Egyptian practice of embalming and preserving the dead; the anatomical knowledge it required gave early medicine an unintended boost.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["mummify a body", "embalming techniques", "a well-preserved mummy"],
+    "example": "Ancient embalmers knew more anatomy than most of their contemporaries' physicians — mummification was dissection with a religious licence.",
+    "nuance": "“木乃伊”是音译名词（mummy）；表“制成木乃伊”这一过程用 mummification/mummify。口语中 mummy 在英式英语也指“妈妈”，纯靠语境区分。",
+    "links": [
+      {"to": "ancient-egypt", "rel": "related"}
+    ],
+    "themes": ["religion", "science-tech"],
+    "period": "古埃及时期"
+  },
+  {
+    "id": "river-valley-civilizations",
+    "zh": "大河文明",
+    "pinyin": "dàhé wénmíng",
+    "en": "river valley civilisations",
+    "en_alt": ["the cradles of civilisation", "riverine civilisations"],
+    "def_zh": "人类最早的文明产生于适合农耕的大河流域：尼罗河、两河、印度河及黄河—长江流域是重要发祥地。",
+    "def_en": "The earliest civilisations all arose on floodplains suited to agriculture — the Nile, the Tigris–Euphrates, the Indus, and the Yellow and Yangzi valleys — where rivers supplied water, silt and the need for collective organisation.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the cradle of civilisation", "a river valley civilisation", "fertile floodplains", "irrigation-based agriculture"],
+    "example": "Civilisation began as a water-management problem: wherever a great river demanded dikes and canals, states soon followed.",
+    "nuance": "“大河文明”直译 great-river civilisation 不地道；标准说法是 river valley civilisations 或 the cradles of civilisation。“两河流域”即 Mesopotamia（希腊语“两河之间”）。",
+    "links": [
+      {"to": "nile-river", "rel": "related"}
+    ],
+    "themes": ["geography-environment", "society"],
+    "period": "约前3500年起"
+  },
+  {
+    "id": "primitive-society",
+    "zh": "原始社会",
+    "pinyin": "yuánshǐ shèhuì",
+    "en": "primitive society",
+    "en_alt": ["prehistoric society", "pre-class society"],
+    "def_zh": "马克思主义分期中人类最初的社会阶段：财产公有、集体生产分配；随着剩余产品和私有制出现而解体，人类进入阶级社会。",
+    "def_en": "In the Marxist scheme of historical stages, humanity's first social formation — communal property and collective production — dissolved by the rise of surplus, private property and class division.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the stages of history (in Marxist historiography)", "communal ownership", "the dissolution of primitive society", "hunter-gatherer societies"],
+    "example": "Anthropologists long ago dropped the ladder of set stages; they speak of hunter-gatherer or preliterate societies rather than 'primitive' ones.",
+    "nuance": "重大陷阱：原始社会→奴隶社会→封建社会的“五阶段论”是马克思主义史学分期，西方主流史学不采用。英语学术写作中 primitive 一词涉嫌贬义，已被 prehistoric、preliterate、hunter-gatherer、small-scale societies 等取代。直接照译会显得过时甚至冒犯。",
+    "links": [
+      {"to": "slave-society", "rel": "replaced-by"},
+      {"to": "clan-society", "rel": "related"},
+      {"to": "private-property", "rel": "effect"}
+    ],
+    "themes": ["ideas", "society"],
+    "period": "约前300万年–前3500年"
+  },
+  {
+    "id": "slave-society",
+    "zh": "奴隶社会",
+    "pinyin": "núlì shèhuì",
+    "en": "slave society",
+    "en_alt": ["slaveholding society", "ancient/classical antiquity (Western usage)"],
+    "def_zh": "马克思主义分期中继原始社会之后的阶段，以奴隶主占有奴隶和生产资料为基础；教材将古埃及、两河、印度、希腊罗马等早期文明归入此阶段。",
+    "def_en": "In Marxist periodisation, the stage after primitive society, defined by masters owning slaves as the basis of production; Western historians instead speak simply of the ancient world or classical antiquity, reserving 'slave society' for cases like Athens, Rome or the American South where slavery structured the whole economy.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["a slaveholding society", "chattel slavery", "classical antiquity", "the ancient world"],
+    "example": "Historians still argue whether Rome was a slave society or merely a society with slaves — the distinction carries a whole theory of what made its economy run.",
+    "nuance": "陷阱：英语史学中 'slave society' 是描述性概念（奴隶制主导经济的社会），不是普遍历史阶段。翻译教材语境时可保留 slave society 并注明 Marxist periodisation；泛指上古时期用 antiquity/the ancient world 更自然。",
+    "links": [
+      {"to": "primitive-society", "rel": "replaced"},
+      {"to": "private-property", "rel": "related"}
+    ],
+    "themes": ["ideas", "society"],
+    "period": "约前3500年起"
+  },
+  {
+    "id": "clan-society",
+    "zh": "氏族社会",
+    "pinyin": "shìzú shèhuì",
+    "en": "clan society",
+    "en_alt": ["kinship-based society", "matrilineal/patrilineal clan"],
+    "def_zh": "原始社会中以血缘为纽带的组织形式：先经历财产公有、以集体为基础的母系氏族社会，后随农牧业发展转入父系氏族社会。",
+    "def_en": "Kinship-based social organisation within early societies: an earlier matrilineal phase of communal property gave way, as farming and herding grew, to patrilineal clans in which men dominated production.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["matrilineal/patrilineal descent", "kinship ties", "clan-based organisation", "trace descent through the mother's line"],
+    "example": "In much of the world kinship still does what states cannot: clan networks allocate land, settle feuds and vet marriages.",
+    "nuance": "母系氏族 = matrilineal（按母系计算世系），不是 matriarchal（母权统治）——两者常被混淆；教材的“母系氏族社会”译 matrilineal clan society 最稳。",
+    "links": [
+      {"to": "primitive-society", "rel": "narrower"}
+    ],
+    "themes": ["society"],
+    "period": "史前"
+  },
+  {
+    "id": "private-property",
+    "zh": "私有制",
+    "pinyin": "sīyǒuzhì",
+    "en": "private property",
+    "en_alt": ["private ownership"],
+    "def_zh": "生产资料归私人占有的制度。教材叙述其随剩余产品出现而产生，导致原始社会解体、阶级社会形成。",
+    "def_en": "Ownership of productive assets by individuals rather than the community; in the textbook's Marxist narrative it emerges with agricultural surplus and dissolves primitive communal life into class society.",
+    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
+    "collocations": ["the institution of private property", "property rights", "communal vs private ownership", "the abolition of private property"],
+    "example": "Secure property rights, economists never tire of saying, are the difference between farming your land and merely squatting on it.",
+    "nuance": "“私有制”作制度讲，译 private ownership/the institution of private property；日常英语 private property 更多指“私人财产/私人领地”（Private property — keep out!）。经济学讨论中常用 property rights（产权）这一分析框架。",
+    "links": [
+      {"to": "primitive-society", "rel": "cause"},
+      {"to": "slave-society", "rel": "related"}
+    ],
+    "themes": ["economy", "ideas"],
+    "period": "约前3500年起"
+  }
+]
