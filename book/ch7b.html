@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>义务教育教科书·历史 七年级下册 · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>义务教育教科书·历史 七年级下册<span class="en">Chinese History, Year 7 Volume 2</span></h1>
+<h2>第1课 隋朝的统一与灭亡 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/sui-dynasty.html">隋朝：统一、大运河与速亡 · the Sui: reunification, the Grand Canal and swift collapse</a></div><div class='card'><a class="node" href="../c/imperial-examinations.html">科举制 · the imperial examination system</a></div></div>
+<h2>第2课 从“贞观之治”到“开元盛世” <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/tang-golden-age.html">贞观之治与开元盛世 · the Zhenguan and Kaiyuan golden ages</a></div><div class='card'><a class="node" href="../c/wu-zetian.html">武则天 · Wu Zetian</a></div></div>
+<h2>第3课 盛唐气象 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/tang-cosmopolitan.html">盛唐气象 · High Tang splendour</a></div><div class='card'><a class="node" href="../c/tang-poetry.html">唐诗（李白、杜甫、白居易） · Tang poetry: Li Bai, Du Fu, Bai Juyi</a></div></div>
+<h2>第4课 唐朝的中外文化交流 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/tang-exchange.html">唐朝的中外文化交流 · Tang international exchange: kentōshi, Jianzhen, Xuanzang</a></div></div>
+<h2>第5课 安史之乱与唐朝衰亡 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/an-lushan.html">安史之乱与唐朝衰亡 · the An Lushan rebellion and the Tang decline</a></div></div>
+<h2>第6课 北宋的政治 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/song-founding.html">北宋的政治（重文轻武） · the Northern Song settlement: civil over military</a></div><div class='card'><a class="node" href="../c/wang-anshi.html">王安石变法 · the Wang Anshi reforms</a></div></div>
+<h2>第7课 辽、西夏与北宋的并立 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/song-liao-xixia.html">辽、西夏与北宋的并立（澶渊之盟） · Song, Liao and Xia: the Chanyuan settlement</a></div></div>
+<h2>第8课 金与南宋的对峙 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/jin-southern-song.html">金与南宋的对峙（岳飞抗金） · the Jin conquest and the Southern Song</a></div></div>
+<h2>第9课 宋代经济的发展 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/song-economy.html">宋代经济的发展（经济重心南移） · the Song economic revolution</a></div><div class='card'><a class="node" href="../c/jiaozi.html">交子（世界最早纸币） · jiaozi: the world&#x27;s first paper money</a></div></div>
+<h2>第10课 蒙古族的兴起与元朝的建立 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/genghis-khan.html">成吉思汗统一蒙古 · Genghis Khan and the Mongol rise</a></div><div class='card'><a class="node" href="../c/yuan-dynasty.html">元朝的统一与行省制度 · the Yuan unification and the provincial system</a></div></div>
+<h2>第11课 元朝的统治 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/yuan-dynasty.html">元朝的统一与行省制度 · the Yuan unification and the provincial system</a></div></div>
+<h2>第12课 宋元时期的都市和文化 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/song-urban-culture.html">宋元都市文化与宋词元曲 · Song-Yuan urban culture: ci poetry and zaju drama</a></div></div>
+<h2>第13课 宋元时期的科技与中外交通 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/song-yuan-inventions.html">活字印刷、指南针与火药 · movable type, the compass and gunpowder</a></div><div class='card'><a class="node" href="../c/marco-polo.html">元代驿站与马可·波罗 · the Yuan post-roads and Marco Polo</a></div></div>
+<h2>第14课 明朝的统治 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ming-founding.html">明朝的建立与皇权强化 · the Ming founding and the concentration of imperial power</a></div></div>
+<h2>第15课 明朝的对外关系 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/zheng-he.html">郑和下西洋 · Zheng He&#x27;s voyages to the Western Ocean</a></div><div class='card'><a class="node" href="../c/qi-jiguang.html">戚继光抗倭与葡占澳门 · Qi Jiguang, the wokou wars and Macau</a></div></div>
+<h2>第16课 明朝的科技、建筑与文学 <span class='count'>(3)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ming-science.html">明代科技名著与西学东渐 · Ming science: the great compendia and the Jesuit exchange</a></div><div class='card'><a class="node" href="../c/great-wall-forbidden-city.html">明长城与北京城（紫禁城） · the Ming Great Wall and the Forbidden City</a></div><div class='card'><a class="node" href="../c/ming-novels.html">明代小说与戏剧 · the Ming novel: Three Kingdoms, Water Margin, Journey to the West</a></div></div>
+<h2>第17课 明朝的灭亡 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/ming-fall.html">明朝的灭亡与清兵入关 · the fall of the Ming</a></div></div>
+<h2>第18课 统一多民族国家的巩固和发展 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/zheng-chenggong.html">郑成功收复台湾与清朝台湾建制 · Zheng Chenggong (Koxinga) and Taiwan</a></div><div class='card'><a class="node" href="../c/qing-frontier.html">清朝对边疆的经营（西藏、新疆与《尼布楚条约》） · the Qing consolidation of the frontiers</a></div></div>
+<h2>第19课 清朝前期社会经济的发展 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/qing-prosperity.html">清朝前期的经济与人口 · the High Qing economy and population boom</a></div></div>
+<h2>第20课 清朝君主专制的强化 <span class='count'>(2)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/grand-council.html">军机处与文字狱 · the Grand Council and the literary inquisition</a></div><div class='card'><a class="node" href="../c/canton-system.html">闭关锁国政策 · the closed-door policy and the Canton system</a></div></div>
+<h2>第21课 清朝前期的文学艺术 <span class='count'>(1)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/dream-red-chamber.html">《红楼梦》与京剧 · Dream of the Red Chamber and Peking opera</a></div></div>
+<h2>第22课 活动课：中国传统节日的起源 <span class='count'>(0)</span></h2><div class='grid'></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

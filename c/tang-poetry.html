@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>唐诗（李白、杜甫、白居易） · Tang poetry: Li Bai, Du Fu, Bai Juyi · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第3课 盛唐气象</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>唐诗（李白、杜甫、白居易） <span class="pinyin">Tángshī</span><span class="en">Tang poetry: Li Bai, Du Fu, Bai Juyi</span></h1>
+<p class="meta">⏳ 7–9世纪</p>
+<div class="card"><p class="zh">唐朝是中国诗歌创作的黄金时期，《全唐诗》辑近5万首。李白颂山河之壮、抒昂扬进取，飘逸洒脱富于想象，“诗仙”；杜甫生逢由盛转衰，诗风淳朴厚重、反映战乱与民苦，“诗史”“诗圣”；白居易直面现实、平易近人妇孺能诵。书法颜真卿（端正劲美雄浑敦厚）柳公权欧阳询；绘画阎立本吴道子；敦煌莫高窟与云冈龙门并为三大石窟、艺术宝库。</p><p class="endef">Poetry was the Tang&#x27;s social medium — fifty thousand poems survive in the imperial anthology alone. Li Bai, the &#x27;Banished Immortal&#x27;, all wine, moonlight and soaring ego; Du Fu, the &#x27;Poet-Sage&#x27; whose war-torn verse earned the harder title &#x27;poet-historian&#x27;; Bai Juyi, who tested lines on old women and conquered the common reader. Around them, Yan Zhenqing&#x27;s monumental calligraphy, Wu Daozi&#x27;s flying brush, and the cave-art of Dunhuang — the fullest single archive of medieval Eurasian life.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ the golden age of Chinese poetry</li><li>▸ the Banished Immortal</li><li>▸ the poet-historian</li><li>▸ regulated verse</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Ezra Pound&#x27;s Cathay put Li Bai (as &#x27;Rihaku&#x27;) into modernist English and changed Anglophone poetry — Tang verse is the rare export that colonised its importer.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>李白英语旧拼 Li Po 仍常见；“诗仙”译 the Banished Immortal（谪仙）最传神。“诗史”= poet-historian。唐诗英译史（Waley, Pound, 许渊冲）本身是翻译学富矿——学英语者以双语对读唐诗为高效路径。敦煌 = Dunhuang（the Mogao Caves；藏经洞 the Library Cave 及其文物流散是文化遗产议题常客）。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/tang-cosmopolitan.html">盛唐气象 · High Tang splendour</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/shakespeare.html">莎士比亚 · William Shakespeare</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/homer-epics.html">《荷马史诗》 · the Homeric epics</a></li><li><span class="rel">受影响于 influenced-by</span> <a class="node" href="../c/weijin-culture.html">魏晋南北朝的科技与文化 · science and arts of the Wei-Jin era</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/song-urban-culture.html">宋元都市文化与宋词元曲 · Song-Yuan urban culture: ci poetry and zaju drama</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7b 第3课 盛唐气象</p>
+<p><a class="tag" href="../themes.html#culture">#culture</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
