@@ -4,19 +4,43 @@
     "zh": "尼罗河",
     "pinyin": "Níluóhé",
     "en": "the Nile",
-    "en_alt": ["the Nile River", "the Nile valley"],
+    "en_alt": [
+      "the Nile River",
+      "the Nile valley"
+    ],
     "def_zh": "世界最长河流，贯穿埃及南北；其每年定期泛滥留下沃土，孕育了古埃及文明，故埃及有“尼罗河的赠礼”之称。",
     "def_en": "The world's longest river, whose annual flooding deposited fertile silt along its banks and made Egyptian agriculture — and civilisation — possible; hence Herodotus's famous line that Egypt is 'the gift of the Nile'.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the gift of the Nile", "the Nile's annual flooding/inundation", "the fertile Nile valley/delta", "downstream/upstream along the Nile"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the gift of the Nile",
+      "the Nile's annual flooding/inundation",
+      "the fertile Nile valley/delta",
+      "downstream/upstream along the Nile"
+    ],
     "example": "Egypt's population still crowds the same narrow green ribbon that fed the pharaohs: 95% of Egyptians live within a few miles of the Nile.",
     "nuance": "“定期泛滥”地道说法是 the annual flood/inundation of the Nile；不要直译成 'regular overflow'。“尼罗河的赠礼”固定译法为 'the gift of the Nile'（希罗多德语）。",
     "links": [
-      {"to": "ancient-egypt", "rel": "cause"},
-      {"to": "river-valley-civilizations", "rel": "related"},
-      {"to": "solar-calendar", "rel": "cause"}
+      {
+        "to": "ancient-egypt",
+        "rel": "cause"
+      },
+      {
+        "to": "river-valley-civilizations",
+        "rel": "related"
+      },
+      {
+        "to": "solar-calendar",
+        "rel": "cause"
+      }
     ],
-    "themes": ["geography-environment"],
+    "themes": [
+      "geography-environment"
+    ],
     "period": "前3500年起"
   },
   {
@@ -24,18 +48,40 @@
     "zh": "古埃及文明",
     "pinyin": "gǔ Āijí wénmíng",
     "en": "ancient Egyptian civilisation",
-    "en_alt": ["ancient Egypt", "pharaonic Egypt"],
+    "en_alt": [
+      "ancient Egypt",
+      "pharaonic Egypt"
+    ],
     "def_zh": "兴起于尼罗河下游的早期文明，约公元前3100年初步统一，后历经分裂与外族入侵，先后被波斯、亚历山大帝国和罗马帝国占领，文明未能延续至今。",
     "def_en": "One of the world's earliest civilisations, unified along the lower Nile around 3100 BC; after cycles of division and foreign conquest — Persian, Macedonian, then Roman — its native tradition was eventually extinguished rather than continuously inherited.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the unification of Egypt", "pharaonic Egypt", "Upper and Lower Egypt", "the conquest of Egypt by Persia/Alexander/Rome"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the unification of Egypt",
+      "pharaonic Egypt",
+      "Upper and Lower Egypt",
+      "the conquest of Egypt by Persia/Alexander/Rome"
+    ],
     "example": "Unlike China, whose script and statecraft show an unbroken lineage, ancient Egyptian civilisation was cut short — by the time Rome annexed it, even hieroglyphic literacy was dying out.",
     "nuance": "中文教材强调古埃及文明“没有延续下去”，与中华文明的连续性对比；英语中表达这种对比常用 continuity vs rupture、an unbroken tradition 等说法。",
     "links": [
-      {"to": "pharaoh", "rel": "related"},
-      {"to": "river-valley-civilizations", "rel": "broader"}
+      {
+        "to": "pharaoh",
+        "rel": "related"
+      },
+      {
+        "to": "river-valley-civilizations",
+        "rel": "broader"
+      }
     ],
-    "themes": ["culture", "governance"],
+    "themes": [
+      "culture",
+      "governance"
+    ],
     "period": "前3100年–前30年"
   },
   {
@@ -45,15 +91,34 @@
     "en": "pharaoh",
     "def_zh": "古埃及最高统治者的称号，集军、政、财、神权于一身，被尊为“神之子”，拥有无上权威。",
     "def_en": "The god-king of ancient Egypt, concentrating military, political, fiscal and religious authority in one person and revered as the son of the gods.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["under the pharaohs", "pharaonic rule/power", "the pharaoh's divine authority", "a living god"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "under the pharaohs",
+      "pharaonic rule/power",
+      "the pharaoh's divine authority",
+      "a living god"
+    ],
     "example": "Egypt's bureaucratic tradition long predates the modern state: the pharaohs were levying grain taxes four millennia before anyone had heard of income tax.",
     "nuance": "英语里 pharaonic 常作比喻，形容工程浩大或权力集中（a pharaonic infrastructure project — 常带批评色彩，暗指劳民伤财），中文“法老”无此引申义。",
     "links": [
-      {"to": "pyramids", "rel": "related"},
-      {"to": "ancient-egypt", "rel": "related"}
+      {
+        "to": "pyramids",
+        "rel": "related"
+      },
+      {
+        "to": "ancient-egypt",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance", "religion"],
+    "themes": [
+      "governance",
+      "religion"
+    ],
     "period": "前3100年–前30年"
   },
   {
@@ -61,18 +126,40 @@
     "zh": "金字塔",
     "pinyin": "jīnzìtǎ",
     "en": "the pyramids",
-    "en_alt": ["the Great Pyramid of Giza", "the pyramid of Khufu (Cheops)"],
+    "en_alt": [
+      "the Great Pyramid of Giza",
+      "the pyramid of Khufu (Cheops)"
+    ],
     "def_zh": "古埃及法老的角锥体陵墓，因侧面形似汉字“金”而得中文名；是古埃及文明的象征，反映了王权的强大与社会经济发展水平。最大者为胡夫金字塔（约建于公元前2600年）。",
     "def_en": "The monumental royal tombs of Egypt's pharaohs, of which the Great Pyramid of Khufu (c. 2600 BC) is the largest; symbols at once of Egyptian civilisation and of the absolute power that could command such labour.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["build/erect the pyramids", "the Great Pyramid of Giza", "a monument to royal power", "pyramid-building"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "build/erect the pyramids",
+      "the Great Pyramid of Giza",
+      "a monument to royal power",
+      "pyramid-building"
+    ],
     "example": "Every age gets the megaprojects its rulers can extract: the pyramids were less an engineering feat than a statement about who commanded Egypt's surplus.",
     "nuance": "中文名源于字形“金”，纯属汉字联想；英语 pyramid 来自希腊语 pyramis。注意 pyramid scheme（传销/金字塔骗局）是完全不同的固定用法。教材点出“金字塔越修越小，反映王权衰落”——用英语表达即 the shrinking pyramids track the waning of royal power。",
     "links": [
-      {"to": "pharaoh", "rel": "effect"},
-      {"to": "sphinx", "rel": "related"}
+      {
+        "to": "pharaoh",
+        "rel": "effect"
+      },
+      {
+        "to": "sphinx",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture", "governance"],
+    "themes": [
+      "culture",
+      "governance"
+    ],
     "period": "约前2600年"
   },
   {
@@ -80,17 +167,33 @@
     "zh": "狮身人面像",
     "pinyin": "shīshēnrénmiànxiàng",
     "en": "the Great Sphinx",
-    "en_alt": ["the Sphinx of Giza"],
+    "en_alt": [
+      "the Sphinx of Giza"
+    ],
     "def_zh": "位于哈夫拉金字塔前的巨型雕像，狮身人面，由整块巨石雕成，高20余米、长50余米，与金字塔共同构成宏大的历史景观。",
     "def_en": "The colossal lion-bodied, human-headed statue carved from a single outcrop beside Khafre's pyramid at Giza — over 20 metres high and 50 metres long.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the riddle of the Sphinx", "sphinx-like (inscrutable)", "carved from a single block of stone"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the riddle of the Sphinx",
+      "sphinx-like (inscrutable)",
+      "carved from a single block of stone"
+    ],
     "example": "Central bankers cultivate a sphinx-like inscrutability: the less markets can read them, the freer their hands.",
     "nuance": "英语 sphinx-like 形容人高深莫测、不露声色（源自希腊斯芬克斯之谜，而非埃及雕像）；中文“狮身人面像”只是雕像名，无此比喻义。希腊神话的 Sphinx 与埃及的 Great Sphinx 在英语中共用一词，语境需分清。",
     "links": [
-      {"to": "pyramids", "rel": "related"}
+      {
+        "to": "pyramids",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture"],
+    "themes": [
+      "culture"
+    ],
     "period": "约前2500年"
   },
   {
@@ -98,18 +201,39 @@
     "zh": "象形文字",
     "pinyin": "xiàngxíng wénzì",
     "en": "hieroglyphs",
-    "en_alt": ["hieroglyphic script", "Egyptian hieroglyphics"],
+    "en_alt": [
+      "hieroglyphic script",
+      "Egyptian hieroglyphics"
+    ],
     "def_zh": "古埃及使用的文字，是世界上最早的文字之一；19世纪被成功释读，开启了古埃及研究的新纪元。",
     "def_en": "The pictorial writing system of ancient Egypt, among the world's earliest scripts; its decipherment in the 19th century (Champollion, via the Rosetta Stone, 1822) founded modern Egyptology.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["decipher hieroglyphs", "the Rosetta Stone", "hieroglyphic inscriptions"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "decipher hieroglyphs",
+      "the Rosetta Stone",
+      "hieroglyphic inscriptions"
+    ],
     "example": "The Rosetta Stone did for hieroglyphs what a bilingual dictionary does for any dead language: it turned decoration back into speech.",
     "nuance": "重要陷阱：hieroglyphs 专指埃及（及少数中美洲）文字；汉字的“象形”特征应说 pictographic/pictographic origins，甲骨文是 oracle bone script，切勿称汉字为 hieroglyphs。泛指“难认的文字”时英语可戏称 hieroglyphics（These doctors' notes are pure hieroglyphics）。",
     "links": [
-      {"to": "ancient-egypt", "rel": "related"},
-      {"to": "cuneiform", "rel": "contrast"}
+      {
+        "to": "ancient-egypt",
+        "rel": "related"
+      },
+      {
+        "to": "cuneiform",
+        "rel": "contrast"
+      }
     ],
-    "themes": ["culture", "science-tech"],
+    "themes": [
+      "culture",
+      "science-tech"
+    ],
     "period": "约前3100年起"
   },
   {
@@ -119,14 +243,28 @@
     "en": "the solar calendar",
     "def_zh": "古埃及天文学的突出成就：古埃及人依据天狼星与太阳同时升起、尼罗河随之涨水的规律，制定了每年365天的历法。",
     "def_en": "Egypt's 365-day calendar, devised by observing that the Nile began to rise when Sirius first appeared alongside the rising sun — astronomy in the service of agriculture.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["a solar/lunar calendar", "the heliacal rising of Sirius", "calendar reform"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "a solar/lunar calendar",
+      "the heliacal rising of Sirius",
+      "calendar reform"
+    ],
     "example": "Calendars are technologies of the state: Egypt's solar year let officials predict the flood, and therefore the harvest, and therefore the tax take.",
     "nuance": "solar calendar（阳历）与 lunar calendar（阴历）相对；中国农历是阴阳合历 lunisolar calendar——介绍中国历法时勿简单说 lunar calendar。",
     "links": [
-      {"to": "nile-river", "rel": "effect"}
+      {
+        "to": "nile-river",
+        "rel": "effect"
+      }
     ],
-    "themes": ["science-tech"],
+    "themes": [
+      "science-tech"
+    ],
     "period": "古埃及时期"
   },
   {
@@ -134,17 +272,35 @@
     "zh": "木乃伊",
     "pinyin": "mùnǎiyī",
     "en": "mummification",
-    "en_alt": ["mummy", "embalming"],
+    "en_alt": [
+      "mummy",
+      "embalming"
+    ],
     "def_zh": "古埃及人将遗体制成木乃伊的防腐技术；制作过程增长了解剖知识，客观上促进了医学发展。",
     "def_en": "The Egyptian practice of embalming and preserving the dead; the anatomical knowledge it required gave early medicine an unintended boost.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["mummify a body", "embalming techniques", "a well-preserved mummy"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "mummify a body",
+      "embalming techniques",
+      "a well-preserved mummy"
+    ],
     "example": "Ancient embalmers knew more anatomy than most of their contemporaries' physicians — mummification was dissection with a religious licence.",
     "nuance": "“木乃伊”是音译名词（mummy）；表“制成木乃伊”这一过程用 mummification/mummify。口语中 mummy 在英式英语也指“妈妈”，纯靠语境区分。",
     "links": [
-      {"to": "ancient-egypt", "rel": "related"}
+      {
+        "to": "ancient-egypt",
+        "rel": "related"
+      }
     ],
-    "themes": ["religion", "science-tech"],
+    "themes": [
+      "religion",
+      "science-tech"
+    ],
     "period": "古埃及时期"
   },
   {
@@ -152,17 +308,36 @@
     "zh": "大河文明",
     "pinyin": "dàhé wénmíng",
     "en": "river valley civilisations",
-    "en_alt": ["the cradles of civilisation", "riverine civilisations"],
+    "en_alt": [
+      "the cradles of civilisation",
+      "riverine civilisations"
+    ],
     "def_zh": "人类最早的文明产生于适合农耕的大河流域：尼罗河、两河、印度河及黄河—长江流域是重要发祥地。",
     "def_en": "The earliest civilisations all arose on floodplains suited to agriculture — the Nile, the Tigris–Euphrates, the Indus, and the Yellow and Yangzi valleys — where rivers supplied water, silt and the need for collective organisation.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the cradle of civilisation", "a river valley civilisation", "fertile floodplains", "irrigation-based agriculture"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the cradle of civilisation",
+      "a river valley civilisation",
+      "fertile floodplains",
+      "irrigation-based agriculture"
+    ],
     "example": "Civilisation began as a water-management problem: wherever a great river demanded dikes and canals, states soon followed.",
     "nuance": "“大河文明”直译 great-river civilisation 不地道；标准说法是 river valley civilisations 或 the cradles of civilisation。“两河流域”即 Mesopotamia（希腊语“两河之间”）。",
     "links": [
-      {"to": "nile-river", "rel": "related"}
+      {
+        "to": "nile-river",
+        "rel": "related"
+      }
     ],
-    "themes": ["geography-environment", "society"],
+    "themes": [
+      "geography-environment",
+      "society"
+    ],
     "period": "约前3500年起"
   },
   {
@@ -170,19 +345,44 @@
     "zh": "原始社会",
     "pinyin": "yuánshǐ shèhuì",
     "en": "primitive society",
-    "en_alt": ["prehistoric society", "pre-class society"],
+    "en_alt": [
+      "prehistoric society",
+      "pre-class society"
+    ],
     "def_zh": "马克思主义分期中人类最初的社会阶段：财产公有、集体生产分配；随着剩余产品和私有制出现而解体，人类进入阶级社会。",
     "def_en": "In the Marxist scheme of historical stages, humanity's first social formation — communal property and collective production — dissolved by the rise of surplus, private property and class division.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the stages of history (in Marxist historiography)", "communal ownership", "the dissolution of primitive society", "hunter-gatherer societies"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the stages of history (in Marxist historiography)",
+      "communal ownership",
+      "the dissolution of primitive society",
+      "hunter-gatherer societies"
+    ],
     "example": "Anthropologists long ago dropped the ladder of set stages; they speak of hunter-gatherer or preliterate societies rather than 'primitive' ones.",
     "nuance": "重大陷阱：原始社会→奴隶社会→封建社会的“五阶段论”是马克思主义史学分期，西方主流史学不采用。英语学术写作中 primitive 一词涉嫌贬义，已被 prehistoric、preliterate、hunter-gatherer、small-scale societies 等取代。直接照译会显得过时甚至冒犯。",
     "links": [
-      {"to": "slave-society", "rel": "replaced-by"},
-      {"to": "clan-society", "rel": "related"},
-      {"to": "private-property", "rel": "effect"}
+      {
+        "to": "slave-society",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "clan-society",
+        "rel": "related"
+      },
+      {
+        "to": "private-property",
+        "rel": "effect"
+      }
     ],
-    "themes": ["ideas", "society"],
+    "themes": [
+      "ideas",
+      "society"
+    ],
     "period": "约前300万年–前3500年"
   },
   {
@@ -190,18 +390,40 @@
     "zh": "奴隶社会",
     "pinyin": "núlì shèhuì",
     "en": "slave society",
-    "en_alt": ["slaveholding society", "ancient/classical antiquity (Western usage)"],
+    "en_alt": [
+      "slaveholding society",
+      "ancient/classical antiquity (Western usage)"
+    ],
     "def_zh": "马克思主义分期中继原始社会之后的阶段，以奴隶主占有奴隶和生产资料为基础；教材将古埃及、两河、印度、希腊罗马等早期文明归入此阶段。",
     "def_en": "In Marxist periodisation, the stage after primitive society, defined by masters owning slaves as the basis of production; Western historians instead speak simply of the ancient world or classical antiquity, reserving 'slave society' for cases like Athens, Rome or the American South where slavery structured the whole economy.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["a slaveholding society", "chattel slavery", "classical antiquity", "the ancient world"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "a slaveholding society",
+      "chattel slavery",
+      "classical antiquity",
+      "the ancient world"
+    ],
     "example": "Historians still argue whether Rome was a slave society or merely a society with slaves — the distinction carries a whole theory of what made its economy run.",
     "nuance": "陷阱：英语史学中 'slave society' 是描述性概念（奴隶制主导经济的社会），不是普遍历史阶段。翻译教材语境时可保留 slave society 并注明 Marxist periodisation；泛指上古时期用 antiquity/the ancient world 更自然。",
     "links": [
-      {"to": "primitive-society", "rel": "replaced"},
-      {"to": "private-property", "rel": "related"}
+      {
+        "to": "primitive-society",
+        "rel": "replaced"
+      },
+      {
+        "to": "private-property",
+        "rel": "related"
+      }
     ],
-    "themes": ["ideas", "society"],
+    "themes": [
+      "ideas",
+      "society"
+    ],
     "period": "约前3500年起"
   },
   {
@@ -209,17 +431,35 @@
     "zh": "氏族社会",
     "pinyin": "shìzú shèhuì",
     "en": "clan society",
-    "en_alt": ["kinship-based society", "matrilineal/patrilineal clan"],
+    "en_alt": [
+      "kinship-based society",
+      "matrilineal/patrilineal clan"
+    ],
     "def_zh": "原始社会中以血缘为纽带的组织形式：先经历财产公有、以集体为基础的母系氏族社会，后随农牧业发展转入父系氏族社会。",
     "def_en": "Kinship-based social organisation within early societies: an earlier matrilineal phase of communal property gave way, as farming and herding grew, to patrilineal clans in which men dominated production.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["matrilineal/patrilineal descent", "kinship ties", "clan-based organisation", "trace descent through the mother's line"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "matrilineal/patrilineal descent",
+      "kinship ties",
+      "clan-based organisation",
+      "trace descent through the mother's line"
+    ],
     "example": "In much of the world kinship still does what states cannot: clan networks allocate land, settle feuds and vet marriages.",
     "nuance": "母系氏族 = matrilineal（按母系计算世系），不是 matriarchal（母权统治）——两者常被混淆；教材的“母系氏族社会”译 matrilineal clan society 最稳。",
     "links": [
-      {"to": "primitive-society", "rel": "narrower"}
+      {
+        "to": "primitive-society",
+        "rel": "narrower"
+      }
     ],
-    "themes": ["society"],
+    "themes": [
+      "society"
+    ],
     "period": "史前"
   },
   {
@@ -227,18 +467,39 @@
     "zh": "私有制",
     "pinyin": "sīyǒuzhì",
     "en": "private property",
-    "en_alt": ["private ownership"],
+    "en_alt": [
+      "private ownership"
+    ],
     "def_zh": "生产资料归私人占有的制度。教材叙述其随剩余产品出现而产生，导致原始社会解体、阶级社会形成。",
     "def_en": "Ownership of productive assets by individuals rather than the community; in the textbook's Marxist narrative it emerges with agricultural surplus and dissolves primitive communal life into class society.",
-    "sources": [{"book": "wh9a", "chapter": "第1课 古代埃及"}],
-    "collocations": ["the institution of private property", "property rights", "communal vs private ownership", "the abolition of private property"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第1课 古代埃及"
+      }
+    ],
+    "collocations": [
+      "the institution of private property",
+      "property rights",
+      "communal vs private ownership",
+      "the abolition of private property"
+    ],
     "example": "Secure property rights, economists never tire of saying, are the difference between farming your land and merely squatting on it.",
     "nuance": "“私有制”作制度讲，译 private ownership/the institution of private property；日常英语 private property 更多指“私人财产/私人领地”（Private property — keep out!）。经济学讨论中常用 property rights（产权）这一分析框架。",
     "links": [
-      {"to": "primitive-society", "rel": "cause"},
-      {"to": "slave-society", "rel": "related"}
+      {
+        "to": "primitive-society",
+        "rel": "cause"
+      },
+      {
+        "to": "slave-society",
+        "rel": "related"
+      }
     ],
-    "themes": ["economy", "ideas"],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
     "period": "约前3500年起"
   },
   {
@@ -246,19 +507,43 @@
     "zh": "两河流域（美索不达米亚）",
     "pinyin": "liǎnghé liúyù / Měisuǒbùdámǐyà",
     "en": "Mesopotamia",
-    "en_alt": ["the Tigris–Euphrates valley", "the land between the rivers"],
+    "en_alt": [
+      "the Tigris–Euphrates valley",
+      "the land between the rivers"
+    ],
     "def_zh": "西亚幼发拉底河与底格里斯河之间的地区，希腊语意为“两河之间”，人类最早的文明发祥地之一；约前3500年起出现以城市为中心的小国。",
     "def_en": "The region between the Euphrates and the Tigris in Western Asia — Greek for 'the land between the rivers' — where city-states emerged from about 3500 BC, making it one of the cradles of civilisation.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["ancient Mesopotamia", "Mesopotamian city-states", "the fertile crescent", "between the Tigris and the Euphrates"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "ancient Mesopotamia",
+      "Mesopotamian city-states",
+      "the fertile crescent",
+      "between the Tigris and the Euphrates"
+    ],
     "example": "Iraq sits atop the world's oldest urban landscape: every empire from Sumer onward has left a layer in Mesopotamia's mounds.",
     "nuance": "中文教材惯称“两河流域”，英语正式名是 Mesopotamia——直译 'the two-river valley' 不通。相关地理概念 the Fertile Crescent（新月沃地）在英语史学中极常用。",
     "links": [
-      {"to": "river-valley-civilizations", "rel": "broader"},
-      {"to": "sumerians", "rel": "related"},
-      {"to": "old-babylon", "rel": "related"}
+      {
+        "to": "river-valley-civilizations",
+        "rel": "broader"
+      },
+      {
+        "to": "sumerians",
+        "rel": "related"
+      },
+      {
+        "to": "old-babylon",
+        "rel": "related"
+      }
     ],
-    "themes": ["geography-environment"],
+    "themes": [
+      "geography-environment"
+    ],
     "period": "约前3500年–前539年"
   },
   {
@@ -268,15 +553,33 @@
     "en": "the Sumerians",
     "def_zh": "两河流域南部最早的文明创造者：发明楔形文字、依月相制定阴历（设闰月调和阴阳历），并创造60进制计数法。",
     "def_en": "The earliest civilisation-builders of southern Mesopotamia, credited with cuneiform writing, a lunar calendar corrected by intercalary months, and the base-60 number system.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["Sumerian city-states", "the invention of writing", "a base-60 (sexagesimal) system"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "Sumerian city-states",
+      "the invention of writing",
+      "a base-60 (sexagesimal) system"
+    ],
     "example": "Every time you glance at a clock you are doing Sumerian arithmetic: sixty seconds, sixty minutes — the base-60 habit has outlived its inventors by four millennia.",
     "nuance": "60进制的学名是 the sexagesimal system，日常表达用 base-60 更亲切。“闰月”是 intercalary/leap month。",
     "links": [
-      {"to": "cuneiform", "rel": "effect"},
-      {"to": "mesopotamia", "rel": "related"}
+      {
+        "to": "cuneiform",
+        "rel": "effect"
+      },
+      {
+        "to": "mesopotamia",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture", "science-tech"],
+    "themes": [
+      "culture",
+      "science-tech"
+    ],
     "period": "约前3500年起"
   },
   {
@@ -284,18 +587,39 @@
     "zh": "楔形文字",
     "pinyin": "xiēxíng wénzì",
     "en": "cuneiform",
-    "en_alt": ["cuneiform script"],
+    "en_alt": [
+      "cuneiform script"
+    ],
     "def_zh": "苏美尔人发明的文字：用削尖的芦秆或木棒在软泥版上压刻，笔画由粗到细形如木楔，故名。",
     "def_en": "The wedge-shaped script of Mesopotamia, pressed into wet clay tablets with a cut reed stylus — named from Latin cuneus, 'wedge'.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["cuneiform tablets", "clay tablets", "a scribal tradition", "decipher cuneiform"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "cuneiform tablets",
+      "clay tablets",
+      "a scribal tradition",
+      "decipher cuneiform"
+    ],
     "example": "Clay outlasts paper: hundreds of thousands of cuneiform tablets survive, recording everything from epic poetry to complaints about substandard copper.",
     "nuance": "cuneiform 与 hieroglyphs 是两套体系，勿混用；中文都可笼统称“古文字”，英语必须区分。“泥版”是 clay tablet。",
     "links": [
-      {"to": "hieroglyphs", "rel": "contrast"},
-      {"to": "sumerians", "rel": "related"}
+      {
+        "to": "hieroglyphs",
+        "rel": "contrast"
+      },
+      {
+        "to": "sumerians",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture", "science-tech"],
+    "themes": [
+      "culture",
+      "science-tech"
+    ],
     "period": "约前3200年起"
   },
   {
@@ -303,19 +627,42 @@
     "zh": "古巴比伦王国",
     "pinyin": "gǔ Bābǐlún wángguó",
     "en": "the Old Babylonian kingdom",
-    "en_alt": ["Old Babylonia", "the First Babylonian Empire"],
+    "en_alt": [
+      "Old Babylonia",
+      "the First Babylonian Empire"
+    ],
     "def_zh": "幼发拉底河中游小国，公元前18世纪汉谟拉比在位时统一两河流域中下游，成为强大的奴隶制国家；汉谟拉比死后衰落，前1595年为外族所灭。",
     "def_en": "A minor Euphrates state that, under Hammurabi in the 18th century BC, unified central and southern Mesopotamia into a powerful centralised kingdom; it declined after his death and fell in 1595 BC.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["under Hammurabi", "the rise and fall of Babylon", "a short-lived empire"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "under Hammurabi",
+      "the rise and fall of Babylon",
+      "a short-lived empire"
+    ],
     "example": "Babylon's fate is the classic imperial parable: a state built on one strongman's energy rarely outlives him by much.",
     "nuance": "“古巴比伦”对应 Old Babylonian（区别于后来的新巴比伦 Neo-Babylonian）；英语单说 Babylon 常泛指这座城及其文明，还带“繁华堕落之都”的比喻义（a modern Babylon）。",
     "links": [
-      {"to": "hammurabi", "rel": "related"},
-      {"to": "mesopotamia", "rel": "broader"},
-      {"to": "hanging-gardens", "rel": "related"}
+      {
+        "to": "hammurabi",
+        "rel": "related"
+      },
+      {
+        "to": "mesopotamia",
+        "rel": "broader"
+      },
+      {
+        "to": "hanging-gardens",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance"],
+    "themes": [
+      "governance"
+    ],
     "period": "前19世纪–前1595年"
   },
   {
@@ -325,16 +672,36 @@
     "en": "Hammurabi",
     "def_zh": "古巴比伦第六代国王：以各个击破的策略统一两河流域中下游，实行君主专制、加强中央集权，自称“众神之王”，并颁布著名法典、大兴水利。",
     "def_en": "The sixth king of Babylon, who unified lower Mesopotamia by picking off rivals one by one, ruled as a self-deified absolute monarch, dug canals on a grand scale, and promulgated the law code that bears his name.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["promulgate/issue a law code", "divide and conquer", "divine kingship"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "promulgate/issue a law code",
+      "divide and conquer",
+      "divine kingship"
+    ],
     "example": "Rulers have always understood that codifying law is a form of power: Hammurabi carved his statutes in stone precisely so no one could argue with them.",
     "nuance": "“各个击破”地道译法是 divide and conquer 或 pick off one by one；“神化自己”可说 self-deification / styled himself king of the gods。",
     "links": [
-      {"to": "hammurabi-code", "rel": "cause"},
-      {"to": "old-babylon", "rel": "related"},
-      {"to": "absolute-monarchy", "rel": "related"}
+      {
+        "to": "hammurabi-code",
+        "rel": "cause"
+      },
+      {
+        "to": "old-babylon",
+        "rel": "related"
+      },
+      {
+        "to": "absolute-monarchy",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance"],
+    "themes": [
+      "governance"
+    ],
     "period": "前18世纪"
   },
   {
@@ -344,16 +711,38 @@
     "en": "the Code of Hammurabi",
     "def_zh": "迄今已知世界上第一部较为完整的成文法典，刻于黑色石柱（现藏卢浮宫），正文282条；反映古巴比伦森严的社会等级（有公民权自由民、无公民权自由民、奴隶）与活跃的商品经济，严格保护奴隶主利益。",
     "def_en": "The earliest substantially complete written law code known, its 282 clauses carved on a black stela now in the Louvre; it reveals Old Babylon's rigid hierarchy of full citizens, free non-citizens and slaves, its lively commerce — and its ruthless protection of slave-owners' interests.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["a written law code", "an eye for an eye (lex talionis)", "codify laws", "carved on a stela"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "a written law code",
+      "an eye for an eye (lex talionis)",
+      "codify laws",
+      "carved on a stela"
+    ],
     "example": "'An eye for an eye' entered the world as tariff-schedule justice: under Hammurabi the price of an eye depended entirely on whose eye it was.",
     "nuance": "“成文法”= written/statute law（与习惯法 customary law 相对）。“以眼还眼”原则学名 lex talionis。注意教材强调其阶级性——英语表述可用 justice was graded by status。",
     "links": [
-      {"to": "hammurabi", "rel": "effect"},
-      {"to": "old-babylon", "rel": "related"},
-      {"to": "slave-society", "rel": "related"}
+      {
+        "to": "hammurabi",
+        "rel": "effect"
+      },
+      {
+        "to": "old-babylon",
+        "rel": "related"
+      },
+      {
+        "to": "slave-society",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance", "ideas"],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
     "period": "前18世纪"
   },
   {
@@ -361,18 +750,41 @@
     "zh": "君主专制与中央集权",
     "pinyin": "jūnzhǔ zhuānzhì / zhōngyāng jíquán",
     "en": "absolute monarchy and centralised power",
-    "en_alt": ["autocracy", "despotism", "centralisation"],
+    "en_alt": [
+      "autocracy",
+      "despotism",
+      "centralisation"
+    ],
     "def_zh": "君主个人集军、政、财、司法大权于一身（君主专制），并将权力收归中央（中央集权）的统治形态；汉谟拉比是教材中最早的典型。",
     "def_en": "Rule in which one monarch concentrates military, administrative, fiscal and judicial power in his own hands, drawing authority to the centre; Hammurabi is the textbook's first exemplar of the pattern.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["absolute rule", "centralise power", "an autocratic state", "concentrate power in one's own hands"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "absolute rule",
+      "centralise power",
+      "an autocratic state",
+      "concentrate power in one's own hands"
+    ],
     "example": "Autocrats' to-do lists have barely changed in 3,800 years: control the army, control the courts, control the water.",
     "nuance": "术语雷区：君主专制 = absolute monarchy/autocracy；中央集权 = centralisation（是权力结构，不必然专制）。despotism 带强烈贬义，而 'Oriental despotism'（东方专制主义）是已被批判的旧史学框架，慎用。描述当代政体多用 authoritarian。",
     "links": [
-      {"to": "hammurabi", "rel": "related"},
-      {"to": "pharaoh", "rel": "related"}
+      {
+        "to": "hammurabi",
+        "rel": "related"
+      },
+      {
+        "to": "pharaoh",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance", "ideas"],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
     "period": "古代–近代"
   },
   {
@@ -382,14 +794,28 @@
     "en": "the Hanging Gardens of Babylon",
     "def_zh": "传说新巴比伦国王为慰藉王后思乡而在宫中修建的花园，被誉为古代世界七大奇迹之一；前539年新巴比伦为波斯帝国所灭。",
     "def_en": "The legendary terraced gardens said to have been built by a Neo-Babylonian king to console his homesick queen — counted among the Seven Wonders of the ancient world.",
-    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
-    "collocations": ["the Seven Wonders of the ancient world", "a wonder of engineering", "legendary/fabled"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第2课 古代两河流域"
+      }
+    ],
+    "collocations": [
+      "the Seven Wonders of the ancient world",
+      "a wonder of engineering",
+      "legendary/fabled"
+    ],
     "example": "Like many wonders, the Hanging Gardens may owe more to legend than to masonry: archaeologists have never found them.",
     "nuance": "“空中花园”是意译；英语固定名 the Hanging Gardens（悬挂/层叠之意），不能说 sky garden——那是现代楼顶花园的说法。",
     "links": [
-      {"to": "old-babylon", "rel": "related"}
+      {
+        "to": "old-babylon",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture"],
+    "themes": [
+      "culture"
+    ],
     "period": "前6世纪"
   },
   {
@@ -397,18 +823,40 @@
     "zh": "古代印度河流域文明",
     "pinyin": "Yìndùhé liúyù wénmíng",
     "en": "the Indus Valley Civilisation",
-    "en_alt": ["Harappan civilisation", "Harappa and Mohenjo-daro"],
+    "en_alt": [
+      "Harappan civilisation",
+      "Harappa and Mohenjo-daro"
+    ],
     "def_zh": "南亚次大陆最早的文明（约前23–前18世纪），以哈拉帕、摩亨佐·达罗等精心规划的城市遗址著称——上下城分区、街道垂直交叉、有完整下水道系统；因不明原因衰亡，长期不为人知。",
     "def_en": "South Asia's earliest civilisation (c. 23rd–18th centuries BC), known from meticulously planned cities such as Harappa and Mohenjo-daro — gridded streets, zoned citadels and lower towns, and complete drainage systems — which declined for unknown reasons and was forgotten until modern excavation.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["urban planning", "a grid layout", "drainage/sewerage systems", "archaeological excavation"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "urban planning",
+      "a grid layout",
+      "drainage/sewerage systems",
+      "archaeological excavation"
+    ],
     "example": "Mohenjo-daro had better drains four thousand years ago than some megacities manage today — town planning is not a modern invention.",
     "nuance": "英语学界通称 the Indus Valley Civilisation 或 Harappan civilisation；“南亚次大陆”= the (South Asian) subcontinent，英语里常直接说 the subcontinent。",
     "links": [
-      {"to": "river-valley-civilizations", "rel": "broader"},
-      {"to": "aryans", "rel": "related"}
+      {
+        "to": "river-valley-civilizations",
+        "rel": "broader"
+      },
+      {
+        "to": "aryans",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture", "geography-environment"],
+    "themes": [
+      "culture",
+      "geography-environment"
+    ],
     "period": "约前2300年–前1750年"
   },
   {
@@ -416,18 +864,38 @@
     "zh": "雅利安人",
     "pinyin": "Yǎlì'ānrén",
     "en": "the Indo-Aryans",
-    "en_alt": ["Aryans (dated usage)", "Indo-Aryan migrations"],
+    "en_alt": [
+      "Aryans (dated usage)",
+      "Indo-Aryan migrations"
+    ],
     "def_zh": "约前1500年自中亚侵入印度的游牧部落，自称“雅利安”（意为高贵者），定居印度河、恒河流域，逐渐建立种姓制度。",
     "def_en": "Pastoral migrants from Central Asia who entered India around 1500 BC, settled the Indus and Ganges plains, and gradually imposed the social hierarchy that became the caste system.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["the Indo-Aryan migrations", "pastoral nomads", "Vedic culture"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "the Indo-Aryan migrations",
+      "pastoral nomads",
+      "Vedic culture"
+    ],
     "example": "Few words have fallen so far: 'Aryan' began as a Sanskrit self-description meaning noble, and ended as the vocabulary of Nazi race law.",
     "nuance": "高危词：Aryan 因纳粹种族主义污染，现代英语学术写作用 Indo-Aryan（语言/人群）或 Vedic（文化时期）；单独使用 Aryan 极易引起误读。谈论印度史时说 the Indo-Aryan migrations 而非 Aryan invasion（后者是已被修正的旧说）。",
     "links": [
-      {"to": "caste-system", "rel": "cause"},
-      {"to": "indus-civilization", "rel": "related"}
+      {
+        "to": "caste-system",
+        "rel": "cause"
+      },
+      {
+        "to": "indus-civilization",
+        "rel": "related"
+      }
     ],
-    "themes": ["society"],
+    "themes": [
+      "society"
+    ],
     "period": "约前1500年起"
   },
   {
@@ -435,19 +903,45 @@
     "zh": "种姓制度",
     "pinyin": "zhǒngxìng zhìdù",
     "en": "the caste system",
-    "en_alt": ["varna system", "caste hierarchy"],
+    "en_alt": [
+      "varna system",
+      "caste hierarchy"
+    ],
     "def_zh": "雅利安人进入印度后形成的森严等级制度：婆罗门（祭祀）、刹帝利（军政）、吠舍（农牧工商）、首陀罗（服务前三等级）四大等级世代相袭，贵贱分明，职业世袭、等级内婚；四等级之外还有遭歧视的“不可接触者”（贱民）。",
     "def_en": "India's hereditary social hierarchy: Brahmins (priests), Kshatriyas (warriors and rulers), Vaishyas (farmers, herders and traders) and Shudras (servants of the other three), with occupations inherited and marriage confined within ranks — and, beneath them all, the stigmatised 'untouchables'.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["the caste hierarchy", "upper-/lower-caste", "caste discrimination", "inter-caste marriage", "hereditary occupations"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "the caste hierarchy",
+      "upper-/lower-caste",
+      "caste discrimination",
+      "inter-caste marriage",
+      "hereditary occupations"
+    ],
     "example": "Caste survives the ballot box: Indian parties still court voters bloc by bloc, and matrimonial ads still specify caste alongside salary.",
     "nuance": "教材四等级即 varna（瓦尔纳）；现实印度社会运作单位是更细的 jati（迦提，数千种）。英语 caste 笼统涵盖两者。“贱民”今称 Dalits（自称，意为受压迫者），untouchables 为历史用语，官方称 Scheduled Castes；勿用旧称 pariah 指人（作比喻可用：a pariah state）。",
     "links": [
-      {"to": "aryans", "rel": "effect"},
-      {"to": "dalits", "rel": "narrower"},
-      {"to": "buddhism", "rel": "contrast"}
+      {
+        "to": "aryans",
+        "rel": "effect"
+      },
+      {
+        "to": "dalits",
+        "rel": "narrower"
+      },
+      {
+        "to": "buddhism",
+        "rel": "contrast"
+      }
     ],
-    "themes": ["society", "religion"],
+    "themes": [
+      "society",
+      "religion"
+    ],
     "period": "约前1500年至今"
   },
   {
@@ -455,17 +949,34 @@
     "zh": "贱民（不可接触者）",
     "pinyin": "jiànmín",
     "en": "Dalits",
-    "en_alt": ["the untouchables (historical)", "Scheduled Castes (official)"],
+    "en_alt": [
+      "the untouchables (historical)",
+      "Scheduled Castes (official)"
+    ],
     "def_zh": "种姓四等级之外、地位最卑贱的群体，历史上被称为“不可接触者”，在社会上遭受歧视与凌辱。",
     "def_en": "Those ranked beneath the four varnas altogether — historically branded 'untouchable' and subjected to systematic exclusion and humiliation; today self-identified as Dalits and officially the Scheduled Castes.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["Dalit rights", "caste-based discrimination", "affirmative action/reservations (in India)"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "Dalit rights",
+      "caste-based discrimination",
+      "affirmative action/reservations (in India)"
+    ],
     "example": "India's reservation system sets aside university places and government jobs for Dalits — the world's oldest and largest affirmative-action scheme.",
     "nuance": "用词敏感度排序：Dalit（尊重，当代通用）> Scheduled Castes（法律用语）> untouchable（仅作历史描述）> pariah（指人为冒犯，但 a pariah state / treated as a pariah 是常用比喻）。",
     "links": [
-      {"to": "caste-system", "rel": "broader"}
+      {
+        "to": "caste-system",
+        "rel": "broader"
+      }
     ],
-    "themes": ["society"],
+    "themes": [
+      "society"
+    ],
     "period": "古代至今"
   },
   {
@@ -473,18 +984,38 @@
     "zh": "孔雀王朝",
     "pinyin": "Kǒngquè wángcháo",
     "en": "the Maurya Empire",
-    "en_alt": ["the Mauryan dynasty"],
+    "en_alt": [
+      "the Mauryan dynasty"
+    ],
     "def_zh": "古代印度文明的鼎盛时期（约前324–前187年）：除半岛最南端外基本统一印度，农业与工商业繁荣，首都华氏城是当时世界上最繁华、人口最多的城市之一。",
     "def_en": "Ancient India's high-water mark (c. 324–187 BC), unifying nearly the whole subcontinent; agriculture and commerce flourished, and the capital Pataliputra ranked among the largest, busiest cities on earth.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["at its height/zenith", "unify the subcontinent", "a flourishing trade"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "at its height/zenith",
+      "unify the subcontinent",
+      "a flourishing trade"
+    ],
     "example": "Two thousand years before 'Make in India', Mauryan Pataliputra was already the subcontinent's commercial showcase.",
     "nuance": "“鼎盛时期”地道表达：at its height / at its zenith / the golden age of…。华氏城英语名为 Pataliputra（今巴特那 Patna）。",
     "links": [
-      {"to": "caste-system", "rel": "related"},
-      {"to": "buddhism", "rel": "related"}
+      {
+        "to": "caste-system",
+        "rel": "related"
+      },
+      {
+        "to": "buddhism",
+        "rel": "related"
+      }
     ],
-    "themes": ["governance", "economy"],
+    "themes": [
+      "governance",
+      "economy"
+    ],
     "period": "约前324年–前187年"
   },
   {
@@ -494,15 +1025,34 @@
     "en": "Buddhism",
     "def_zh": "公元前6世纪由乔达摩·悉达多创立于印度：早期反对婆罗门特权、提出“众生平等”、不拒低种姓入教，又宣扬“忍耐顺从”而获国王与富人支持；前3世纪起向外传播，经中亚传入中国，南经锡兰传至东南亚。",
     "def_en": "Founded in India in the 6th century BC by Siddhartha Gautama; early Buddhism rejected Brahmin privilege and preached the equality of all beings while counselling patient acceptance — winning both low-caste converts and royal patronage — and from the 3rd century BC spread through Central Asia to China and via Ceylon across Southeast Asia.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["the spread/transmission of Buddhism", "convert to Buddhism", "Buddhist monasteries", "along the Silk Road"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "the spread/transmission of Buddhism",
+      "convert to Buddhism",
+      "Buddhist monasteries",
+      "along the Silk Road"
+    ],
     "example": "Religions travel with trade: Buddhism reached China not by conquest but in the baggage of Silk Road merchants and pilgrim monks.",
     "nuance": "“众生平等”可译 the equality of all (sentient) beings；“忍耐顺从”教材语境指 forbearance and acceptance。注意约10世纪后佛教在印度本土衰落、被印度教（Hinduism）取代——今日印度并非佛教国家，这是常见误区。",
     "links": [
-      {"to": "sakyamuni", "rel": "effect"},
-      {"to": "caste-system", "rel": "contrast"}
+      {
+        "to": "sakyamuni",
+        "rel": "effect"
+      },
+      {
+        "to": "caste-system",
+        "rel": "contrast"
+      }
     ],
-    "themes": ["religion", "ideas"],
+    "themes": [
+      "religion",
+      "ideas"
+    ],
     "period": "前6世纪起"
   },
   {
@@ -510,17 +1060,35 @@
     "zh": "释迦牟尼",
     "pinyin": "Shìjiāmóuní",
     "en": "the Buddha (Siddhartha Gautama)",
-    "en_alt": ["Sakyamuni", "Gautama Buddha"],
+    "en_alt": [
+      "Sakyamuni",
+      "Gautama Buddha"
+    ],
     "def_zh": "佛教创始人，迦毗罗卫城释迦族王子；相传因目睹乞丐、病人与弃尸而感悟“人生皆苦”，离家修行，创立佛教，被尊为“佛陀”。",
     "def_en": "Founder of Buddhism, a prince of the Shakya clan of Kapilavastu who — shaken, tradition says, by the sight of beggary, sickness and death — renounced his palace to seek liberation from suffering, and came to be honoured as the Buddha, 'the awakened one'.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["attain enlightenment", "renounce the world", "the awakened one"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "attain enlightenment",
+      "renounce the world",
+      "the awakened one"
+    ],
     "example": "The Buddha's biography is antiquity's most famous mid-life career change: a prince who walked out on power to found a philosophy.",
     "nuance": "Buddha 是尊号（“觉悟者”），本名 Siddhartha Gautama；Sakyamuni（释迦族圣人）是汉传佛教常用称呼，英语学术写作多用 the Buddha 或 Gautama。“佛陀”“悟道”= enlightenment/awakening。",
     "links": [
-      {"to": "buddhism", "rel": "cause"}
+      {
+        "to": "buddhism",
+        "rel": "cause"
+      }
     ],
-    "themes": ["religion", "ideas"],
+    "themes": [
+      "religion",
+      "ideas"
+    ],
     "period": "前6世纪"
   },
   {
@@ -528,17 +1096,34 @@
     "zh": "阿拉伯数字",
     "pinyin": "Ālābó shùzì",
     "en": "Arabic numerals",
-    "en_alt": ["Hindu-Arabic numerals"],
+    "en_alt": [
+      "Hindu-Arabic numerals"
+    ],
     "def_zh": "世界通用的计数符号，实际起源于印度，后经阿拉伯人传播至世界各地，故得名“阿拉伯数字”。",
     "def_en": "The world's universal number signs — invented in India and carried west by Arab scholars and traders, whose role in transmission gave the digits their misleading name.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["Hindu-Arabic numerals", "the concept of zero", "positional/place-value notation"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "Hindu-Arabic numerals",
+      "the concept of zero",
+      "positional/place-value notation"
+    ],
     "example": "History's credit lines are often mislabelled: 'Arabic' numerals are an Indian invention that Europe learned of second-hand.",
     "nuance": "学术写作常用 Hindu-Arabic numerals 以还原谱系；相关关键概念：zero（零的观念，亦源自印度）与 place-value/positional notation（位值制）。这是“传播者冠名”现象的典型例子。",
     "links": [
-      {"to": "maurya-empire", "rel": "related"}
+      {
+        "to": "maurya-empire",
+        "rel": "related"
+      }
     ],
-    "themes": ["science-tech", "culture"],
+    "themes": [
+      "science-tech",
+      "culture"
+    ],
     "period": "古代印度"
   },
   {
@@ -546,17 +1131,905 @@
     "zh": "《摩诃婆罗多》与《罗摩衍那》",
     "pinyin": "Móhēpóluóduō / Luómóyǎnnà",
     "en": "the Mahabharata and the Ramayana",
-    "en_alt": ["the Sanskrit epics"],
+    "en_alt": [
+      "the Sanskrit epics"
+    ],
     "def_zh": "古代印度两大梵文史诗，篇幅为世界文学罕见；内容以神话为主，同时反映当时印度社会生活及雅利安人向东、向南扩张的斗争。",
     "def_en": "India's two great Sanskrit epics, among the longest poems in world literature; mythological in frame, they also preserve a picture of early Indian society and of the Indo-Aryan push east and south.",
-    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
-    "collocations": ["epic poetry", "oral tradition", "Sanskrit literature"],
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第3课 古代印度"
+      }
+    ],
+    "collocations": [
+      "epic poetry",
+      "oral tradition",
+      "Sanskrit literature"
+    ],
     "example": "The Mahabharata is roughly ten times the Iliad and Odyssey combined — and Indian television adaptations of it still stop traffic.",
     "nuance": "梵文 = Sanskrit；“史诗”= epic。两部书名英语拼写固定（the Mahabharata, the Ramayana），前面加定冠词。",
     "links": [
-      {"to": "aryans", "rel": "related"}
+      {
+        "to": "aryans",
+        "rel": "related"
+      }
     ],
-    "themes": ["culture"],
+    "themes": [
+      "culture"
+    ],
     "period": "古代印度"
+  },
+  {
+    "id": "greek-city-states",
+    "zh": "希腊城邦",
+    "pinyin": "Xīlà chéngbāng",
+    "en": "the Greek city-states",
+    "en_alt": [
+      "the polis (pl. poleis)"
+    ],
+    "def_zh": "公元前8世纪起希腊出现的以一城为中心、联合周边农村的小国，突出特点是“小国寡民”；多山环海的地理环境阻碍统一、却利于航海与海外贸易。",
+    "def_en": "The small self-governing states that emerged in Greece from the 8th century BC, each a town with its rural hinterland; mountainous, sea-girt geography kept Greece politically fragmented but bred seafaring and overseas trade.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "the polis",
+      "city-state rivalry",
+      "a seafaring people",
+      "maritime trade"
+    ],
+    "example": "Singapore is routinely described as a modern city-state — the Greek polis remains our template for small, rich and fiercely independent.",
+    "nuance": "“小国寡民”本是《道德经》语，教材借喻希腊城邦；英语可译 small territory, few citizens 或直接说 the polis was tiny by design。“城邦”标准译法 city-state，学术语境常用希腊原词 polis。",
+    "links": [
+      {
+        "to": "athenian-democracy",
+        "rel": "related"
+      },
+      {
+        "to": "sparta",
+        "rel": "narrower"
+      },
+      {
+        "to": "polis-citizenship",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "geography-environment"
+    ],
+    "period": "前8世纪起"
+  },
+  {
+    "id": "aegean-civilization",
+    "zh": "爱琴文明",
+    "pinyin": "Àiqín wénmíng",
+    "en": "the Aegean civilisations",
+    "en_alt": [
+      "Minoan (Crete) and Mycenaean civilisations"
+    ],
+    "def_zh": "希腊最早的文明，产生于爱琴海地区，包括克里特文明与迈锡尼文明；迈锡尼文明中断后，希腊进入相对落后的荷马时代。",
+    "def_en": "Greece's earliest civilisations, arising around the Aegean: Minoan Crete and Mycenae on the mainland; after Mycenae's fall Greece slipped into the obscure 'Homeric age'.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "Bronze Age Greece",
+      "the Minoans/Mycenaeans",
+      "a dark age"
+    ],
+    "example": "Archaeology keeps redrawing the map of early Greece: Knossos's palaces were a tourist marvel three thousand years before package holidays.",
+    "nuance": "克里特文明英语通称 Minoan civilisation（以传说中的米诺斯王命名）；“荷马时代”亦称 the Greek Dark Ages。",
+    "links": [
+      {
+        "to": "greek-city-states",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "homer-epics",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "约前2000年–前1100年"
+  },
+  {
+    "id": "polis-citizenship",
+    "zh": "公民与非公民",
+    "pinyin": "gōngmín yǔ fēigōngmín",
+    "en": "citizenship in the polis",
+    "en_alt": [
+      "citizens and non-citizens",
+      "civic rights"
+    ],
+    "def_zh": "希腊城邦居民分公民与非公民：成年男性公民有参政权，唯公民可占有土地，参军是公民义务；外邦人虽自由却无政治权利，奴隶几无任何权利，两类身份界限森严、极难逾越。",
+    "def_en": "The polis divided its people sharply: adult male citizens alone could govern, own land and were bound to fight; resident foreigners (metics) were free but rightless in politics, and slaves had virtually no rights at all — with the line between the groups almost impossible to cross.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "civic rights and duties",
+      "enfranchise/disenfranchise",
+      "resident aliens (metics)",
+      "the citizen body"
+    ],
+    "example": "Every debate about immigration and naturalisation replays the polis's oldest question: who counts as a citizen, and what must they give in return?",
+    "nuance": "“外邦人”雅典语境专名 metics（метoikoi）；“公民权”= citizenship/civic rights，“授予/剥夺公民权”= enfranchise/disenfranchise。注意古典 citizenship 与现代国籍概念不同——它是政治成员资格而非护照。",
+    "links": [
+      {
+        "to": "greek-city-states",
+        "rel": "broader"
+      },
+      {
+        "to": "athenian-democracy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "前8世纪–前4世纪"
+  },
+  {
+    "id": "sparta",
+    "zh": "斯巴达",
+    "pinyin": "Sībādá",
+    "en": "Sparta",
+    "def_zh": "希腊最大城邦：有公民权的斯巴达人份地相等、脱产从军、全民皆兵；人数最多的“希洛人”奴隶被固定在土地上，收成半数上缴，处境悲惨。",
+    "def_en": "The largest Greek city-state, organised as a barracks: full Spartiates held equal allotments worked by serf-like helots — who owed half their harvest and could be beaten or killed — freeing every citizen for lifelong military training.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "a spartan lifestyle/existence",
+      "militarised society",
+      "the helots",
+      "military discipline"
+    ],
+    "example": "The adjective outlived the city: a start-up founder sleeping under his desk calls the arrangement spartan, never guessing at the helots who made the original possible.",
+    "nuance": "小写 spartan 已成常用形容词（简朴严苛的）：spartan conditions/decor。希洛人 = helots，其地位介于奴隶与农奴之间，英语史学常称 state serfs。",
+    "links": [
+      {
+        "to": "greek-city-states",
+        "rel": "broader"
+      },
+      {
+        "to": "athenian-democracy",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "前8世纪–前4世纪"
+  },
+  {
+    "id": "athenian-democracy",
+    "zh": "雅典民主政治",
+    "pinyin": "Yǎdiǎn mínzhǔ zhèngzhì",
+    "en": "Athenian democracy",
+    "def_zh": "雅典经数次改革建立的民主政体，伯里克利主政时达到高峰：公职几乎全由抽签产生，公民大会为最高权力机构，设津贴保障贫穷公民参政；但外邦人、奴隶和妇女——占人口绝大多数——毫无政治权利。",
+    "def_en": "The direct democracy Athens built through successive reforms, peaking under Pericles: offices filled by lot, a sovereign popular Assembly, and stipends so the poor could serve — while metics, slaves and women, the great majority, had no political rights at all.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "direct democracy",
+      "selection by lot (sortition)",
+      "the popular Assembly",
+      "mob rule",
+      "demagogue"
+    ],
+    "example": "Critics of referendums reach instinctively for Athens: direct democracy, they warn, is one demagogue away from mob rule.",
+    "nuance": "关键区分：雅典是直接民主 direct democracy，现代多为代议民主 representative democracy。“抽签”= sortition/selection by lot（近年治理讨论中复兴的热词）。教材“暴民政治”= mob rule/ochlocracy；“蛊惑民众的野心家”= demagogue（Economist 高频词）。",
+    "links": [
+      {
+        "to": "pericles",
+        "rel": "related"
+      },
+      {
+        "to": "ostracism",
+        "rel": "narrower"
+      },
+      {
+        "to": "sparta",
+        "rel": "contrast"
+      },
+      {
+        "to": "polis-citizenship",
+        "rel": "related"
+      },
+      {
+        "to": "socrates",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "前594年–前4世纪"
+  },
+  {
+    "id": "pericles",
+    "zh": "伯里克利",
+    "pinyin": "Bólǐkèlì",
+    "en": "Pericles",
+    "def_zh": "公元前5世纪中后期雅典主政者：扩大公民权利、完善抽签任职与津贴制度，使雅典民主政治达到高峰；倡导文化，使雅典成为“全希腊的学校”。",
+    "def_en": "Athens's leading statesman in the mid-5th century BC, under whom democracy reached its fullest form — expanded rights, offices by lot, pay for public service — and who made his city, in his own phrase, 'the school of Hellas'.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "Periclean Athens",
+      "a golden age",
+      "the school of Hellas"
+    ],
+    "example": "Periclean Athens remains shorthand for a civic golden age — the moment a society's politics, money and talent all pull in the same direction.",
+    "nuance": "Periclean 作形容词是英语文化语汇的一部分（the Periclean age）；“全希腊的学校”出自修昔底德笔下伯里克利葬礼演说，标准译文 the school of Hellas/Greece。",
+    "links": [
+      {
+        "to": "athenian-democracy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "culture"
+    ],
+    "period": "约前495年–前429年"
+  },
+  {
+    "id": "ostracism",
+    "zh": "陶片放逐法",
+    "pinyin": "táopiàn fàngzhúfǎ",
+    "en": "ostracism",
+    "def_zh": "克利斯提尼创立的制度：公民大会以陶片投票，若出席逾6000人，得票最多者被逐出城邦十年——用以防范危害民主或国家之人。",
+    "def_en": "Cleisthenes' safety valve for democracy: once a year, if 6,000 citizens voted with potsherds, the man with the most votes was banished for ten years — no trial, no appeal, no confiscation.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "ostracise somebody",
+      "be ostracised by one's peers",
+      "social ostracism",
+      "cast out"
+    ],
+    "example": "The potsherd is gone but the verb thrives: an executive who crosses the industry finds himself ostracised — exile by committee, updated.",
+    "nuance": "极高价值词源：ostracism 源自陶片 ostrakon。现代英语 ostracise 指群体排斥、孤立某人（社交放逐），是学校反霸凌文件与职场报道高频词——从雅典制度到日常动词的完整链条值得记住。",
+    "links": [
+      {
+        "to": "athenian-democracy",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "前509年起"
+  },
+  {
+    "id": "alexander-empire",
+    "zh": "亚历山大帝国",
+    "pinyin": "Yàlìshāndà dìguó",
+    "en": "Alexander's empire",
+    "en_alt": [
+      "Alexander the Great",
+      "the Macedonian empire"
+    ],
+    "def_zh": "马其顿国王亚历山大自前334年率军东征，十年间灭波斯帝国，建立西起希腊、东到印度河、地跨欧亚非的空前大帝国；东征具侵略性、带来灾难，客观上促进东西方文化大交汇与贸易往来，所建数十座新城成为经济文化中心。",
+    "def_en": "The vast realm Alexander of Macedon conquered in a decade from 334 BC — Persia destroyed, his rule stretching from Greece to the Indus. The campaigns were predatory and devastating, yet they fused East and West: trade followed the army, and dozens of new-founded cities became lasting centres of commerce and culture.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第4课 希腊城邦和亚历山大帝国"
+      }
+    ],
+    "collocations": [
+      "Alexander the Great",
+      "the Hellenistic world/age",
+      "a sprawling empire",
+      "cultural fusion",
+      "conquer known world"
+    ],
+    "example": "Empires rarely outlive their founders' funerals: Alexander's fractured within a generation, but the Hellenistic cities he scattered from Egypt to Afghanistan Hellenised half the ancient world.",
+    "nuance": "教材未用的关键英语术语：Hellenistic（希腊化时代）——描述亚历山大之后东西交融的世界，Economist 及史学著作常用。“东西方文化大交汇”可译 the great fusion of East and West / cultural cross-pollination。",
+    "links": [
+      {
+        "to": "greek-city-states",
+        "rel": "related"
+      },
+      {
+        "to": "ancient-egypt",
+        "rel": "related"
+      },
+      {
+        "to": "mesopotamia",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "culture"
+    ],
+    "period": "前336年–前323年"
+  },
+  {
+    "id": "roman-republic",
+    "zh": "罗马共和国",
+    "pinyin": "Luómǎ gònghéguó",
+    "en": "the Roman Republic",
+    "def_zh": "前509年建立：决策权在300名贵族组成的元老院，两名权力相等的执政官主持政务，公民大会是形式上的最高权力机关；平民经长期斗争争得保民官等权利。“共和国”拉丁文原意为“公共事务”。",
+    "def_en": "Founded in 509 BC: real power sat with the 300-strong patrician Senate, two co-equal consuls ran the state, and the popular assembly was sovereign mostly in name; the plebeians' long struggle won them tribunes with veto power. The name comes from res publica — 'the public thing'.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "the Senate",
+      "consuls",
+      "tribunes of the plebs",
+      "patricians and plebeians",
+      "checks and balances",
+      "veto"
+    ],
+    "example": "America's founders were Rome-obsessed: a senate, vetoes, term-limited magistrates — the republic on the Potomac is a conscious tribute to the one on the Tiber.",
+    "nuance": "词源金矿：republic ← res publica（公共事务）；veto 拉丁语“我反对”，正是保民官的话语权力；senate ← senex（长者）。区分 patricians（贵族）/plebeians（平民）——后者衍生现代英语 plebeian/pleb（俗众，带贬义）。",
+    "links": [
+      {
+        "to": "twelve-tables",
+        "rel": "related"
+      },
+      {
+        "to": "roman-empire",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "punic-wars",
+        "rel": "related"
+      },
+      {
+        "to": "athenian-democracy",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "前509年–前27年"
+  },
+  {
+    "id": "twelve-tables",
+    "zh": "《十二铜表法》",
+    "pinyin": "Shí'èr tóngbiǎofǎ",
+    "en": "the Law of the Twelve Tables",
+    "en_alt": [
+      "the Twelve Tables"
+    ],
+    "def_zh": "约前450年罗马颁布的成文法，刻于十二块青铜板：涉及诉讼程序、所有权与债务权、宗教法等，使定罪量刑有文字依据，一定程度上遏制贵族对法律的曲解和滥用；是罗马法制建设的第一步、欧洲法学的渊源。",
+    "def_en": "Rome's first written code (c. 450 BC), engraved on twelve bronze tablets covering procedure, property, debt and sacred law; by fixing the rules in writing it curbed patrician manipulation of unwritten custom — the first step in the legal tradition that underlies European law.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      },
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "written/codified law",
+      "due process",
+      "the rule of law",
+      "legal certainty"
+    ],
+    "example": "Publishing the rules is half the battle for the rule of law: the plebs understood that when they forced the code onto bronze, where no priest could quietly amend it.",
+    "nuance": "把法律写下来对抗任意解释——英语概念即 legal certainty 与 the rule of law（法治，区别于 rule by law 以法而治）。“成文法”codified/written law；“习惯法”customary law。",
+    "links": [
+      {
+        "to": "roman-republic",
+        "rel": "broader"
+      },
+      {
+        "to": "hammurabi-code",
+        "rel": "contrast"
+      },
+      {
+        "to": "roman-law",
+        "rel": "narrower"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "约前450年"
+  },
+  {
+    "id": "punic-wars",
+    "zh": "布匿战争",
+    "pinyin": "Bùnì zhànzhēng",
+    "en": "the Punic Wars",
+    "def_zh": "前264–前146年罗马与迦太基为争夺西地中海霸权的三次战争：第二次中汉尼拔翻越阿尔卑斯山重创罗马，转战意大利十余年终败；第三次罗马夷平迦太基城。",
+    "def_en": "Rome's three wars with Carthage (264–146 BC) for mastery of the western Mediterranean; in the second, Hannibal crossed the Alps and ravaged Italy for a decade before defeat, and in the third Rome razed Carthage to the ground.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "cross the Alps",
+      "raze a city to the ground",
+      "a war of annihilation",
+      "Carthaginian"
+    ],
+    "example": "'Carthago delenda est' — Carthage must be destroyed — has become the catchphrase for any lobbyist who ends every speech with the same demand.",
+    "nuance": "Punic 即拉丁语“腓尼基的/迦太基的”；Hannibal crossing the Alps 是英语中“不可能之壮举”的固定意象。“夷为平地”= raze to the ground。",
+    "links": [
+      {
+        "to": "roman-republic",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "war"
+    ],
+    "period": "前264年–前146年"
+  },
+  {
+    "id": "spartacus-uprising",
+    "zh": "斯巴达克起义",
+    "pinyin": "Sībādákè qǐyì",
+    "en": "the Spartacus uprising",
+    "en_alt": [
+      "the Third Servile War",
+      "the gladiators' revolt"
+    ],
+    "def_zh": "前73年角斗士奴隶斯巴达克发动的起义，多次击败罗马军团，终遭血腥镇压，但沉重打击了罗马共和国的统治；背景是扩张中大量战俘沦为奴隶、奴隶成为主要生产者。",
+    "def_en": "The revolt launched in 73 BC by the gladiator Spartacus, whose slave army repeatedly beat Roman legions before being crushed — a shock to a republic whose conquests had made slaves its main workforce.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "a slave revolt/uprising",
+      "gladiatorial combat",
+      "put down/crush an uprising",
+      "the arena"
+    ],
+    "example": "Spartacus has been adopted by every rebel since — his name shorthand for the moment the exploited discover they outnumber their masters.",
+    "nuance": "“起义”视立场译 uprising/revolt/rebellion（中性偏同情）或 insurrection（官方口吻）；“镇压”= crush/put down/suppress。角斗士 gladiator，角斗场 arena/amphitheatre——现代英语 arena 已泛指竞技场域（the political arena）。",
+    "links": [
+      {
+        "to": "roman-republic",
+        "rel": "related"
+      },
+      {
+        "to": "slave-society",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "war"
+    ],
+    "period": "前73年–前71年"
+  },
+  {
+    "id": "julius-caesar",
+    "zh": "凯撒",
+    "pinyin": "Kǎisā",
+    "en": "Julius Caesar",
+    "def_zh": "曾任执政官与地方总督；前49年率军进攻罗马城，打败对手控制元老院，后被任命为终身独裁官，不久遇刺身亡，内战再起。",
+    "def_en": "Consul and provincial governor who marched his army on Rome in 49 BC, mastered the Senate and was named dictator for life — then was assassinated, plunging Rome back into civil war.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "cross the Rubicon",
+      "dictator for life",
+      "the Ides of March",
+      "et tu, Brute?"
+    ],
+    "example": "When a central bank starts buying equities it has crossed the Rubicon — Caesar's river remains English's favourite point of no return.",
+    "nuance": "凯撒贡献了成串英语典故：cross the Rubicon（迈出不可挽回的一步）、the Ides of March（三月十五，凶兆）、Caesarism（强人政治）。德语 Kaiser、俄语 Tsar 皆源自其名。“终身独裁官”= dictator for life（dictator 本是罗马合法官职，贬义是后起的）。",
+    "links": [
+      {
+        "to": "roman-republic",
+        "rel": "related"
+      },
+      {
+        "to": "roman-empire",
+        "rel": "cause"
+      },
+      {
+        "to": "julian-calendar",
+        "rel": "cause"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "前100年–前44年"
+  },
+  {
+    "id": "roman-empire",
+    "zh": "罗马帝国",
+    "pinyin": "Luómǎ dìguó",
+    "en": "the Roman Empire",
+    "def_zh": "前27年屋大维首创“元首制”掌握实权，共和国演变为帝国；他表面维护共和传统、不称帝而受尊号“奥古斯都”。2世纪帝国进入黄金时期，版图横跨欧亚非，地中海成为其“内湖”。",
+    "def_en": "Born in 27 BC when Octavian, styling himself merely 'first citizen' (the Principate) while keeping the Senate's forms, took the honorific Augustus and all real power; by the 2nd century the empire spanned three continents and the Mediterranean was effectively a Roman lake.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "the Principate",
+      "Pax Romana",
+      "mare nostrum (our sea)",
+      "imperial overreach"
+    ],
+    "example": "Augustus perfected the autocrat's oldest trick: keep the republic's stage set standing while quietly rewriting every role — emperors have imitated the method ever since.",
+    "nuance": "“元首制”专名 the Principate（princeps 第一公民）；“奥古斯都”Augustus（至尊者）后成皇帝头衔并留在历法里（August 八月）。“黄金时期”即英语史学的 Pax Romana（罗马和平）；“内湖”对应罗马人自称的 mare nostrum。",
+    "links": [
+      {
+        "to": "roman-republic",
+        "rel": "replaced"
+      },
+      {
+        "to": "julius-caesar",
+        "rel": "related"
+      },
+      {
+        "to": "fall-of-rome",
+        "rel": "related"
+      },
+      {
+        "to": "roman-law",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "前27年–476年"
+  },
+  {
+    "id": "fall-of-rome",
+    "zh": "罗马帝国的衰亡",
+    "pinyin": "Luómǎ dìguó de shuāiwáng",
+    "en": "the decline and fall of Rome",
+    "en_alt": [
+      "the fall of the Western Roman Empire (476)"
+    ],
+    "def_zh": "3世纪起帝国陷入政治经济大危机——实质是奴隶制危机：奴隶丧失生产兴趣、劳动力短缺、公民寄生、统治机构庞大奢靡。375年日耳曼人大举入侵，4世纪末帝国分裂为东西两部，476年西罗马帝国灭亡。",
+    "def_en": "From the 3rd century Rome sank into crisis — in the textbook's analysis a crisis of the slave economy: demoralised slaves, labour shortages, a parasitic citizenry and a bloated, extravagant state. Germanic peoples poured across the frontiers from 375; the empire split east and west, and the western half fell in 476.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第5课 罗马城邦和罗马帝国"
+      }
+    ],
+    "collocations": [
+      "decline and fall",
+      "barbarian invasions",
+      "the sack of Rome",
+      "bread and circuses",
+      "imperial overstretch"
+    ],
+    "example": "Every anxious superpower gets compared to late Rome: too many circuses, too few legions, and borders longer than the budget.",
+    "nuance": "Gibbon 的书名 The Decline and Fall of the Roman Empire 使 decline and fall 成为固定搭配。教材归因于奴隶制危机是马克思主义解释；英语史学界解释众多（财政、瘟疫、气候、蛮族）。“蛮族”= barbarians（源自希腊语拟声“听不懂的话”，今用须加引号或说 so-called）。节庆娱乐养懒民即 bread and circuses（panem et circenses）。",
+    "links": [
+      {
+        "to": "roman-empire",
+        "rel": "broader"
+      },
+      {
+        "to": "slave-society",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "3世纪–476年"
+  },
+  {
+    "id": "homer-epics",
+    "zh": "《荷马史诗》",
+    "pinyin": "Hémǎ shǐshī",
+    "en": "the Homeric epics",
+    "en_alt": [
+      "the Iliad and the Odyssey"
+    ],
+    "def_zh": "希腊宝贵的文学遗产，也是了解早期希腊社会的主要文献；希腊神话“神人同形同性”的特点在其中充分体现。",
+    "def_en": "Greece's foundational literature — the Iliad and the Odyssey — and the chief window onto early Greek society; their gods, made in man's image with man's tempers, embody the Greek habit of humanising the divine.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "an epic journey",
+      "an odyssey",
+      "Achilles' heel",
+      "a Trojan horse",
+      "Homeric"
+    ],
+    "example": "Tech writing is stitched from Homer: malware arrives as a Trojan horse, a start-up's decade of pivots is an odyssey, and every giant has an Achilles' heel.",
+    "nuance": "“神人同形同性”= anthropomorphic gods（神具人形人性）。荷马衍生的活英语：odyssey（漫长历程）、Achilles' heel（致命弱点）、Trojan horse（内藏之患）、siren call（诱惑）——Economist 每期都在用。",
+    "links": [
+      {
+        "to": "aegean-civilization",
+        "rel": "related"
+      },
+      {
+        "to": "greek-city-states",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "约前8世纪"
+  },
+  {
+    "id": "olympic-games",
+    "zh": "奥林匹克运动会",
+    "pinyin": "Àolínpǐkè yùndònghuì",
+    "en": "the Olympic Games",
+    "def_zh": "起源于古希腊、因举办地奥林匹亚得名；前776年后发展为全希腊运动会，会期各城邦一切敌对活动停止，获胜者被本邦视为英雄。",
+    "def_en": "Born at Olympia and pan-Hellenic from 776 BC; for the Games' duration the warring city-states observed a sacred truce, and victors went home as heroes.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "the Olympic truce",
+      "host the Games",
+      "an Olympian effort",
+      "pan-Hellenic"
+    ],
+    "example": "The Olympic truce is invoked at every opening ceremony and honoured about as often as it was in antiquity — which is to say, imperfectly.",
+    "nuance": "Olympian 作形容词指“超然宏大的”（Olympian detachment 居高临下的超然）；注意 Olympic（奥运的）与 Olympian（奥林波斯神的/超凡的）拼写差异。“休战”= truce。",
+    "links": [
+      {
+        "to": "greek-city-states",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "前776年起"
+  },
+  {
+    "id": "classical-architecture",
+    "zh": "希腊罗马建筑艺术",
+    "pinyin": "Xīlà Luómǎ jiànzhú yìshù",
+    "en": "classical architecture",
+    "def_zh": "希腊建筑以廊柱环绕的神庙为代表（帕特农神庙）；罗马吸收希腊特点并创新石拱门、穹顶，代表作有大竞技场、引水道、凯旋门与万神庙——对后世建筑风格影响深远。",
+    "def_en": "Greece contributed the colonnaded temple (the Parthenon its exemplar); Rome absorbed the style and added the arch and the dome — Colosseum, aqueducts, triumphal arches, Pantheon — creating the vocabulary Western building has quoted ever since.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "classical columns/orders",
+      "the arch and the dome",
+      "aqueducts",
+      "a triumphal arch",
+      "neoclassical"
+    ],
+    "example": "When a parliament or a bank wants to look eternal it borrows the same props: columns out front, a dome on top — neoclassicism is power's default costume.",
+    "nuance": "“凯旋门”= triumphal arch（巴黎 Arc de Triomphe 即此传统）；“引水道”= aqueduct；“穹顶”= dome。后世复兴此风格称 neoclassical（新古典主义）——政经报道形容建筑常用。",
+    "links": [
+      {
+        "to": "roman-empire",
+        "rel": "related"
+      },
+      {
+        "to": "greek-city-states",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "science-tech"
+    ],
+    "period": "前5世纪–2世纪"
+  },
+  {
+    "id": "socrates",
+    "zh": "苏格拉底",
+    "pinyin": "Sūgélādǐ",
+    "en": "Socrates",
+    "def_zh": "雅典哲学家，将思考转向人类社会，终生探讨灵魂、美德与幸福；主张系统问答求知、“认识你自己”；因“引进新神、腐蚀青年”被雅典法庭判死，拒绝逃亡、饮鸩而死，并以“多数不一定代表正义”质疑简单多数民主制。",
+    "def_en": "The Athenian philosopher who turned inquiry from the cosmos to the human soul, virtue and happiness, teaching through systematic question and answer and the maxim 'know thyself'; condemned by an Athenian jury for impiety and corrupting the young, he refused escape and drank the hemlock — his death a standing challenge to the idea that a majority is the same thing as justice.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "the Socratic method",
+      "Socratic questioning",
+      "know thyself",
+      "drink the hemlock",
+      "corrupting the youth"
+    ],
+    "example": "Law schools still teach by ambush: the Socratic method — relentless questioning until the student's assumptions collapse — is Athens's most durable pedagogy.",
+    "nuance": "the Socratic method（苏格拉底问答法/产婆术）是英语教育界通用术语。“饮鸩”具体是毒堇汁 hemlock。他对多数决的质疑，英语讨论常表述为 the tyranny of the majority（多数暴政，语出托克维尔/密尔）——雅典处死苏格拉底是这一概念的原型案例。",
+    "links": [
+      {
+        "to": "athenian-democracy",
+        "rel": "contrast"
+      },
+      {
+        "to": "aristotle",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "前469年–前399年"
+  },
+  {
+    "id": "aristotle",
+    "zh": "亚里士多德",
+    "pinyin": "Yàlǐshìduōdé",
+    "en": "Aristotle",
+    "def_zh": "柏拉图的学生、“百科全书式的学者”：解剖动物奠定动物学基础，创立逻辑学，提出演绎法等，成为科学研究的方法论基础；名言“吾爱吾师，吾更爱真理”。",
+    "def_en": "Plato's student and antiquity's great polymath: founder of logic and pioneer of deductive method, dissector of animals and father of zoology — famously declaring that dear as Plato was, truth was dearer still.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "a polymath",
+      "deductive/inductive reasoning",
+      "formal logic",
+      "Plato is dear to me, but dearer still is truth"
+    ],
+    "example": "Aristotle would recognise a modern syllabus instantly — logic, biology, politics, rhetoric: he wrote the founding textbook for most of it.",
+    "nuance": "“百科全书式学者”= polymath（高频褒义词）。“演绎”deduction 与“归纳”induction 是英语学术写作的基本对立词——教材只提演绎，注意配对记忆。德谟克利特的“原子论”= atomism，其 atom 源自希腊语“不可分割”。",
+    "links": [
+      {
+        "to": "socrates",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "science-tech"
+    ],
+    "period": "前384年–前322年"
+  },
+  {
+    "id": "roman-law",
+    "zh": "罗马法学",
+    "pinyin": "Luómǎ fǎxué",
+    "en": "Roman law",
+    "def_zh": "罗马人最伟大的成就之一：以《十二铜表法》为起点，帝国法学家论证出适用于公民与非公民关系的万民法、商品经济的经济法及众多法律概念，构成完整体系；法学家著作具有权威效力。西塞罗：“真正的法律应该对一切人有效，应该永远有效。”",
+    "def_en": "Rome's most enduring achievement: from the Twelve Tables its jurists elaborated the ius gentium governing citizens and foreigners alike, a commercial law for a trading empire, and the conceptual vocabulary — contract, property, liability — on which European jurisprudence still runs; the jurists' writings themselves carried the force of authority.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "jurisprudence",
+      "the law of nations (ius gentium)",
+      "civil law systems",
+      "legal concepts/doctrine",
+      "jurist"
+    ],
+    "example": "A German law student today opens a code whose spine is Roman: 'Rome conquered the world three times — by arms, by religion, and by law — and the last conquest was the gentlest and most lasting.'",
+    "nuance": "万民法 = ius gentium/the law of nations（国际法概念的远祖）；“法学家”= jurist；“法学”= jurisprudence。欧陆法系英语称 civil law（系统承袭罗马法），与英美 common law 相对——这是 Economist 法律报道的基本坐标系。",
+    "links": [
+      {
+        "to": "twelve-tables",
+        "rel": "broader"
+      },
+      {
+        "to": "roman-empire",
+        "rel": "related"
+      },
+      {
+        "to": "hammurabi-code",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "governance"
+    ],
+    "period": "前450年–6世纪"
+  },
+  {
+    "id": "julian-calendar",
+    "zh": "儒略历与公历",
+    "pinyin": "Rúlüèlì / gōnglì",
+    "en": "the Julian and Gregorian calendars",
+    "def_zh": "凯撒以埃及太阳历为蓝本编制儒略历，四年一闰；4世纪成为基督教历法。16世纪教皇格列高利十三世改革闰制（逢百不闰、逢四百再闰），成为今日通用公历。",
+    "def_en": "Caesar rebuilt Rome's calendar on the Egyptian solar year with a leap day every fourth year; adopted as the Christian calendar, its drift was fixed in the 16th century by Pope Gregory XIII's refined leap-year rule — the Gregorian calendar the world keeps today.",
+    "sources": [
+      {
+        "book": "wh9a",
+        "chapter": "第6课 希腊罗马古典文化"
+      }
+    ],
+    "collocations": [
+      "leap year/leap day",
+      "calendar reform",
+      "the Gregorian calendar",
+      "Julian dating"
+    ],
+    "example": "Russia's 'October' Revolution fell in November — the Julian calendar's lag is history's favourite footnote trap.",
+    "nuance": "“公历”= the Gregorian calendar（勿说 public calendar）；“闰年”= leap year。July 得名于 Julius，August 得名于 Augustus——月份即政治遗产。",
+    "links": [
+      {
+        "to": "julius-caesar",
+        "rel": "effect"
+      },
+      {
+        "to": "solar-calendar",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "science-tech"
+    ],
+    "period": "前45年–1582年"
   }
 ]
