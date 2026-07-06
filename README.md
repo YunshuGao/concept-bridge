@@ -10,3 +10,14 @@ collocations, register and false-friend warnings.
 
 Build: `python build.py`
 Test:  `python -m unittest discover tests -v`
+
+## Live site
+https://yunshugao.github.io/concept-bridge/
+
+## Redeploy after adding content
+```
+python build.py
+git add -A && git commit -m "content: ..."
+git push
+git subtree split --prefix site -b gh-pages-tmp && git push -f origin gh-pages-tmp:gh-pages && git branch -D gh-pages-tmp
+```
