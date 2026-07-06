@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>科举制 · the imperial examination system · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第1课 隋朝的统一与灭亡</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>科举制 <span class="pinyin">kējǔzhì</span><span class="en">the imperial examination system</span></h1>
+<p class="meta">also: the keju system · civil service examinations</p>
+<p class="meta">⏳ 605年–1905年</p>
+<div class="card"><p class="zh">魏晋以来选官由上层权贵垄断、看重门第；隋文帝改以考试选才，隋炀帝创进士科标志科举制正式确立。科举加强皇帝选官用人之权、扩大选官范围，使有才学者得以参政、促进社会阶层流动、推动教育发展——中国古代选官制度的一大变革，为历朝沿用约1300年。唐太宗增科目（进士科最重）、武则天创殿试。</p><p class="endef">Where office had gone by pedigree, the Sui put it up for examination — the jinshi degree under Emperor Yang marking the system&#x27;s birth. Recruitment by written test centralised patronage in the throne, opened the bureaucracy to talent, set commoners climbing and schools multiplying: the great invention of Chinese government, run for thirteen centuries; Taizong widened the syllabus and Wu Zetian added the palace exam that the emperor graded in person.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ sit/pass the imperial examinations</li><li>▸ a meritocratic bureaucracy</li><li>▸ the jinshi degree</li><li>▸ exam hell</li><li>▸ the mandarinate</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>When Northcote and Trevelyan designed Britain&#x27;s civil-service exams in 1854, critics sneered at &#x27;the Chinese principle&#x27; — the sneer was accurate: the keju is the direct ancestor of every competitive public-service exam on earth, the gaokao included.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>本知识库的创始示例概念。英译用复数 the imperial examinations 更地道；“进士”= the jinshi (presented scholar) degree；殿试 = the palace examination。mandarin（官话/官员）经葡语入英语，即科举官僚的名字。meritocracy 一词1958年才由 Michael Young 讽刺性造出——描述科举常用 proto-meritocratic。“八股文”后出（见明清），勿提前。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/sui-dynasty.html">隋朝：统一、大运河与速亡 · the Sui: reunification, the Grand Canal and swift collapse</a></li><li><span class="rel">受影响于 influenced-by</span> <a class="node" href="../c/han-wudi.html">汉武帝巩固大一统 · Han Wudi&#x27;s consolidation of the unified state</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/confucius.html">孔子与儒家 · Confucius and Confucianism</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/junxian.html">郡县制 · the commandery-county system</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/mass-education.html">大众教育 · mass education</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/wu-zetian.html">武则天 · Wu Zetian</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/sui-dynasty.html">隋朝：统一、大运河与速亡 · the Sui: reunification, the Grand Canal and swift collapse</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/tang-golden-age.html">贞观之治与开元盛世 · the Zhenguan and Kaiyuan golden ages</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/wu-zetian.html">武则天 · Wu Zetian</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/song-founding.html">北宋的政治（重文轻武） · the Northern Song settlement: civil over military</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/ming-founding.html">明朝的建立与皇权强化 · the Ming founding and the concentration of imperial power</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7b 第1课 隋朝的统一与灭亡</p>
+<p><a class="tag" href="../themes.html#governance">#governance</a><a class="tag" href="../themes.html#ideas">#ideas</a><a class="tag" href="../themes.html#society">#society</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

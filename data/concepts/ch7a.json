@@ -1532,6 +1532,10 @@
       {
         "to": "frankish-kingdom",
         "rel": "related"
+      },
+      {
+        "to": "sui-dynasty",
+        "rel": "influenced"
       }
     ],
     "themes": [

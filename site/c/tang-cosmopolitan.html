@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>盛唐气象 · High Tang splendour · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第3课 盛唐气象</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>盛唐气象 <span class="pinyin">shèng-Táng qìxiàng</span><span class="en">High Tang splendour</span></h1>
+<p class="meta">⏳ 7–8世纪</p>
+<div class="card"><p class="zh">唐前期百余年经济迅速发展：曲辕犁筒车发明推广、广修水利；蜀锦冠全国，越窑青瓷邢窑白瓷唐三彩；商业繁荣水陆通达——长安规模宏伟布局严整（东西两市、百余坊、人口百万），国内各族与外国商人使者艺人云集，是国际性大都会。社会风气开放兼容并包：妇女受文学音乐教育、骑马打球射箭，衣食住行多受西北民族影响，尚武风气盛行。民族交往交融：太宗击败东西突厥、行开明民族政策，被尊“天可汗”；文成公主入藏嫁松赞干布（带去蚕种技术书籍，唐蕃“和同为一家”、会盟碑存大昭寺）；设安西北庭都护府辖天山南北。</p><p class="endef">A century of boom: the curved-shaft plough and waterwheel, brocades and tricolour ceramics, and Chang&#x27;an — a walled grid of a million people, two great markets and a hundred wards, the largest and most international city on earth, thronged with Turks, Persians, Koreans and Japanese. Society wore the openness: women schooled, riding and playing polo; fashion, food and music happily &#x27;barbarian&#x27;. Abroad, Taizong crushed the Turkic khaganates yet was hailed by the steppe as &#x27;Heavenly Khagan&#x27;; Princess Wencheng&#x27;s marriage carried silk, seeds and books to Songtsen Gampo&#x27;s Tibet (&#x27;one family&#x27;, says the treaty stone still standing before the Jokhang); protectorates at Anxi and Beiting governed the Tarim.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ cosmopolitan Chang&#x27;an</li><li>▸ the Heavenly Khagan</li><li>▸ Tang tricolour ware</li><li>▸ heqin marriage alliance</li><li>▸ a golden age of openness</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>&#x27;Tang openness&#x27; is modern China&#x27;s favourite self-image when arguing that greatness and openness rise together — every expo speech about 开放包容 has Chang&#x27;an&#x27;s two markets behind it.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>“天可汗”= the Heavenly Khagan（游牧与农耕双重合法性的独特称号——比较 [[charlemagne]] 的双重加冕）。“和亲”= marriage alliance/heqin diplomacy。文成公主与唐蕃会盟碑是汉藏关系论述的核心史料，英语表述 the Tang-Tibetan alliance stele。唐三彩 = Tang sancai (tricolour) ware。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/tang-golden-age.html">贞观之治与开元盛世 · the Zhenguan and Kaiyuan golden ages</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/silk-road.html">丝绸之路与张骞通西域 · the Silk Road and Zhang Qian&#x27;s missions</a></li><li><span class="rel">受影响于 influenced-by</span> <a class="node" href="../c/xiaowen-reforms.html">淝水之战与北魏孝文帝改革 · the Battle of Fei River and the Xiaowen sinicisation reforms</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/tang-exchange.html">唐朝的中外文化交流 · Tang international exchange: kentōshi, Jianzhen, Xuanzang</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/alexander-empire.html">亚历山大帝国 · Alexander&#x27;s empire</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/tang-poetry.html">唐诗（李白、杜甫、白居易） · Tang poetry: Li Bai, Du Fu, Bai Juyi</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/tang-exchange.html">唐朝的中外文化交流 · Tang international exchange: kentōshi, Jianzhen, Xuanzang</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/qing-frontier.html">清朝对边疆的经营（西藏、新疆与《尼布楚条约》） · the Qing consolidation of the frontiers</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7b 第3课 盛唐气象</p>
+<p><a class="tag" href="../themes.html#economy">#economy</a><a class="tag" href="../themes.html#culture">#culture</a><a class="tag" href="../themes.html#society">#society</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

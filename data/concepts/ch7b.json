@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "sui-dynasty",
+    "zh": "隋朝：统一、大运河与速亡",
+    "pinyin": "Suícháo / Dàyùnhé",
+    "en": "the Sui: reunification, the Grand Canal and swift collapse",
+    "def_zh": "581年杨坚代北周建隋（隋文帝），589年灭陈统一全国，结束长期分裂；发展经济编订户籍、统一币制度量衡、加强集权，国力强盛（含嘉仓储粮可供全国五六十年）。605年起隋炀帝征发数百万人开凿以洛阳为中心、北抵涿郡南至余杭、连接五大水系、全长2700多千米的大运河——古代世界最长运河，加强南北政治经济文化交流。但炀帝好大喜功不恤民力：营东都、修长城驰道、三征辽东，民不聊生激起大起义，618年炀帝被杀，盛极一时的隋朝仅37年而亡。",
+    "def_en": "Yang Jian took the northern throne in 581 and the south in 589, ending centuries of division; registers, unified coinage and stocked granaries made Sui formidable fast. Then Emperor Yang spent it all: from 605 millions of conscripts dug the Grand Canal — Luoyang at its hub, Beijing to Hangzhou, 2,700 km linking five river systems, the longest canal of the ancient world and the empire's new north-south artery — while palaces, walls and three Korean wars broke the peasantry. Rebellion answered; Yang was strangled in 618, and the dynasty that stored sixty years of grain lasted thirty-seven years.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第1课 隋朝的统一与灭亡"
+      }
+    ],
+    "collocations": [
+      "the Grand Canal",
+      "reunification",
+      "overreach",
+      "a short-lived unifier dynasty"
+    ],
+    "example": "China's dynastic rhythm has a recurring opening act — the short brutal unifier (Qin, Sui) who builds the infrastructure his longer-lived successor (Han, Tang) enjoys; historians call it the 'Qin-Sui pattern'.",
+    "nuance": "大运河 = the Grand Canal（专名；今京杭大运河为元代改线）。“好大喜功”= grandiose overreach；皮日休诗的翻案法（罪在当代、功在千秋）是评价基建暴政的经典框架——今日讨论大型工程仍用。隋唐关系全同秦汉：unifier and inheritor。",
+    "links": [
+      {
+        "to": "xiaowen-reforms",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "qin-unification",
+        "rel": "related"
+      },
+      {
+        "to": "tang-golden-age",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "dujiangyan",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy",
+      "geography-environment"
+    ],
+    "period": "581年–618年"
+  },
+  {
+    "id": "imperial-examinations",
+    "zh": "科举制",
+    "pinyin": "kējǔzhì",
+    "en": "the imperial examination system",
+    "en_alt": [
+      "the keju system",
+      "civil service examinations"
+    ],
+    "def_zh": "魏晋以来选官由上层权贵垄断、看重门第；隋文帝改以考试选才，隋炀帝创进士科标志科举制正式确立。科举加强皇帝选官用人之权、扩大选官范围，使有才学者得以参政、促进社会阶层流动、推动教育发展——中国古代选官制度的一大变革，为历朝沿用约1300年。唐太宗增科目（进士科最重）、武则天创殿试。",
+    "def_en": "Where office had gone by pedigree, the Sui put it up for examination — the jinshi degree under Emperor Yang marking the system's birth. Recruitment by written test centralised patronage in the throne, opened the bureaucracy to talent, set commoners climbing and schools multiplying: the great invention of Chinese government, run for thirteen centuries; Taizong widened the syllabus and Wu Zetian added the palace exam that the emperor graded in person.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第1课 隋朝的统一与灭亡"
+      }
+    ],
+    "collocations": [
+      "sit/pass the imperial examinations",
+      "a meritocratic bureaucracy",
+      "the jinshi degree",
+      "exam hell",
+      "the mandarinate"
+    ],
+    "example": "When Northcote and Trevelyan designed Britain's civil-service exams in 1854, critics sneered at 'the Chinese principle' — the sneer was accurate: the keju is the direct ancestor of every competitive public-service exam on earth, the gaokao included.",
+    "nuance": "本知识库的创始示例概念。英译用复数 the imperial examinations 更地道；“进士”= the jinshi (presented scholar) degree；殿试 = the palace examination。mandarin（官话/官员）经葡语入英语，即科举官僚的名字。meritocracy 一词1958年才由 Michael Young 讽刺性造出——描述科举常用 proto-meritocratic。“八股文”后出（见明清），勿提前。",
+    "links": [
+      {
+        "to": "sui-dynasty",
+        "rel": "broader"
+      },
+      {
+        "to": "han-wudi",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      },
+      {
+        "to": "junxian",
+        "rel": "related"
+      },
+      {
+        "to": "mass-education",
+        "rel": "related"
+      },
+      {
+        "to": "wu-zetian",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas",
+      "society"
+    ],
+    "period": "605年–1905年"
+  },
+  {
+    "id": "tang-golden-age",
+    "zh": "贞观之治与开元盛世",
+    "pinyin": "Zhēnguàn zhī zhì / Kāiyuán shèngshì",
+    "en": "the Zhenguan and Kaiyuan golden ages",
+    "def_zh": "618年李渊建唐都长安；626年李世民即位（唐太宗）。太宗吸取隋亡教训，勤于政事虚心纳谏（魏征进谏200余次，“兼听则明偏信则暗”；太宗以舟水喻君民：“水能载舟亦能覆舟”），广纳贤才（房谋杜断）；完善三省六部制、减省刑罚、增科举科目、考察官吏政绩、轻徭薄赋——“贞观之治”。玄宗前期励精图治，姚崇宋璟辅佐：整顿吏治裁减冗员、发展经济改革税制、注重文教——政治稳定经济繁荣国库充盈，唐朝国力鼎盛，史称“开元盛世”（杜甫：“忆昔开元全盛日，小邑犹藏万家室”）。",
+    "def_en": "The Tang opened with the classic sequel to a unifier's crash: Taizong (r. 626–49) governed by listening — Wei Zheng's two hundred remonstrances, the maxim that 'hearing all sides makes a ruler wise', the famous figure that the people are water and the throne the boat the water can carry or capsize — with a refined three-department, six-ministry state, light taxes and mild law: the Zhenguan model reign, memorised by every later emperor. Two generations on, Xuanzong's early Kaiyuan years (713–41) purged the payroll, reformed taxes and filled the granaries — the Tang at full flood, the benchmark 'golden age' of the Chinese imperial imagination.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第2课 从“贞观之治”到“开元盛世”"
+      }
+    ],
+    "collocations": [
+      "remonstrance",
+      "the water and the boat",
+      "a model reign",
+      "the Three Departments and Six Ministries"
+    ],
+    "example": "水能载舟亦能覆舟 is quoted in Chinese politics the way 'consent of the governed' is in American — same intuition, opposite institutional conclusion: a duty on rulers rather than a right of the ruled.",
+    "nuance": "“纳谏”= accepting remonstrance（remonstrance 是描写儒家官僚监督皇权的术语——中华帝国的“忠诚反对”机制，与西方 loyal opposition 对读）。三省六部 = the Three Departments and Six Ministries。“之治/盛世”= a golden age/model reign。魏征之谏 vs 雅典 parrhesia（直言）可作跨文明比较。",
+    "links": [
+      {
+        "to": "sui-dynasty",
+        "rel": "replaced"
+      },
+      {
+        "to": "wu-zetian",
+        "rel": "related"
+      },
+      {
+        "to": "han-founding",
+        "rel": "related"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "an-lushan",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "626年–741年"
+  },
+  {
+    "id": "wu-zetian",
+    "zh": "武则天",
+    "pinyin": "Wǔ Zétiān",
+    "en": "Wu Zetian",
+    "def_zh": "唐高宗皇后，多谋善断，共掌朝政；高宗死后废两子自立，改国号为周——中国历史上唯一的女皇帝。打击敌对官僚贵族；大力发展科举、创殿试亲自面试考生、不拘一格选才（读骆宾王讨己檄文而惜其才）；继续减轻民负重视生产。在位期间社会经济持续发展、边疆巩固开拓，为“开元盛世”奠基。",
+    "def_en": "Gaozong's empress and co-ruler, then — having deposed two of her own sons — emperor in her own right and her own dynasty's name: the only woman ever to rule China as sovereign. She broke the old aristocratic families, expanded the examinations and invented the palace test (admiring even the author of a manifesto against her: 'that such talent went unused is the ministers' fault'), and kept the economy growing and the frontiers firm — the bridge between Taizong's and Xuanzong's golden ages.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第2课 从“贞观之治”到“开元盛世”"
+      }
+    ],
+    "collocations": [
+      "empress regnant",
+      "the only female emperor",
+      "rule from behind the curtain",
+      "damned by historians"
+    ],
+    "example": "Wu Zetian is the case study in gendered historiography: a competent reign vilified for a millennium as usurpation — every modern reassessment of a powerful woman cites her file.",
+    "nuance": "英语须区分 empress consort（皇后）与 empress regnant（女皇）——武则天是中国唯一的后者。“垂帘听政”= ruling from behind the curtain（后世慈禧亦用此词）。她的无字碑（the wordless stele）是“让后人评说”的著名意象。",
+    "links": [
+      {
+        "to": "tang-golden-age",
+        "rel": "broader"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "womens-rights",
+        "rel": "related"
+      },
+      {
+        "to": "pericles",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "690年–705年"
+  },
+  {
+    "id": "tang-cosmopolitan",
+    "zh": "盛唐气象",
+    "pinyin": "shèng-Táng qìxiàng",
+    "en": "High Tang splendour",
+    "def_zh": "唐前期百余年经济迅速发展：曲辕犁筒车发明推广、广修水利；蜀锦冠全国，越窑青瓷邢窑白瓷唐三彩；商业繁荣水陆通达——长安规模宏伟布局严整（东西两市、百余坊、人口百万），国内各族与外国商人使者艺人云集，是国际性大都会。社会风气开放兼容并包：妇女受文学音乐教育、骑马打球射箭，衣食住行多受西北民族影响，尚武风气盛行。民族交往交融：太宗击败东西突厥、行开明民族政策，被尊“天可汗”；文成公主入藏嫁松赞干布（带去蚕种技术书籍，唐蕃“和同为一家”、会盟碑存大昭寺）；设安西北庭都护府辖天山南北。",
+    "def_en": "A century of boom: the curved-shaft plough and waterwheel, brocades and tricolour ceramics, and Chang'an — a walled grid of a million people, two great markets and a hundred wards, the largest and most international city on earth, thronged with Turks, Persians, Koreans and Japanese. Society wore the openness: women schooled, riding and playing polo; fashion, food and music happily 'barbarian'. Abroad, Taizong crushed the Turkic khaganates yet was hailed by the steppe as 'Heavenly Khagan'; Princess Wencheng's marriage carried silk, seeds and books to Songtsen Gampo's Tibet ('one family', says the treaty stone still standing before the Jokhang); protectorates at Anxi and Beiting governed the Tarim.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第3课 盛唐气象"
+      }
+    ],
+    "collocations": [
+      "cosmopolitan Chang'an",
+      "the Heavenly Khagan",
+      "Tang tricolour ware",
+      "heqin marriage alliance",
+      "a golden age of openness"
+    ],
+    "example": "'Tang openness' is modern China's favourite self-image when arguing that greatness and openness rise together — every expo speech about 开放包容 has Chang'an's two markets behind it.",
+    "nuance": "“天可汗”= the Heavenly Khagan（游牧与农耕双重合法性的独特称号——比较 [[charlemagne]] 的双重加冕）。“和亲”= marriage alliance/heqin diplomacy。文成公主与唐蕃会盟碑是汉藏关系论述的核心史料，英语表述 the Tang-Tibetan alliance stele。唐三彩 = Tang sancai (tricolour) ware。",
+    "links": [
+      {
+        "to": "tang-golden-age",
+        "rel": "broader"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "xiaowen-reforms",
+        "rel": "influenced-by"
+      },
+      {
+        "to": "tang-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "alexander-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "culture",
+      "society"
+    ],
+    "period": "7–8世纪"
+  },
+  {
+    "id": "tang-poetry",
+    "zh": "唐诗（李白、杜甫、白居易）",
+    "pinyin": "Tángshī",
+    "en": "Tang poetry: Li Bai, Du Fu, Bai Juyi",
+    "def_zh": "唐朝是中国诗歌创作的黄金时期，《全唐诗》辑近5万首。李白颂山河之壮、抒昂扬进取，飘逸洒脱富于想象，“诗仙”；杜甫生逢由盛转衰，诗风淳朴厚重、反映战乱与民苦，“诗史”“诗圣”；白居易直面现实、平易近人妇孺能诵。书法颜真卿（端正劲美雄浑敦厚）柳公权欧阳询；绘画阎立本吴道子；敦煌莫高窟与云冈龙门并为三大石窟、艺术宝库。",
+    "def_en": "Poetry was the Tang's social medium — fifty thousand poems survive in the imperial anthology alone. Li Bai, the 'Banished Immortal', all wine, moonlight and soaring ego; Du Fu, the 'Poet-Sage' whose war-torn verse earned the harder title 'poet-historian'; Bai Juyi, who tested lines on old women and conquered the common reader. Around them, Yan Zhenqing's monumental calligraphy, Wu Daozi's flying brush, and the cave-art of Dunhuang — the fullest single archive of medieval Eurasian life.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第3课 盛唐气象"
+      }
+    ],
+    "collocations": [
+      "the golden age of Chinese poetry",
+      "the Banished Immortal",
+      "the poet-historian",
+      "regulated verse"
+    ],
+    "example": "Ezra Pound's Cathay put Li Bai (as 'Rihaku') into modernist English and changed Anglophone poetry — Tang verse is the rare export that colonised its importer.",
+    "nuance": "李白英语旧拼 Li Po 仍常见；“诗仙”译 the Banished Immortal（谪仙）最传神。“诗史”= poet-historian。唐诗英译史（Waley, Pound, 许渊冲）本身是翻译学富矿——学英语者以双语对读唐诗为高效路径。敦煌 = Dunhuang（the Mogao Caves；藏经洞 the Library Cave 及其文物流散是文化遗产议题常客）。",
+    "links": [
+      {
+        "to": "tang-cosmopolitan",
+        "rel": "broader"
+      },
+      {
+        "to": "shakespeare",
+        "rel": "related"
+      },
+      {
+        "to": "homer-epics",
+        "rel": "related"
+      },
+      {
+        "to": "weijin-culture",
+        "rel": "influenced-by"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "7–9世纪"
+  },
+  {
+    "id": "tang-exchange",
+    "zh": "唐朝的中外文化交流",
+    "pinyin": "Táng zhōngwài jiāoliú",
+    "en": "Tang international exchange: kentōshi, Jianzhen, Xuanzang",
+    "def_zh": "日本为学习中国先进文化派“遣唐使”十几批（多至500余人），携制度、历法、文字、典籍、建筑技术归国，深刻影响日本社会（端午七夕重阳等节俗亦东传）。扬州高僧鉴真六次东渡（前五次失败、双目失明），754年抵日传佛经与医药文学书法建筑，唐招提寺为其所建、日本国宝。新罗仿唐制、行科举、物产居唐进口首位。贞观初玄奘西行天竺取经，那烂陀寺游学成佛学大师，携大量佛经归长安主持译经；口述《大唐西域记》记百余国山川风物，为中外交流史珍贵文献。唐与大食通好40余次。各国称中国人为“唐人”。",
+    "def_en": "The Tang was everyone's finishing school: Japan sent a dozen kentōshi embassies, five hundred strong, shipping home institutions, calendars, characters and carpentry that rebuilt Japan (and festivals it keeps yet); the blind monk Jianzhen reached Japan on his sixth attempt in 754, founding Tōshōdai-ji, now a national treasure. Silla ran Tang-style exams; Baghdad's caliphate exchanged forty embassies. And Xuanzang walked to India, mastered Buddhist learning at Nalanda, carried the sutras home to a translation bureau in Chang'an — his travelogue of a hundred kingdoms remains Central Asia's best ancient guidebook, and his legend became Journey to the West. Chinatowns are still 'streets of the Tang people'.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第4课 唐朝的中外文化交流"
+      }
+    ],
+    "collocations": [
+      "envoys to the Tang",
+      "the pilgrimage for scriptures",
+      "Journey to the West",
+      "cultural radiation",
+      "Tang people (Chinese diaspora)"
+    ],
+    "example": "Xuanzang's afterlife outgrew his journey: as Tripitaka of Journey to the West — with the Monkey King in tow — he is Asia's best-travelled fictional character, from Peking opera to Japanese TV to 'Black Myth: Wukong'.",
+    "nuance": "“遣唐使”日语读音 kentōshi 直接用于英语文献。玄奘 = Xuanzang（旧拼 Hsüan-tsang）；《西游记》= Journey to the West，孙悟空 = the Monkey King（对 9GAMZA 游戏课有直接素材价值）。“唐人街”= Chinatown（字面 street of the Tang people——移民史词源）。与 [[buddhism]]、[[silk-road]]、[[taika-reform]] 构成回路。",
+    "links": [
+      {
+        "to": "tang-cosmopolitan",
+        "rel": "broader"
+      },
+      {
+        "to": "taika-reform",
+        "rel": "influenced"
+      },
+      {
+        "to": "buddhism",
+        "rel": "related"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "house-of-wisdom",
+        "rel": "related"
+      },
+      {
+        "to": "daoism-buddhism-china",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "religion"
+    ],
+    "period": "7–9世纪"
+  },
+  {
+    "id": "an-lushan",
+    "zh": "安史之乱与唐朝衰亡",
+    "pinyin": "Ān-Shǐ zhī luàn",
+    "en": "the An Lushan rebellion and the Tang decline",
+    "def_zh": "开元末唐玄宗追求享乐任人唯亲（宠杨贵妃、用李林甫杨国忠），朝政腐败；节度使集军政财权于一身、外重内轻，安禄山一身兼三镇。755年安禄山史思明叛乱，陷洛阳逼长安，玄宗奔蜀、肃宗灵武即位，借西北精兵与少数民族援军763年平定。八年战乱北方浩劫（“人烟断绝，千里萧条”），唐由盛转衰，藩镇割据形成。后期宦官专权、藩镇兼并，黄巢起义攻入长安建政权、致命打击唐朝；907年朱温建后梁，唐亡——此后五代十国（北方五代更迭战乱，南方九国相对安定经济续发展），统一仍是必然趋势。",
+    "def_en": "Late Xuanzong traded statecraft for Yang Guifei and flatterers while frontier commanders (jiedushi) accumulated army, purse and province — An Lushan held three commands at once. His revolt (755) took both capitals; the emperor fled to Sichuan, and eight years of war 'emptied a thousand li of cooking-smoke'. The dynasty survived but never recovered: warlord provinces, eunuch-run palaces, then Huang Chao's rebellion through Chang'an, until a rebel-turned-governor deposed the last Tang emperor in 907. Five Dynasties churned in the north, Ten Kingdoms prospered quietly in the south — and reunification, the textbook insists, remained history's standing default.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第5课 安史之乱与唐朝衰亡"
+      }
+    ],
+    "collocations": [
+      "military governors",
+      "the turning point of the dynasty",
+      "warlordism",
+      "the periphery outweighing the centre"
+    ],
+    "example": "The An Lushan rebellion is the pivot every 'rise and fall' chart of China bends at — and 外重内轻, the periphery outgunning the centre, is the diagnosis analysts still apply to any state that arms its borderlands.",
+    "nuance": "“节度使”= military governors/jiedushi；“藩镇割据”= warlord separatism of the garrisons。杨贵妃 = Yang Guifei（马嵬驿之死入《长恨歌》——白居易该诗有多个经典英译）。“外重内轻”可译 a heavy periphery and a hollow centre——极好的分析短语。",
+    "links": [
+      {
+        "to": "tang-golden-age",
+        "rel": "replaced"
+      },
+      {
+        "to": "eastern-han",
+        "rel": "related"
+      },
+      {
+        "to": "fall-of-rome",
+        "rel": "related"
+      },
+      {
+        "to": "song-founding",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "755年–907年"
+  },
+  {
+    "id": "song-founding",
+    "zh": "北宋的政治（重文轻武）",
+    "pinyin": "Běisòng zhèngzhì",
+    "en": "the Northern Song settlement: civil over military",
+    "def_zh": "960年后周禁军统帅赵匡胤陈桥兵变“黄袍加身”建宋（都开封），先南后北结束分裂。深知唐末武将专权之弊，“杯酒释兵权”解除高级将领兵权；控制军队调动使“将不专兵、兵不识将”；分化事权削弱相权；派文臣任州县长官、三年一换，设通判分权、转运使收地方财赋归中央——中央集权强化到前所未有程度。重文轻武：文臣统兵、地位待遇高于武将（“做人莫做军”）；发展科举大增名额、进士优授——营造读书风气、造就文治局面，杜绝兵变政移，但机构重叠冗官冗费、军队战力削弱（岁军费占支出七八成、兵最多120余万）。",
+    "def_en": "In 960 the palace-army commander Zhao Kuangyin was 'robed in yellow' by his troops at Chenqiao and took the throne he was sent to defend; having risen by coup he made coups impossible — dissolving his generals' commands 'over a cup of wine', rotating troops so 'soldiers knew no general and generals owned no army', splitting the chancellorship, staffing every prefecture with three-year civilian appointees, and piping local taxes straight to the capital. The Song chose brush over sword: civil officials outranked and even commanded the military, examination quotas exploded and a scholar-official state was born — coup-proof and culturally brilliant, but bloated with redundant offices and chronically weak at war, its enormous army eating four-fifths of the budget yet losing to every neighbour.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第6课 北宋的政治"
+      }
+    ],
+    "collocations": [
+      "the scholar-official class",
+      "civilian control of the military",
+      "coup-proofing",
+      "redundant offices"
+    ],
+    "example": "Political scientists cite the Song as history's most thorough coup-proofing — and its cautionary twin: the institutional design that guarantees the ruler also hobbles the state.",
+    "nuance": "“重文轻武”= privileging the civil over the military；“士大夫”= the scholar-official class/literati（宋型政治的主角，英语汉学核心词）。“黄袍加身”“杯酒释兵权”可意译：robed in yellow by his troops；dissolving commands over a cup of wine。coup-proofing 是现代比较政治学术语——本课即其古典案例。",
+    "links": [
+      {
+        "to": "an-lushan",
+        "rel": "effect"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "wang-anshi",
+        "rel": "related"
+      },
+      {
+        "to": "song-liao-xixia",
+        "rel": "related"
+      },
+      {
+        "to": "junxian",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "960年–1127年"
+  },
+  {
+    "id": "wang-anshi",
+    "zh": "王安石变法",
+    "pinyin": "Wáng Ānshí biànfǎ",
+    "en": "the Wang Anshi reforms",
+    "def_zh": "北宋政风因循保守、行政低效，边战屡败岁输钱物，官俸军费浩大财政入不敷出，土地兼并剧烈起义频仍。1069年宋神宗任王安石主持变法，涉经济军事教育：募役法（收役钱雇人服役、官僚也须交钱——限特权增收入）、方田均税法（核实土地按多少好坏征税——防隐田逃税）、农田水利法、保甲法（编户出丁、平时种田农闲练兵）。变法有成效（财政增收、修水利万余处），但触犯大官僚大地主利益遭强烈反对；神宗死后司马光任相尽废新法。（前有范仲淹庆历新政，数月而罢，开改革风气之先。）",
+    "def_en": "Mid-Song government was a fiscal paradox — huge revenues, huger costs, tribute abroad and stagnation within. From 1069, backed by Emperor Shenzong, Wang Anshi legislated a New Policies programme startlingly modern in kind: a hired-service tax replacing corvée (the privileged now paying too), cadastral survey to tax land by measured quality, state loans for irrigation, and militia organisation of the countryside. Revenue rose and ten thousand waterworks were built — but the programme gored the great officials and landowners it taxed, and when the emperor died, Sima Guang repealed it nearly whole. China's classic reform tragedy: right diagnosis, mobilised interests, dead letter.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第6课 北宋的政治"
+      }
+    ],
+    "collocations": [
+      "the New Policies",
+      "vested interests",
+      "fiscal reform",
+      "reform and reaction"
+    ],
+    "example": "Wang Anshi is the patron ghost of every stalled Chinese reform: 20th-century writers from Liang Qichao to the World Bank's China desk have relitigated his programme as a proxy for their own.",
+    "nuance": "“变法”系列译名：the Wang Anshi Reforms / the New Policies (xin fa)。“既得利益”= vested interests——本课的分析主词。与 [[shang-yang]]（成而身死）、[[serf-emancipation]]（自上而下）、[[new-deal]]（国家干预）构成改革比较组。司马光既是政敌又是《资治通鉴》作者——史学与政争同体，绝佳的历史书写案例。",
+    "links": [
+      {
+        "to": "song-founding",
+        "rel": "broader"
+      },
+      {
+        "to": "shang-yang",
+        "rel": "related"
+      },
+      {
+        "to": "new-deal",
+        "rel": "related"
+      },
+      {
+        "to": "song-urban-culture",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "1069年–1085年"
+  },
+  {
+    "id": "song-liao-xixia",
+    "zh": "辽、西夏与北宋的并立（澶渊之盟）",
+    "pinyin": "Chányuān zhī méng",
+    "en": "Song, Liao and Xia: the Chanyuan settlement",
+    "def_zh": "10世纪初契丹耶律阿保机统一各部建辽（发展生产创制文字）；辽太宗得后晋石敬瑭所割燕云十六州，与中原冲突加剧。11世纪前期党项元昊称帝建西夏（仿唐宋制度、创西夏文字）。1004年辽大举攻宋至澶州，寇准力劝真宗亲征，宋胜后仍议和：宋给辽岁币——“澶渊之盟”，此后长期和平；宋夏和约同型（元昊称臣、宋给岁币）。边界设榷场互市，贸易量大，促进经济文化交流与民族了解。",
+    "def_en": "The Song never ruled alone: the Khitan Liao (from 907, literate and farming as well as riding, holding the Sixteen Prefectures a Chinese usurper had ceded) and the Tangut Western Xia (from 1038, with its own script and Tang-style institutions) flanked it north and west. After beating back a Liao invasion at Chanyuan (1004–5), the Song bought permanence instead of pressing victory: annual payments of silver and silk — 'the Chanyuan Covenant' — and a matching deal with Xia. A century of peace followed, lubricated by official border markets; the tribute was cheaper than war, and both sides knew it.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第7课 辽、西夏与北宋的并立"
+      }
+    ],
+    "collocations": [
+      "annual indemnities",
+      "a negotiated peace",
+      "border markets",
+      "parity between states"
+    ],
+    "example": "IR scholars treasure Chanyuan as the great exception: two empires meeting as diplomatic equals inside a world-view that admitted no equals — proof the 'tribute system' could run in reverse when the price was right.",
+    "nuance": "“岁币”= annual payments/indemnities（谁向谁纳贡的方向问题使 tribute 一词在此充满反讽——中原王朝是支付方）。契丹 Khitan 一词经俄语成为 Cathay（契丹=中国的旧称，国泰航空 Cathay Pacific 即此）——词源彩蛋。燕云十六州 = the Sixteen Prefectures。",
+    "links": [
+      {
+        "to": "song-founding",
+        "rel": "related"
+      },
+      {
+        "to": "jin-southern-song",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "versailles",
+        "rel": "related"
+      },
+      {
+        "to": "xiaowen-reforms",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war",
+      "economy"
+    ],
+    "period": "916年–1125年"
+  },
+  {
+    "id": "jin-southern-song",
+    "zh": "金与南宋的对峙（岳飞抗金）",
+    "pinyin": "Jīn yǔ Nánsòng",
+    "en": "the Jin conquest and the Southern Song",
+    "def_zh": "女真完颜阿骨打统一各部，1115年建金（模仿中原制度、颁女真文字）。宋金联盟夹攻辽，1125年金灭辽；金见北宋腐败无能，1127年攻破开封灭北宋（徽钦二帝被掳）。赵构建南宋都临安。岳飞“岳家军”纪律严明（“冻死不拆屋，饿死不掳掠”），郾城大败金军主力，有望收复中原之际，高宗秦桧恐抗金力量壮大危及统治，令岳飞班师、以“莫须有”罪名杀害之；宋金和议：南宋称臣纳岁币，以淮水—大散关为界对峙，南宋偏安江南（“暖风熏得游人醉，直把杭州作汴州”）。金朝统治者提倡儒学、译儒经、以儒典命科举题。",
+    "def_en": "The Jurchen chief Aguda founded the Jin in 1115, destroyed Liao in a decade, then turned on the ally that had revealed its own weakness: Kaifeng fell in 1127, two emperors were carried into captivity, and a Song prince rebuilt the dynasty at Hangzhou. Yue Fei's incorruptible army ('freeze before seizing a house, starve before looting') broke the Jin cavalry at Yancheng — whereupon his own court, fearing victorious generals more than the enemy, recalled and judicially murdered him on a charge history remembers by its confession: 'perhaps there was something' (moxuyou). The peace made the Song a tribute-paying 'subject' south of the Huai, content — as the era's bitterest poem has it — to mistake Hangzhou for the lost capital; the Jin, meanwhile, translated the Confucian classics and examined its officials on them.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第8课 金与南宋的对峙"
+      }
+    ],
+    "collocations": [
+      "the Jingkang catastrophe",
+      "a trumped-up charge",
+      "loyalty betrayed",
+      "rump state"
+    ],
+    "example": "Yue Fei's shrine still receives visitors who spit at the kneeling statue of his betrayer — no civilisation keeps a longer memory for the general sacrificed to a nervous court.",
+    "nuance": "“莫须有”= 'perhaps there was' — trumped-up/fabricated charges 的中文原型语。“偏安”= a rump regime content with partial rule（rump state 是准确对译）。岳飞“民族英雄”称号的当代辨析（宋金皆为今中华民族内部）是教材问题思考的深层背景——英语表述宜说 a hero of loyalty 而非简单 national hero。靖康之变 = the Jingkang Incident。",
+    "links": [
+      {
+        "to": "song-liao-xixia",
+        "rel": "replaced"
+      },
+      {
+        "to": "genghis-khan",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "song-economy",
+        "rel": "related"
+      },
+      {
+        "to": "xiaowen-reforms",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1115年–1234年"
+  },
+  {
+    "id": "song-economy",
+    "zh": "宋代经济的发展（经济重心南移）",
+    "pinyin": "Sòngdài jīngjì",
+    "en": "the Song economic revolution",
+    "def_zh": "两宋农业空前发展：越南占城稻推广、复种两熟制、秧马，水稻跃居粮食首位，“苏湖熟，天下足”；茶棉种植北扩。手工业兴盛：蜀锦江浙丝织、海南棉纺；景德镇成瓷都、江南为制瓷中心；广州泉州明州造船世界领先（水密隔舱、船用指南针、世界现存最早船坞）。商业超前代：开封杭州人口百万，店铺不限地段时段（早市夜市、草市市镇），世界最早商标广告；海外贸易大盛，广州泉州为世界大商港、设市舶司管理，商船远达阿拉伯半岛与非洲东海岸，外贸收入居财政要位。从唐中期开始的经济重心南移至南宋最后完成，中央财政主要来自南方特别是东南。",
+    "def_en": "The Song ran history's first economic revolution: early-ripening Champa rice and double-cropping made the Yangzi delta the granary ('when Suzhou and Huzhou ripen, the empire eats'); Jingdezhen fired its way to becoming the world's porcelain capital; shipwrights launched compass-guided, bulkhead-hulled vessels from the world's oldest surviving dry dock. Commerce burst its ancient cage — shops anywhere, markets at dawn and midnight, the world's first printed trademark — while customs houses (shibosi) at Guangzhou and Quanzhou taxed a seaborne trade reaching Arabia and East Africa that came to anchor state finance. And the centuries-long southward shift of China's economic centre of gravity was complete: the money now came from the south.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第9课 宋代经济的发展"
+      }
+    ],
+    "collocations": [
+      "the medieval economic revolution",
+      "Champa rice",
+      "the porcelain capital",
+      "maritime customs",
+      "commercial revolution"
+    ],
+    "example": "Economic historians' favourite counterfactual lives here: Song China had markets, mills, coke-smelted iron and paper credit around 1100 — 'why not an industrial revolution?' is the China-side of the Great Divergence debate.",
+    "nuance": "“经济重心南移”接续 [[jiangnan-development]] 完成时态。市舶司 = the Maritime Trade Superintendency（宋代海关）。伊懋可 the medieval economic revolution 与彭慕兰 the Great Divergence（大分流）是本课通往英语学术的两座桥。china＝瓷器（小写）正源于景德镇外销——词源即贸易史。",
+    "links": [
+      {
+        "to": "jiangnan-development",
+        "rel": "broader"
+      },
+      {
+        "to": "jiaozi",
+        "rel": "narrower"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "medieval-towns",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy"
+    ],
+    "period": "960年–1279年"
+  },
+  {
+    "id": "jiaozi",
+    "zh": "交子（世界最早纸币）",
+    "pinyin": "jiāozǐ",
+    "en": "jiaozi: the world's first paper money",
+    "def_zh": "商贸繁荣使货币交易量激增，金属货币携带不便；北宋前期四川地区出现“交子”——世界上最早的纸币；南宋时纸币（会子）发展成与铜钱并行的货币。",
+    "def_en": "Song commerce outgrew its coinage — iron cash by the cartload — and Sichuan's merchants invented the escape: jiaozi, printed promises to pay, soon a state monopoly and by the Southern Song (as huizi) legal tender alongside bronze coin. Paper money had entered the world seven centuries before Europe dared it.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第9课 宋代经济的发展"
+      }
+    ],
+    "collocations": [
+      "paper money/banknotes",
+      "fiat currency",
+      "legal tender",
+      "inflation by the printing press"
+    ],
+    "example": "Every central-bank explainer on fiat money starts in Chengdu: the jiaozi is exhibit one, and Yuan-era hyperinflation exhibit two — the whole modern monetary debate in miniature, seven hundred years early.",
+    "nuance": "“纸币”= paper money/banknotes；“法定货币”= legal tender；“信用货币”= fiat money（fiat 拉丁语“让它成为”）。马可·波罗对元钞的惊叹是欧洲首次听闻纸币——链 [[marco-polo]]。元末滥发致通胀亦为 hyperinflation 案例库成员（链 [[versailles]] 的魏玛）。",
+    "links": [
+      {
+        "to": "song-economy",
+        "rel": "broader"
+      },
+      {
+        "to": "marco-polo",
+        "rel": "related"
+      },
+      {
+        "to": "great-depression",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "science-tech"
+    ],
+    "period": "北宋前期"
+  },
+  {
+    "id": "song-urban-culture",
+    "zh": "宋元都市文化与宋词元曲",
+    "pinyin": "Sòngcí Yuánqǔ",
+    "en": "Song-Yuan urban culture: ci poetry and zaju drama",
+    "def_zh": "开封临安大都为世界著名大都市：大相国寺庙会万人，瓦子（娱乐兼营商业场所）勾栏（演出圈子）说书唱曲杂剧蹴鞠；市民阶层壮大、文化生活丰富；春节元宵中秋等节俗至今流传。词为可歌的长短句，宋代大盛：苏轼豪迈飘逸扩词之境；李清照委婉细腻、南渡后血泪忧患；辛弃疾承豪放而气势磅礴。元曲（散曲杂剧南戏）综合歌舞念白，关汉卿《窦娥冤》以浪漫手法鞭挞黑暗，与马致远郑光祖白朴并称“元曲四大家”。张择端《清明上河图》绘汴京繁华；司马光《资治通鉴》编年通史，与《史记》并耀、“史学两司马”。",
+    "def_en": "Song cities invented commercial popular culture: the washe pleasure precincts and their railed goulan stages — storytellers, puppeteers, football artists, opera troupes — playing nightly to a paying urban public, while festivals took the shapes they keep today. Poetry moved with the money: the ci lyric, written to popular tunes, ran from Su Shi's cosmic bravado through Li Qingzhao's exile-sharpened grief to Xin Qiji's sword-rattling splendour; under the Yuan, drama took over, Guan Hanqing's Injustice to Dou E making the stage a court of appeal against corrupt power. Zhang Zeduan's Qingming scroll painted the boom; Sima Guang's Comprehensive Mirror chronicled 1,300 years to instruct it.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第12课 宋元时期的都市和文化"
+      }
+    ],
+    "collocations": [
+      "urban entertainment quarters",
+      "lyric poetry to set tunes",
+      "variety drama (zaju)",
+      "the Qingming scroll"
+    ],
+    "example": "The Qingming scroll is China's Mona Lisa with better economics: each exhibition draws day-long queues, and each detail — the camel train, the tavern ads, the bridge crush — feeds another paper on Song commercial life.",
+    "nuance": "词 = ci (lyric) poetry；元杂剧 = zaju (variety drama)。瓦子勾栏可释 entertainment quarters and theatre railings——宋代都市娱乐业与 [[medieval-towns]] 同期欧洲城市的对比极富张力（开封百万人口 vs 伦敦4万）。《资治通鉴》= the Comprehensive Mirror in Aid of Governance；“鉴”的政治史学观（history as mirror）是中式史学的自我定义。",
+    "links": [
+      {
+        "to": "song-economy",
+        "rel": "effect"
+      },
+      {
+        "to": "tang-poetry",
+        "rel": "related"
+      },
+      {
+        "to": "shakespeare",
+        "rel": "related"
+      },
+      {
+        "to": "shiji",
+        "rel": "related"
+      },
+      {
+        "to": "burghers",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "society"
+    ],
+    "period": "960年–1368年"
+  },
+  {
+    "id": "genghis-khan",
+    "zh": "成吉思汗统一蒙古",
+    "pinyin": "Chéngjísī Hán",
+    "en": "Genghis Khan and the Mongol rise",
+    "def_zh": "12世纪蒙古草原各部为人口草场频繁战争、生灵涂炭。铁木真幼年丧父历经磨难，深感唯统一能致和平；多次征讨败诸强部，1206年统一蒙古草原建蒙古政权，被尊“成吉思汗”（“大海”之意）。建军政生产合一制度、组建万人护卫、立司法机构、创制蒙古文字。此后蒙古1227年灭西夏（成吉思汗征西夏时逝于六盘山）、1234年联宋灭金；蒙宋战争40余年（蒙哥死于合州钓鱼城下）。",
+    "def_en": "Orphaned into a steppe at war with itself, Temujin concluded that only unity could end the killing — and imposed it, breaking every rival confederation until the assembled tribes hailed him Genghis Khan, 'oceanic ruler', in 1206. He gave the steppe what it had never had: a decimal army-state, a guard corps, a law code and a script. The machine then devoured the neighbourhood — Western Xia by 1227 (he died on that campaign), Jin by 1234, and the Southern Song after four more decades in which one khan died besieging a single Sichuan fortress.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第10课 蒙古族的兴起与元朝的建立"
+      }
+    ],
+    "collocations": [
+      "the Mongol conquests",
+      "steppe empire",
+      "Pax Mongolica",
+      "the greatest land empire in history"
+    ],
+    "example": "Genghis's empire is the geographer's superlative — the largest contiguous land empire ever — and the economist's parable: the Pax Mongolica made Eurasia one market a century before anyone had the word 'globalisation'.",
+    "nuance": "英语拼写 Genghis Khan 通行（学术亦作 Chinggis）。Pax Mongolica（蒙古和平）仿 Pax Romana——链 [[roman-empire]]。蒙古史的双重叙事（中国史一部分 vs 世界征服者）在中英文献中框架迥异——阅读时的自觉点。",
+    "links": [
+      {
+        "to": "jin-southern-song",
+        "rel": "effect"
+      },
+      {
+        "to": "yuan-dynasty",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "alexander-empire",
+        "rel": "related"
+      },
+      {
+        "to": "arab-empire",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1162年–1227年"
+  },
+  {
+    "id": "yuan-dynasty",
+    "zh": "元朝的统一与行省制度",
+    "pinyin": "Yuáncháo / xíngshěng zhìdù",
+    "en": "the Yuan unification and the provincial system",
+    "def_zh": "忽必烈1260年继汗位，纳汉儒“行汉法行仁政”之议，1271年改国号元、都大都；1276年陷临安，1279年灭宋残部（文天祥“人生自古谁无死，留取丹心照汗青”，宁死不屈）——结束长期分裂，元版图为我国历史上最大（今新疆西藏云南东北台湾及南海诸岛皆在治内）。中央中书省掌行政（下辖六部）、枢密院掌军、御史台掌监察；地方设10行省，行省之下路府州县——“行省制度”为明清沿用、影响深远（今日之省即源于此）。边疆因地制宜：澎湖巡检司辖澎湖琉球（台湾）——中央政府首次在台湾正式建制；宣政院直辖西藏——中央对西藏正式行使行政管辖；北庭都元帅府辖西域。各族杂居交融，波斯阿拉伯人与汉蒙畏兀儿诸族融成新民族——回族。（元行四等人制民族歧视，为其速亡要因之一。）",
+    "def_en": "Kublai took the khanate in 1260, took Chinese advice ('rule by Han law'), took the dynastic name Yuan in 1271 and took the last Song stronghold in 1279 — Wen Tianxiang choosing death with the line every Chinese schoolchild knows: 'since time began, who escapes death? Let my loyal heart shine in the annals.' The empire that resulted was the largest China has ever been, and its administrative invention outlived it: ten 'branch secretariats' — xingsheng, the ancestors of today's provinces — under a central secretariat, with the Pescadores office giving Taiwan its first central administration and the Xuanzheng Yuan placing Tibet under direct imperial rule. Persians and Arabs mixing with Han, Mongol and Uighur communities crystallised into a new people, the Hui; a four-class ethnic hierarchy, Mongols on top, helped bring the whole edifice down within a century.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第10课 蒙古族的兴起与元朝的建立"
+      },
+      {
+        "book": "ch7b",
+        "chapter": "第11课 元朝的统治"
+      }
+    ],
+    "collocations": [
+      "the provincial system",
+      "branch secretariats",
+      "direct administration of Tibet",
+      "ethnic hierarchy"
+    ],
+    "example": "When Beijing says Tibet and Taiwan have been Chinese 'since the Yuan', these are the two institutions being cited — the Xuanzheng Yuan and the Penghu office; the argument is 750 years old and very much alive.",
+    "nuance": "“行省”= province（词源 branch secretariat——今“省”字即元制活化石）。宣政院/澎湖巡检司是台藏主权论述的根史料，英译需准确：the Xuanzheng Yuan (Bureau of Buddhist and Tibetan Affairs)；the Penghu Patrol and Inspection Office。回族 = the Hui。四等人制 = the four-class system（教材列为亡因——民族政策的反面教材，对照 [[xiaowen-reforms]]）。",
+    "links": [
+      {
+        "to": "genghis-khan",
+        "rel": "broader"
+      },
+      {
+        "to": "junxian",
+        "rel": "related"
+      },
+      {
+        "to": "xiaowen-reforms",
+        "rel": "contrast"
+      },
+      {
+        "to": "marco-polo",
+        "rel": "related"
+      },
+      {
+        "to": "ming-founding",
+        "rel": "replaced-by"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "1271年–1368年"
+  },
+  {
+    "id": "song-yuan-inventions",
+    "zh": "活字印刷、指南针与火药",
+    "pinyin": "huózì yìnshuā / zhǐnánzhēn / huǒyào",
+    "en": "movable type, the compass and gunpowder",
+    "def_zh": "隋唐发明雕版印刷；北宋毕昇发明活字印刷术（胶泥刻字烧硬、铁板排版，“印数十百千本则极为神速”——沈括《梦溪笔谈》记载），后有木活字、王祯转轮排字、元代铜活字；13世纪传入朝鲜，后经丝路传波斯、经蒙古西征等途径入欧。战国司南、宋代人造磁铁罗盘，北宋末海船始用指南针（“阴晦观指南针”为世界航海用罗盘最早记录），经阿拉伯商人传入欧洲，大大促进世界远洋航海。唐代发明火药、唐末用于军事，宋元火器广用于战争（突火枪为枪炮始祖、元代火铳），13世纪传入阿拉伯、14世纪初经阿拉伯人传欧——对欧洲火器制造与作战方式产生巨大影响，推动欧洲社会变革。培根：印刷术、火药、磁石“改变了整个世界的面貌和状态”。",
+    "def_en": "Three Song-era technologies rewired the world. Bi Sheng's movable type (c. 1040s, recorded by the scientist Shen Kuo: 'for hundreds or thousands of copies, marvellously quick') spread via Korea and the steppe to remake the book. The magnetic compass, aboard Chinese ships by the 1100s — the world's first recorded navigational use — reached Europe through Arab middlemen and opened the oceans. And gunpowder, a Tang discovery weaponised under the Song (the bamboo 'fire-lance' fathering every gun), crossed to the Arabs by the 13th century and Europe by the 14th, where it blew up the castle and the knight. Francis Bacon, not knowing all three were Chinese, judged that no empire or sect had 'exerted greater power over human affairs'.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第13课 宋元时期的科技与中外交通"
+      }
+    ],
+    "collocations": [
+      "movable type",
+      "the mariner's compass",
+      "the fire-lance",
+      "technology transfer",
+      "Bacon's three inventions"
+    ],
+    "example": "Bacon's tribute is China's favourite citation and Needham's favourite irony: the civilisation that invented the tools of Europe's rise watched Europe use them first — the Needham Question in three objects.",
+    "nuance": "活字印刷 = movable type（毕昇早于古腾堡400年，但汉字字量使雕版长期更经济——技术经济学的好案例，回应“为何古腾堡影响更大”的常见英语论述）。突火枪 = the fire-lance。培根语出《新工具》，与 [[papermaking]] 合为“四大发明”完整链。",
+    "links": [
+      {
+        "to": "papermaking",
+        "rel": "related"
+      },
+      {
+        "to": "age-of-discovery",
+        "rel": "influenced"
+      },
+      {
+        "to": "renaissance",
+        "rel": "influenced"
+      },
+      {
+        "to": "song-economy",
+        "rel": "related"
+      },
+      {
+        "to": "weijin-culture",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech"
+    ],
+    "period": "宋元时期"
+  },
+  {
+    "id": "marco-polo",
+    "zh": "元代驿站与马可·波罗",
+    "pinyin": "Mǎkě Bōluó",
+    "en": "the Yuan post-roads and Marco Polo",
+    "def_zh": "元朝疆域辽阔，修覆盖全国的陆路交通网、四通八达的驿站（“急递铺”日夜兼程一昼夜400里），陆路西通中亚西亚东欧；海上丝绸之路进入鼎盛（宋代通商五六十国，元代140多国）。中国印刷术火药指南针纸币驿站制度西传，西方药物天文历法数学东来。意大利旅行家马可·波罗经丝路来华、在元生活17年，归国后口述《马可·波罗行纪》记大都杭州泉州等城市风物，反映中国富庶先进，激起欧洲人对东方的极大向往。（郭守敬《授时历》测年365.2425天，早现行公历约300年。）",
+    "def_en": "The Yuan wired Eurasia: post-stations blanketing the empire (express riders covering 400 li a day), caravan roads running to the Black Sea, and a maritime silk route at its peak — 140 trading partners against the Song's sixty. Down these channels went printing, gunpowder, the compass, paper money and the postal idea itself; back came Western astronomy, medicine and mathematics (Guo Shoujing meanwhile fixing the year at 365.2425 days, three centuries before the Gregorian calendar matched it). And along them came a Venetian who served Kublai seventeen years: Marco Polo, whose Travels — dictated in a Genoese jail — introduced Europe to cities it could not imagine and desires it could not shake.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第13课 宋元时期的科技与中外交通"
+      }
+    ],
+    "collocations": [
+      "the post-station system",
+      "Pax Mongolica connectivity",
+      "the Travels of Marco Polo",
+      "il Milione"
+    ],
+    "example": "Columbus sailed with a heavily annotated Marco Polo aboard — the Travels is the rare book that caused a hemisphere: no Polo, no 'Indies', no 1492 as we know it.",
+    "nuance": "驿站 = post stations（蒙语 yam 亦入英语文献）；急递铺 = express relay posts。《行纪》意大利别名 Il Milione（“百万君”——同时代人笑其吹牛；真伪之辩 the Marco Polo controversy 至今是学界谈资）。链 [[columbus]]、[[age-of-discovery]] 完成“游记→大航海”因果链。",
+    "links": [
+      {
+        "to": "yuan-dynasty",
+        "rel": "broader"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "columbus",
+        "rel": "influenced"
+      },
+      {
+        "to": "jiaozi",
+        "rel": "related"
+      },
+      {
+        "to": "genghis-khan",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "culture",
+      "geography-environment"
+    ],
+    "period": "1271年–1295年"
+  },
+  {
+    "id": "ming-founding",
+    "zh": "明朝的建立与皇权强化",
+    "pinyin": "Míng / huángquán qiánghuà",
+    "en": "the Ming founding and the concentration of imperial power",
+    "def_zh": "元末政治腐败民不聊生，1368年贫苦出身的朱元璋（“高筑墙，广积粮，缓称王”）称帝建明都应天府，攻占大都灭元。为强化皇权全面改制：地方废行中书省设三司（布政、按察、都指挥）；中央废除丞相制度和中书省、六部直接对皇帝负责（立祖制不许复设丞相）、分五军都督府；设皇帝直接指挥的锦衣卫（后有东厂，合称“厂卫”）监视官民；以廷杖羞辱大臣。科举严格限于“四书五经”、以朱熹集注为标准、以“八股文”作答——内容空疏形式呆板脱离实际，禁锢思想，应试者成“皇帝旨意的顺从者”。经济续兴：引进美洲玉米甘薯马铃薯花生，苏州丝织、景德镇青花瓷，晋商徽商商帮出现。",
+    "def_en": "Zhu Yuanzhang — beggar-monk turned rebel strategist ('high walls, full granaries, and don't call yourself king yet') — founded the Ming in 1368 and rebuilt the throne around one man: the chancellorship abolished forever on pain of death to whoever proposed its return, six ministries answering to the emperor alone, provincial power split three ways, the Embroidered Uniform Guard and later the Eastern Depot spying on everyone, and ministers flogged in open court. The examinations narrowed to the Four Books read through Zhu Xi and answered in the ossified 'eight-legged essay' — a machine, the textbook says plainly, for manufacturing obedience. Meanwhile American crops arrived, Jingdezhen fired blue-and-white for the world, and the Shanxi and Huizhou merchant guilds rose.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第14课 明朝的统治"
+      }
+    ],
+    "collocations": [
+      "autocracy perfected",
+      "the eight-legged essay",
+      "secret police",
+      "abolish the chancellorship"
+    ],
+    "example": "The 'eight-legged essay' survives in Chinese as the standard insult for empty formalist writing — 反对八股 was Mao's phrase for bad prose, and every exam-reform debate still invokes it.",
+    "nuance": "锦衣卫/东厂 = the Embroidered Uniform Guard / the Eastern Depot（明代特务政治 secret police 的原型词）。八股文 = the eight-legged essay。废相是中国皇权史的分水岭——英语表述 the abolition of the chancellorship (1380)，与 [[song-founding]] 分权制衡路线正相反。",
+    "links": [
+      {
+        "to": "yuan-dynasty",
+        "rel": "replaced"
+      },
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "absolute-monarchy",
+        "rel": "related"
+      },
+      {
+        "to": "grand-council",
+        "rel": "influenced"
+      },
+      {
+        "to": "columbian-exchange",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "1368年–1644年"
+  },
+  {
+    "id": "zheng-he",
+    "zh": "郑和下西洋",
+    "pinyin": "Zhèng Hé xià Xīyáng",
+    "en": "Zheng He's voyages to the Western Ocean",
+    "def_zh": "15世纪初明朝国力雄厚，明成祖派郑和（回族宦官“三宝太监”）率船队出使西洋，主要目的“示中国富强”、提高明朝威望，兼以货物换取海外奇珍。1405–1433年七下西洋：船队最多200余艘、首航27000多人，宝船为当时世界最大最先进海船，编队严整、通信有法；先后到达亚非30多国，最远达非洲东海岸和红海沿岸，慷慨送礼发展友好、互通贸易，多国遣使随船来华。时间之长规模之大为世界航海史空前壮举，开创西太平洋与印度洋间的亚非海上交通线。（东南亚“三宝”地名庙宇犹存。）",
+    "def_en": "Between 1405 and 1433 the Muslim eunuch admiral Zheng He led seven armadas — two hundred ships, twenty-seven thousand men, treasure junks dwarfing anything then afloat — through Southeast Asia to India, Arabia and the East African coast: showing the flag ('displaying China's wealth and power'), exchanging gifts and goods, ferrying foreign embassies home to Nanjing. The greatest voyages of the pre-modern world — and then, famously, they simply stopped, the fleets rotting while Iberian caravels a tenth the size set out the other way.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第15课 明朝的对外关系"
+      }
+    ],
+    "collocations": [
+      "the treasure fleet",
+      "voyages of diplomacy not conquest",
+      "show the flag",
+      "why the voyages ended"
+    ],
+    "example": "Zheng He v. Columbus is world history's favourite size contrast — a fleet of floating palaces sixty years before three small ships — and 'why China turned inward' its favourite exam question; Beijing's answer, rehearsed at every maritime forum, is that Zheng He traded where Europeans conquered.",
+    "nuance": "宝船 = treasure ships；下西洋的“西洋”指今文莱以西海域（非 the West）。“和平之旅”叙事是当代中国外交的固定修辞（郑和=和平崛起的先证）——读 Economist 中国版会反复遇到并被审视。与 [[age-of-discovery]]、[[columbus]] 的对照是本节点的全部价值所在。",
+    "links": [
+      {
+        "to": "ming-founding",
+        "rel": "broader"
+      },
+      {
+        "to": "age-of-discovery",
+        "rel": "contrast"
+      },
+      {
+        "to": "columbus",
+        "rel": "contrast"
+      },
+      {
+        "to": "silk-road",
+        "rel": "related"
+      },
+      {
+        "to": "canton-system",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "geography-environment",
+      "governance",
+      "economy"
+    ],
+    "period": "1405年–1433年"
+  },
+  {
+    "id": "qi-jiguang",
+    "zh": "戚继光抗倭与葡占澳门",
+    "pinyin": "Qī Jìguāng kàngwō",
+    "en": "Qi Jiguang, the wokou wars and Macau",
+    "def_zh": "元末明初日本武士奸商组成海盗武装“倭寇”侵扰东南沿海；明中期国力减弱海防松懈，倭寇与中国海盗奸商勾结，倭患严重。戚继光临危受命，招募农民矿工万余严格训练成纪律严明的“戚家军”，创“鸳鸯阵”，1561年台州九战九捷平浙东倭患，又赴闽粤，东南倭患基本解除——反侵略的民族英雄（“封侯非我意，但愿海波平”）。同期欧洲殖民者东来：1553年葡萄牙殖民者买通地方官攫取在澳门的居住权（1573年改纳明政府，澳门主权仍属中国、明设守澳官管理）。",
+    "def_en": "Japanese rōnin and smugglers — the wokou, soon thickened with Chinese pirates and corrupt merchants — ravaged the prosperous southeast until the young general Qi Jiguang built his own answer: ten thousand recruited farmers and miners drilled into the incorruptible 'Qi Family Army', fighting in his interlocking 'mandarin-duck' squads. Nine victories in nine battles at Taizhou (1561) broke the scourge in Zhejiang, then Fujian and Guangdong ('a noble title is not my wish — only that the seas be calm'). In the same decades Europe arrived: Portuguese traders bribed their way into a Macau foothold in 1553 — rent paid, sovereignty retained, a Chinese official watching over them.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第15课 明朝的对外关系"
+      }
+    ],
+    "collocations": [
+      "pirate raids",
+      "coastal defence",
+      "a foothold at Macau",
+      "anti-piracy campaigns"
+    ],
+    "example": "Macau's 1553 lease and its 1999 return bracket the entire European age in Asia — the first foothold was the last handed back, which is why Lisbon-Beijing anniversaries carry such symbolic freight.",
+    "nuance": "“倭寇”= wokou/Japanese pirates（教材点明后期多为中国人——海禁与走私的政治经济学，英语研究常引）。戚继光与 [[yue-fei]]？（岳飞节点名 jin-southern-song）同属военная loyalty 谱系；“民族英雄”定语在戚继光无争议（对外侵略者）。澳门 = Macau（葡拼）/Macao。",
+    "links": [
+      {
+        "to": "zheng-he",
+        "rel": "related"
+      },
+      {
+        "to": "early-colonialism",
+        "rel": "related"
+      },
+      {
+        "to": "jin-southern-song",
+        "rel": "related"
+      },
+      {
+        "to": "japanese-militarism",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war"
+    ],
+    "period": "16世纪中期"
+  },
+  {
+    "id": "ming-science",
+    "zh": "明代科技名著与西学东渐",
+    "pinyin": "Míngdài kējì míngzhù",
+    "en": "Ming science: the great compendia and the Jesuit exchange",
+    "def_zh": "李时珍27年编成《本草纲目》：药物1800多种、药方11000多个，总结古代药物学成就，17世纪初传日朝、后译拉法俄德英文。宋应星《天工开物》分18类涵盖农工各部门、插图120余幅（“贵五谷而贱金玉”），被誉“中国17世纪的工艺百科全书”。徐光启《农政全书》60卷总结古代农学。徐光启与意大利传教士利玛窦合译古希腊《几何原本》——“几何”“点线三角形”等术语由此定名。徐霞客30余年游历成《徐霞客游记》，丹霞地貌考察居世界先进水平。",
+    "def_en": "Late Ming scholarship built monuments: Li Shizhen's Compendium of Materia Medica (27 years, 1,800 drugs, 11,000 prescriptions — translated eventually into Latin and five European tongues), Song Yingxing's Exploitation of the Works of Nature ('grain before jade' — the illustrated encyclopaedia of every Chinese craft, dubbed China's 17th-century technical encyclopaedia), Xu Guangqi's Complete Treatise on Agriculture. And the traffic ran both ways: Xu and the Jesuit Matteo Ricci translated Euclid, coining the Chinese words for geometry, point, line and triangle that every student still uses; the wandering Xu Xiake, meanwhile, described karst landforms centuries ahead of the field.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第16课 明朝的科技、建筑与文学"
+      }
+    ],
+    "collocations": [
+      "compendium",
+      "materia medica",
+      "the Jesuit missions",
+      "Western learning spreading east"
+    ],
+    "example": "Ricci and Xu Guangqi translating Euclid in Beijing while Galileo faced the Inquisition at home is the exchange's great irony — the Jesuits exported a science their church was busy prosecuting.",
+    "nuance": "《本草纲目》= Compendium of Materia Medica；《天工开物》= The Exploitation of the Works of Nature（任以都译名）。“西学东渐”= the eastward spread of Western learning。利玛窦 = Matteo Ricci——中西交流史的头号人名，Economist 谈中西相遇必引。这批总结性巨著与 [[song-yuan-inventions]] 的原创性对照，是李约瑟问题的又一素材。",
+    "links": [
+      {
+        "to": "han-medicine",
+        "rel": "related"
+      },
+      {
+        "to": "weijin-culture",
+        "rel": "related"
+      },
+      {
+        "to": "renaissance",
+        "rel": "related"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "related"
+      },
+      {
+        "to": "song-yuan-inventions",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "science-tech",
+      "culture"
+    ],
+    "period": "明代中后期"
+  },
+  {
+    "id": "great-wall-forbidden-city",
+    "zh": "明长城与北京城（紫禁城）",
+    "pinyin": "Míng Chángchéng / Zǐjìnchéng",
+    "en": "the Ming Great Wall and the Forbidden City",
+    "def_zh": "明为防蒙古南扰先后18次修筑长城：东起鸭绿江西至嘉峪关万余里，砖石砌筑，关隘城台烽火台卫所屯田成完整军防体系——今日所见长城主要为明筑；长城沿线农牧贸易场所林立，亦成民族交往纽带。朱棣“靖难之役”后迁都北京，1406–1420年营建：宫城（紫禁城，蒯祥等设计，72万平方米、殿宇近9000间，当时世界最宏大辉煌的皇家建筑群）、皇城、内城、外城，中轴线纵贯南北对称展开。（明十三陵在京西北郊。）",
+    "def_en": "Eighteen Ming building campaigns produced the Great Wall we know — brick and stone from the Yalu to Jiayuguan, garrisoned, farmed and beaconed into an integrated defence system that doubled, at its markets, as the seam where herders and farmers traded. And Yongle, having usurped his nephew, moved the capital north and built its heart: the Forbidden City (1406–20), 720,000 square metres and nine thousand rooms on a single north-south axis — the largest palace complex on earth, imperial cosmology laid out in timber and tile.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第16课 明朝的科技、建筑与文学"
+      }
+    ],
+    "collocations": [
+      "the Great Wall",
+      "the Forbidden City",
+      "the central axis",
+      "a defence system, not a single wall"
+    ],
+    "example": "Both structures now work for the tourist economy and the metaphor economy — 'a great firewall', 'a palace coup behind vermilion walls' — the Ming's two construction projects supplying modern China's two favourite images of itself.",
+    "nuance": "长城为体系（walls, passes, beacons, garrisons）而非一道墙——纠正英语读者常见误解（“太空可见”亦为讹传）。紫禁城 = the Forbidden City（今官方 the Palace Museum 故宫博物院）。中轴线 the Central Axis 2024年申遗成功——时事关联。防御与交流并存的长城双重性是教材问题思考的点睛处。",
+    "links": [
+      {
+        "to": "ming-founding",
+        "rel": "broader"
+      },
+      {
+        "to": "qin-standardisation",
+        "rel": "related"
+      },
+      {
+        "to": "classical-architecture",
+        "rel": "related"
+      },
+      {
+        "to": "yuan-dynasty",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "war",
+      "science-tech"
+    ],
+    "period": "1368年–1644年"
+  },
+  {
+    "id": "ming-novels",
+    "zh": "明代小说与戏剧",
+    "pinyin": "Míngdài xiǎoshuō",
+    "en": "the Ming novel: Three Kingdoms, Water Margin, Journey to the West",
+    "def_zh": "明代文学与市民文化结合，小说创作进入黄金时期，长篇章回体小说成熟：罗贯中《三国志通俗演义》（元末明初，以三国史实为基础，反映人民统一愿望，最流行的长篇历史小说之一）；施耐庵《水浒传》（官逼民反、白话传神）；吴承恩《西游记》（明中期浪漫主义神话小说，塑造孙悟空）。戏剧：汤显祖《牡丹亭》批判封建礼教。（书法董其昌、绘画徐渭。）",
+    "def_en": "Print, cities and a paying public made the Ming the golden age of the Chinese novel: Luo Guanzhong's Romance of the Three Kingdoms turned history into East Asia's shared epic of statecraft; Shi Nai'an's Water Margin ('the officials drove the people to rebel') gave outlawry its 108 immortal faces in living vernacular; Wu Cheng'en's Journey to the West sent a monk, a pig and a monkey with attitude across Asia and, in time, into every medium on earth. On stage, Tang Xianzhu's Peony Pavilion — love against ritual propriety — premiered within a decade of Romeo and Juliet.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第16课 明朝的科技、建筑与文学"
+      }
+    ],
+    "collocations": [
+      "the vernacular novel",
+      "chapter fiction",
+      "the four great classic novels",
+      "adaptation across media"
+    ],
+    "example": "Tang Xianzu and Shakespeare died the same year (1616) — a coincidence two governments have built entire cultural-diplomacy programmes on, twin museums included.",
+    "nuance": "“四大名著”= the Four Great Classical Novels（三国水浒西游+红楼——第四部见 [[dream-red-chamber]]）。“章回体”= chapter-based fiction；“白话”= the vernacular（白话小说 vs 文言——与欧洲俗语文学取代拉丁文同构，链 [[dante]]、[[renaissance]]）。《水浒》英译名多样：Water Margin/Outlaws of the Marsh/All Men Are Brothers（赛珍珠）。",
+    "links": [
+      {
+        "to": "three-kingdoms",
+        "rel": "related"
+      },
+      {
+        "to": "tang-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "song-urban-culture",
+        "rel": "related"
+      },
+      {
+        "to": "shakespeare",
+        "rel": "related"
+      },
+      {
+        "to": "dream-red-chamber",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "元末–明末"
+  },
+  {
+    "id": "ming-fall",
+    "zh": "明朝的灭亡与清兵入关",
+    "pinyin": "Míngcháo mièwáng",
+    "en": "the fall of the Ming",
+    "def_zh": "明中后期政治日益腐败：神宗20年不上朝、熹宗委政宦官魏忠贤（“九千岁”），结党营私、兼并土地、农民流离失所。末年财政危机加派“三饷”，陕北连年大旱官府催征如故，农民纷起。李自成提出“均田免赋”（“迎闯王，不纳粮”）、军纪严明，队伍百万；1644年建大顺政权，4月攻入北京，崇祯自缢，276年明朝亡于农民起义。东北女真努尔哈赤1616年建后金（八旗制度兵民合一），皇太极改族名满洲、1636年改国号清；山海关守将吴三桂降清引清军入关，联合夹击李自成，李败退西行终至失败。",
+    "def_en": "Late Ming government rotted from the head — one emperor skipped court for twenty years, another whittled furniture while the eunuch 'Nine Thousand Years' ran the state — while surtaxes multiplied and drought scoured the northwest. Li Zicheng's rebels marched on the promise 'equal land, no grain tax' ('open the gates for the Dashing Prince'); Beijing fell in April 1644 and the last emperor hanged himself on Coal Hill. Then the northeast collected: Nurhaci's Jurchen banner-state (Later Jin, 1616; renamed Manchu and Qing under his son) was waiting at the Wall when the Ming border general Wu Sangui opened Shanhai Pass — and the rebels who had toppled a dynasty lost the empire to the newcomers within the year.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第17课 明朝的灭亡"
+      }
+    ],
+    "collocations": [
+      "dynastic collapse",
+      "the banner system",
+      "open the gates to the invader",
+      "the Manchu conquest"
+    ],
+    "example": "Wu Sangui is Chinese for Quisling with better cavalry — 'opening Shanhai Pass' remains the standing metaphor for the insider who lets the outsider in to spite a domestic enemy.",
+    "nuance": "八旗 = the (Eight) Banners / banner system；旗人 bannermen——“八旗子弟”今喻坐吃特权的纨绔（教材知识拓展点明）。李自成“均田免赋”与 [[chen-sheng-uprising]]、[[huang-chao]]（在 an-lushan 内）同谱系——农民起义 the peasant rebellion 作为中国史动力机制，是英语汉学的经典议题（裴宜理等）。",
+    "links": [
+      {
+        "to": "ming-founding",
+        "rel": "replaced"
+      },
+      {
+        "to": "chen-sheng-uprising",
+        "rel": "related"
+      },
+      {
+        "to": "eastern-han",
+        "rel": "related"
+      },
+      {
+        "to": "qing-frontier",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "jin-southern-song",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war",
+      "society"
+    ],
+    "period": "1616年–1644年"
+  },
+  {
+    "id": "zheng-chenggong",
+    "zh": "郑成功收复台湾与清朝台湾建制",
+    "pinyin": "Zhèng Chénggōng shōufù Táiwān",
+    "en": "Zheng Chenggong (Koxinga) and Taiwan",
+    "def_zh": "明末荷兰殖民者侵占台湾实行殖民统治38年。1661年抗清将领郑成功率25000将士400战舰渡海，围困8个月后1662年2月迫使荷兰殖民长官投降，台湾重回祖国怀抱——民族英雄（“台湾者，中国之土地也”）、台湾同胞尊“开台圣王”；设府县、垦田、传农技，加速台湾开发。1683年清军入台郑氏归附，1684年清设台湾府隶福建省——加强中央管辖、巩固东南海防；1885年台湾正式建省。（大陆居民宋元起移垦台湾；隋炀帝三遣人赴流求。）",
+    "def_en": "The Dutch East India Company had held Taiwan 38 years when Zheng Chenggong — Ming loyalist, known to Europe as Koxinga — crossed the strait in 1661 with 25,000 men and 400 warships; after an eight-month siege the Dutch governor surrendered (February 1662), and Zheng ('Taiwan is China's land; now I have come to claim it') set up counties, opened farms and earned the island's lasting title 'the sage king who opened Taiwan'. The Qing took the island from his heirs in 1683, created Taiwan prefecture under Fujian in 1684, and made it a full province in 1885.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第18课 统一多民族国家的巩固和发展"
+      }
+    ],
+    "collocations": [
+      "Koxinga",
+      "expel the colonisers",
+      "Taiwan prefecture",
+      "cross-strait historical claims"
+    ],
+    "example": "Koxinga is claimed by everyone — Beijing's anti-colonial unifier, Taipei's founding father, Japan's half-Japanese hero of kabuki — the rare figure whose statue stands on both sides of the strait for opposite reasons.",
+    "nuance": "国际通称 Koxinga（“国姓爷”闽南音）。1662/1684/1885三个年份是两岸历史论述的支柱数据——与 [[yuan-dynasty]] 的澎湖巡检司衔接成完整链条。荷兰据台属 [[early-colonialism]] 的亚洲一幕——本课即中国对殖民扩张的第一次成功反击。",
+    "links": [
+      {
+        "to": "qing-frontier",
+        "rel": "related"
+      },
+      {
+        "to": "early-colonialism",
+        "rel": "related"
+      },
+      {
+        "to": "ming-fall",
+        "rel": "related"
+      },
+      {
+        "to": "east-india-company",
+        "rel": "related"
+      },
+      {
+        "to": "three-kingdoms",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "war",
+      "governance"
+    ],
+    "period": "1661年–1684年"
+  },
+  {
+    "id": "qing-frontier",
+    "zh": "清朝对边疆的经营（西藏、新疆与《尼布楚条约》）",
+    "pinyin": "Qīngcháo biānjiāng",
+    "en": "the Qing consolidation of the frontiers",
+    "def_zh": "西藏：顺治1653年正式册封五世达赖“达赖喇嘛”封号，康熙1713年册封“班禅额尔德尼”——此后历代达赖班禅必经中央政府册封；1727年设驻藏大臣监督政务，1793年《钦定藏内善后章程》29条规范体制：驻藏大臣与达赖班禅地位平等共管政教、活佛转世金瓶掣签报朝廷批准。新疆：康熙三次亲征平噶尔丹叛乱；乾隆平大小和卓叛乱，设伊犁将军管辖整个新疆；1771年土尔扈特部渥巴锡率部万里回归祖国。东北：康熙两次雅克萨自卫反击战胜沙俄，1689年中俄平等协商签订第一个边界条约《尼布楚条约》，从法律上肯定黑龙江乌苏里江流域包括库页岛皆中国领土。清前期疆域西跨葱岭北接西伯利亚东临太平洋南至南海诸岛（东沙西沙中沙南沙划归琼州府；钓鱼岛明清均在管辖），成幅员辽阔的统一多民族国家。",
+    "def_en": "The Qing built the territorial China the modern state inherits. Tibet: the Dalai Lama title formally conferred by Beijing from 1653 and the Panchen's from 1713 (all successors requiring central investiture), resident imperial commissioners (ambans) from 1727, and the 29-article Statute of 1793 giving ambans parity with the lamas and subjecting reincarnation itself to the golden-urn lottery and imperial confirmation. Xinjiang: Kangxi personally broke Galdan's Dzungars, Qianlong crushed the Khoja brothers' revolt, and the Ili General governed the whole region — to which the Torghut Mongols trekked back from the Volga in 1771. And the northeast: two victories at Albazin forced Russia to the table, and the Treaty of Nerchinsk (1689) — China's first equal boundary treaty — confirmed the Amur and Ussuri basins, Sakhalin included, as Chinese. The empire now ran from the Pamirs to the Pacific, the Himalayas to Siberia.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第18课 统一多民族国家的巩固和发展"
+      }
+    ],
+    "collocations": [
+      "the golden urn",
+      "resident commissioners (ambans)",
+      "the Treaty of Nerchinsk",
+      "investiture of the lamas"
+    ],
+    "example": "The golden urn is live diplomacy, not antiquarianism: Beijing's insistence that the next Dalai Lama must come through urn and approval rests squarely on the 1793 statute this chapter teaches.",
+    "nuance": "驻藏大臣 = the amban(s)/imperial resident；金瓶掣签 = the golden urn (lottery)；《尼布楚条约》= the Treaty of Nerchinsk（“平等条约”定语区别于后来的 unequal treaties——概念对轴）。这些是当代涉藏涉疆报道的史料军火库，英译精确度直接决定论述效力。新清史（the New Qing History）之争是本课通往英语学界的争议之门。",
+    "links": [
+      {
+        "to": "ming-fall",
+        "rel": "effect"
+      },
+      {
+        "to": "zheng-chenggong",
+        "rel": "related"
+      },
+      {
+        "to": "yuan-dynasty",
+        "rel": "related"
+      },
+      {
+        "to": "tang-cosmopolitan",
+        "rel": "related"
+      },
+      {
+        "to": "peter-the-great",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "war"
+    ],
+    "period": "1653年–1793年"
+  },
+  {
+    "id": "qing-prosperity",
+    "zh": "清朝前期的经济与人口",
+    "pinyin": "Qīngcháo qiánqī jīngjì",
+    "en": "the High Qing economy and population boom",
+    "def_zh": "清初以恢复农业为“国之大计”，大力垦荒：乾隆末耕地比明鼎盛期增近3亿亩，治黄淮运河，推广玉米甘薯高产作物（“湖广熟，天下足”）。手工业现成熟手工业工场（佛山棉织工场2500家织工5万余）；商业形成农村集市—城镇—区域—全国市场网络，苏州“十万烟火”财富“甲于天下”，汉口盛泽等市镇崛起；晋商贩粮盐绸缎、乾隆时开设“票号”经营汇兑放贷，徽商营盐典茶木。据研究当时中国经济总量居世界首位。人口：康熙时1.5亿，乾隆末3亿、占世界1/3——人地矛盾突出，垦荒破坏植被水土流失，庞大人口成社会压力。",
+    "def_en": "The High Qing ran the biggest economy on earth: three hundred million new mu of farmland by Qianlong's late years, American maize and sweet potato pushing cultivation uphill ('when Huguang ripens, the empire eats' — the granary had moved again), proto-factories (Foshan's 2,500 cotton workshops, 50,000 weavers), a four-tier market network crowned by Suzhou's 'hundred thousand hearths', and the Shanxi merchants' piaohao draft-banks wiring money across the empire. Population answered prosperity: 150 million under Kangxi, 300 million — a third of humanity — by the 1790s, and with it deforestation, erosion and the land-hunger that would shadow the next century.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第19课 清朝前期社会经济的发展"
+      }
+    ],
+    "collocations": [
+      "the High Qing",
+      "proto-industrialisation",
+      "draft banks (piaohao)",
+      "population pressure",
+      "the largest economy in the world"
+    ],
+    "example": "'China was the world's largest economy until 1820' — the Maddison statistic behind every 'return, not rise' headline — is this chapter wearing a spreadsheet.",
+    "nuance": "“康乾盛世”= the High Qing (era/prosperity)。票号 = piaohao/draft banks（山西票号=近代金融前史，链 [[jiaozi]]）。麦迪逊数据与彭慕兰大分流（the Great Divergence）在此交汇——本课是“中国重回第一”叙事的史料底座，也是马尔萨斯压力（链 [[malthus]]）的东方案例。",
+    "links": [
+      {
+        "to": "qing-frontier",
+        "rel": "related"
+      },
+      {
+        "to": "song-economy",
+        "rel": "related"
+      },
+      {
+        "to": "columbian-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "malthus",
+        "rel": "related"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "contrast"
+      }
+    ],
+    "themes": [
+      "economy",
+      "society"
+    ],
+    "period": "1661年–1796年"
+  },
+  {
+    "id": "grand-council",
+    "zh": "军机处与文字狱",
+    "pinyin": "jūnjīchù / wénzìyù",
+    "en": "the Grand Council and the literary inquisition",
+    "def_zh": "清初军国大事由满洲贵族议政王大臣会议决定（皇帝亦不能改）；康熙设南书房绕开之；雍正设军机处（由皇帝选派亲信大臣组成，辅助处理政务的最重要中枢）——军政大事完全由皇帝裁决、军机大臣“只供传述缮撰”，议政王大臣会议名存实亡乾隆时撤销，君主专制进一步强化至顶峰。康雍乾三朝大兴“文字狱”：从文章诗词摘取只言片语罗织罪状，冤狱大批、株连亲友；造成社会恐怖、摧残人才，知识分子不敢过问政治，禁锢思想言论、严重阻碍思想学术发展进步。",
+    "def_en": "The Yongzheng emperor's Grand Council (junjichu) perfected autocracy's plumbing: a handful of hand-picked ministers who, in the contemporary verdict, 'only transmit and transcribe' — every decision the emperor's alone, the old Manchu deliberative council abolished as an afterthought. The same three great reigns ran the literary inquisition: verses combed for treasonous fragments, authors and their kin destroyed by the hundred — a terror that taught the entire scholar class to stop thinking in public, at precisely the moment Europe's philosophes were learning to do the opposite.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第20课 清朝君主专制的强化"
+      }
+    ],
+    "collocations": [
+      "the Grand Council",
+      "literary inquisition",
+      "speech crimes",
+      "chilling effect"
+    ],
+    "example": "文字狱 translates itself into every language with censorship: 'literary inquisition' is the standing historical analogy in coverage of prosecuted posts and vanished authors — the chilling effect, dated 1720s.",
+    "nuance": "军机处 = the Grand Council（定译）。“文字狱”= literary inquisition/speech crimes（chilling effect 寒蝉效应是配套现代法律术语）。教材本课与 [[enlightenment]] 精确同期——中西思想自由的分岔时刻，是本知识库最锋利的对照之一。",
+    "links": [
+      {
+        "to": "ming-founding",
+        "rel": "related"
+      },
+      {
+        "to": "absolute-monarchy",
+        "rel": "related"
+      },
+      {
+        "to": "enlightenment",
+        "rel": "contrast"
+      },
+      {
+        "to": "nazism",
+        "rel": "related"
+      },
+      {
+        "to": "canton-system",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "1729年–18世纪末"
+  },
+  {
+    "id": "canton-system",
+    "zh": "闭关锁国政策",
+    "pinyin": "bìguān suǒguó",
+    "en": "the closed-door policy and the Canton system",
+    "def_zh": "清朝统治者以天朝物产丰盈、无需外洋货物自居，又惧沿海居民与外国人交往危及统治，实行严格限制对外贸易的“闭关锁国”政策：顺治时厉行海禁；台湾统一后一度开放四口，后因担忧而收紧；乾隆时仅留广州一处对外通商，由朝廷特许的“广州十三行”统一经营管理对外贸易。闭关锁国面对西方殖民扩张有一定自卫作用，但使中国错失了解世界、学习先进科技与变革的机遇，逐渐落伍于世界发展潮流。",
+    "def_en": "Convinced the Celestial Empire 'possessed all things in abundance' and fearing what coastal subjects might catch from foreigners, the Qing throttled trade to a single valve: from Qianlong's reign, Canton alone, and there only through the thirteen licensed hong merchants who answered for every barbarian ship. The closed door offered a kind of defence against Europe's expanding empires — at the price, the textbook concludes, of missing the world's transformation: the policy that turned the largest economy on earth into the 19th century's prey.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第20课 清朝君主专制的强化"
+      }
+    ],
+    "collocations": [
+      "the Canton system",
+      "the thirteen hongs",
+      "seclusion",
+      "fall behind the tide of history"
+    ],
+    "example": "Macartney's rejected embassy of 1793 — 'we possess all things' — is the set piece every account of China's fall opens with, and every account of China's reopening (1978, WTO 2001) closes against.",
+    "nuance": "“闭关锁国”译 the closed-door policy / seclusion（比较日本 sakoku——链 [[meiji-restoration]]）；制度专名 the Canton system；十三行 = the Thirteen Hongs/cohong。“落后于世界潮流”句式即中国近代叙事的总纲——ch8a（近代史）全册的前提，亦是改革开放话语（opening up）的反义原点。",
+    "links": [
+      {
+        "to": "grand-council",
+        "rel": "related"
+      },
+      {
+        "to": "zheng-he",
+        "rel": "related"
+      },
+      {
+        "to": "qing-prosperity",
+        "rel": "related"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "contrast"
+      },
+      {
+        "to": "meiji-restoration",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "economy"
+    ],
+    "period": "18世纪–1840年"
+  },
+  {
+    "id": "dream-red-chamber",
+    "zh": "《红楼梦》与京剧",
+    "pinyin": "Hónglóumèng / Jīngjù",
+    "en": "Dream of the Red Chamber and Peking opera",
+    "def_zh": "曹雪芹《红楼梦》（后40回一般认为高鹗续）以贾府盛衰为线索，描写贾宝玉林黛玉爱情悲剧，深刻反映封建社会末期的社会现实与走向衰亡的历史命运；人物众多性格鲜明、语言精练生动，是中国古典小说的巅峰，已译成多种文字成为世界文化宝库的珍品。戏剧方面，乾隆时四大徽班进京，徽调吸收昆曲秦腔等曲调唱法，道光年间形成新剧种“皮黄戏”，后称“京戏”“京剧”，深受广大群众喜爱、流传四方。",
+    "def_en": "Cao Xueqin's Dream of the Red Chamber — the fall of a great house, the doomed love of Baoyu and Daiyu, and in them the autumn of the whole imperial order — stands as the summit of the Chinese novel, so bottomless that 'Redology' is an academic discipline. On stage, the Anhui troupes summoned to Qianlong's birthday in 1790 stayed, blended styles, and by the 1840s had crystallised into Peking opera — the painted-face, falsetto-and-acrobatics art that became imperial China's last great gift to its own popular culture.",
+    "sources": [
+      {
+        "book": "ch7b",
+        "chapter": "第21课 清朝前期的文学艺术"
+      }
+    ],
+    "collocations": [
+      "the pinnacle of the classical novel",
+      "Redology",
+      "Peking opera",
+      "painted-face roles"
+    ],
+    "example": "Hongxue — 'Redology' — may be the only literary criticism named like a natural science, and its wars over authorship and allegory have run 200 years; Peking opera meanwhile lends English 'changing faces' and half its images of old China.",
+    "nuance": "《红楼梦》两大英译并立：Hawkes 的 The Story of the Stone 与杨宪益夫妇的 A Dream of Red Mansions——译名之争本身是翻译学名案。京剧 = Peking opera（约定俗成保留 Peking）。“红学”= Redology。与 [[ming-novels]] 合为四大名著；与 [[shakespeare]]、[[realist-literature]] 构成文学巅峰三角。",
+    "links": [
+      {
+        "to": "ming-novels",
+        "rel": "related"
+      },
+      {
+        "to": "qing-prosperity",
+        "rel": "related"
+      },
+      {
+        "to": "realist-literature",
+        "rel": "related"
+      },
+      {
+        "to": "song-urban-culture",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "period": "18世纪–19世纪"
+  }
+]

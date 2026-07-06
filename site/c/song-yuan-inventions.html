@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>活字印刷、指南针与火药 · movable type, the compass and gunpowder · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第13课 宋元时期的科技与中外交通</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>活字印刷、指南针与火药 <span class="pinyin">huózì yìnshuā / zhǐnánzhēn / huǒyào</span><span class="en">movable type, the compass and gunpowder</span></h1>
+<p class="meta">⏳ 宋元时期</p>
+<div class="card"><p class="zh">隋唐发明雕版印刷；北宋毕昇发明活字印刷术（胶泥刻字烧硬、铁板排版，“印数十百千本则极为神速”——沈括《梦溪笔谈》记载），后有木活字、王祯转轮排字、元代铜活字；13世纪传入朝鲜，后经丝路传波斯、经蒙古西征等途径入欧。战国司南、宋代人造磁铁罗盘，北宋末海船始用指南针（“阴晦观指南针”为世界航海用罗盘最早记录），经阿拉伯商人传入欧洲，大大促进世界远洋航海。唐代发明火药、唐末用于军事，宋元火器广用于战争（突火枪为枪炮始祖、元代火铳），13世纪传入阿拉伯、14世纪初经阿拉伯人传欧——对欧洲火器制造与作战方式产生巨大影响，推动欧洲社会变革。培根：印刷术、火药、磁石“改变了整个世界的面貌和状态”。</p><p class="endef">Three Song-era technologies rewired the world. Bi Sheng&#x27;s movable type (c. 1040s, recorded by the scientist Shen Kuo: &#x27;for hundreds or thousands of copies, marvellously quick&#x27;) spread via Korea and the steppe to remake the book. The magnetic compass, aboard Chinese ships by the 1100s — the world&#x27;s first recorded navigational use — reached Europe through Arab middlemen and opened the oceans. And gunpowder, a Tang discovery weaponised under the Song (the bamboo &#x27;fire-lance&#x27; fathering every gun), crossed to the Arabs by the 13th century and Europe by the 14th, where it blew up the castle and the knight. Francis Bacon, not knowing all three were Chinese, judged that no empire or sect had &#x27;exerted greater power over human affairs&#x27;.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ movable type</li><li>▸ the mariner&#x27;s compass</li><li>▸ the fire-lance</li><li>▸ technology transfer</li><li>▸ Bacon&#x27;s three inventions</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Bacon&#x27;s tribute is China&#x27;s favourite citation and Needham&#x27;s favourite irony: the civilisation that invented the tools of Europe&#x27;s rise watched Europe use them first — the Needham Question in three objects.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>活字印刷 = movable type（毕昇早于古腾堡400年，但汉字字量使雕版长期更经济——技术经济学的好案例，回应“为何古腾堡影响更大”的常见英语论述）。突火枪 = the fire-lance。培根语出《新工具》，与 [[papermaking]] 合为“四大发明”完整链。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/papermaking.html">造纸术 · papermaking</a></li><li><span class="rel">影响了 influenced</span> <a class="node" href="../c/age-of-discovery.html">新航路的开辟 · the Age of Discovery</a></li><li><span class="rel">影响了 influenced</span> <a class="node" href="../c/renaissance.html">文艺复兴 · the Renaissance</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/song-economy.html">宋代经济的发展（经济重心南移） · the Song economic revolution</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/weijin-culture.html">魏晋南北朝的科技与文化 · science and arts of the Wei-Jin era</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/ming-science.html">明代科技名著与西学东渐 · Ming science: the great compendia and the Jesuit exchange</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7b 第13课 宋元时期的科技与中外交通</p>
+<p><a class="tag" href="../themes.html#science-tech">#science-tech</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
