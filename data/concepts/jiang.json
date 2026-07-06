@@ -1,0 +1,233 @@
+[
+ {
+  "id": "elite-overproduction",
+  "zh": "精英过剩",
+  "pinyin": "jīngyīng guòshèng",
+  "en": "elite overproduction",
+  "def_zh": "特纳(Peter Turchin)历史动力学的核心概念:当社会培养的精英候选人超过精英职位数量,落选精英成为动荡的引擎——从罗马内战到当代学历通胀。蒋教授文明史讲座反复援引以解释周期性崩溃。",
+  "def_en": "Peter Turchin's cliodynamics term: when a society produces more elite aspirants than there are elite positions, the surplus becomes the engine of instability — from Rome's civil wars to today's credential inflation. A recurring lens in the Civilization lectures.",
+  "sources": [
+   {
+    "book": "jiang",
+    "chapter": "Civilization #6: Elite Overproduction and the Bronze Age Collapse"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "pron": "overproduction /ˌoʊvərprəˈdʌkʃən/",
+  "etymology": "elite 源自拉丁 eligere(选出,e-出+legere 拣)——精英即“被选出者”;“精英过剩”即被选出者供过于求,词义自带反讽。",
+  "synonyms": [
+   {
+    "word": "credential inflation",
+    "ipa": "/krɪˈdɛnʃəl ɪnˈfleɪʃən/",
+    "sentence": "Credential inflation makes the master's degree the new high-school diploma."
+   },
+   {
+    "word": "cliodynamics",
+    "ipa": "/ˌklaɪoʊdaɪˈnæmɪks/",
+    "sentence": "Cliodynamics tries to do to history what physics did to falling apples."
+   }
+  ],
+  "collocations": [
+   "a surplus of elite aspirants",
+   "credential inflation",
+   "the frustrated intelligentsia",
+   "secular cycles"
+  ],
+  "example": "Graduate un(der)employment is elite overproduction with a diploma — the frustrated aspirant is a very old political variable.",
+  "nuance": "与《学神》《金榜题名之后》直接咬合:中国学历通胀与内卷正是精英过剩的当代现场;与教材科举史(nine-rank/keju)对读——古今同构的选拔困境。",
+  "links": [
+   {
+    "to": "xiang-biao",
+    "rel": "related"
+   },
+   {
+    "to": "study-gods",
+    "rel": "related"
+   },
+   {
+    "to": "fall-of-rome",
+    "rel": "related"
+   },
+   {
+    "to": "imperial-examinations",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "bronze-age-collapse",
+  "zh": "青铜时代大崩溃",
+  "pinyin": "qīngtóng shídài bēngkuì",
+  "en": "the Late Bronze Age collapse",
+  "def_zh": "约公元前1200年,地中海东部互联文明群(迈锡尼、赫梯、埃及)在数十年内连锁崩溃——“海上民族”入侵、地震、气候变化、贸易断裂的系统性崩溃(systems collapse)。全球化脆弱性的最古老案例。",
+  "def_en": "Around 1200 BC the interconnected eastern-Mediterranean civilisations (Mycenae, the Hittites, Egypt) fell in a chain within decades — Sea Peoples, earthquakes, climate change and severed trade: a systems collapse. History's oldest case study in globalisation's fragility.",
+  "sources": [
+   {
+    "book": "jiang",
+    "chapter": "Civilization #6: Elite Overproduction and the Bronze Age Collapse"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "geography"
+  ],
+  "pron": "collapse /kəˈlæps/",
+  "etymology": "collapse 源自拉丁 com-(一起)+ labi(滑落)——“崩溃”即“一起滑倒”;系统性崩溃的词源恰是连锁跌落的画面。",
+  "synonyms": [
+   {
+    "word": "systems collapse",
+    "ipa": "/ˈsɪstəmz kəˈlæps/",
+    "sentence": "A systems collapse has no single villain, only a network that stopped holding."
+   },
+   {
+    "word": "cascading failure",
+    "ipa": "/kæˈskeɪdɪŋ ˈfeɪljər/",
+    "sentence": "Cascading failure is a power grid's way of resembling an empire."
+   }
+  ],
+  "collocations": [
+   "the Sea Peoples",
+   "a systems collapse",
+   "the first dark age",
+   "interconnected fragility"
+  ],
+  "example": "Analysts warn that tightly-coupled supply chains invite a Bronze Age ending: efficient, interconnected, and collapse-prone all at once.",
+  "nuance": "与教材青铜文明(mesopotamia/ancient-egypt)、气候节点(uninhabitable-earth)三方相连;systems collapse 已成供应链、金融风险的通用隐喻——三千年前的案例仍在被引用。",
+  "links": [
+   {
+    "to": "mesopotamia",
+    "rel": "related"
+   },
+   {
+    "to": "aegean-civilization",
+    "rel": "related"
+   },
+   {
+    "to": "uninhabitable-earth",
+    "rel": "related"
+   },
+   {
+    "to": "fall-of-rome",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "eudaimonia",
+  "zh": "幸福（eudaimonia）",
+  "pinyin": "xìngfú",
+  "en": "eudaimonia: flourishing",
+  "def_zh": "希腊伦理学核心:eudaimonia 非快乐情绪,而是“人的繁盛”——把人之为人的功能(理性、德性)发挥到极致的一生。雅典扩张文化的精神内核,亚里士多德《尼各马可伦理学》的最高目的。",
+  "def_en": "The keystone of Greek ethics: eudaimonia is not a pleasant mood but human flourishing — a whole life spent exercising our defining functions (reason, virtue) at their best. The spirit of expansive Athens; the highest end in Aristotle's Ethics.",
+  "sources": [
+   {
+    "book": "jiang",
+    "chapter": "Civilization #8: Rat Utopia and the Peloponnesian War"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "eudaimonia /ˌjuːdaɪˈmoʊniə/",
+  "etymology": "eudaimonia = eu(好)+ daimōn(守护神)——本义“有好的守护神眷顾”;英译 happiness 太轻,学界多保留希腊原词或译 flourishing。",
+  "synonyms": [
+   {
+    "word": "flourishing",
+    "ipa": "/ˈflʌrɪʃɪŋ/",
+    "sentence": "Flourishing is happiness with a verb tense — something you do across a lifetime."
+   },
+   {
+    "word": "the good life",
+    "ipa": "/ðə ɡʊd laɪf/",
+    "sentence": "The good life, for the Greeks, was a performance, not a feeling."
+   }
+  ],
+  "collocations": [
+   "human flourishing",
+   "virtue ethics",
+   "living well and doing well",
+   "the highest good (summum bonum)"
+  ],
+  "example": "Positive psychology rebranded eudaimonia as 'flourishing' — a 2,400-year-old idea with a new citation index.",
+  "nuance": "翻译陷阱:eudaimonia≠happiness(情绪),≈flourishing(整全的人生成就)——中文“幸福”亦偏情绪,故此概念中英皆需注解。与斯多亚 equanimity、儒家“修身”并列可比。",
+  "links": [
+   {
+    "to": "aristotle",
+    "rel": "narrower"
+   },
+   {
+    "to": "stoicism",
+    "rel": "related"
+   },
+   {
+    "to": "courage-disliked",
+    "rel": "related"
+   },
+   {
+    "to": "xunzi-learning",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "geography-is-destiny",
+  "zh": "地理即命运",
+  "pinyin": "dìlǐ jí mìngyùn",
+  "en": "geography is destiny",
+  "def_zh": "地理决定论的通俗表述:一地的地形、气候、资源塑造其经济、文化与政制——斯巴达的平原造就农业奴隶制军国,雅典的港湾造就贸易民主。蒋教授反复用以对比城邦,亦是戴蒙德《枪炮病菌与钢铁》的主线。",
+  "def_en": "The popular form of geographic determinism: a place's terrain, climate and resources shape its economy, culture and politics — Sparta's plains bred an agrarian slave-militarism, Athens's harbours bred trading democracy. Diamond's Guns, Germs and Steel is the book-length version.",
+  "sources": [
+   {
+    "book": "jiang",
+    "chapter": "Civilization #8: Rat Utopia and the Peloponnesian War"
+   }
+  ],
+  "themes": [
+   "geography",
+   "ideas"
+  ],
+  "pron": "destiny /ˈdɛstɪni/",
+  "etymology": "destiny 源自拉丁 destinare(固定、注定)——“命运”即“被固定之事”;“地理即命运”把命运的锚点从星辰移到地形。",
+  "synonyms": [
+   {
+    "word": "geographic determinism",
+    "ipa": "/ˌdʒiːəˈɡræfɪk dɪˈtɜːrmɪnɪzəm/",
+    "sentence": "Geographic determinism loads the dice; it does not throw them."
+   },
+   {
+    "word": "environmental possibilism",
+    "ipa": "/ɪnˌvaɪrənˈmɛntəl ˈpɒsɪbɪlɪzəm/",
+    "sentence": "Possibilism replies: geography deals the hand, culture plays it."
+   }
+  ],
+  "collocations": [
+   "geography is destiny",
+   "the tyranny of the map",
+   "possibilism vs determinism",
+   "the accident of latitude"
+  ],
+  "example": "Why did Athens sail and Sparta march? Geography is destiny — one had harbours, the other had plains and helots.",
+  "nuance": "学界警惕其滑向决定论——possibilism(或然论)是标准修正:地理设约束不设剧本。对接用户地理/GIS背景与教材“人地关系”,是人文地理的元命题;段义孚(topophilia)恰是对纯地理决定论的人文主义反拨。",
+  "links": [
+   {
+    "to": "guns-germs-steel",
+    "rel": "related"
+   },
+   {
+    "to": "sparta",
+    "rel": "related"
+   },
+   {
+    "to": "athenian-democracy",
+    "rel": "related"
+   },
+   {
+    "to": "topophilia",
+    "rel": "contrast"
+   }
+  ]
+ }
+]

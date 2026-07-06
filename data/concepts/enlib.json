@@ -1012,5 +1012,2827 @@
     "sentence": "Ship the minimum viable product; let users write the roadmap."
    }
   ]
+ },
+ {
+  "id": "nietzsche",
+  "zh": "尼采",
+  "pinyin": "nícǎi",
+  "en": "Nietzsche: God is dead, will to power, Übermensch",
+  "def_zh": "《查拉图斯特拉如是说》及全集：上帝已死（现代性失去价值地基）、权力意志、超人（Übermensch）、永恒轮回、主人道德与奴隶道德——英语思想写作的高频引用源。",
+  "def_en": "From Zarathustra and the collected works: God is dead (modernity loses its ground of value), the will to power, the Übermensch, eternal recurrence, master vs slave morality. English essayists quote him constantly, usually out of context.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Thus Spoke Zarathustra / Nietzsche Collection (22 works)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "Nietzsche /ˈniːtʃə/",
+  "etymology": "Übermensch = über（在上）+ Mensch（人）——英译 superman 被漫画劫走后，学界改用 overman 或径用德文，一词的翻译史即接受史。",
+  "synonyms": [
+   {
+    "word": "nihilism",
+    "ipa": "/ˈnaɪɪlɪzəm/",
+    "sentence": "Nihilism is the invoice that arrives after God's funeral."
+   },
+   {
+    "word": "self-overcoming",
+    "ipa": "/sɛlf ˌoʊvərˈkʌmɪŋ/",
+    "sentence": "Self-overcoming treats yesterday's self as raw material."
+   }
+  ],
+  "collocations": [
+   "God is dead — and we have killed him",
+   "what doesn't kill me makes me stronger",
+   "beyond good and evil",
+   "a Nietzschean will to power",
+   "slave morality"
+  ],
+  "example": "Commentators reach for Nietzsche whenever a society keeps the morality after cancelling the metaphysics that underwrote it.",
+  "nuance": "尼采生前反民族主义、反反犹，其妹伪编遗稿使其被纳粹征用——引用尼采须防这段污染史。“上帝已死”非胜利宣言而是危机诊断，误读率极高。Zarathustra 即琐罗亚斯德：尼采故意让二元道德的发明者亲自出来收回它。",
+  "links": [
+   {
+    "to": "enlightenment",
+    "rel": "contrast"
+   },
+   {
+    "to": "ayn-rand",
+    "rel": "influenced"
+   }
+  ]
+ },
+ {
+  "id": "kant-critique",
+  "zh": "康德《纯粹理性批判》",
+  "pinyin": "kāngdé",
+  "en": "Kant: the Copernican revolution in philosophy",
+  "def_zh": "康德三大批判之首：心灵不是被动接收世界，而是以先天范畴（时间、空间、因果）构造经验——“哲学的哥白尼革命”。伦理学上的绝对命令（categorical imperative）：只按你愿意成为普遍法则的准则行动；人是目的，不是手段。",
+  "def_en": "Mind does not copy the world; it constitutes experience through a priori categories — Kant's Copernican revolution. In ethics, the categorical imperative: act only on maxims you could will as universal law; treat persons as ends, never merely as means.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Critique of Pure Reason (Kant)"
+   },
+   {
+    "book": "reading",
+    "chapter": "打开：周濂的100堂西方哲学课"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "categorical imperative /ˌkætəˈɡɒrɪkəl ɪmˈpɛrətɪv/",
+  "etymology": "critique 经法语借自希腊 kritikē（判别之术，krinein 分辨）——“批判”非攻击而是“划界”：理性为自己划定有效范围。",
+  "synonyms": [
+   {
+    "word": "a priori",
+    "ipa": "/ˌeɪ praɪˈɔːraɪ/",
+    "sentence": "A priori truths are certified before experience clocks in."
+   },
+   {
+    "word": "universalisability",
+    "ipa": "/ˌjuːnɪˌvɜːsəlaɪzəˈbɪlɪti/",
+    "sentence": "Universalisability asks: what if everyone did that?"
+   }
+  ],
+  "collocations": [
+   "the categorical imperative",
+   "ends in themselves",
+   "the thing-in-itself",
+   "a Kantian objection",
+   "conditions of possibility"
+  ],
+  "example": "Privacy advocates make a Kantian move: targeted ads treat users as means, never as ends.",
+  "nuance": "中文“批判”带贬义攻击色彩,康德的 Kritik 是中性“审查界限”——《纯粹理性批判》即“为纯粹理性划界”。绝对命令与孔子“己所不欲勿施于人”常被并举,但康德版是可普遍化检验,不是同理心——考试级差异。",
+  "links": [
+   {
+    "to": "enlightenment",
+    "rel": "narrower"
+   },
+   {
+    "to": "confucius",
+    "rel": "contrast"
+   },
+   {
+    "to": "logic-toolkit",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "plato-cave",
+  "zh": "柏拉图：洞穴与理念",
+  "pinyin": "bólātú",
+  "en": "Plato: the cave, the Forms, and eros",
+  "def_zh": "洞穴寓言：囚徒把火光投在墙上的影子当作实在——哲学是转身走向阳光的痛苦旅程。理念论（Forms）：可感世界是理念世界的摹本。《会饮篇》论爱欲（eros）：从爱一具身体上升到爱美本身——“柏拉图式爱情”的真正出处。",
+  "def_en": "The cave: prisoners mistake shadows for reality; philosophy is the painful turn toward the sun. The theory of Forms: particulars copy eternal patterns. The Symposium's ladder of eros — from one body to Beauty itself — is what 'Platonic love' actually meant.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Symposium (Plato)"
+   },
+   {
+    "book": "jiang",
+    "chapter": "Civilization #10: The Trial of Socrates and Plato's Allegory of the Cave"
+   },
+   {
+    "book": "reading",
+    "chapter": "打开：周濂的100堂西方哲学课"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "Plato /ˈpleɪtoʊ/",
+  "etymology": "eros（欲爱）、philia（友爱）、agape（圣爱）——希腊语三分“爱”,英语一个 love 全包,汉语“爱情/友情/大爱”反而更近希腊——三语对照的经典案例。",
+  "synonyms": [
+   {
+    "word": "allegory of the cave",
+    "ipa": "/ˈælɪɡəri ʌv ðə keɪv/",
+    "sentence": "Every filter bubble is a cave with better resolution."
+   },
+   {
+    "word": "idealism",
+    "ipa": "/aɪˈdiəlɪzəm/",
+    "sentence": "Philosophical idealism ranks the blueprint above the building."
+   }
+  ],
+  "collocations": [
+   "shadows on the cave wall",
+   "Platonic ideal/form",
+   "a Platonic relationship",
+   "footnotes to Plato",
+   "philosopher-king"
+  ],
+  "example": "Whitehead's quip — all philosophy is footnotes to Plato — survives because the cave keeps getting new projectors.",
+  "nuance": "“柏拉图式爱情”今指无性恋爱,原义是以爱欲为梯攀向理念——词义漂移两千年。洞穴寓言与庄子“井蛙不可语海”常并引,但柏拉图的重点是回到洞中救人（哲人的政治义务）,别漏后半段。",
+  "links": [
+   {
+    "to": "socrates",
+    "rel": "related"
+   },
+   {
+    "to": "aristotle",
+    "rel": "influenced"
+   },
+   {
+    "to": "kant-critique",
+    "rel": "influenced"
+   }
+  ]
+ },
+ {
+  "id": "weil-gravity-grace",
+  "zh": "薇依《重负与神恩》",
+  "pinyin": "wēiyī",
+  "en": "Simone Weil: gravity, grace and attention",
+  "def_zh": "法国哲学家-神秘主义者：重力（gravity）指灵魂下坠的自然倾向（自我中心、填补空虚）,神恩（grace）是唯一的反重力。核心概念“关注”（attention）：完全无我的注视即祈祷——“绝对纯粹的关注就是祈祷”。",
+  "def_en": "Weil's physics of the soul: gravity is its natural downward drag (ego, void-filling); grace the only counterforce. Her master concept is attention — utterly selfless attention, she says, is prayer.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Gravity and Grace (Simone Weil)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "Weil /veɪ/",
+  "etymology": "attention 源自拉丁 ad-（朝向）+ tendere（伸展）——“关注”即“朝向对象伸展自己”,薇依用词源本义。",
+  "synonyms": [
+   {
+    "word": "attentiveness",
+    "ipa": "/əˈtɛntɪvnəs/",
+    "sentence": "Attentiveness gives the other person the rarest gift: your absence."
+   },
+   {
+    "word": "decreation",
+    "ipa": "/ˌdiːkriˈeɪʃən/",
+    "sentence": "Decreation is Weil's word for unmaking the ego God's way."
+   }
+  ],
+  "collocations": [
+   "absolutely unmixed attention is prayer",
+   "the needs of the soul",
+   "affliction (malheur)",
+   "to be rooted"
+  ],
+  "example": "In an attention economy, Weil reads like sabotage: attention as the substance of prayer, not the inventory of platforms.",
+  "nuance": "Weil 读音近法语“韦伊”/veɪ/,勿照英文拼读作“威尔”,也勿与社会学家马克斯·韦伯（Weber）混淆。她的 attention 与正念（mindfulness）不同:朝向他者与真理,而非朝向自身状态。",
+  "links": [
+   {
+    "to": "rise-of-christianity",
+    "rel": "related"
+   },
+   {
+    "to": "vipassana",
+    "rel": "contrast"
+   },
+   {
+    "to": "stoicism",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "barthes-lovers-discourse",
+  "zh": "罗兰·巴特《恋人絮语》",
+  "pinyin": "luólán bātè",
+  "en": "Barthes: A Lover's Discourse",
+  "def_zh": "以“片段”（figures）写成的恋爱现象学：等待、焦灼、情书、吃醋——恋人是活在符号里的人。巴特是符号学（semiotics）大家,“作者已死”亦其名言。",
+  "def_en": "A phenomenology of love written in fragments — waiting, jealousy, the love letter — the lover as a creature living inside signs. Barthes is semiotics' great stylist; 'the death of the author' is also his.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "A Lover's Discourse: Fragments (Roland Barthes)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "pron": "Barthes /bɑːrt/",
+  "etymology": "discourse 源自拉丁 discurrere（来回奔跑）——“话语”本义“跑来跑去”,恋人的心绪正是。",
+  "synonyms": [
+   {
+    "word": "semiotics",
+    "ipa": "/ˌsɛmiˈɒtɪks/",
+    "sentence": "Semiotics reads a rose as a sentence with thorns."
+   },
+   {
+    "word": "the beloved",
+    "ipa": "/ðə bɪˈlʌvɪd/",
+    "sentence": "The beloved is a text the lover annotates obsessively."
+   }
+  ],
+  "collocations": [
+   "a lover's discourse",
+   "the death of the author",
+   "waiting is an enchantment",
+   "mythologies of everyday life"
+  ],
+  "example": "Dating-app essays are Barthes with push notifications: the typing indicator is this century's figure of waiting.",
+  "nuance": "书名 fragments 是方法而非未完成——巴特拒绝把爱情写成体系。“作者已死”指意义由读者生产,不是文学职业的讣告,商业写作常误用。",
+  "links": [
+   {
+    "to": "fromm-love",
+    "rel": "contrast"
+   },
+   {
+    "to": "wittgenstein-language",
+    "rel": "related"
+   },
+   {
+    "to": "story-craft",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "yalom-existential",
+  "zh": "亚隆存在主义心理治疗",
+  "pinyin": "yàlóng",
+  "en": "Yalom: the four ultimate concerns",
+  "def_zh": "欧文·亚隆把存在主义哲学变成临床框架：四个终极关怀——死亡（death）、自由（freedom）、孤独（isolation）、无意义（meaninglessness）。焦虑不是病症而是对存在事实的诚实反应。",
+  "def_en": "Irvin Yalom turned existentialism into a clinical frame: four ultimate concerns — death, freedom, isolation, meaninglessness. Anxiety is not a malfunction but an honest response to the facts of existence.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "存在主义心理治疗 (Irvin Yalom, Existential Psychotherapy)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "existential /ˌɛɡzɪˈstɛnʃəl/",
+  "etymology": "exist 源自拉丁 ex-（出）+ sistere（站立）——“存在”即“站出来”:从背景中站出来面对自身。",
+  "synonyms": [
+   {
+    "word": "mortality salience",
+    "ipa": "/mɔːrˈtælɪti ˈseɪliəns/",
+    "sentence": "Mortality salience is the deadline that reprices every trivial worry."
+   },
+   {
+    "word": "existential dread",
+    "ipa": "/ˌɛɡzɪˈstɛnʃəl drɛd/",
+    "sentence": "Existential dread is freedom noticing its own price tag."
+   }
+  ],
+  "collocations": [
+   "the four ultimate concerns",
+   "death anxiety",
+   "an existential crisis/threat",
+   "staring into the abyss"
+  ],
+  "example": "The Economist calls AI an 'existential risk' — Yalom would note the term migrated from the therapist's couch to the policy paper.",
+  "nuance": "existential 一词已双轨:哲学-心理义（关乎存在体验）与安全政策义（关乎存亡,existential threat）——读英文时按语境切换,勿混。",
+  "links": [
+   {
+    "to": "courage-disliked",
+    "rel": "related"
+   },
+   {
+    "to": "trauma-psychology",
+    "rel": "related"
+   },
+   {
+    "to": "stoicism",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "four-loves",
+  "zh": "路易斯《四种爱》",
+  "pinyin": "lùyìsī",
+  "en": "C.S. Lewis: the four loves",
+  "def_zh": "C.S.路易斯借希腊语四分英语的 love：storge（亲情/熟悉之爱）、philia（友爱）、eros（爱情）、agape/charity（无条件的圣爱）。《返璞归真》（Mere Christianity）为其神学入门书。",
+  "def_en": "Lewis borrows Greek to split the English word love four ways: storge (affection), philia (friendship), eros (romantic love), agape or charity (unconditional love). Mere Christianity is his companion apologetics.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Four Loves / Mere Christianity (C.S. Lewis)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "pron": "agape /ˈæɡəpeɪ/",
+  "etymology": "agape 希腊语“圣爱”借入英语后与 agape（张口惊愕,a-gape）拼写撞车——重音分义:/ˈæɡəpeɪ/ 是爱,/əˈɡeɪp/ 是张着嘴。",
+  "synonyms": [
+   {
+    "word": "charity",
+    "ipa": "/ˈtʃærɪti/",
+    "sentence": "In older English, charity meant agape — love, before it meant donations."
+   },
+   {
+    "word": "affection",
+    "ipa": "/əˈfɛkʃən/",
+    "sentence": "Affection is love grown in the soil of habit."
+   }
+  ],
+  "collocations": [
+   "the four loves",
+   "to love at all is to be vulnerable",
+   "mere Christianity",
+   "friendship is unnecessary, like philosophy"
+  ],
+  "example": "Lewis's line — to love at all is to be vulnerable — gets quoted at weddings by people who skip the theology underneath it.",
+  "nuance": "英语一个 love 覆盖汉语的爱情/亲情/友情/大爱——与希腊四分对照,汉语学习者反而占优。KJV 圣经把 agape 译作 charity,故 charity 在古典英文里指“圣爱”而非慈善捐款。",
+  "links": [
+   {
+    "to": "plato-cave",
+    "rel": "related"
+   },
+   {
+    "to": "fromm-love",
+    "rel": "contrast"
+   },
+   {
+    "to": "biblical-allusions",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "nouwen-wounded-healer",
+  "zh": "卢云：负伤的治疗者",
+  "pinyin": "lúyún",
+  "en": "Nouwen: the wounded healer",
+  "def_zh": "荷兰神父卢云的核心概念：助人者不是从高处施与,而是以自己的伤口服侍他人的伤口——“负伤的治疗者”。另有 hospitality（款待:为陌生人腾出自由空间）与 solitude（独处≠孤独）。",
+  "def_en": "Henri Nouwen's signature idea: the helper serves from shared woundedness, not from above. His hospitality means creating free space for the stranger; solitude is aloneness chosen, not suffered.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Wounded Healer / Reaching Out / Life of the Beloved (Henri Nouwen)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "Nouwen /ˈnaʊwən/",
+  "etymology": "hospitality 源自拉丁 hospes（既是主人也是客人/陌生人）——hospital、hotel、host、hostile 同根:款待与敌意仅一线之隔,词源自带神学。",
+  "synonyms": [
+   {
+    "word": "compassion",
+    "ipa": "/kəmˈpæʃən/",
+    "sentence": "Compassion — suffering-with — is sympathy that stays in the room."
+   },
+   {
+    "word": "belovedness",
+    "ipa": "/bɪˈlʌvɪdnəs/",
+    "sentence": "Belovedness, for Nouwen, precedes achievement — the voice before the résumé."
+   }
+  ],
+  "collocations": [
+   "the wounded healer",
+   "creating space for the stranger",
+   "from solitude to community",
+   "downward mobility of the gospel"
+  ],
+  "example": "Teacher-training now borrows the wounded healer without citation: the mentor who admits struggle reaches students the expert cannot.",
+  "nuance": "wounded healer 原型出自荣格（希腊神话喀戎 Chiron:负伤的医神半人马）,卢云使其成为牧养与助人职业的通用语——教育、心理咨询文献高频词。",
+  "links": [
+   {
+    "to": "trauma-psychology",
+    "rel": "related"
+   },
+   {
+    "to": "four-loves",
+    "rel": "related"
+   },
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "biblical-allusions",
+  "zh": "英语中的圣经典故",
+  "pinyin": "shèngjīng diǎngù",
+  "en": "Biblical allusions in English",
+  "def_zh": "英语的第二语法：好撒玛利亚人（见义勇为者/好人法）、浪子回头（prodigal son）、大卫对歌利亚（以弱胜强）、大马士革路上（damascene conversion,幡然醒悟）、替罪羊（scapegoat）、洗手不干（wash one's hands）、墙上的字（writing on the wall,凶兆）——《经济学人》每期必用。",
+  "def_en": "English's second grammar: the good Samaritan, the prodigal son, David and Goliath, the road to Damascus, the scapegoat, washing one's hands, the writing on the wall. The Economist cannot get through an issue without them.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Holy Bible, New Living Translation"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "allusion /əˈluːʒən/",
+  "etymology": "scapegoat 为1530年廷代尔译经自造词:(e)scape + goat——利未记中承载众罪被逐旷野的羊;一次翻译发明了一个概念。",
+  "synonyms": [
+   {
+    "word": "damascene conversion",
+    "ipa": "/ˌdæməˈsiːn kənˈvɜːrʒən/",
+    "sentence": "The CEO's damascene conversion to green energy coincided with the subsidy."
+   },
+   {
+    "word": "Goliath",
+    "ipa": "/ɡəˈlaɪəθ/",
+    "sentence": "Every startup pitch needs a Goliath; investors fund the slingshot."
+   }
+  ],
+  "collocations": [
+   "good Samaritan laws",
+   "a prodigal son returns",
+   "David-versus-Goliath contest",
+   "the writing is on the wall",
+   "forbidden fruit",
+   "a Damascus-road moment"
+  ],
+  "example": "The writing was on the wall for the peg — Belshazzar's feast, rerun nightly on the currency desk.",
+  "nuance": "无需信仰,但不识典故读不懂英文评论——地位相当于汉语的成语典故系统。注意钦定本（KJV）措辞才是习语来源:the powers that be、salt of the earth、go the extra mile 皆 KJV 原文。",
+  "links": [
+   {
+    "to": "rise-of-christianity",
+    "rel": "related"
+   },
+   {
+    "to": "four-loves",
+    "rel": "related"
+   },
+   {
+    "to": "shakespeare",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "vipassana",
+  "zh": "内观禅修",
+  "pinyin": "nèiguān",
+  "en": "Vipassana: insight meditation",
+  "def_zh": "葛印卡系统的十日内观：观察呼吸与身体感受,体证三法印——无常（anicca）、苦（dukkha）、无我（anatta）;核心训练是平等心（equanimity）:不贪恋愉悦感受,不嗔拒不适感受。",
+  "def_en": "Goenka's ten-day method: observe breath and bodily sensation until impermanence (anicca), unsatisfactoriness (dukkha) and non-self (anatta) stop being doctrines and become experience. The trained faculty is equanimity toward every sensation.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Art of Living: Vipassana Meditation (William Hart / S.N. Goenka)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "vipassana /vɪˈpæsənə/",
+  "etymology": "vipassanā 巴利语 vi-（透彻）+ passanā（看）——“内观”即“看透”;anicca（无常）之 a- 为否定前缀+nicca（恒常）。",
+  "synonyms": [
+   {
+    "word": "impermanence",
+    "ipa": "/ɪmˈpɜːrmənəns/",
+    "sentence": "Impermanence is the fine print on every pleasant sensation."
+   },
+   {
+    "word": "mindfulness",
+    "ipa": "/ˈmaɪndfəlnəs/",
+    "sentence": "Corporate mindfulness kept the technique and returned the philosophy."
+   }
+  ],
+  "collocations": [
+   "a ten-day vipassana retreat",
+   "noble silence",
+   "body scan",
+   "craving and aversion",
+   "sensations arise and pass away"
+  ],
+  "example": "Tech executives book vipassana retreats the way their predecessors booked golf — and the noble silence is the real luxury good.",
+  "nuance": "mindfulness 是内观去宗教化的出口产品——医疗化（MBSR）后丢弃了解脱论。与教材佛教单元对接:vipassana 自称保存了佛陀原始技术,与汉传禅宗（Zen 经日语入英）是不同法脉。",
+  "links": [
+   {
+    "to": "buddhism",
+    "rel": "narrower"
+   },
+   {
+    "to": "weil-gravity-grace",
+    "rel": "contrast"
+   },
+   {
+    "to": "stoicism",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "bryson-science",
+  "zh": "布莱森科普写作",
+  "pinyin": "bùláisēn",
+  "en": "Bill Bryson: A Short History of Nearly Everything",
+  "def_zh": "科普写作的黄金标准：宇宙大爆炸到智人的全史,以幽默轶事讲硬科学——“你能读到此页,是无数代祖先在每一次灭绝中都恰好幸存”的惊叹法。《人体简史》（The Body）同法写人体。",
+  "def_en": "The gold standard of popular science: from Big Bang to Homo sapiens, hard science carried by anecdote and awe. The Body does the same for anatomy — a guide for occupants.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "A Short History of Nearly Everything / The Body (Bill Bryson)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "science"
+  ],
+  "pron": "Bryson /ˈbraɪsən/",
+  "etymology": "science 源自拉丁 scientia（知识,scire 知道）——19世纪前科学家自称 natural philosopher;scientist 为1833年新造词,比“科学”一词的日源汉译还早不了太多。",
+  "synonyms": [
+   {
+    "word": "popular science",
+    "ipa": "/ˈpɒpjʊlər ˈsaɪəns/",
+    "sentence": "Popular science translates the footnotes back into wonder."
+   },
+   {
+    "word": "deep time",
+    "ipa": "/diːp taɪm/",
+    "sentence": "Deep time makes the pyramids look like this morning."
+   }
+  ],
+  "collocations": [
+   "a short history of ...",
+   "the improbability of existence",
+   "science writing",
+   "in the grand scheme of things"
+  ],
+  "example": "Every editor since has commissioned 'a short history of' something — Bryson's title became a genre's template.",
+  "nuance": "布莱森是学英式幽默文体的绝佳教材:自嘲、轻描淡写（understatement）、括号插话——与海明威式极简相反的另一极英文审美。",
+  "links": [
+   {
+    "to": "hemingway-iceberg",
+    "rel": "contrast"
+   },
+   {
+    "to": "darwin",
+    "rel": "related"
+   },
+   {
+    "to": "newton",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "educated-memoir",
+  "zh": "《你当像鸟飞往你的山》",
+  "pinyin": "nǐ dāng xiàng niǎo",
+  "en": "Educated (Tara Westover)",
+  "def_zh": "从未上过学的摩门生存主义家庭女儿,自学考入杨百翰大学,终至剑桥博士——代价是与家庭决裂。核心英语概念:education as self-invention（教育即自我发明）;书名中译借圣经诗篇,原名只有一个词:Educated。",
+  "def_en": "Raised by Mormon survivalists, never schooled, Westover self-studies into BYU and on to a Cambridge PhD — at the price of her family. Education as self-invention; the memoir as sociology.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Educated (Tara Westover)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "memoir /ˈmɛmwɑːr/",
+  "etymology": "memoir 借自法语 mémoire（记忆）——回忆录即“凭记忆作证”,与 memory、memorial 同根。",
+  "synonyms": [
+   {
+    "word": "self-invention",
+    "ipa": "/sɛlf ɪnˈvɛnʃən/",
+    "sentence": "Self-invention is education's most expensive elective."
+   },
+   {
+    "word": "estrangement",
+    "ipa": "/ɪˈstreɪndʒmənt/",
+    "sentence": "Estrangement is the tuition her degrees quietly charged."
+   }
+  ],
+  "collocations": [
+   "an education can be a wedge",
+   "first-generation student",
+   "survivalist family",
+   "you could call it transformation"
+  ],
+  "example": "Educated sits beside 金榜题名之后 on the same shelf: both ask what a degree costs the person who climbs through it.",
+  "nuance": "与《金榜题名之后》《学神》构成三角:美国版讲教育撕裂原生家庭,中国版讲文凭内部的分层与迷失——比较阅读价值极高。中译书名的诗意是译者添加,英文原题冷峻一词。",
+  "links": [
+   {
+    "to": "jinbang-after",
+    "rel": "related"
+   },
+   {
+    "to": "study-gods",
+    "rel": "related"
+   },
+   {
+    "to": "mass-education",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "hillbilly-elegy",
+  "zh": "《乡下人的悲歌》",
+  "pinyin": "xiāngxiàrén de bēigē",
+  "en": "Hillbilly Elegy (J.D. Vance)",
+  "def_zh": "万斯回忆阿巴拉契亚白人工人阶级:瘾疾、离散家庭、习得性无助与“文化衰败论”。2016年被当作理解特朗普选民的解码书;作者后来成为副总统——书与人本身成了美国政治的教材。",
+  "def_en": "Vance's memoir of Appalachia's white working class — addiction, family chaos, learned helplessness, and a culture-first diagnosis. Read in 2016 as the Trump-voter decoder ring; its author is now Vice-President, which makes the book a primary source twice over.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Hillbilly Elegy (J.D. Vance)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "governance"
+  ],
+  "pron": "Appalachia /ˌæpəˈlætʃə/",
+  "etymology": "hillbilly = hill（山）+ Billy（人名泛称）——山地人的贬称被作者自我认领;elegy（挽歌）源自希腊 elegos 哀歌。",
+  "synonyms": [
+   {
+    "word": "the Rust Belt",
+    "ipa": "/ðə rʌst bɛlt/",
+    "sentence": "The Rust Belt is deindustrialisation with a postcode."
+   },
+   {
+    "word": "left-behind",
+    "ipa": "/lɛft bɪˈhaɪnd/",
+    "sentence": "'Left-behind' places vote to be remembered."
+   }
+  ],
+  "collocations": [
+   "white working class",
+   "deaths of despair",
+   "flyover country",
+   "culture of poverty debate"
+  ],
+  "example": "Every Economist piece on American populism still footnotes Hillbilly Elegy — now as both diagnosis and campaign biography.",
+  "nuance": "书的争议即其价值:文化归因（穷是习性）vs 结构归因（穷是去工业化）——与教材“共同富裕”单元、《置身事内》的区域差距议题对读。deaths of despair（绝望之死:自杀+阿片+酒精肝）为配套术语。",
+  "links": [
+   {
+    "to": "common-prosperity",
+    "rel": "contrast"
+   },
+   {
+    "to": "hukou-baojia",
+    "rel": "related"
+   },
+   {
+    "to": "sociological-imagination",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "four-thousand-weeks",
+  "zh": "《四千周》",
+  "pinyin": "sìqiān zhōu",
+  "en": "Four Thousand Weeks: time and finitude",
+  "def_zh": "伯克曼反生产力之书:人生约四千周,时间管理的真问题不是装下更多,而是接受装不下——有限性（finitude）。效率是陷阱:清空收件箱只会招来更多邮件;真正的选择是“战略性亏欠”。",
+  "def_en": "Burkeman's anti-productivity book: a life is about four thousand weeks, and the real task is not fitting more in but accepting that most things won't fit — finitude. Efficiency is a trap; the empty inbox refills. Choose what to neglect, strategically.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Four Thousand Weeks (Oliver Burkeman)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "finitude /ˈfɪnɪtjuːd/",
+  "etymology": "finitude 源自拉丁 finis（边界、终点）——define、finish、finance 同根:定义、完成、清账,都是“划界”。",
+  "synonyms": [
+   {
+    "word": "opportunity cost",
+    "ipa": "/ˌɒpərˈtjuːnɪti kɒst/",
+    "sentence": "Every yes is an unmarked funeral for a thousand other yeses."
+   },
+   {
+    "word": "productivity trap",
+    "ipa": "/ˌprɒdʌkˈtɪvɪti træp/",
+    "sentence": "The productivity trap rewards emptying the inbox by refilling it."
+   }
+  ],
+  "collocations": [
+   "embrace your finitude",
+   "the efficiency trap",
+   "pay yourself first with time",
+   "settle — in the deep sense"
+  ],
+  "example": "Four Thousand Weeks is Atomic Habits' loyal opposition: one optimises the system, the other asks why you boarded it.",
+  "nuance": "与《奇特的一生》（柳比歇夫时间统计法）正面相撞:一个把时间全部记账,一个论证记账本身即逃避——两书同读胜过各读十遍。",
+  "links": [
+   {
+    "to": "atomic-habits",
+    "rel": "contrast"
+   },
+   {
+    "to": "lyubishchev-time",
+    "rel": "contrast"
+   },
+   {
+    "to": "yalom-existential",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "seven-habits",
+  "zh": "《高效能人士的七个习惯》",
+  "pinyin": "qī gè xíguàn",
+  "en": "The 7 Habits: proactivity and the circle of influence",
+  "def_zh": "柯维的管理学圣经:主动积极（proactive,刺激与回应之间存在选择自由）、以终为始、要事第一、双赢思维、知彼解己、统合综效、不断更新。关键区分:关注圈 vs 影响圈——把能量花在影响圈。",
+  "def_en": "Covey's canon: be proactive (between stimulus and response lies the freedom to choose), begin with the end in mind, first things first, think win-win, seek first to understand, synergise, sharpen the saw. Its sharpest tool: circle of concern vs circle of influence.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The 7 Habits of Highly Effective People (Stephen Covey)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "economy"
+  ],
+  "pron": "proactive /proʊˈæktɪv/",
+  "etymology": "proactive 为20世纪新造词:pro-（先）+ active——先于刺激而动;由弗兰克尔集中营心理学转入管理学,柯维使其成日常英语。",
+  "synonyms": [
+   {
+    "word": "circle of influence",
+    "ipa": "/ˈsɜːrkəl ʌv ˈɪnfluəns/",
+    "sentence": "Work the circle of influence and the circle of concern shrinks by itself."
+   },
+   {
+    "word": "win-win",
+    "ipa": "/wɪn wɪn/",
+    "sentence": "Win-win became boardroom English; Covey supplied the grammar."
+   }
+  ],
+  "collocations": [
+   "be proactive",
+   "begin with the end in mind",
+   "sharpen the saw",
+   "put first things first",
+   "emotional bank account"
+  ],
+  "example": "Half of corporate English is Covey unattributed: win-win, proactive, synergy — the book dissolved into the language.",
+  "nuance": "proactive/win-win/synergy 已因滥用而近陈词——写作中直接用会显平庸,识别它们的出处反而是修养。“主动积极”的哲学根在弗兰克尔《活出意义来》,比鸡汤深一层。",
+  "links": [
+   {
+    "to": "atomic-habits",
+    "rel": "related"
+   },
+   {
+    "to": "stoicism",
+    "rel": "related"
+   },
+   {
+    "to": "carnegie-influence",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "carnegie-influence",
+  "zh": "卡耐基《人性的弱点》",
+  "pinyin": "kǎnàijī",
+  "en": "How to Win Friends and Influence People",
+  "def_zh": "1936年至今的社交技能元典:真诚关注他人、记住名字、让对方多说、由衷赞赏、永不争论——“赢得争论的唯一方法是避免争论”。中译名《人性的弱点》与原题《如何赢得朋友并影响他人》气质迥异。",
+  "def_en": "The 1936 ur-text of social skill: take genuine interest, remember names, let the other person talk, praise honestly, never argue — 'the only way to win an argument is to avoid it.'",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "How to Win Friends and Influence People (Dale Carnegie)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "Carnegie /ˈkɑːrnəɡi/",
+  "etymology": "作者原姓 Carnagey,改拼作 Carnegie 蹭钢铁大王安德鲁·卡内基之名——一次改拼即品牌史,与书的主题互文。",
+  "synonyms": [
+   {
+    "word": "rapport",
+    "ipa": "/ræˈpɔːr/",
+    "sentence": "Rapport is influence's down payment."
+   },
+   {
+    "word": "people skills",
+    "ipa": "/ˈpiːpəl skɪlz/",
+    "sentence": "People skills compound faster than technical ones — Carnegie's wager."
+   }
+  ],
+  "collocations": [
+   "win friends and influence people",
+   "a person's name is the sweetest sound",
+   "talk in terms of the other person's interests",
+   "give honest, sincere appreciation"
+  ],
+  "example": "The book's title entered English as a formula: 'How to win X and influence Y' headlines still pay it rent.",
+  "nuance": "中译《人性的弱点》暗示操纵,原书反复强调 sincere/honest——真诚是方法论前提而非道德装饰;这一中英书名差是绝佳翻译伦理案例。",
+  "links": [
+   {
+    "to": "seven-habits",
+    "rel": "related"
+   },
+   {
+    "to": "high-conflict",
+    "rel": "related"
+   },
+   {
+    "to": "impro-status",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "munger-mental-models",
+  "zh": "芒格与思维模型",
+  "pinyin": "mánggé",
+  "en": "Charlie Munger: the latticework of mental models",
+  "def_zh": "《穷查理宝典》:普世智慧=多学科思维模型的格栅（latticework）——用心理学、经济学、物理学的大模型交叉核验;反过来想,总是反过来想（inversion）;lollapalooza效应=多模型同向叠加的巨力。",
+  "def_en": "Poor Charlie's Almanack: worldly wisdom is a latticework of mental models from many disciplines; invert, always invert; a lollapalooza is what happens when several models push the same direction at once.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Poor Charlie's Almanack (Charlie Munger)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "economy"
+  ],
+  "pron": "latticework /ˈlætɪsˌwɜːrk/",
+  "etymology": "inversion 源自拉丁 invertere（翻转）——芒格引数学家雅可比“反过来想”:证明不了幸福,就研究如何必然痛苦,然后避开。",
+  "synonyms": [
+   {
+    "word": "inversion",
+    "ipa": "/ɪnˈvɜːrʒən/",
+    "sentence": "Inversion solves the problem by studying its funeral."
+   },
+   {
+    "word": "circle of competence",
+    "ipa": "/ˈsɜːrkəl ʌv ˈkɒmpɪtəns/",
+    "sentence": "The circle of competence pays best at its centre and bankrupts at its rim."
+   }
+  ],
+  "collocations": [
+   "a latticework of mental models",
+   "invert, always invert",
+   "to a man with a hammer",
+   "lollapalooza effect",
+   "sit on your hands"
+  ],
+  "example": "'To a man with a hammer, everything looks like a nail' — Munger's line is now the standard indictment of single-model minds.",
+  "nuance": "mental model 一词已被自媒体稀释;芒格原义强调跨学科+清单化核验,不是收藏概念卡片。与 index-investing 的关系微妙:芒格主动选股,却推荐普通人指数化——立场与建议分离,本身是个思维模型。",
+  "links": [
+   {
+    "to": "index-investing",
+    "rel": "related"
+   },
+   {
+    "to": "econ-principles",
+    "rel": "related"
+   },
+   {
+    "to": "logic-toolkit",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "dalio-principles",
+  "zh": "达利欧《原则》",
+  "pinyin": "dálìōu",
+  "en": "Dalio: Principles, radical transparency",
+  "def_zh": "桥水创始人的操作系统:把人生与管理写成可执行的原则清单;极度求真+极度透明（radical truth & transparency）;创意择优（idea meritocracy）:按可信度加权表决;痛苦+反思=进步。",
+  "def_en": "The Bridgewater operating system: codify life and management into written principles; radical truth and radical transparency; an idea meritocracy where votes are believability-weighted; pain plus reflection equals progress.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Principles (Ray Dalio)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "economy"
+  ],
+  "pron": "meritocracy /ˌmɛrɪˈtɒkrəsi/",
+  "etymology": "transparency 源自拉丁 trans（透过）+ parere（显现）——“透明”即“透过而可见”;radical 源自 radix（根）:彻底=从根上。",
+  "synonyms": [
+   {
+    "word": "believability-weighted",
+    "ipa": "/bɪˌliːvəˈbɪlɪti ˈweɪtɪd/",
+    "sentence": "Believability-weighted voting asks your track record before your opinion."
+   },
+   {
+    "word": "ego barrier",
+    "ipa": "/ˈiːɡoʊ ˈbæriər/",
+    "sentence": "The ego barrier guards the exact door feedback needs to enter."
+   }
+  ],
+  "collocations": [
+   "radical transparency",
+   "an idea meritocracy",
+   "pain + reflection = progress",
+   "get the culture right"
+  ],
+  "example": "Dalio's machine metaphor divides readers: a firm run like an algorithm strikes some as utopia, others as HR dystopia.",
+  "nuance": "radical transparency 在桥水含全程录音开会——中文语境常译“极度透明”而想象成“坦诚”,实际强度高得多。与科举节点的 meritocracy 相接:达利欧把它从选官搬进公司表决。",
+  "links": [
+   {
+    "to": "western-civil-service",
+    "rel": "related"
+   },
+   {
+    "to": "munger-mental-models",
+    "rel": "related"
+   },
+   {
+    "to": "seven-habits",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "naval-leverage",
+  "zh": "纳瓦尔宝典",
+  "pinyin": "nàwǎěr",
+  "en": "Naval Ravikant: leverage and specific knowledge",
+  "def_zh": "硅谷天使投资人的财富与幸福语录:特定知识（specific knowledge,无法培训他人替代的知识）;三种杠杆——劳动力、资本、以及零边际成本的复制杠杆（代码与媒体）;“靠出租时间无法致富”。",
+  "def_en": "Naval's almanack: specific knowledge (what can't be trained into a replacement), and three kinds of leverage — labour, capital, and the permissionless kind with zero marginal cost: code and media. You won't get rich renting out your time.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Almanack of Naval Ravikant"
+   }
+  ],
+  "themes": [
+   "economy",
+   "ideas"
+  ],
+  "pron": "leverage /ˈlɛvərɪdʒ/",
+  "etymology": "leverage 源自 lever（杠杆）← 拉丁 levare（举起）——金融杠杆、政治筹码、人生杠杆共用一词,阿基米德的支点隐喻活在华尔街。",
+  "synonyms": [
+   {
+    "word": "permissionless",
+    "ipa": "/pərˈmɪʃənləs/",
+    "sentence": "Code and media are permissionless leverage: no one has to hire you."
+   },
+   {
+    "word": "specific knowledge",
+    "ipa": "/spəˈsɪfɪk ˈnɒlɪdʒ/",
+    "sentence": "Specific knowledge is found by following genuine curiosity, not job listings."
+   }
+  ],
+  "collocations": [
+   "productise yourself",
+   "play long-term games with long-term people",
+   "seek wealth, not money or status",
+   "judgment over effort"
+  ],
+  "example": "One teacher with a tutorial site out-leverages a department: Naval's media leverage, demonstrated at yunshugao.github.io.",
+  "nuance": "与《单干》《make.》同题异语:超级个体=specific knowledge×permissionless leverage——个人网站、课程、开源皆是复制杠杆;此节点即本知识库的自我说明。",
+  "links": [
+   {
+    "to": "entrepreneurship-indie",
+    "rel": "related"
+   },
+   {
+    "to": "super-individual",
+    "rel": "related"
+   },
+   {
+    "to": "bitcoin-standard",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "psychology-of-money",
+  "zh": "《金钱心理学》",
+  "pinyin": "jīnqián xīnlǐxué",
+  "en": "The Psychology of Money (Housel)",
+  "def_zh": "豪泽尔:理财是行为问题而非知识问题。核心词——尾部事件（tails drive everything:极少数决定绝大部分回报）、“够了”（enough）、留足冗余（margin of safety）、财富是你看不见的那部分（wealth is what you don't see）。",
+  "def_en": "Doing well with money is behaviour, not knowledge. Tails drive everything; know what 'enough' means; keep a margin of safety; wealth is the cars not bought — what you don't see.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Psychology of Money (Morgan Housel)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "ideas"
+  ],
+  "pron": "margin of safety /ˈmɑːrdʒɪn ʌv ˈseɪfti/",
+  "etymology": "enough 古英语 genōg——日耳曼老词;凯瑟琳·海勒对约瑟夫·海勒说“我们有 enough”——豪泽尔全书以这则轶事定调,词根即主题。",
+  "synonyms": [
+   {
+    "word": "tail risk",
+    "ipa": "/teɪl rɪsk/",
+    "sentence": "Tail events write history while averages write reports."
+   },
+   {
+    "word": "lifestyle inflation",
+    "ipa": "/ˈlaɪfstaɪl ɪnˈfleɪʃən/",
+    "sentence": "Lifestyle inflation is a raise spent before it lands."
+   }
+  ],
+  "collocations": [
+   "tails drive everything",
+   "wealth is what you don't see",
+   "enough is a financial superpower",
+   "save like a pessimist, invest like an optimist"
+  ],
+  "example": "Housel's 'wealth is what you don't see' is the one-line refutation of every Instagram portfolio.",
+  "nuance": "与 personal-finance-classics 节点的《富爸爸》相反气质:豪泽尔反公式、重行为与运气叙事——两派对照读,理财观自现。margin of safety 借自格雷厄姆价值投资,词有师承。",
+  "links": [
+   {
+    "to": "personal-finance-classics",
+    "rel": "related"
+   },
+   {
+    "to": "index-investing",
+    "rel": "related"
+   },
+   {
+    "to": "great-gatsby-dream",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "information-asymmetry",
+  "zh": "信息不对称",
+  "pinyin": "xìnxī bù duìchèn",
+  "en": "information asymmetry: adverse selection & moral hazard",
+  "def_zh": "金融学教科书的两大核心摩擦:逆向选择（adverse selection,交易前——柠檬市场:劣质品驱逐优质品）与道德风险（moral hazard,交易后——投保者更敢冒险）。银行、保险、二手车市场的存在理由皆由此解释。",
+  "def_en": "Finance's two master frictions: adverse selection (before the deal — Akerlof's lemons market) and moral hazard (after the deal — the insured take more risk). Banks and insurers exist to manage exactly these.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Financial Markets and Institutions (Mishkin & Eakins)"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "pron": "asymmetry /eɪˈsɪmɪtri/",
+  "etymology": "moral hazard 出自19世纪保险业行话——hazard 源自阿拉伯 az-zahr（骰子）经古法语入英:道德风险的词根是一枚骰子。",
+  "synonyms": [
+   {
+    "word": "adverse selection",
+    "ipa": "/ˈædvɜːrs sɪˈlɛkʃən/",
+    "sentence": "Adverse selection means the customers keenest to buy insurance are the ones you least want."
+   },
+   {
+    "word": "lemons market",
+    "ipa": "/ˈlɛmənz ˈmɑːrkɪt/",
+    "sentence": "In a lemons market, bad cars drive out good ones because buyers can't tell."
+   }
+  ],
+  "collocations": [
+   "asymmetric information",
+   "skin in the game",
+   "too big to fail invites moral hazard",
+   "signalling and screening"
+  ],
+  "example": "Bailouts breed moral hazard: rescue a bank once and every bank borrows as if rescue were a standing facility.",
+  "nuance": "moral hazard 无关道德败坏——是激励结构问题,中译“道德风险”易生误导。《经济学人》金融版每期至少一次;与教材“宏观调控”对接:监管即对两大摩擦的制度回应。",
+  "links": [
+   {
+    "to": "econ-principles",
+    "rel": "broader"
+   },
+   {
+    "to": "market-government",
+    "rel": "related"
+   },
+   {
+    "to": "corporations-exchanges",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "australia-economy",
+  "zh": "澳大利亚经济学（HSC）",
+  "pinyin": "àodàlìyà jīngjì",
+  "en": "Australia in the global economy",
+  "def_zh": "新州高考（HSC）经济学教材:贸易条件（terms of trade）、大宗商品周期、浮动汇率与澳元、经常账户逆差、劳资仲裁遗产、四大银行寡头。澳洲是“幸运”的资源出口小型开放经济体。",
+  "def_en": "The HSC economics frame: terms of trade, the commodity cycle, the floating dollar, chronic current-account deficits, the arbitration legacy, four-bank oligopoly — a small open economy that digs and ships.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Australia in the Global Economy (Dixon & O'Mahony)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "geography"
+  ],
+  "pron": "terms of trade /tɜːrmz ʌv treɪd/",
+  "etymology": "commodity 源自拉丁 commodus（合宜、方便）——“商品”本义“便利之物”,在澳洲语境几乎专指铁矿石与煤。",
+  "synonyms": [
+   {
+    "word": "commodity cycle",
+    "ipa": "/kəˈmɒdɪti ˈsaɪkəl/",
+    "sentence": "The commodity cycle writes Australia's budget in Beijing's construction data."
+   },
+   {
+    "word": "small open economy",
+    "ipa": "/smɔːl ˈoʊpən ɪˈkɒnəmi/",
+    "sentence": "A small open economy imports its interest-rate weather."
+   }
+  ],
+  "collocations": [
+   "terms of trade boom",
+   "the mining boom",
+   "current account deficit",
+   "the Australian dollar as a commodity currency"
+  ],
+  "example": "When iron ore sneezes, the federal budget catches cold — the terms of trade are Canberra's real treasurer.",
+  "nuance": "在澳教书者的本地化模块:HSC economics 的词汇即澳媒财经版词汇。与中国教材的镜像:中国买家即澳洲贸易条件的另一端——同一条船的两舷。",
+  "links": [
+   {
+    "to": "australian-settlement",
+    "rel": "related"
+   },
+   {
+    "to": "kroeber-china-economy",
+    "rel": "related"
+   },
+   {
+    "to": "wto-globalisation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "australian-settlement",
+  "zh": "“澳大利亚定约”的终结",
+  "pinyin": "àodàlìyà dìngyuē",
+  "en": "The Australian Settlement (Paul Kelly)",
+  "def_zh": "凯利《确定性的终结》提出的著名框架:立国的五根支柱——白澳政策、产业保护、劳资仲裁、国家家长主义、帝国庇护;1980年代霍克-基廷改革（浮动汇率、减关税、金融开放）将其逐一拆除,故曰“确定性的终结”。",
+  "def_en": "Kelly's famous frame in The End of Certainty: Federation Australia rested on five pillars — White Australia, industry protection, wage arbitration, state paternalism, imperial benevolence. The Hawke–Keating reforms of the 1980s dismantled them; hence the end of certainty.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The End of Certainty (Paul Kelly)"
+   }
+  ],
+  "themes": [
+   "governance",
+   "economy"
+  ],
+  "pron": "arbitration /ˌɑːrbɪˈtreɪʃən/",
+  "etymology": "settlement 此处非“定居”而是“政治定约”(如1689年英国 settlement)——一词多义正是理解本框架的门槛。",
+  "synonyms": [
+   {
+    "word": "protectionism",
+    "ipa": "/prəˈtɛkʃənɪzəm/",
+    "sentence": "Protectionism was Federation Australia's civic religion, tariff by tariff."
+   },
+   {
+    "word": "wage arbitration",
+    "ipa": "/weɪdʒ ˌɑːrbɪˈtreɪʃən/",
+    "sentence": "Wage arbitration made the court, not the market, set the basic wage."
+   }
+  ],
+  "collocations": [
+   "the Australian Settlement",
+   "the Hawke–Keating reforms",
+   "floating the dollar",
+   "the lucky country grows up"
+  ],
+  "example": "Every Australian policy debate since 1992 quotes Kelly: is this reform the settlement's funeral or its sequel?",
+  "nuance": "与霍恩《幸运之国》构成澳洲政治评论的两大典故:Horne 讽“靠运气”,Kelly 记“靠改革”。White Australia 支柱与中国教材华工史对接——排华法案即定约的第一根柱,澳中关系史的暗线。",
+  "links": [
+   {
+    "to": "lucky-country",
+    "rel": "related"
+   },
+   {
+    "to": "australia-economy",
+    "rel": "related"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "australian-politics",
+  "zh": "澳大利亚政制",
+  "pinyin": "àodàlìyà zhèngzhì",
+  "en": "Australian politics: Westminster with compulsory voting",
+  "def_zh": "威斯敏斯特体制的澳洲变体:强制投票（不投票罚款,投票率95%+）、偏好排序投票制（preferential voting）、参众两院、联邦制、总督代表王室;“民主香肠”（democracy sausage）为投票日文化图腾。",
+  "def_en": "Westminster, antipodean edition: compulsory voting (fines for abstention, 95%+ turnout), preferential voting, two houses, federalism, a Governor-General for the Crown — and the democracy sausage as election-day liturgy.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Australian Politics For Dummies / Law in Australian Society (Hardy)"
+   }
+  ],
+  "themes": [
+   "governance",
+   "law"
+  ],
+  "pron": "preferential /ˌprɛfəˈrɛnʃəl/",
+  "etymology": "Westminster 为伦敦议会所在地名转体制名——地名变普通名词,与 Wall Street、Whitehall 同一构词法。",
+  "synonyms": [
+   {
+    "word": "compulsory voting",
+    "ipa": "/kəmˈpʌlsəri ˈvoʊtɪŋ/",
+    "sentence": "Compulsory voting drags the indifferent middle to the booth — and to the centre."
+   },
+   {
+    "word": "hung parliament",
+    "ipa": "/hʌŋ ˈpɑːrləmənt/",
+    "sentence": "A hung parliament makes independents the most popular people in Canberra."
+   }
+  ],
+  "collocations": [
+   "preferential voting",
+   "the two-party-preferred vote",
+   "democracy sausage",
+   "the dismissal of 1975",
+   "section 44"
+  ],
+  "example": "Compulsory plus preferential voting explains why Australian politics fights for the middle: the extremes are already counted.",
+  "nuance": "与教材“全过程人民民主”单元对照:两种对投票率问题的制度回答。1975年宪政危机（总督解职总理）是英式虚位元首理论的著名反例——澳洲宪法课必考。",
+  "links": [
+   {
+    "to": "constitutional-monarchy",
+    "rel": "narrower"
+   },
+   {
+    "to": "whole-process-democracy",
+    "rel": "contrast"
+   },
+   {
+    "to": "australian-settlement",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "kroeber-china-economy",
+  "zh": "英文世界的中国经济学",
+  "pinyin": "zhōngguó jīngjì",
+  "en": "China's economy, explained in English",
+  "def_zh": "克罗伯《中国经济》与金刻羽《新中国策》:英文世界解释中国增长模式的标准词汇——投资驱动增长、土地财政、金融抑制（financial repression）、地方政府锦标赛、再平衡（rebalancing）、“市长经济”（mayor economy）。",
+  "def_en": "Kroeber's China's Economy and Keyu Jin's New China Playbook supply English's standard vocabulary for the model: investment-led growth, land finance, financial repression, the local-official tournament, rebalancing, the mayor economy.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "China's Economy (Kroeber) / The New China Playbook (Keyu Jin)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "governance"
+  ],
+  "pron": "rebalancing /riːˈbælənsɪŋ/",
+  "etymology": "repression（抑制）源自拉丁 reprimere（压回）——financial repression 指人为压低存款利率以补贴投资,术语自带批评立场。",
+  "synonyms": [
+   {
+    "word": "financial repression",
+    "ipa": "/faɪˈnænʃəl rɪˈprɛʃən/",
+    "sentence": "Financial repression taxes savers invisibly and lends the proceeds to concrete."
+   },
+   {
+    "word": "investment-led growth",
+    "ipa": "/ɪnˈvɛstmənt lɛd ɡroʊθ/",
+    "sentence": "Investment-led growth builds tomorrow's capacity with yesterday's deposits."
+   }
+  ],
+  "collocations": [
+   "rebalancing toward consumption",
+   "the growth model",
+   "state capitalism debate",
+   "common prosperity in English coverage"
+  ],
+  "example": "Reading Kroeber beside 《置身事内》 is stereoscopic: the same land-finance machine, described from outside and inside.",
+  "nuance": "同一事实两套修辞:中文教材说“集中力量办大事”,英文文献说 state capacity 或 financial repression——学会双向翻译立场,才算读懂双方。",
+  "links": [
+   {
+    "to": "zhishen-shinei",
+    "rel": "related"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "related"
+   },
+   {
+    "to": "basic-economic-system",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "jiang-zemin-era",
+  "zh": "江泽民时代（英文传记）",
+  "pinyin": "jiāngzémín",
+  "en": "The Man Who Changed China: the Jiang era",
+  "def_zh": "库恩的英文传记:市场化闯关的1990年代——三个代表（Three Represents,吸纳企业家入党）、国企改制、入世谈判、上海帮。英文报道的固定词汇:paramount leader、princeling、technocrat。",
+  "def_en": "Kuhn's authorised biography covers the 1990s dash: the Three Represents (letting entrepreneurs into the party), SOE restructuring, WTO accession. It fixed the English lexicon: paramount leader, princeling, technocrat.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Man Who Changed China (Robert Lawrence Kuhn)"
+   }
+  ],
+  "themes": [
+   "governance",
+   "economy"
+  ],
+  "pron": "technocrat /ˈtɛknəkræt/",
+  "etymology": "paramount 源自古法语 par amont（在上方）——paramount leader 为英媒为无正式最高头衔的实权者所造的固定译法。",
+  "synonyms": [
+   {
+    "word": "Three Represents",
+    "ipa": "/θriː ˌrɛprɪˈzɛnts/",
+    "sentence": "The Three Represents rewrote the party's guest list to include its former class enemies."
+   },
+   {
+    "word": "princeling",
+    "ipa": "/ˈprɪnslɪŋ/",
+    "sentence": "Princeling is English's one-word gloss on red aristocracy."
+   }
+  ],
+  "collocations": [
+   "paramount leader",
+   "WTO accession",
+   "SOE restructuring",
+   "the Shanghai clique"
+  ],
+  "example": "Kuhn's biography reads as the authorised English voiceover of the era 《朱镕基讲话实录》 documents from inside.",
+  "nuance": "authorised biography 的立场需折算;但其词汇即彭博、《经济学人》中国版词汇——学“他们如何称呼我们熟悉的事物”,此书是标本。与 zhu-rongji-reforms 节点同期互补。",
+  "links": [
+   {
+    "to": "zhu-rongji-reforms",
+    "rel": "related"
+   },
+   {
+    "to": "socialism-chinese",
+    "rel": "related"
+   },
+   {
+    "to": "wto-globalisation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "bourdieu-distinction",
+  "zh": "布迪厄《区分》",
+  "pinyin": "bùdíè",
+  "en": "Bourdieu: Distinction, habitus, cultural capital",
+  "def_zh": "品味即阶级:惯习（habitus,内化为身体的阶级性情）、文化资本、场域（field）——审美偏好是社会位置的标记而非天性;“区分”即以品味划界的永恒游戏。",
+  "def_en": "Taste is class: habitus (class dispositions worn as second nature), cultural capital, fields. Aesthetic preference marks social position while claiming to be personal; distinction is the endless game of drawing lines with taste.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Distinction (Pierre Bourdieu)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "pron": "habitus /ˈhæbɪtəs/",
+  "etymology": "habitus 拉丁语“持有的状态、习性”直借——与 habit 同根而学术分工:habit 是个人习惯,habitus 是阶级刻进身体的姿态。",
+  "synonyms": [
+   {
+    "word": "cultural capital",
+    "ipa": "/ˈkʌltʃərəl ˈkæpɪtəl/",
+    "sentence": "Cultural capital is inheritance that clears customs as personality."
+   },
+   {
+    "word": "symbolic violence",
+    "ipa": "/sɪmˈbɒlɪk ˈvaɪələns/",
+    "sentence": "Symbolic violence makes the ranking feel like taste, even to the ranked."
+   }
+  ],
+  "collocations": [
+   "taste classifies the classifier",
+   "legitimate culture",
+   "economic vs cultural capital",
+   "playing the field"
+  ],
+  "example": "Why latte choices predict votes: Bourdieu's Distinction, rerun weekly as data journalism.",
+  "nuance": "《金榜题名之后》《学神》的理论后台即布迪厄——文化资本、惯习是两书的分析引擎;先读此节点再读那两本,脚手架全出。",
+  "links": [
+   {
+    "to": "jinbang-after",
+    "rel": "influenced"
+   },
+   {
+    "to": "study-gods",
+    "rel": "influenced"
+   },
+   {
+    "to": "chaxugeju",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "topophilia",
+  "zh": "段义孚：恋地情结",
+  "pinyin": "liàndì qíngjié",
+  "en": "Yi-Fu Tuan: topophilia, space and place",
+  "def_zh": "华裔人文地理学宗师段义孚:恋地情结（topophilia,人与地方的情感纽带）;空间（space,自由与开放）与地方（place,安全与依附）的辩证——“空间+经验=地方”。人文主义地理学的奠基词汇。",
+  "def_en": "Yi-Fu Tuan founded humanistic geography's vocabulary: topophilia, the affective bond between people and place; and the dialectic of space (freedom, openness) and place (security, attachment) — space becomes place as we know it and endow it with value.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Topophilia / Space and Place / 我是谁？段义孚自传 (Yi-Fu Tuan)"
+   }
+  ],
+  "themes": [
+   "geography",
+   "ideas"
+  ],
+  "pron": "topophilia /ˌtɒpəˈfɪliə/",
+  "etymology": "topophilia = 希腊 topos（地方）+ philia（爱）——段义孚自造词;topic、topology、utopia 同根:话题本义“处所”。",
+  "synonyms": [
+   {
+    "word": "sense of place",
+    "ipa": "/sɛns ʌv pleɪs/",
+    "sentence": "A sense of place is geography felt from the inside."
+   },
+   {
+    "word": "place attachment",
+    "ipa": "/pleɪs əˈtætʃmənt/",
+    "sentence": "Place attachment is why demolition notices read like bereavements."
+   }
+  ],
+  "collocations": [
+   "space and place",
+   "home as the centre of meaning",
+   "placelessness",
+   "geopiety"
+  ],
+  "example": "GIS measures space; Tuan explains why the demolished 胡同 was a place — the layer no shapefile carries.",
+  "nuance": "与用户 GIS 训练互补的另一半地理学:计量革命 vs 人文主义。段义孚英文写作以文体优美著称——地理学者中的散文家,其自传亦是移民与身份的文本。",
+  "links": [
+   {
+    "to": "gis-core",
+    "rel": "contrast"
+   },
+   {
+    "to": "human-geography-basics",
+    "rel": "related"
+   },
+   {
+    "to": "yiyun-li",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "uninhabitable-earth",
+  "zh": "《不宜居的地球》",
+  "pinyin": "bùyíjū de dìqiú",
+  "en": "The Uninhabitable Earth: climate cascades",
+  "def_zh": "华莱士-威尔斯的气候警世书:“比你想的更糟,糟得多”——级联效应（cascades）、热死亡、气候难民、碳预算;新词汇:climate doomism（气候末日论）与其批评者。",
+  "def_en": "Wallace-Wells's opening line — it is worse, much worse, than you think — introduced cascade thinking to lay readers: compounding feedbacks, heat death, climate refugees, carbon budgets; and the backlash coined climate doomism.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Uninhabitable Earth (David Wallace-Wells)"
+   }
+  ],
+  "themes": [
+   "science",
+   "ideas"
+  ],
+  "pron": "cascade /kæˈskeɪd/",
+  "etymology": "cascade 源自意大利 cascare（跌落）——瀑布转喻连锁反应;气候语境指反馈回路互相触发的雪崩式恶化。",
+  "synonyms": [
+   {
+    "word": "tipping point",
+    "ipa": "/ˈtɪpɪŋ pɔɪnt/",
+    "sentence": "A tipping point is the last moment the door was a door."
+   },
+   {
+    "word": "carbon budget",
+    "ipa": "/ˈkɑːrbən ˈbʌdʒɪt/",
+    "sentence": "The carbon budget is an allowance humanity spends like an heir."
+   }
+  ],
+  "collocations": [
+   "climate cascades",
+   "worse than you think",
+   "deaths of heat",
+   "the parts per million count"
+  ],
+  "example": "Doomism or due diligence? Every climate op-ed since 2019 positions itself relative to Wallace-Wells.",
+  "nuance": "与教材“生态文明/人地协调”单元同题,修辞相反:教材讲治理方案,此书讲失败情景——议论文正反两面的现成弹药库。",
+  "links": [
+   {
+    "to": "ecology-population",
+    "rel": "related"
+   },
+   {
+    "to": "dystopia",
+    "rel": "related"
+   },
+   {
+    "to": "monsoon-climate",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "high-conflict",
+  "zh": "高冲突",
+  "pinyin": "gāo chōngtū",
+  "en": "high conflict vs good conflict",
+  "def_zh": "里普利:好冲突（good conflict,有摩擦有出口）会退化为高冲突（high conflict,自我延续的我们vs他们漩涡）;冲突企业家（conflict entrepreneurs）以煽动为业;出路是复杂化叙事（complicating the narrative）。艾迪补充人格视角:高冲突人格的识别。",
+  "def_en": "Ripley: good conflict (friction with an exit) degrades into high conflict — a self-sustaining us-versus-them vortex, stoked by conflict entrepreneurs. The way out is complicating the narrative. Eddy adds the personality lens: spotting high-conflict people.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "High Conflict (Amanda Ripley) / 5 Types of People Who Can Ruin Your Life (Bill Eddy)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "pron": "vortex /ˈvɔːrtɛks/",
+  "etymology": "conflict 源自拉丁 confligere（互相撞击）——冲突本义“对撞”;entrepreneur 借自法语“承办人”:冲突企业家=承办冲突的人。",
+  "synonyms": [
+   {
+    "word": "polarisation",
+    "ipa": "/ˌpoʊləraɪˈzeɪʃən/",
+    "sentence": "Polarisation is high conflict scaled to a nation."
+   },
+   {
+    "word": "conflict entrepreneur",
+    "ipa": "/ˈkɒnflɪkt ˌɒntrəprəˈnɜːr/",
+    "sentence": "A conflict entrepreneur sells firewood and calls it weather."
+   }
+  ],
+  "collocations": [
+   "the la brea tar pits of conflict",
+   "us versus them",
+   "complicate the narrative",
+   "saturation point"
+  ],
+  "example": "Teachers meet high conflict weekly: the playground feud that survives every apology is a vortex, not a dispute.",
+  "nuance": "教师职业直接可用:行为管理文献的 de-escalation 与此书同源。与教材“矛盾论”对照:辩证法视矛盾为发展动力,里普利分好坏——同词异构,translation trap。",
+  "links": [
+   {
+    "to": "dialectics",
+    "rel": "contrast"
+   },
+   {
+    "to": "behaviour-management",
+    "rel": "related"
+   },
+   {
+    "to": "carnegie-influence",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "attachment-theory",
+  "zh": "依恋理论",
+  "pinyin": "yīliàn lǐlùn",
+  "en": "attachment theory: secure, anxious, avoidant",
+  "def_zh": "鲍尔比-安斯沃思传统的成人应用:安全型、焦虑型、回避型依恋——童年照料模式成为成年亲密关系的操作系统。《Attached》普及三型配对动力;米勒教科书与《Platonic》（友谊版）扩展全景。",
+  "def_en": "Bowlby and Ainsworth, applied to adults: secure, anxious and avoidant attachment — childhood care becomes the operating system of adult intimacy. Attached popularised the pairing dynamics; Miller's textbook and Platonic (friendship) complete the map.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Attached (Levine & Heller) / Intimate Relationships (Miller) / Platonic (Franco)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "avoidant /əˈvɔɪdənt/",
+  "etymology": "attachment 源自古法语 atachier（钉住、系上）——依恋即“被系上”;安全依恋是系得稳,不是系得紧。",
+  "synonyms": [
+   {
+    "word": "secure base",
+    "ipa": "/sɪˈkjʊər beɪs/",
+    "sentence": "A secure base is the harbour that makes exploring possible."
+   },
+   {
+    "word": "anxious-avoidant trap",
+    "ipa": "/ˈæŋkʃəs əˈvɔɪdənt træp/",
+    "sentence": "The anxious-avoidant trap pairs the pursuer with the escape artist, indefinitely."
+   }
+  ],
+  "collocations": [
+   "attachment style",
+   "securely attached",
+   "protest behaviour",
+   "earned security"
+  ],
+  "example": "Dating apps run on attachment vocabulary now — 'avoidant' has gone from journal article to first-date accusation.",
+  "nuance": "流行语滥用警告:attachment style 非星座,可随经验改变（earned security）。教师视角:安全依恋即教室里的 secure base——与创伤知情教学（trauma-psychology 节点）直接相连。",
+  "links": [
+   {
+    "to": "trauma-psychology",
+    "rel": "related"
+   },
+   {
+    "to": "fromm-love",
+    "rel": "related"
+   },
+   {
+    "to": "four-loves",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "mayer-multimedia",
+  "zh": "梅耶多媒体学习原理",
+  "pinyin": "méiyē duōméitǐ",
+  "en": "Mayer: multimedia learning principles",
+  "def_zh": "剑桥手册的核心:双通道（视觉+听觉）、有限容量、主动加工三假设;十二原理——一致性（删冗余）、信号化、临近（文字贴图）、分段、个人化语气等。多媒体教师的科学地基。",
+  "def_en": "The Cambridge Handbook's core: dual channels, limited capacity, active processing — hence the twelve principles: coherence (cut the decorative), signalling, contiguity (words beside pictures), segmenting, personalisation. The science under every slide deck.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Cambridge Handbook of Multimedia Learning (Mayer & Fiorella)"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "science"
+  ],
+  "pron": "contiguity /ˌkɒntɪˈɡjuːɪti/",
+  "etymology": "multimedia = 拉丁 multus（多）+ medium（中间物、媒介）——媒介本义“居间者”:在知识与心灵之间。",
+  "synonyms": [
+   {
+    "word": "coherence principle",
+    "ipa": "/koʊˈhɪərəns ˈprɪnsɪpəl/",
+    "sentence": "The coherence principle fires the dancing clip-art: seductive details tax learning."
+   },
+   {
+    "word": "dual coding",
+    "ipa": "/ˈdjuːəl ˈkoʊdɪŋ/",
+    "sentence": "Dual coding sends words and pictures down separate lanes so neither jams."
+   }
+  ],
+  "collocations": [
+   "cognitive load",
+   "the redundancy effect",
+   "signalling principle",
+   "worked examples"
+  ],
+  "example": "Your IST slides obey Mayer or fight him: narrate the diagram, don't caption-and-read it — the redundancy effect is real.",
+  "nuance": "直接服务 9/10IST Multimedia 教学:评估学生作品可用十二原理作 rubric 维度。与 instructional-science 节点（Rosenshine 侧）合为认知负荷教学法全图。",
+  "links": [
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   },
+   {
+    "to": "ai-in-education",
+    "rel": "related"
+   },
+   {
+    "to": "photography-exposure",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "behaviour-management",
+  "zh": "课堂行为管理",
+  "pinyin": "kètáng xíngwéi guǎnlǐ",
+  "en": "behaviour management: routines before rapport before rules",
+  "def_zh": "罗杰斯（最少侵入干预、战术性忽略、修复式跟进）、黄（开学头两周立程序）、马扎诺（证据基础）、西格尔（先连接后纠正）——英语教育界的行为管理词汇群:routine、de-escalation、restorative practice、take-up time。",
+  "def_en": "Bill Rogers (least-intrusive intervention, tactical ignoring, repair and rebuild), Wong (the first days establish procedures), Marzano (the evidence base), Siegel (connect before you correct). The working lexicon: routines, de-escalation, restorative practice, take-up time.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Bill Rogers 行为管理系列 / The First Days of School (Wong) / Classroom Management That Works (Marzano) / No-Drama Discipline (Siegel)"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "de-escalation /diːˌɛskəˈleɪʃən/",
+  "etymology": "discipline 源自拉丁 discipulus（学生,discere 学习）——“纪律”与“学科”同词:纪律本义是“使可教”,不是惩罚。",
+  "synonyms": [
+   {
+    "word": "restorative practice",
+    "ipa": "/rɪˈstɔːrətɪv ˈpræktɪs/",
+    "sentence": "Restorative practice asks who was harmed, not only which rule broke."
+   },
+   {
+    "word": "tactical ignoring",
+    "ipa": "/ˈtæktɪkəl ɪɡˈnɔːrɪŋ/",
+    "sentence": "Tactical ignoring starves the secondary behaviour while the primary instruction continues."
+   }
+  ],
+  "collocations": [
+   "least-intrusive intervention",
+   "take-up time",
+   "the establishment phase",
+   "follow up, follow through",
+   "connect before you correct"
+  ],
+  "example": "Give the direction, give take-up time, move away — Rogers in one sentence, and the difference between a request and a standoff.",
+  "nuance": "discipline 词源即立场:使可学,非使痛苦——与“没有规矩不成方圆”对译时注意英语文献重程序与修复,轻惩戒;NSW 学校话语（PBL/restorative）全在此谱系。",
+  "links": [
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   },
+   {
+    "to": "high-conflict",
+    "rel": "related"
+   },
+   {
+    "to": "trauma-psychology",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "ai-in-education",
+  "zh": "教育中的生成式AI",
+  "pinyin": "jiàoyù AI",
+  "en": "generative AI in schools",
+  "def_zh": "澳洲学校生成式AI框架的政策词汇:学术诚信（academic integrity）、AI素养、提示工程入课堂、评估重设计（assessment redesign,过程重于成品）、隐私与数据主权;AIED 文献的两面:个性化导师 vs 作弊恐慌。",
+  "def_en": "The Australian Framework's policy lexicon: academic integrity, AI literacy, prompt engineering as classroom skill, assessment redesign (process over product), privacy and data sovereignty. The AIED literature splits between personal-tutor hopes and plagiarism panic.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Australian Framework for Generative AI in Schools / AI in Education (Khine; Al-Marzouqi et al.)"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "integrity /ɪnˈtɛɡrɪti/",
+  "etymology": "integrity 源自拉丁 integer（完整、未触碰的——数学“整数”同词）——学术诚信即“作品的完整性”:何为“自己的”工作,AI 时代重新开题。",
+  "synonyms": [
+   {
+    "word": "AI literacy",
+    "ipa": "/ˌeɪ ˈaɪ ˈlɪtərəsi/",
+    "sentence": "AI literacy is knowing what the model can't know."
+   },
+   {
+    "word": "assessment redesign",
+    "ipa": "/əˈsɛsmənt ˌriːdɪˈzaɪn/",
+    "sentence": "Assessment redesign moves the marks from the essay to the evidence of thinking."
+   }
+  ],
+  "collocations": [
+   "academic integrity in the AI era",
+   "human in the loop",
+   "AI-proof vs AI-inclusive tasks",
+   "hallucination as teachable moment"
+  ],
+  "example": "The framework's real question lands on your desk each term: is this task testing what the student can do, or what the model can?",
+  "nuance": "与教师工作直接相关:NESA 与联邦框架的措辞差异需追踪;“detection 军备竞赛已输,重设计评估”是文献共识——引用时注意年份,该领域半年一换代。",
+  "links": [
+   {
+    "to": "ai-imagenet",
+    "rel": "related"
+   },
+   {
+    "to": "mayer-multimedia",
+    "rel": "related"
+   },
+   {
+    "to": "information-age",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "algorithms-cs",
+  "zh": "算法与计算思维经典",
+  "pinyin": "suànfǎ",
+  "en": "algorithms: Big-O and the classic shelf",
+  "def_zh": "CLRS《算法导论》、塞奇威克、《图解算法》、佩措尔德《编码》:大O记号（渐进复杂度）、分治、贪心、动态规划、数据结构;《编码》以电报与继电器讲透抽象层级——比特如何一路搭成计算机。",
+  "def_en": "CLRS, Sedgewick, Grokking Algorithms, and Petzold's Code: Big-O notation, divide-and-conquer, greedy, dynamic programming, data structures — and Code's masterclass in abstraction layers, from telegraph relays to a working computer.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Introduction to Algorithms (CLRS) / Algorithms (Sedgewick) / Grokking Algorithms / Code (Petzold)"
+   }
+  ],
+  "themes": [
+   "technology",
+   "science"
+  ],
+  "pron": "algorithm /ˈælɡərɪðəm/",
+  "etymology": "algorithm 源自9世纪巴格达数学家花剌子模（al-Khwārizmī）的拉丁化名——一位波斯学者的名字成了计算机科学的地基词;algebra 出自其书名 al-jabr。",
+  "synonyms": [
+   {
+    "word": "Big-O notation",
+    "ipa": "/bɪɡ ˈoʊ noʊˈteɪʃən/",
+    "sentence": "Big-O prices an algorithm by how it scales, not how it sprints."
+   },
+   {
+    "word": "abstraction layer",
+    "ipa": "/æbˈstrækʃən ˈleɪər/",
+    "sentence": "Every abstraction layer is a promise: you may forget what's below."
+   }
+  ],
+  "collocations": [
+   "time complexity",
+   "divide and conquer",
+   "space-time trade-off",
+   "premature optimisation"
+  ],
+  "example": "花剌子模 to House of Wisdom to CS degree: your algorithms course footnotes the Baghdad translation movement.",
+  "nuance": "对接 UT Austin CS 课程与教材“逻辑与思维”:算法即形式化推理。词源链 al-Khwārizmī→algorithm 连通 house-of-wisdom 节点——历史与代码同网。",
+  "links": [
+   {
+    "to": "house-of-wisdom",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "logic-toolkit",
+    "rel": "related"
+   },
+   {
+    "to": "computational-thinking",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "photography-exposure",
+  "zh": "摄影曝光三角",
+  "pinyin": "shèyǐng pùguāng",
+  "en": "photography: the exposure triangle",
+  "def_zh": "彼得森《理解曝光》与弗里曼《摄影师之眼》:光圈（aperture,景深）、快门（shutter speed,动感）、感光度（ISO,噪点）的三角权衡;构图词汇——三分法、引导线、负空间、决定性瞬间。",
+  "def_en": "Peterson's Understanding Exposure and Freeman's The Photographer's Eye: the aperture–shutter–ISO triangle (depth of field, motion, noise), and the composition lexicon — rule of thirds, leading lines, negative space, the decisive moment.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Understanding Exposure (Peterson) / The Photographer's Eye (Freeman) 及摄影书群"
+   }
+  ],
+  "themes": [
+   "culture",
+   "technology"
+  ],
+  "pron": "aperture /ˈæpərtʃər/",
+  "etymology": "photography = 希腊 phōs/phōt-（光）+ graphein（书写）——“以光书写”;aperture 源自拉丁 aperire（打开）:光圈即“开口”。",
+  "synonyms": [
+   {
+    "word": "depth of field",
+    "ipa": "/dɛpθ ʌv fiːld/",
+    "sentence": "Depth of field decides what the picture is about by deciding what blurs."
+   },
+   {
+    "word": "the decisive moment",
+    "ipa": "/ðə dɪˈsaɪsɪv ˈmoʊmənt/",
+    "sentence": "Cartier-Bresson's decisive moment is composition meeting luck halfway."
+   }
+  ],
+  "collocations": [
+   "stop down the aperture",
+   "blow out the highlights",
+   "golden hour",
+   "rule of thirds",
+   "shoot wide open"
+  ],
+  "example": "Teach the triangle as a budget: every stop of light is spent on freezing motion, carving depth, or keeping the shadows clean.",
+  "nuance": "10IST Multimedia 的直接词汇库;中英术语对齐要点:光圈值 f 数越小开口越大——中文“大光圈”=英文 wide/fast aperture,数字反而小,学生高频错点。",
+  "links": [
+   {
+    "to": "mayer-multimedia",
+    "rel": "related"
+   },
+   {
+    "to": "van-gogh",
+    "rel": "related"
+   },
+   {
+    "to": "art-language",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "design-thinking",
+  "zh": "设计思维",
+  "pinyin": "shèjì sīwéi",
+  "en": "design thinking: prototype your way forward",
+  "def_zh": "斯坦福d.school方法论,《人生设计课》将其用于生涯:同理（empathise）、定义、发想（ideate）、原型（prototype）、测试;重构问题（reframe）、奥德赛计划（三个五年人生原型）、“选择建构”对抗完美主义。",
+  "def_en": "The d.school loop — empathise, define, ideate, prototype, test — applied by Designing Your Life to careers: reframe the problem, sketch three Odyssey Plans, prototype conversations before leaping. Bias to action over analysis.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Designing Your Life (Burnett & Evans) / 人生设计课 / From Zero to UI-UX Hero"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "technology",
+   "teaching"
+  ],
+  "pron": "prototype /ˈproʊtətaɪp/",
+  "etymology": "prototype = 希腊 prōtos（第一）+ typos（压印、模子）——原型即“第一次压印”;type、typo 同根:打字与模子一家。",
+  "synonyms": [
+   {
+    "word": "reframe",
+    "ipa": "/riːˈfreɪm/",
+    "sentence": "Reframing turns 'find my passion' into 'run three cheap experiments'."
+   },
+   {
+    "word": "iteration",
+    "ipa": "/ˌɪtəˈreɪʃən/",
+    "sentence": "Iteration is failure amortised into instalments."
+   }
+  ],
+  "collocations": [
+   "bias to action",
+   "fail fast, fail cheap",
+   "an Odyssey Plan",
+   "prototype the conversation",
+   "wicked problems"
+  ],
+  "example": "Y7 Tech's design process IS design thinking descaled: NESA's 'identify-produce-evaluate' loop and the d.school pentagon are cousins.",
+  "nuance": "与教材/NESA 的 design process 术语对齐是教学刚需:empathise≈needs analysis,ideate≈发散思维。管理学滥用警告:design thinking 作口号时常只剩便利贴。",
+  "links": [
+   {
+    "to": "engineering-design-process",
+    "rel": "related"
+   },
+   {
+    "to": "entrepreneurship-indie",
+    "rel": "related"
+   },
+   {
+    "to": "four-thousand-weeks",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "impro-status",
+  "zh": "即兴剧场与地位游戏",
+  "pinyin": "jíxìng jùchǎng",
+  "en": "Impro: status transactions",
+  "def_zh": "约翰斯通《即兴》的核心发现:一切对话都是地位交易（status transaction）——人无时不在微调高位/低位姿态;“Yes, and”原则:接受并叠加。多内兰《演员与目标》、林克莱特《释放天性的声音》补全表演三角。",
+  "def_en": "Johnstone's Impro: every conversation is a status transaction — we play ourselves up or down moment to moment. 'Yes, and' accepts the offer and builds. Donnellan's Actor and the Target and Linklater's voice work complete the triangle.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Impro (Keith Johnstone) / The Actor and the Target (Donnellan) / Freeing the Natural Voice (Linklater)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "improvisation /ˌɪmprəvaɪˈzeɪʃən/",
+  "etymology": "improvise 源自拉丁 improvisus（未预见的:in-否定+pro-先+videre看）——即兴即“未先看过”;status 拉丁语“站立的姿态”:地位本义是站姿,约翰斯通照字面用。",
+  "synonyms": [
+   {
+    "word": "status transaction",
+    "ipa": "/ˈsteɪtəs trænˈzækʃən/",
+    "sentence": "Watch any staff meeting as status transactions and the agenda becomes subtitles."
+   },
+   {
+    "word": "yes-and",
+    "ipa": "/jɛs ænd/",
+    "sentence": "'Yes, and' is acceptance weaponised into momentum."
+   }
+  ],
+  "collocations": [
+   "play high/low status",
+   "accept the offer",
+   "blocking kills the scene",
+   "the see-saw principle"
+  ],
+  "example": "Classroom management is applied Johnstone: the teacher who can drop status voluntarily owns the room's see-saw.",
+  "nuance": "status 此处非社会阶层而是须臾之间的姿态博弈——与布迪厄的结构性地位互补:一个论毫秒,一个论世代。教师、演讲者、面试者的实操心理学。",
+  "links": [
+   {
+    "to": "bourdieu-distinction",
+    "rel": "contrast"
+   },
+   {
+    "to": "behaviour-management",
+    "rel": "related"
+   },
+   {
+    "to": "story-craft",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "moby-dick",
+  "zh": "《白鲸》",
+  "pinyin": "báijīng",
+  "en": "Moby-Dick: the white whale",
+  "def_zh": "梅尔维尔1851年巨著:亚哈船长以全船殉其对白鲸的复仇。英语中 white whale 已成“毁灭性执念的对象”代名词;开篇三词 Call me Ishmael 是英语文学最著名的第一句。",
+  "def_en": "Melville's Ahab spends his ship and crew on vengeance against a whale. A 'white whale' now means any ruinous obsession; 'Call me Ishmael' is the most famous opening line in English.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Moby-Dick (Herman Melville)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "Ahab /ˈeɪhæb/",
+  "etymology": "Ahab（亚哈）取自《圣经·列王纪》的邪王之名——梅尔维尔以命名预告结局;Ishmael（以实玛利）为被逐的庶子:叙事者自报家门即自称局外人。",
+  "synonyms": [
+   {
+    "word": "white whale",
+    "ipa": "/waɪt weɪl/",
+    "sentence": "Cold fusion is physics' white whale: forever sighted, never landed."
+   },
+   {
+    "word": "monomania",
+    "ipa": "/ˌmɒnoʊˈmeɪniə/",
+    "sentence": "Monomania is focus that has eaten its owner."
+   }
+  ],
+  "collocations": [
+   "chasing one's white whale",
+   "an Ahab-like pursuit",
+   "Call me Ishmael",
+   "the Pequod's fate"
+  ],
+  "example": "The merger became the CEO's white whale: each failed bid only sharpened the harpoon.",
+  "nuance": "商业英语高频:one's white whale 指求而不得的大客户/大目标,通常暗含“追逐本身将毁你”的警告——引用时勿只取“目标远大”义。全书三分之一是鲸类学章节,读原著者自会遇到这份十九世纪式的百科耐心。",
+  "links": [
+   {
+    "to": "quixotic",
+    "rel": "related"
+   },
+   {
+    "to": "biblical-allusions",
+    "rel": "related"
+   },
+   {
+    "to": "hemingway-iceberg",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "southern-gothic",
+  "zh": "南方哥特",
+  "pinyin": "nánfāng gētè",
+  "en": "Southern Gothic: O'Connor & McCullers",
+  "def_zh": "美国南方文学流派:衰败庄园、畸零人（grotesques）、暴烈的恩典。奥康纳《好人难寻》:平庸之恶遇上枪口下的顿悟;麦卡勒斯《伤心咖啡馆之歌》:爱者与被爱者的不对等定律。",
+  "def_en": "Decaying gentry, grotesques, violent grace. O'Connor's A Good Man Is Hard to Find puts banal selfishness before a gun-barrel epiphany; McCullers' Ballad of the Sad Café states the law that the lover and the beloved come from different countries.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "A Good Man Is Hard to Find (O'Connor) / 伤心咖啡馆之歌 (McCullers 中英本)"
+   }
+  ],
+  "themes": [
+   "culture"
+  ],
+  "pron": "grotesque /ɡroʊˈtɛsk/",
+  "etymology": "grotesque 源自意大利 grottesca（洞窟壁画风格,grotta 洞穴）——“怪诞”的词根是出土罗马洞窟里的奇异壁画。",
+  "synonyms": [
+   {
+    "word": "the grotesque",
+    "ipa": "/ðə ɡroʊˈtɛsk/",
+    "sentence": "The grotesque exaggerates the body to X-ray the soul."
+   },
+   {
+    "word": "moment of grace",
+    "ipa": "/ˈmoʊmənt ʌv ɡreɪs/",
+    "sentence": "O'Connor grants each character one moment of grace, usually at gunpoint."
+   }
+  ],
+  "collocations": [
+   "Southern Gothic atmosphere",
+   "a good man is hard to find",
+   "the heart is a lonely hunter",
+   "faded gentility"
+  ],
+  "example": "麦卡勒斯在中文世界的持续走红(李文俊译本)使'伤心咖啡馆'成为中文文青词汇——南方哥特完成了跨语迁徙。",
+  "nuance": "与鲁迅的国民性书写对读:都以畸零人示众,但奥康纳的地基是天主教救赎论——grace 一词在她处是神学术语,非“优雅”。",
+  "links": [
+   {
+    "to": "hemingway-iceberg",
+    "rel": "contrast"
+   },
+   {
+    "to": "story-craft",
+    "rel": "related"
+   },
+   {
+    "to": "rise-of-christianity",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "shirley-jackson-lottery",
+  "zh": "《摸彩》",
+  "pinyin": "mōcǎi",
+  "en": "The Lottery: the scapegoat ritual",
+  "def_zh": "1948年《纽约客》史上最大退订潮的短篇:小镇每年抽签石刑一人,无人记得为何——传统即免检的暴力。scapegoating（替罪羊机制）的文学标本,与勒庞群体心理学、基拉尔模仿理论共用词汇。",
+  "def_en": "The 1948 story that broke The New Yorker's cancellation record: a village stones one member yearly, reason long forgotten — tradition as unexamined violence. The literary specimen of scapegoating.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "The Lottery and Other Stories (Shirley Jackson)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "scapegoat /ˈskeɪpɡoʊt/",
+  "etymology": "lottery 源自日耳曼 lot（签、份额）——lot 亦入 allotment（份地）、one's lot in life（命份）:抽签与命运同词根,杰克逊的书名一词双关。",
+  "synonyms": [
+   {
+    "word": "scapegoating",
+    "ipa": "/ˈskeɪpɡoʊtɪŋ/",
+    "sentence": "Scapegoating outsources a community's guilt to one address."
+   },
+   {
+    "word": "mob mentality",
+    "ipa": "/mɒb mɛnˈtælɪti/",
+    "sentence": "Mob mentality is arithmetic that divides conscience by headcount."
+   }
+  ],
+  "collocations": [
+   "draw the black spot",
+   "it's tradition",
+   "the banality of ritual violence",
+   "a modern-day Lottery"
+  ],
+  "example": "Online pile-ons rerun The Lottery daily: the stones are quote-tweets and no one remembers the original charge.",
+  "nuance": "与《蝇王》同年代同母题（文明外壳之薄）,但杰克逊的恐怖在于无退化过程——秩序本身即刑场。教学常并读二者+米尔格拉姆实验。",
+  "links": [
+   {
+    "to": "lord-of-the-flies",
+    "rel": "related"
+   },
+   {
+    "to": "biblical-allusions",
+    "rel": "related"
+   },
+   {
+    "to": "dystopia",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "robinson-crusoe-economy",
+  "zh": "鲁滨逊经济",
+  "pinyin": "lǔbīnxùn",
+  "en": "the Robinson Crusoe economy",
+  "def_zh": "笛福1719年小说被经济学征用:单人经济体是微观经济学的标准思想实验（生产可能性、时间配置、比较优势在星期五登岛后启动）;马克思讥之为“鲁滨逊漂流记式”的原子化人性假设。",
+  "def_en": "Defoe's castaway became economics' standard thought experiment: a one-agent economy for production choices, then comparative advantage once Friday arrives. Marx mocked 'Robinsonades' as capitalism projecting its atomised man backwards.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "鲁宾孙漂流记 (Daniel Defoe)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "culture"
+  ],
+  "pron": "Crusoe /ˈkruːsoʊ/",
+  "etymology": "Robinsonade（鲁滨逊体漂流小说）——一部小说派生出文类名词,与 utopia、quixotic 同属“书名变词汇”家族。",
+  "synonyms": [
+   {
+    "word": "autarky",
+    "ipa": "/ˈɔːtɑːrki/",
+    "sentence": "Autarky is Crusoe's island scaled to a nation, shipwreck included."
+   },
+   {
+    "word": "homo economicus",
+    "ipa": "/ˈhoʊmoʊ ˌiːkəˈnɒmɪkəs/",
+    "sentence": "Homo economicus is Crusoe with a utility function and no theology."
+   }
+  ],
+  "collocations": [
+   "a Robinson Crusoe economy",
+   "my man Friday",
+   "desert-island choices",
+   "Robinsonades"
+  ],
+  "example": "Every intro-econ course maroons a student on Crusoe's island before letting markets exist — one agent, all trade-offs.",
+  "nuance": "man Friday（得力助手）已入日常英语,但殖民意味使其渐敏感。经济学的鲁滨逊删除了原著的清教忏悔叙事——小说本是宗教文本,教科书只留下理性人。",
+  "links": [
+   {
+    "to": "econ-principles",
+    "rel": "related"
+   },
+   {
+    "to": "adam-smith",
+    "rel": "related"
+   },
+   {
+    "to": "early-colonialism",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "rilke-letters",
+  "zh": "里尔克《给青年诗人的信》",
+  "pinyin": "lǐěrkè",
+  "en": "Rilke: live the questions",
+  "def_zh": "十封信的核心劝告:活在问题里（live the questions now）——不要急索答案;检验创作冲动的唯一标准:“不写会死吗?”;孤独是必须守护的财产。英语毕业致辞与写作课的引用富矿。",
+  "def_en": "Ten letters, one counsel: live the questions now — do not hunt answers you could not yet live. The single test of a calling: must I write? Solitude is property to be defended. Commencement speeches mine it annually.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Letters to a Young Poet (Rilke)"
+   }
+  ],
+  "themes": [
+   "culture",
+   "ideas"
+  ],
+  "pron": "Rilke /ˈrɪlkə/",
+  "etymology": "vocation 源自拉丁 vocare（呼唤）——“志业”即“被召唤”;里尔克把职业选择还原为听觉问题:里面有没有那个声音。",
+  "synonyms": [
+   {
+    "word": "vocation",
+    "ipa": "/voʊˈkeɪʃən/",
+    "sentence": "A vocation is a job that would grieve you by its absence."
+   },
+   {
+    "word": "solitude",
+    "ipa": "/ˈsɒlɪtjuːd/",
+    "sentence": "Rilke's solitude is not loneliness but studio space for the self."
+   }
+  ],
+  "collocations": [
+   "live the questions",
+   "must I write?",
+   "love your solitude",
+   "letters to a young ..."
+  ],
+  "example": "'Letters to a Young X' is now a genre — economists, contrarians and chefs all borrow Rilke's envelope.",
+  "nuance": "与 yiyun-li 节点相连:李翊云的书名 Dear Friend, from My Life I Write to You in Your Life 正是里尔克式书信传统的当代回声。“活在问题里”亦是本知识库的方法论。",
+  "links": [
+   {
+    "to": "yiyun-li",
+    "rel": "influenced"
+   },
+   {
+    "to": "story-craft",
+    "rel": "related"
+   },
+   {
+    "to": "four-thousand-weeks",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "word-roots",
+  "zh": "英语词根系统",
+  "pinyin": "cígēn",
+  "en": "Greco-Latin word roots (Word Power Made Easy)",
+  "def_zh": "刘易斯的经典方法:以希腊拉丁词根批量解锁词汇——ego(我)、verto(转)、dico(说)、anthropos(人)、misein(恨)→ egoist, introvert, misanthrope, philanthropist… 一个词根一串词,本知识库每个节点的 etymology 栏即此法。",
+  "def_en": "Norman Lewis's engine: unlock vocabulary in batches through Greek and Latin roots — one root, a family of words. The etymology field on every node in this site runs on exactly this method.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Word Power Made Easy (Norman Lewis, 中英对照版)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "pron": "etymology /ˌɛtɪˈmɒlədʒi/",
+  "etymology": "etymology 源自希腊 etymon（真义）+ logos——词源学即“求词的真身”;汉字学的“说文解字”是其完全平行:两大文明各自的词根学。",
+  "synonyms": [
+   {
+    "word": "morpheme",
+    "ipa": "/ˈmɔːrfiːm/",
+    "sentence": "A morpheme is the smallest brick meaning is built from."
+   },
+   {
+    "word": "cognate",
+    "ipa": "/ˈkɒɡneɪt/",
+    "sentence": "Cognates are words that kept in touch after the family scattered."
+   }
+  ],
+  "collocations": [
+   "Greek and Latin roots",
+   "prefix, root, suffix",
+   "word families",
+   "folk etymology"
+  ],
+  "example": "Learn verto once — invert, convert, extrovert, versatile, vertigo arrive free: compound interest, lexical edition.",
+  "nuance": "书名直译“轻松掌握词汇力”,中文界常称“英语说文解字”——这个译名本身道破方法论同构。警惕民间词源（folk etymology）:好故事未必真历史,本库词源栏均取学界通说。",
+  "links": [
+   {
+    "to": "algorithms-cs",
+    "rel": "related"
+   },
+   {
+    "to": "ultralearning",
+    "rel": "related"
+   },
+   {
+    "to": "hieroglyphs",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "study-gods",
+  "zh": "《学神》",
+  "pinyin": "xuéshén",
+  "en": "Study Gods: the elite student taxonomy",
+  "def_zh": "姜以琳对北京顶尖中学的民族志:学神（轻松高分）、学霸（苦读高分）、学渣（不学低分）、学弱（苦读低分）——地位由“成绩÷努力”决定,毫不费力是最高贵。精英再生产的中国剧本,英文学界的关键新词。",
+  "def_en": "Yi-Lin Chiang's ethnography of elite Beijing schools: study gods (effortless top scores), studyholics (effortful top scores), underachievers and losers — status equals results divided by visible effort; ease is nobility. China's script of elite reproduction, now anglophone sociology's vocabulary.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "Study Gods (Yi-Lin Chiang)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "pron": "ethnography /ɛθˈnɒɡrəfi/",
+  "etymology": "学神 直译 study god 被英文书保留——中文校园分类学输出为英语学术词,与 involution（内卷）同批出海。",
+  "synonyms": [
+   {
+    "word": "effortless perfection",
+    "ipa": "/ˈɛfərtləs pərˈfɛkʃən/",
+    "sentence": "Effortless perfection is the duck gliding while the feet are censored."
+   },
+   {
+    "word": "elite reproduction",
+    "ipa": "/ɪˈliːt ˌriːprəˈdʌkʃən/",
+    "sentence": "Elite reproduction is inheritance laundered through examinations."
+   }
+  ],
+  "collocations": [
+   "study gods and studyholics",
+   "ease as status",
+   "test-score aristocracy",
+   "global competition for placement"
+  ],
+  "example": "The study-god ideal is Bourdieu in school uniform: effortlessness certifies that excellence is nature, hence unchallengeable.",
+  "nuance": "与 jinbang-after 是同一现象的两端:《学神》看精英中学的地位生产,《金榜题名之后》看寒门学生进大学后的迷失——合读即中国教育分层全景;Educated 提供美国对照组。",
+  "links": [
+   {
+    "to": "bourdieu-distinction",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "jinbang-after",
+    "rel": "related"
+   },
+   {
+    "to": "educated-memoir",
+    "rel": "contrast"
+   },
+   {
+    "to": "imperial-examinations",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "eileen-chang",
+  "zh": "张爱玲",
+  "pinyin": "zhāng àilíng",
+  "en": "Eileen Chang: The Rice-Sprout Song",
+  "def_zh": "《秧歌》:土改后饥饿乡村的小说,张爱玲以英文先写（The Rice-Sprout Song）再自译中文——中英双语自写自译的罕见个案。金句体（“生命是一袭华美的袍”）使其成为中文金句文化的祖师之一。",
+  "def_en": "The Rice-Sprout Song — hunger in a post-land-reform village — was written by Chang in English first, then self-translated into Chinese: a rare case of bidirectional self-translation. Her aphoristic style made her the patron saint of the Chinese quotable sentence.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "秧歌 (张爱玲)"
+   }
+  ],
+  "themes": [
+   "culture"
+  ],
+  "pron": "aphorism /ˈæfərɪzəm/",
+  "etymology": "aphorism 源自希腊 aphorizein（划界定义）——金句即“一句话划定一个真理的边界”;张爱玲金句的英文对应体是 Wilde 式 epigram。",
+  "synonyms": [
+   {
+    "word": "self-translation",
+    "ipa": "/sɛlf trænzˈleɪʃən/",
+    "sentence": "Self-translation lets the author betray the original with authority."
+   },
+   {
+    "word": "epigram",
+    "ipa": "/ˈɛpɪɡræm/",
+    "sentence": "An epigram is wisdom in evening dress."
+   }
+  ],
+  "collocations": [
+   "the Eileen Chang revival",
+   "desolation as style",
+   "a famous aphorist",
+   "written in English first"
+  ],
+  "example": "张爱玲与李翊云、纳博科夫同属换语写作谱系——但她是双向的:同一本书,两种母语级文本。",
+  "nuance": "《秧歌》因题材在陆港台接受史迥异——文学价值与政治接受的分离案例。夏志清英文《中国现代小说史》将其抬入正典:英语学界反哺中文文学史的著名回环。",
+  "links": [
+   {
+    "to": "yiyun-li",
+    "rel": "related"
+   },
+   {
+    "to": "land-reform-1950",
+    "rel": "related"
+   },
+   {
+    "to": "qiu-miaojin",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "liu-yu-bullet",
+  "zh": "刘瑜《送你一颗子弹》",
+  "pinyin": "liúyú",
+  "en": "Liu Yu: politics in plain Chinese",
+  "def_zh": "政治学者的杂文集:以日常语言拆解民主、自由、制度——“观念的水位”是其核心比喻(制度变迁跟随观念水位上涨)。中文公共写作把政治学常识化的代表作。",
+  "def_en": "A political scientist's essays that translate democracy, liberty and institutions into everyday Chinese. Her master metaphor: the water level of ideas — institutions move when the tide of assumptions rises.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "送你一颗子弹 (刘瑜)"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "pron": "public intellectual /ˈpʌblɪk ˌɪntəˈlɛktʃuəl/",
+  "etymology": "essay 源自法语 essai（尝试,蒙田自谦其文为“试笔”）——杂文/随笔的西方祖源即“试”;刘瑜文体正是蒙田-奥威尔谱系的中文支流。",
+  "synonyms": [
+   {
+    "word": "op-ed",
+    "ipa": "/ˌɒp ˈɛd/",
+    "sentence": "An op-ed is a water-level reading taken in eight hundred words."
+   },
+   {
+    "word": "civic literacy",
+    "ipa": "/ˈsɪvɪk ˈlɪtərəsi/",
+    "sentence": "Civic literacy is knowing the rules of the game you were born into."
+   }
+  ],
+  "collocations": [
+   "the water level of ideas",
+   "民主的细节",
+   "common-sense politics",
+   "public writing"
+  ],
+  "example": "刘瑜之于中文读者,近似奥威尔《政治与英语》之于英文读者:把政治写回人话。",
+  "nuance": "阅读价值在文体示范:政治学术语的日常化转写——正是本知识库中→英方向的反向操作(英→中的降维表达)。",
+  "links": [
+   {
+    "to": "athenian-democracy",
+    "rel": "related"
+   },
+   {
+    "to": "sociological-imagination",
+    "rel": "related"
+   },
+   {
+    "to": "bingham-rule-of-law",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "li-xiaolai",
+  "zh": "李笑来《财富自由之路》",
+  "pinyin": "lǐxiàolái",
+  "en": "Li Xiaolai: attention over time over money",
+  "def_zh": "新东方名师转比特币巨鲸的方法论书:注意力>时间>金钱的估值排序;“个人商业模式升级”——同一份时间出售多次(写书、课程);“活在未来”;元认知反复打磨概念。中文互联网自我提升话语的源头之一。",
+  "def_en": "From TOEFL teacher to bitcoin whale: value attention above time above money; upgrade your personal business model by selling the same hours many times (books, courses); live in the future. A wellspring of Chinese internet self-improvement discourse.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "财富自由之路 (李笑来)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "ideas"
+  ],
+  "pron": "mental model /ˈmɛntəl ˈmɒdəl/",
+  "etymology": "attention economy 一词由诺奖得主西蒙1971年预言(“信息的丰富造成注意力的贫乏”)——李笑来的排序是其个人财务版。",
+  "synonyms": [
+   {
+    "word": "personal business model",
+    "ipa": "/ˈpɜːrsənəl ˈbɪznəs ˈmɒdəl/",
+    "sentence": "Upgrading your personal business model means firing yourself from hourly work."
+   },
+   {
+    "word": "attention economy",
+    "ipa": "/əˈtɛnʃən ɪˈkɒnəmi/",
+    "sentence": "In the attention economy, your focus is the commodity being mined."
+   }
+  ],
+  "collocations": [
+   "注意力是最宝贵的财富",
+   "sell time more than once",
+   "living in the future",
+   "定投人生"
+  ],
+  "example": "Naval 与李笑来是同一学说的英中双声道:specific knowledge×杠杆 vs 注意力×个人商业模式。",
+  "nuance": "作者其人争议极大(ICO 风波、录音门)——方法论与人品分账处理;此节点收其概念框架,不作背书。",
+  "links": [
+   {
+    "to": "naval-leverage",
+    "rel": "related"
+   },
+   {
+    "to": "atomic-habits",
+    "rel": "related"
+   },
+   {
+    "to": "super-individual",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "super-individual",
+  "zh": "超级个体",
+  "pinyin": "chāojí gètǐ",
+  "en": "the super individual: a company of one",
+  "def_zh": "《单干》等书界定的中文互联网概念:一人=一家公司——以工具、自动化与个人品牌获得团队级杠杆;认知→变现→流量→产品→组织(外包/AI)的单干路线图。英语对应词:solopreneur, company of one, one-person business。",
+  "def_en": "The Chinese internet's 超级个体: one person operating with a team's leverage through tools, automation and personal brand. English equivalents: solopreneur, company of one, the one-person business.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "单干：成为超级个体的49个关键动作 (陈欢)"
+   }
+  ],
+  "themes": [
+   "economy",
+   "ideas",
+   "technology"
+  ],
+  "pron": "solopreneur /ˌsoʊloʊprəˈnɜːr/",
+  "etymology": "individual 源自拉丁 individuus（不可分割:in-否定+dividere分）——“个体”本义“不可再分之物”;“超级个体”反用其义:一个不可分的人,分出一支队伍的产能。",
+  "synonyms": [
+   {
+    "word": "company of one",
+    "ipa": "/ˈkʌmpəni ʌv wʌn/",
+    "sentence": "A company of one asks 'how big is enough?' before 'how big is possible?'"
+   },
+   {
+    "word": "leverage stack",
+    "ipa": "/ˈlɛvərɪdʒ stæk/",
+    "sentence": "The super individual's leverage stack: code, content, capital, and now agents."
+   }
+  ],
+  "collocations": [
+   "one-person business",
+   "personal brand",
+   "audience first, product second",
+   "AI as workforce"
+  ],
+  "example": "This very knowledge base is a super-individual artefact: one teacher, one AI, a publishing pipeline that once needed a department.",
+  "nuance": "即用户的自我目标(超级个体):此节点是知识库的自我指涉锚点。中文概念偏宏大叙事,英文 company of one(Jarvis)反增长哲学更克制——两种气质,同一结构。",
+  "links": [
+   {
+    "to": "entrepreneurship-indie",
+    "rel": "related"
+   },
+   {
+    "to": "naval-leverage",
+    "rel": "related"
+   },
+   {
+    "to": "li-xiaolai",
+    "rel": "related"
+   },
+   {
+    "to": "ai-imagenet",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "zhu-shenghao",
+  "zh": "朱生豪情书",
+  "pinyin": "zhūshēngháo",
+  "en": "Zhu Shenghao: translating Shakespeare under bombs",
+  "def_zh": "在贫病与战火中译出31部莎剧的天才译者,情书与译稿同为传世文本(“醒来觉得甚是爱你”)。中国翻译史的殉道者原型:译稿两度毁于日军轰炸,重译至死,年仅32。",
+  "def_en": "Zhu translated 31 Shakespeare plays through poverty, war and tuberculosis, twice losing manuscripts to Japanese bombing and retranslating until his death at 32. His love letters are themselves canonical prose.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "朱生豪情书"
+   }
+  ],
+  "themes": [
+   "culture"
+  ],
+  "pron": "translator /trænzˈleɪtər/",
+  "etymology": "translate 拉丁“携带渡过”——朱生豪是字面意义的摆渡人:一人把莎士比亚渡入汉语,船沉两次,泅渡至死。",
+  "synonyms": [
+   {
+    "word": "labour of love",
+    "ipa": "/ˈleɪbər ʌv lʌv/",
+    "sentence": "A labour of love is work whose wage is the work."
+   },
+   {
+    "word": "magnum opus",
+    "ipa": "/ˈmæɡnəm ˈoʊpəs/",
+    "sentence": "His magnum opus was rebuilt twice from ash and memory."
+   }
+  ],
+  "collocations": [
+   "the Zhu Shenghao translations",
+   "醒来觉得甚是爱你",
+   "translating the complete works",
+   "wartime scholarship"
+  ],
+  "example": "读莎剧中译即读朱生豪——正如读朱生豪情书即读一个人如何把爱与译业活成同一件事。",
+  "nuance": "与 daodejing-english 节点镜像:理雅各英译中典,朱生豪中译英典——双向摆渡的两座灯塔。梁实秋译本为其学院派对照(全但淡,朱译烈而漏)。",
+  "links": [
+   {
+    "to": "shakespeare",
+    "rel": "related"
+   },
+   {
+    "to": "daodejing-english",
+    "rel": "related"
+   },
+   {
+    "to": "fu-lei-letters",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "lyubishchev-time",
+  "zh": "柳比歇夫时间统计法",
+  "pinyin": "liǔbǐxiēfū",
+  "en": "Lyubishchev: the time-accounting life",
+  "def_zh": "格拉宁《奇特的一生》:苏联昆虫学家柳比歇夫56年逐日记录每项活动耗时(精确到分钟),月结年审——时间统计法。中文效率圈的圣典;“他一生的时间都花在了刀刃上”。",
+  "def_en": "Granin's Strange Life documents entomologist Lyubishchev's 56 years of logging every activity to the minute, with monthly and annual audits — time accounting as a life practice. A canonical text of Chinese productivity culture.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "奇特的一生 (格拉宁)"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "pron": "audit /ˈɔːdɪt/",
+  "etymology": "audit 源自拉丁 audire（听）——审计本义“听账”:古罗马查账靠朗读;柳比歇夫是自己人生的终身听账人。",
+  "synonyms": [
+   {
+    "word": "time audit",
+    "ipa": "/taɪm ˈɔːdɪt/",
+    "sentence": "A time audit shows where the week actually went, as opposed to where it was invited."
+   },
+   {
+    "word": "quantified self",
+    "ipa": "/ˈkwɒntɪfaɪd sɛlf/",
+    "sentence": "The quantified self movement is Lyubishchev with sensors."
+   }
+  ],
+  "collocations": [
+   "time-tracking",
+   "the time-statistics method",
+   "deep work hours",
+   "an honest ledger of hours"
+  ],
+  "example": "Toggl 与番茄钟的用户是柳比歇夫的不自知的教徒——他手工做了半个世纪 App 的事。",
+  "nuance": "与《四千周》正面对决:记录时间是掌控还是逃避有限性?两书互为解毒剂——本库特设 contrast 链接以固化这场辩论。",
+  "links": [
+   {
+    "to": "four-thousand-weeks",
+    "rel": "contrast"
+   },
+   {
+    "to": "atomic-habits",
+    "rel": "related"
+   },
+   {
+    "to": "ultralearning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "wang-huning",
+  "zh": "王沪宁《政治的人生》",
+  "pinyin": "wánghùníng",
+  "en": "Wang Huning: the scholar's diary before power",
+  "def_zh": "1994-95年复旦教授王沪宁的日记:读书清单、美国观察(另著《美国反对美国》)、新权威主义思考——此后入中枢辅佐三代领导核心。研究中国政治思想的英文文献必引其人;“文胆”一词的当代标本。",
+  "def_en": "The 1994-95 diary of a Fudan professor — reading lists, reflections on neo-authoritarianism, America observed (his America Against America) — written just before he entered the leadership's inner circle for three successive cores. Anglophone China-watching cites him compulsively.",
+  "sources": [
+   {
+    "book": "enlib",
+    "chapter": "政治的人生 (王沪宁)"
+   }
+  ],
+  "themes": [
+   "governance",
+   "ideas"
+  ],
+  "pron": "ideologue /ˈaɪdiəlɒɡ/",
+  "etymology": "éminence grise(灰衣主教)——法语借入英语指幕后智囊,源自黎塞留的密友约瑟夫神父;英文报道称王常用此词,中文对应“文胆/国师”。",
+  "synonyms": [
+   {
+    "word": "éminence grise",
+    "ipa": "/ˌeɪmɪnɒns ˈɡriːz/",
+    "sentence": "An éminence grise drafts the speech and skips the applause."
+   },
+   {
+    "word": "neo-authoritarianism",
+    "ipa": "/ˌniːoʊ ɔːˌθɒrɪˈteəriənɪzəm/",
+    "sentence": "Neo-authoritarianism argued that development needs a strong hand before an open one."
+   }
+  ],
+  "collocations": [
+   "America Against America",
+   "the party's chief theorist",
+   "three-dynasty adviser",
+   "reading list of a technocrat"
+  ],
+  "example": "2021年美国书评界重新发掘《美国反对美国》——一个中国学者九十年代的美国诊断成了美国人自我审视的镜子。",
+  "nuance": "英文报道中 Wang Huning 几乎是“ideas matter in Chinese politics”的人格化论据——读其日记即读中国政治的知识分子暗线;与教材“党的领导”单元构成理论与人事的互注。",
+  "links": [
+   {
+    "to": "party-leadership",
+    "rel": "related"
+   },
+   {
+    "to": "socialism-chinese",
+    "rel": "related"
+   },
+   {
+    "to": "jiang-zemin-era",
+    "rel": "related"
+   }
+  ]
  }
 ]

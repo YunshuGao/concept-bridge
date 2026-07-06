@@ -1,775 +1,1212 @@
 [
- {
-  "id": "zhishen-shinei",
-  "zh": "《置身事内》（土地财政与地方政府经济学）",
-  "pinyin": "zhìshēn shìnèi",
-  "en": "In the Thick of It: local government and China's growth machine",
-  "def_zh": "兰小欢的现象级中国政经解读：1994年分税制后地方政府财权上收、事权仍重，遂以土地财政补缺——低价征地招商引资（工业用地补贴换税基）+高价出让住宅用地（土地出让金），以城投公司（LGFV 地方政府融资平台）抵押土地融资建设——“地方政府公司化”驱动了基建奇迹与房价、债务、产能问题的同一枚硬币两面。理解当下房地产化债、卖地收入下滑新闻的最佳底本。",
-  "def_en": "Lan Xiaohuan's bestselling anatomy of the growth machine: after the 1994 tax-sharing reform starved local budgets, land became the fiscal workaround — industrial land sold cheap to lure factories (subsidise the tax base), residential land sold dear (land-transfer revenue), and local-government financing vehicles (LGFVs) borrowing against it all to build the infrastructure miracle. 'The corporatised local state' explains both China's roads and its property-and-debt hangover — the single best decoder for every land-auction, LGFV and 化债 headline the Economist runs.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "置身事内：中国政府与经济发展（兰小欢）"
-   }
-  ],
-  "collocations": [
-   "land finance",
-   "local government financing vehicles (LGFVs)",
-   "the land-transfer fee",
-   "investment attraction",
-   "hidden debt"
-  ],
-  "example": "'Land finance' (土地财政) appears untranslated-with-gloss in most China-economy coverage now — this book is why analysts treat Chinese mayors as CEOs whose balance sheet is territory.",
-  "nuance": "土地财政 = land finance；城投/融资平台 = LGFVs（英文财经报道标准缩写）；招商引资 = investment attraction/promotion；隐性债务 = hidden/implicit debt。直接续接 [[zhu-rongji-reforms]] 分税制与 [[hukou-baojia]]（户籍与土地的城市化双闸）。",
-  "links": [
-   {
-    "to": "zhu-rongji-reforms",
-    "rel": "effect"
-   },
-   {
-    "to": "chinese-taxation",
-    "rel": "related"
-   },
-   {
-    "to": "hukou-baojia",
-    "rel": "related"
-   },
-   {
-    "to": "junxian",
-    "rel": "related"
-   },
-   {
-    "to": "market-government",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "economy",
-   "governance"
-  ],
-  "period": "2021年",
-  "pron": "land finance /lænd ˈfaɪˌnæns/",
-  "etymology": "finance 源自拉丁 finis（终结）→ 古法语“清偿结账”——财政即“了结债务”之术。",
-  "synonyms": [
-   {
-    "word": "local government debt",
-    "ipa": "/ˈloʊkəl ˈgəvərnmənt dɛt/",
-    "sentence": "Local government debt hides in platforms and projects."
-   },
-   {
-    "word": "growth machine",
-    "ipa": "/groʊθ məˈʃin/",
-    "sentence": "The growth machine sells land to build the city that raises the land."
-   }
-  ]
- },
- {
-  "id": "dictators-handbook",
-  "zh": "《独裁者手册》（胜利联盟理论）",
-  "pinyin": "dúcáizhě shǒucè",
-  "en": "The Dictator's Handbook: selectorate theory",
-  "def_zh": "布鲁诺·德·梅斯奎塔与史密斯把政治简化为一条规则：统治者只需取悦“胜利联盟”（winning coalition——决定其去留的关键支持者）。联盟小（独裁）则用私人收买（腐败、特权）最有效；联盟大（民主）则须供给公共品。由此解释外援养独裁、资源诅咒、民主国家打仗更谨慎等——“坏行为几乎总是好政治”。冷酷的理性选择框架，与制度学派互补，是政治评论的常用透镜。",
-  "def_en": "Politics reduced to one law: rulers serve the winning coalition — the minimal set of backers who keep them in power. Small coalition (autocracy) → pay them privately (graft, privilege); large coalition (democracy) → pay in public goods. The framework churns out uncomfortable corollaries — aid props up dictators, resources curse, democracies fight more carefully — under the subtitle's thesis that bad behaviour is almost always good politics. The cynic's field guide that political columnists reach for weekly.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "独裁者手册（梅斯奎塔、史密斯）"
-   }
-  ],
-  "collocations": [
-   "the winning coalition",
-   "selectorate",
-   "private vs public goods",
-   "the resource curse"
-  ],
-  "example": "'Keys to power' videos (CGP Grey's adaptation) made selectorate theory YouTube canon — when analysts ask 'who does Putin actually need?', they're running this book's algorithm.",
-  "nuance": "胜利联盟 = the winning coalition；名义选择人集团 = the selectorate（术语本体）。资源诅咒 = the resource curse。与 [[party-leadership]]、[[eastern-han]]（外戚宦官=小联盟收买）、[[glorious-revolution]]（联盟扩大的制度化）互为分析透镜——本知识库政治线的“暗面理论”。",
-  "links": [
-   {
-    "to": "eastern-han",
-    "rel": "related"
-   },
-   {
-    "to": "glorious-revolution",
-    "rel": "related"
-   },
-   {
-    "to": "national-interest-power",
-    "rel": "related"
-   },
-   {
-    "to": "decolonisation",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "governance",
-   "ideas"
-  ],
-  "period": "2011年",
-  "pron": "selectorate /sɪˈlɛktərət/",
-  "etymology": "selectorate 为 select + electorate 的合成学术新词——“可选者集团”。",
-  "synonyms": [
-   {
-    "word": "winning coalition",
-    "ipa": "/ˈwɪnɪŋ ˌkoʊəˈlɪʃən/",
-    "sentence": "Shrink the winning coalition and loyalty gets cheaper."
-   },
-   {
-    "word": "patronage",
-    "ipa": "/ˈpætrənɪʤ/",
-    "sentence": "Patronage is public money on a private errand."
-   }
-  ]
- },
- {
-  "id": "sociological-imagination",
-  "zh": "社会学的想象力（米尔斯与吉登斯）",
-  "pinyin": "shèhuìxué de xiǎngxiànglì",
-  "en": "the sociological imagination",
-  "def_zh": "米尔斯的学科纲领：社会学的想象力即在个人烦恼（personal troubles）与公共议题（public issues）之间往返的能力——失业不是你的失败而是结构的坐标；传记与历史相交处才是社会学。吉登斯《社会学基本概念》与《社会理论二十讲》补齐工具箱：社会化、越轨、科层制、社会分层、社会建构、现代性、全球化——阅读一切严肃社会评论（含 Economist 社会版）的底层词库。",
-  "def_en": "Mills's charter for the discipline: the sociological imagination is the capacity to shuttle between personal troubles and public issues — your unemployment as a coordinate in a structure, biography read against history. Giddens's Essential Concepts and the theory surveys fill the toolbox: socialisation, deviance, bureaucracy, stratification, social construction, modernity, globalisation — the substrate vocabulary of every serious social commentary, the Economist's society pieces included.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "社会学的想象力 / 社会学基本概念（吉登斯）"
-   }
-  ],
-  "collocations": [
-   "personal troubles vs public issues",
-   "social construction",
-   "stratification",
-   "structure and agency"
-  ],
-  "example": "'That's a public issue, not a personal trouble' is the one-line sociology lesson hiding in every good op-ed about burnout, housing or fertility — Mills's distinction doing daily journalistic work.",
-  "nuance": "社会学的想象力 = the sociological imagination（书名即概念）；结构与能动 = structure and agency（社会理论的元对偶）。社会建构 = social construction。链 [[chaxugeju]]（本土概念）、[[xiang-biao]]（当代实践者）、[[historical-materialism]]（一种强结构论）。",
-  "links": [
-   {
-    "to": "chaxugeju",
-    "rel": "related"
-   },
-   {
-    "to": "xiang-biao",
-    "rel": "related"
-   },
-   {
-    "to": "historical-materialism",
-    "rel": "related"
-   },
-   {
-    "to": "jiceng-women",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas",
-   "society"
-  ],
-  "period": "1959年",
-  "pron": "sociology /ˌsoʊsiˈɑləʤi/",
-  "etymology": "sociology 源自拉丁 socius（同伴）+ 希腊 logos——孔德所造混血词：“同伴之学”。",
-  "synonyms": [
-   {
-    "word": "social structure",
-    "ipa": "/ˈsoʊʃəl ˈstrəkʧər/",
-    "sentence": "Social structure is biography's invisible co-author."
-   },
-   {
-    "word": "public issue",
-    "ipa": "/ˈpəblɪk ˈɪʃu/",
-    "sentence": "A public issue is a private trouble multiplied and named."
-   }
-  ]
- },
- {
-  "id": "jinbang-after",
-  "zh": "《金榜题名之后》（出路分化与文化资本）",
-  "pinyin": "jīnbǎng tímíng zhīhòu",
-  "en": "After the Exam Lists: how graduates' paths diverge",
-  "def_zh": "郑雅君对精英大学生的研究：同进名校，出路为何分化？关键在文化资本差异塑造的两种“上大学的方式”——目标掌控模式（多为优势家庭：入学即知规则，绩点实习留学步步为营）与直觉依赖模式（多为寒门：延续高考惯性埋头读书，临毕业才发现游戏规则已变）。“懂游戏规则”本身是隐性课程——布迪厄文化资本理论的中国校园实证。接续科举以来“上榜之后”的古老命题。",
-  "def_en": "Zheng Yajun's study of elite-university students asks why equal admission yields unequal exits: cultural capital splits them into two modes of 'doing university' — the target-mastery mode (advantaged students who arrive knowing the meta-game: GPA, internships, exchange, each move sequenced) and the intuition-reliance mode (first-generation students who keep gaokao-grinding until graduation reveals the rules changed). Bourdieu's hidden curriculum, documented on Chinese campuses — and the modern instalment of a question as old as the examination lists themselves.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "金榜题名之后：大学生出路分化之谜（郑雅君）"
-   }
-  ],
-  "collocations": [
-   "cultural capital",
-   "first-generation students",
-   "the hidden curriculum",
-   "meritocracy's fine print"
-  ],
-  "example": "'Getting in is not catching up' is the sentence western coverage of elite admissions keeps rediscovering — this book supplies the Chinese evidence, and 文化资本 maps onto Bourdieu without remainder.",
-  "nuance": "文化资本 = cultural capital（布迪厄）；隐性课程 = the hidden curriculum；寒门 = disadvantaged/first-generation（“寒门难出贵子”议题）。直接续 [[imperial-examinations]]（金榜题名的现代下半场）与 [[xiang-biao]] 内卷、[[nine-rank]]（上品无寒门的回声）。",
-  "links": [
-   {
-    "to": "imperial-examinations",
-    "rel": "related"
-   },
-   {
-    "to": "nine-rank",
-    "rel": "related"
-   },
-   {
-    "to": "xiang-biao",
-    "rel": "related"
-   },
-   {
-    "to": "instructional-science",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "society",
-   "ideas"
-  ],
-  "period": "2023年",
-  "pron": "cultural capital /ˈkəlʧərəl ˈkæpɪtəl/",
-  "etymology": "capital（资本）转喻+cultural——布迪厄术语：可继承、可增值的文化资产。",
-  "synonyms": [
-   {
-    "word": "hidden curriculum",
-    "ipa": "/ˈhɪdən kərˈɪkjələm/",
-    "sentence": "The hidden curriculum examines what the syllabus never taught."
-   },
-   {
-    "word": "first-generation student",
-    "ipa": "/fərst-ˌʤɛnərˈeɪʃən ˈstudənt/",
-    "sentence": "The first-generation student learns the rules mid-game."
-   }
-  ]
- },
- {
-  "id": "ayn-rand",
-  "zh": "安·兰德与客观主义",
-  "pinyin": "Ān Lándé",
-  "en": "Ayn Rand and Objectivism",
-  "def_zh": "《阿特拉斯耸耸肩》《源泉》：兰德的客观主义哲学小说——理性自利（rational self-interest）为最高道德，创造者/生产者是文明的阿特拉斯（“耸肩”即罢工——约翰·高尔特带走头脑），利他主义被斥为道德勒索，资本主义是唯一道德的制度。美国右翼与硅谷的地下圣经（格林斯潘出身兰德圈），学院哲学多不认，文化影响极巨——“Who is John Galt?”是英语政治梗。",
-  "def_en": "Atlas Shrugged and The Fountainhead are philosophy delivered as blockbuster: Objectivism's rational self-interest as the moral summit, creators as civilisation's Atlas (the 'shrug' is their strike — John Galt withdraws the minds), altruism unmasked as moral extortion, capitalism the only moral system. Academia shrugs back, but the cultural footprint is enormous — Greenspan came from Rand's circle, Silicon Valley quotes her sideways, and 'Who is John Galt?' remains a live political meme.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "Atlas Shrugged / The Fountainhead (Ayn Rand)"
-   }
-  ],
-  "collocations": [
-   "rational self-interest",
-   "Who is John Galt?",
-   "the virtue of selfishness",
-   "makers and takers"
-  ],
-  "example": "'Makers v. takers' rhetoric in US budget fights is Rand vulgarised — knowing her lets you source half of libertarian Twitter in one citation.",
-  "nuance": "客观主义 = Objectivism（大写专名）。“理性自利”与 [[adam-smith]] 的 self-interest 谱系相接而更极端（斯密有道德情操论平衡——常被兰德派略去）。与 [[communist-manifesto]] 构成二十世纪意识形态光谱的两极——并读即冷战思想史。",
-  "links": [
-   {
-    "to": "adam-smith",
-    "rel": "related"
-   },
-   {
-    "to": "communist-manifesto",
-    "rel": "contrast"
-   },
-   {
-    "to": "utopian-socialism",
-    "rel": "contrast"
-   },
-   {
-    "to": "entrepreneurship-indie",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas"
-  ],
-  "period": "1943年/1957年",
-  "pron": "objectivism /əbˈdʒɛktɪvɪzəm/",
-  "etymology": "objectivism 源自拉丁 obiectum（掷于前之物→对象）——“客观主义”自铭以对象性。",
-  "synonyms": [
-   {
-    "word": "rational egoism",
-    "ipa": "/ˈræʃənəl ˈigoʊˌɪzəm/",
-    "sentence": "Rational egoism makes a virtue of the ledger."
-   },
-   {
-    "word": "libertarianism",
-    "ipa": "/ˌlɪbəˈteəriənɪzəm/",
-    "sentence": "Libertarianism quotes her novels like case law."
-   }
-  ]
- },
- {
-  "id": "bingham-rule-of-law",
-  "zh": "《法治》（宾厄姆八原则）",
-  "pinyin": "Bīng'è'mǔ fǎzhì",
-  "en": "Bingham's The Rule of Law",
-  "def_zh": "英国前首席大法官宾厄姆对“法治”的权威界定：核心是“所有人和机构皆受法律约束并享其保护，法律公开、面向未来、由法院公开施行”。八项原则：法律可及且可预测；依法而非裁量决定权利；法律面前平等；公权力须善意、合目的、不越权行使；保护基本人权；提供可负担的争端解决；程序公正；国家遵守国际法义务。“薄”法治（形式合法）与“厚”法治（含人权）之辨的标准文本——分析中国“依法治国”表述的最佳英方参照系。",
-  "def_en": "The late Lord Bingham's authoritative statement: 'all persons and authorities within the state, whether public or private, should be bound by and entitled to the benefit of laws publicly made... and publicly administered in the courts', unpacked into eight ingredients — accessible law; rights decided by law not discretion; equality before the law; public power exercised in good faith, for proper purpose, within limits; human-rights protection; affordable dispute resolution; fair procedure; and state compliance with international law. The standard text for the thin/thick rule-of-law distinction — and the sharpest available lens for parsing 依法治国.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "The Rule of Law (Tom Bingham)"
-   }
-  ],
-  "collocations": [
-   "the rule of law",
-   "thick vs thin conceptions",
-   "equality before the law",
-   "judicial review",
-   "accessible and predictable law"
-  ],
-  "example": "When commentators grade a country 'rule of law' or 'rule by law', Bingham's eight ingredients are the unspoken scorecard — put this node beside [[law-based-governance]] and you hold both sides of the century's key legal argument.",
-  "nuance": "thick/thin rule of law = 厚/薄法治观（是否内含人权实质）。judicial review 双义：英义（司法审查行政行为）/美义（违宪审查）——细分点。本节点为 [[magna-carta]]→[[twelve-tables]]→[[common-vs-civil-law]]→[[law-based-governance]] 法治长线的英方当代收口。",
-  "links": [
-   {
-    "to": "magna-carta",
-    "rel": "broader"
-   },
-   {
-    "to": "law-based-governance",
-    "rel": "contrast"
-   },
-   {
-    "to": "common-vs-civil-law",
-    "rel": "related"
-   },
-   {
-    "to": "chinese-legal-tradition",
-    "rel": "related"
-   },
-   {
-    "to": "westphalia",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas",
-   "governance"
-  ],
-  "period": "2010年",
-  "pron": "rule of law /rul əv lɔ/",
-  "etymology": "rule 源自拉丁 regula（直尺）——法治即“以尺为治”，与 rule by law 一介词之差。",
-  "synonyms": [
-   {
-    "word": "due process",
-    "ipa": "/du ˈprɔˌsɛs/",
-    "sentence": "Due process is fairness written as procedure."
-   },
-   {
-    "word": "judicial independence",
-    "ipa": "/ʤuˈdɪʃəl ˌɪndɪˈpɛndəns/",
-    "sentence": "Judicial independence lets courts disappoint their patrons."
-   }
-  ]
- },
- {
-  "id": "index-investing",
-  "zh": "指数投资与个股研究（博格与林奇）",
-  "pinyin": "zhǐshù tóuzī",
-  "en": "index investing and stock-picking: Bogle v. Lynch",
-  "def_zh": "个人投资的两极经典：博格《长赢投资》——成本至上（成本假说：市场回报−费用=投资者回报），指数基金让你稳获市场平均而费用趋零，“别找草堆里的针，把整个草堆买下来”；林奇《彼得·林奇的成功投资》——个人投资者的信息优势在身边（“买你了解的东西”），tenbagger（十倍股）、六类公司分类（缓慢/稳定/快速增长、周期、困境反转、隐蔽资产）。被动与主动之争的原典配对——用户美股/ETF兴趣的理论地基。",
-  "def_en": "The retail investor's two poles: Bogle's Little Book — cost is destiny (market return minus fees equals your return), so 'don't look for the needle, buy the haystack' with an index fund; and Lynch's One Up — the amateur's edge is local knowledge ('buy what you know'), hunt tenbaggers, classify companies into six types before touching them. The passive-active debate at source — and the theoretical floor under your own ETF-and-US-stocks practice.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "One Up On Wall Street (Lynch) / Common Sense Investing (Bogle)"
-   }
-  ],
-  "collocations": [
-   "index funds",
-   "expense ratio",
-   "buy the haystack",
-   "tenbagger",
-   "buy what you know"
-  ],
-  "example": "Buffett's wager that an S&P tracker would beat hedge funds over a decade (it did, easily) turned Bogle's arithmetic into folklore — 'costs matter' is now the one investing sentence everyone owns.",
-  "nuance": "指数基金 = index funds；费用率 = expense ratio；十倍股 = tenbagger（林奇自铸词已入英语词典）。有效市场假说 EMH 为背景理论。链 [[corporations-exchanges]]、[[personal-finance-classics]]（通俗版）——投资英语三层完成。",
-  "links": [
-   {
-    "to": "corporations-exchanges",
-    "rel": "related"
-   },
-   {
-    "to": "personal-finance-classics",
-    "rel": "related"
-   },
-   {
-    "to": "econ-principles",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "economy"
-  ],
-  "period": "1989年/2007年",
-  "pron": "diversification /dɪˌvərsəfəˈkeɪʃən/",
-  "etymology": "diversification 源自拉丁 diversus（转向不同）+ facere——分散即“使不同”。",
-  "synonyms": [
-   {
-    "word": "passive investing",
-    "ipa": "/ˈpæsɪv ˌɪnˈvɛstɪŋ/",
-    "sentence": "Passive investing wins by refusing to play."
-   },
-   {
-    "word": "expense ratio",
-    "ipa": "/ɪkˈspɛns ˈreɪʃiˌoʊ/",
-    "sentence": "The expense ratio is the leak that sinks the compounding."
-   }
-  ]
- },
- {
-  "id": "yiyun-li",
-  "zh": "李翊云（用第二语言写作）",
-  "pinyin": "Lǐ Yìyún",
-  "en": "Yiyun Li: writing in an adopted language",
-  "def_zh": "书库中最完整的作家专柜：北京长大、北大生物系、赴美读免疫学博士后转写作，只用英语写作并拒绝作品中译——“私人的语言”论（中文承载太多不欲回访的记忆，英语是选择而非继承的语言）。《千年敬祈》《漂泊者》（小说）、《亲爱的朋友》（谈抑郁与阅读的散文）、《理由终结之处》（与自杀离世之子的虚构对话）、Things in Nature Merely Grow（丧子续章）。以第二语言达到文体巅峰（麦克阿瑟天才奖）——对以英语重建概念世界的学习者，是最深的同行者文本。",
-  "def_en": "The library's most complete single-author shelf: Beijing-raised, Peking University biology, an immunology PhD track abandoned for fiction — written only in English, with Chinese translation long refused: her essays argue that Chinese carries memories she chooses not to revisit, making English 'a private language', inherited by no one and therefore chosen. From A Thousand Years of Good Prayers through the essays on depression and reading to Where Reasons End — conversations with a son lost to suicide — she reached the summit of English prose style in a second language (MacArthur 'genius' grant included). For anyone rebuilding their conceptual world in English, she is the deepest fellow-traveller text available.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "Yiyun Li 作品群（Where Reasons End 等）"
-   }
-  ],
-  "collocations": [
-   "adopted language",
-   "a private language",
-   "exophonic writers",
-   "L2 writing"
-  ],
-  "example": "Li joins Conrad and Nabokov in the tiny club of style-defining exophonic writers — proof, kept on your own shelf, that a second language can become not a limit but the instrument.",
-  "nuance": "exophonic（用非母语写作的）为文学研究术语。她“拒绝中译”的立场与本项目“以英语重建概念”方向同构而更决绝——张力本身值得写一篇双语随笔。链 [[new-culture]] 白话文（语言选择即自我塑造的前例）、[[daodejing-english]]（翻译与不可译）。",
-  "links": [
-   {
-    "to": "daodejing-english",
-    "rel": "related"
-   },
-   {
-    "to": "new-culture",
-    "rel": "related"
-   },
-   {
-    "to": "ai-imagenet",
-    "rel": "related"
-   },
-   {
-    "to": "shiji",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "culture",
-   "ideas"
-  ],
-  "period": "2005年至今",
-  "pron": "exophony /ɛkˈsɒfəni/",
-  "etymology": "exophony 源自希腊 exō（外）+ phōnē（声音）——“外语写作”的文学术语。",
-  "synonyms": [
-   {
-    "word": "adopted language",
-    "ipa": "/əˈdɑptəd ˈlæŋgwɪʤ/",
-    "sentence": "An adopted language is a house you chose, then built."
-   },
-   {
-    "word": "bilingual identity",
-    "ipa": "/baɪˈlɪŋgwəl aɪˈdɛntəˌti/",
-    "sentence": "A bilingual identity keeps two ledgers of memory."
-   }
-  ]
- },
- {
-  "id": "lucky-country",
-  "zh": "《幸运之国》与澳大利亚认同",
-  "pinyin": "xìngyùn zhī guó",
-  "en": "The Lucky Country and Australian identity",
-  "def_zh": "霍恩1964年名著：“澳大利亚是个幸运的国家，由二流人物经营，全凭好运分享他人的想法”——书名本是讽刺（靠资源与殖民遗产而非创新致富），却被国民欢快误用为自夸，作者抱憾终身。与《Girt Nation》（戏谑体澳洲史）同为理解澳洲自我叙事的钥匙：cultural cringe（文化自卑）、tall poppy syndrome（高罂粟综合征——枪打出头鸟）、fair go（公平机会）、mateship——NSW 生活与教师职场的语用背景。",
-  "def_en": "Horne's 1964 barb — 'Australia is a lucky country run mainly by second-rate people who share its luck' — was written as indictment (rich by minerals and inheritance, not ideas) and adopted by the nation as a compliment, to the author's lifelong exasperation: the most successfully misread title in Australian letters. With Girt Nation's irreverent history it unlocks the local self-talk your staffroom runs on — cultural cringe, tall poppy syndrome, fair go, mateship — the idiom set that no migrant professional in NSW can skip.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "The Lucky Country (Horne) / Girt Nation (Hunt)"
-   }
-  ],
-  "collocations": [
-   "the lucky country",
-   "tall poppy syndrome",
-   "fair go",
-   "cultural cringe",
-   "mateship"
-  ],
-  "example": "Every mining-boom budget and every 'she'll be right' policy debate gets the Horne citation — usually straight-faced, which is itself his thesis vindicated.",
-  "nuance": "the lucky country 的反讽本义是澳洲文化素养的口令（用对=内行）。tall poppy syndrome（见不得人好）与中文“枪打出头鸟”精确对应——绝佳双语对。fair go、mateship 为澳洲价值观官方词（入籍考试范围！）。链 [[decolonisation]]（澳洲的定居殖民史另一面）。",
-  "links": [
-   {
-    "to": "decolonisation",
-    "rel": "related"
-   },
-   {
-    "to": "westward-expansion",
-    "rel": "related"
-   },
-   {
-    "to": "harari-imagined-orders",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "culture",
-   "society"
-  ],
-  "period": "1964年",
-  "pron": "irony /ˈaɪrəni/",
-  "etymology": "irony 源自希腊 eirōneia（佯装无知——苏格拉底式反讽）——书名之讽被举国误读，堪称词义现场课。",
-  "synonyms": [
-   {
-    "word": "complacency",
-    "ipa": "/kəmˈpleɪsənsi/",
-    "sentence": "Complacency is luck mistaken for merit."
-   },
-   {
-    "word": "national myth",
-    "ipa": "/ˈnæʃənəl mɪθ/",
-    "sentence": "A national myth is autobiography by committee."
-   }
-  ]
- },
- {
-  "id": "zeng-guofan",
-  "zh": "曾国藩（结硬寨打呆仗与日课自省）",
-  "pinyin": "Zēng Guófān",
-  "en": "Zeng Guofan: dumb persistence and daily audit",
-  "def_zh": "张宏杰《曾国藩传》：资质平平（考秀才七次）而成“立德立功立言三不朽”——秘诀是“尚拙”：结硬寨、打呆仗（湘军不求奇谋，深沟高垒步步为营困死太平军）；日课十二条与写日记自省（把修身工程化）；“大处着眼，小处着手”；晚年办洋务（江南制造局）开近代化先声。与斯多亚日省、富兰克林美德清单同型——中式自我管理的原典人物，管理界奉为“笨功夫”哲学。",
-  "def_en": "Zhang Hongjie's bestselling life of the Qing statesman who failed the licentiate exam seven times and ended as the dynasty's model of the 'three immortalities': his method was engineered dullness — 'build hard camps, fight dumb battles' (the Xiang Army starved the Taiping out with trenches, not brilliance); a twelve-item daily regimen and a diary of merciless self-audit; 'plan from the large, act from the small'; and, late, the arsenals that began self-strengthening. Franklin's virtue ledger and the Stoic evening review, Chinese-style — business China's favourite patron saint of un-clever persistence.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "曾国藩传（张宏杰）"
-   }
-  ],
-  "collocations": [
-   "deliberate dullness",
-   "fortify and grind",
-   "daily self-examination",
-   "the long game"
-  ],
-  "example": "“结硬寨，打呆仗” circulates in Chinese business writing exactly where English cites 'compound interest' and 'boring wins' — Buffett's moat rhetoric has a Hunanese ancestor.",
-  "nuance": "“结硬寨打呆仗”可译 build hard camps, fight dull battles（需释：attritional discipline over cleverness）。三不朽 = the three immortalities (virtue, deeds, words——《左传》)。链 [[taiping]]（他是镇压者——同一史实的两个节点视角！）、[[self-strengthening]]（他是发起人）、[[stoicism]]、[[atomic-habits]]（日课=习惯系统）。",
-  "links": [
-   {
-    "to": "taiping",
-    "rel": "related"
-   },
-   {
-    "to": "self-strengthening",
-    "rel": "related"
-   },
-   {
-    "to": "stoicism",
-    "rel": "related"
-   },
-   {
-    "to": "atomic-habits",
-    "rel": "related"
-   },
-   {
-    "to": "confucius",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas",
-   "governance"
-  ],
-  "period": "1811年–1872年",
-  "pron": "perseverance /ˌpərsəˈvɪrəns/",
-  "etymology": "perseverance 源自拉丁 per-（贯穿）+ severus（严格）——坚持即“一严到底”。",
-  "synonyms": [
-   {
-    "word": "self-discipline",
-    "ipa": "/sɛlf-ˈdɪsəplən/",
-    "sentence": "Self-discipline is a diary that answers back."
-   },
-   {
-    "word": "attrition",
-    "ipa": "/əˈtrɪʃən/",
-    "sentence": "He won by attrition: camps, ditches, patience."
-   }
-  ]
- },
- {
-  "id": "fromm-love",
-  "zh": "弗洛姆《爱的艺术》",
-  "pinyin": "Fúluòmǔ / ài de yìshù",
-  "en": "Fromm: The Art of Loving",
-  "def_zh": "弗洛姆三部曲（《爱的艺术》《论不服从》《存在的艺术》）核心：爱不是坠入的运气而是需要学习的能力/艺术——包含关心、责任、尊重、了解四要素；成熟的爱是“在保全自身完整性前提下的结合”（我因为爱你所以需要你，而非因为需要你所以爱你）；现代资本主义把爱异化为交换与消费（“人格市场”）。占有（to have）还是存在（to be）的生存方式之问贯穿三书——法兰克福学派的人本主义一翼。",
-  "def_en": "The trilogy's heart: love is not a happening but a faculty — an art demanding knowledge and effort, composed of care, responsibility, respect and knowledge; mature love is 'union under the condition of preserving one's integrity' ('I need you because I love you', not the reverse); and consumer capitalism corrupts it into exchange on a 'personality market'. Behind it, the To Have or To Be question that names Fromm's whole humanism — the Frankfurt School's warmest export.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "艾里希·弗洛姆三部曲（爱的艺术等）"
-   }
-  ],
-  "collocations": [
-   "the art of loving",
-   "to have or to be",
-   "care, responsibility, respect, knowledge",
-   "escape from freedom"
-  ],
-  "example": "'Love is a verb' — the couples-counselling cliché — is Fromm dissolved into pop culture; 允许爱情消失 (also on this shelf) is the same conversation continued in Chinese.",
-  "nuance": "《逃避自由》Escape from Freedom 为其名著背景（自由的重负——链 [[courage-disliked]] 被讨厌的勇气=自由的代价，两书同题异答）。异化 = alienation（马克思概念的心理学化——链 [[marxism]]）。占有/存在 = having/being modes。",
-  "links": [
-   {
-    "to": "courage-disliked",
-    "rel": "related"
-   },
-   {
-    "to": "marxism",
-    "rel": "related"
-   },
-   {
-    "to": "jiceng-women",
-    "rel": "related"
-   },
-   {
-    "to": "stoicism",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas"
-  ],
-  "period": "1956年",
-  "pron": "alienation /ˌeɪliəˈneɪʃən/",
-  "etymology": "alienation 源自拉丁 alienus（他者的）——异化即“变成他者之物”，马克思-弗洛姆共用词。",
-  "synonyms": [
-   {
-    "word": "the art of loving",
-    "ipa": "/ðə ɑrt əv ˈləvɪŋ/",
-    "sentence": "Loving is an art: studied, practised, failed at, resumed."
-   },
-   {
-    "word": "having and being",
-    "ipa": "/ˈhævɪŋ ənd biɪŋ/",
-    "sentence": "Having hoards; being unfolds."
-   }
-  ]
- },
- {
-  "id": "story-craft",
-  "zh": "故事技艺（编剧与叙事理论）",
-  "pinyin": "gùshi jìyì",
-  "en": "the craft of story",
-  "def_zh": "三本互补的叙事方法论：克龙《故事天才》（Story Genius）——故事的本质是主角内在误信（misbelief）被现实逐步击碎的心理弧线，脑科学证明人靠故事模拟生存；特鲁比《故事的解剖》——欲望（desire）+对手（opponent）+道德抉择的22步结构，反对三幕式公式；金《写作这回事》（On Writing）——回忆录+工具箱：“门关着写初稿，门开着改”（write with the door closed）、副词是地狱之路、情境（situation）先于情节。对游戏课（9GAMZA）的叙事设计与英语写作教学皆为直接弹药。",
-  "def_en": "Three complementary manuals: Cron's Story Genius — story is a protagonist's misbelief colliding with events, the brain running survival simulations (neuroscience as story theory); Truby's Anatomy of Story — desire, opponent and moral argument in 22 steps, against three-act formula; King's On Writing — memoir plus toolbox: first drafts with the door closed, 'the road to hell is paved with adverbs', situation before plot. Direct ammunition both for narrative design in your Unity course and for teaching writing itself.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "Story Genius / The Anatomy of Story / On Writing"
-   }
-  ],
-  "collocations": [
-   "character arc",
-   "misbelief/the lie the character believes",
-   "desire and opponent",
-   "show, don't tell",
-   "kill your darlings"
-  ],
-  "example": "Game-writing courses teach 'the lie your character believes' as core loop design — Cron's misbelief is the same mechanic your 9GAMZA students can code as a variable that flips at the climax.",
-  "nuance": "人物弧线 = character arc；“角色相信的谎言”= the lie/misbelief（编剧圈术语）；show, don't tell（少说明多呈现）与 kill your darlings（忍痛删爱句）为写作课两大格言。链 [[ming-novels]]、[[homer-epics]]（叙事传统）与 [[tang-exchange]] 孙悟空IP（游戏叙事资源）。",
-  "links": [
-   {
-    "to": "ming-novels",
-    "rel": "related"
-   },
-   {
-    "to": "homer-epics",
-    "rel": "related"
-   },
-   {
-    "to": "instructional-science",
-    "rel": "related"
-   },
-   {
-    "to": "yiyun-li",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "culture",
-   "ideas"
-  ],
-  "period": "2000年–2016年",
-  "pron": "narrative /ˈnɛrətɪv/",
-  "etymology": "narrative 源自拉丁 narrare（讲述）←gnarus（知晓）——叙事即“使人知晓”。",
-  "synonyms": [
-   {
-    "word": "character arc",
-    "ipa": "/ˈkɛrɪktər ɑrk/",
-    "sentence": "A character arc is belief under demolition."
-   },
-   {
-    "word": "plot",
-    "ipa": "/plɑt/",
-    "sentence": "Plot is causality wearing suspense."
-   }
-  ]
- },
- {
-  "id": "wittgenstein-language",
-  "zh": "维特根斯坦（语言的界限）",
-  "pinyin": "Wéitègēnsītǎn",
-  "en": "Wittgenstein: the limits of language",
-  "def_zh": "蒙克传记《天才之为责任》呈现的双期维特根斯坦：前期《逻辑哲学论》——“我的语言的界限意味着我的世界的界限”“对于不可说的，必须保持沉默”（语言为世界画界）；后期《哲学研究》自我推翻——意义即使用（meaning is use），语言是嵌入生活形式的语言游戏（language games），家族相似取代本质定义；“哲学问题的形式是：我找不着北”。对双语者的直接意义：每学会一种新说法，即挪动一次世界的界限——本知识库的哲学守护神。",
-  "def_en": "Monk's Duty of Genius gives both Wittgensteins: the early Tractatus — 'the limits of my language mean the limits of my world'; 'whereof one cannot speak, thereof one must be silent' — and the later Investigations that demolished it: meaning is use, language is a family of games embedded in forms of life, and philosophy's problems have the form 'I don't know my way about'. For a bilingual learner the cash value is immediate: every new way of saying is a border moved — which makes him, quietly, this knowledge base's patron philosopher.",
-  "sources": [
-   {
-    "book": "reading",
-    "chapter": "Ludwig Wittgenstein: The Duty of Genius (Monk)"
-   }
-  ],
-  "collocations": [
-   "language games",
-   "meaning is use",
-   "forms of life",
-   "the limits of my language",
-   "family resemblance"
-  ],
-  "example": "'The limits of my language mean the limits of my world' belongs on this project's homepage — 322 nodes in, every 中英 mapping you've added is a border you've moved.",
-  "nuance": "语言游戏 = language games；生活形式 = forms of life；家族相似 = family resemblance（分类学难题的标准解——链 [[logic-toolkit]] 概念定义）。《逻辑哲学论》= the Tractatus。与 [[laozi]]“道可道非常道”的可说/不可说对话是中西语言哲学的天然桥（链 [[daodejing-english]]）。",
-  "links": [
-   {
-    "to": "daodejing-english",
-    "rel": "related"
-   },
-   {
-    "to": "logic-toolkit",
-    "rel": "related"
-   },
-   {
-    "to": "laozi",
-    "rel": "related"
-   },
-   {
-    "to": "yiyun-li",
-    "rel": "related"
-   }
-  ],
-  "themes": [
-   "ideas"
-  ],
-  "period": "1921年/1953年",
-  "pron": "language game /ˈlæŋgwɪʤ geɪm/",
-  "etymology": "language（拉丁 lingua 舌）+ game（古英语 gamen 游戏）——语言游戏：意义在用法中。",
-  "synonyms": [
-   {
-    "word": "form of life",
-    "ipa": "/fɔrm əv laɪf/",
-    "sentence": "A form of life is the game board under the grammar."
-   },
-   {
-    "word": "semantics",
-    "ipa": "/sɪˈmæntɪks/",
-    "sentence": "Semantics ends where use begins, he decided — twice."
-   }
-  ]
- }
+  {
+    "id": "zhishen-shinei",
+    "zh": "《置身事内》（土地财政与地方政府经济学）",
+    "pinyin": "zhìshēn shìnèi",
+    "en": "In the Thick of It: local government and China's growth machine",
+    "def_zh": "兰小欢的现象级中国政经解读：1994年分税制后地方政府财权上收、事权仍重，遂以土地财政补缺——低价征地招商引资（工业用地补贴换税基）+高价出让住宅用地（土地出让金），以城投公司（LGFV 地方政府融资平台）抵押土地融资建设——“地方政府公司化”驱动了基建奇迹与房价、债务、产能问题的同一枚硬币两面。理解当下房地产化债、卖地收入下滑新闻的最佳底本。",
+    "def_en": "Lan Xiaohuan's bestselling anatomy of the growth machine: after the 1994 tax-sharing reform starved local budgets, land became the fiscal workaround — industrial land sold cheap to lure factories (subsidise the tax base), residential land sold dear (land-transfer revenue), and local-government financing vehicles (LGFVs) borrowing against it all to build the infrastructure miracle. 'The corporatised local state' explains both China's roads and its property-and-debt hangover — the single best decoder for every land-auction, LGFV and 化债 headline the Economist runs.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "置身事内：中国政府与经济发展（兰小欢）"
+      }
+    ],
+    "collocations": [
+      "land finance",
+      "local government financing vehicles (LGFVs)",
+      "the land-transfer fee",
+      "investment attraction",
+      "hidden debt"
+    ],
+    "example": "'Land finance' (土地财政) appears untranslated-with-gloss in most China-economy coverage now — this book is why analysts treat Chinese mayors as CEOs whose balance sheet is territory.",
+    "nuance": "土地财政 = land finance；城投/融资平台 = LGFVs（英文财经报道标准缩写）；招商引资 = investment attraction/promotion；隐性债务 = hidden/implicit debt。直接续接 [[zhu-rongji-reforms]] 分税制与 [[hukou-baojia]]（户籍与土地的城市化双闸）。",
+    "links": [
+      {
+        "to": "zhu-rongji-reforms",
+        "rel": "effect"
+      },
+      {
+        "to": "chinese-taxation",
+        "rel": "related"
+      },
+      {
+        "to": "hukou-baojia",
+        "rel": "related"
+      },
+      {
+        "to": "junxian",
+        "rel": "related"
+      },
+      {
+        "to": "market-government",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "governance"
+    ],
+    "period": "2021年",
+    "pron": "land finance /lænd ˈfaɪˌnæns/",
+    "etymology": "finance 源自拉丁 finis（终结）→ 古法语“清偿结账”——财政即“了结债务”之术。",
+    "synonyms": [
+      {
+        "word": "local government debt",
+        "ipa": "/ˈloʊkəl ˈgəvərnmənt dɛt/",
+        "sentence": "Local government debt hides in platforms and projects."
+      },
+      {
+        "word": "growth machine",
+        "ipa": "/groʊθ məˈʃin/",
+        "sentence": "The growth machine sells land to build the city that raises the land."
+      }
+    ]
+  },
+  {
+    "id": "dictators-handbook",
+    "zh": "《独裁者手册》（胜利联盟理论）",
+    "pinyin": "dúcáizhě shǒucè",
+    "en": "The Dictator's Handbook: selectorate theory",
+    "def_zh": "布鲁诺·德·梅斯奎塔与史密斯把政治简化为一条规则：统治者只需取悦“胜利联盟”（winning coalition——决定其去留的关键支持者）。联盟小（独裁）则用私人收买（腐败、特权）最有效；联盟大（民主）则须供给公共品。由此解释外援养独裁、资源诅咒、民主国家打仗更谨慎等——“坏行为几乎总是好政治”。冷酷的理性选择框架，与制度学派互补，是政治评论的常用透镜。",
+    "def_en": "Politics reduced to one law: rulers serve the winning coalition — the minimal set of backers who keep them in power. Small coalition (autocracy) → pay them privately (graft, privilege); large coalition (democracy) → pay in public goods. The framework churns out uncomfortable corollaries — aid props up dictators, resources curse, democracies fight more carefully — under the subtitle's thesis that bad behaviour is almost always good politics. The cynic's field guide that political columnists reach for weekly.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "独裁者手册（梅斯奎塔、史密斯）"
+      }
+    ],
+    "collocations": [
+      "the winning coalition",
+      "selectorate",
+      "private vs public goods",
+      "the resource curse"
+    ],
+    "example": "'Keys to power' videos (CGP Grey's adaptation) made selectorate theory YouTube canon — when analysts ask 'who does Putin actually need?', they're running this book's algorithm.",
+    "nuance": "胜利联盟 = the winning coalition；名义选择人集团 = the selectorate（术语本体）。资源诅咒 = the resource curse。与 [[party-leadership]]、[[eastern-han]]（外戚宦官=小联盟收买）、[[glorious-revolution]]（联盟扩大的制度化）互为分析透镜——本知识库政治线的“暗面理论”。",
+    "links": [
+      {
+        "to": "eastern-han",
+        "rel": "related"
+      },
+      {
+        "to": "glorious-revolution",
+        "rel": "related"
+      },
+      {
+        "to": "national-interest-power",
+        "rel": "related"
+      },
+      {
+        "to": "decolonisation",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "2011年",
+    "pron": "selectorate /sɪˈlɛktərət/",
+    "etymology": "selectorate 为 select + electorate 的合成学术新词——“可选者集团”。",
+    "synonyms": [
+      {
+        "word": "winning coalition",
+        "ipa": "/ˈwɪnɪŋ ˌkoʊəˈlɪʃən/",
+        "sentence": "Shrink the winning coalition and loyalty gets cheaper."
+      },
+      {
+        "word": "patronage",
+        "ipa": "/ˈpætrənɪʤ/",
+        "sentence": "Patronage is public money on a private errand."
+      }
+    ]
+  },
+  {
+    "id": "sociological-imagination",
+    "zh": "社会学的想象力（米尔斯与吉登斯）",
+    "pinyin": "shèhuìxué de xiǎngxiànglì",
+    "en": "the sociological imagination",
+    "def_zh": "米尔斯的学科纲领：社会学的想象力即在个人烦恼（personal troubles）与公共议题（public issues）之间往返的能力——失业不是你的失败而是结构的坐标；传记与历史相交处才是社会学。吉登斯《社会学基本概念》与《社会理论二十讲》补齐工具箱：社会化、越轨、科层制、社会分层、社会建构、现代性、全球化——阅读一切严肃社会评论（含 Economist 社会版）的底层词库。",
+    "def_en": "Mills's charter for the discipline: the sociological imagination is the capacity to shuttle between personal troubles and public issues — your unemployment as a coordinate in a structure, biography read against history. Giddens's Essential Concepts and the theory surveys fill the toolbox: socialisation, deviance, bureaucracy, stratification, social construction, modernity, globalisation — the substrate vocabulary of every serious social commentary, the Economist's society pieces included.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "社会学的想象力 / 社会学基本概念（吉登斯）"
+      }
+    ],
+    "collocations": [
+      "personal troubles vs public issues",
+      "social construction",
+      "stratification",
+      "structure and agency"
+    ],
+    "example": "'That's a public issue, not a personal trouble' is the one-line sociology lesson hiding in every good op-ed about burnout, housing or fertility — Mills's distinction doing daily journalistic work.",
+    "nuance": "社会学的想象力 = the sociological imagination（书名即概念）；结构与能动 = structure and agency（社会理论的元对偶）。社会建构 = social construction。链 [[chaxugeju]]（本土概念）、[[xiang-biao]]（当代实践者）、[[historical-materialism]]（一种强结构论）。",
+    "links": [
+      {
+        "to": "chaxugeju",
+        "rel": "related"
+      },
+      {
+        "to": "xiang-biao",
+        "rel": "related"
+      },
+      {
+        "to": "historical-materialism",
+        "rel": "related"
+      },
+      {
+        "to": "jiceng-women",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "society"
+    ],
+    "period": "1959年",
+    "pron": "sociology /ˌsoʊsiˈɑləʤi/",
+    "etymology": "sociology 源自拉丁 socius（同伴）+ 希腊 logos——孔德所造混血词：“同伴之学”。",
+    "synonyms": [
+      {
+        "word": "social structure",
+        "ipa": "/ˈsoʊʃəl ˈstrəkʧər/",
+        "sentence": "Social structure is biography's invisible co-author."
+      },
+      {
+        "word": "public issue",
+        "ipa": "/ˈpəblɪk ˈɪʃu/",
+        "sentence": "A public issue is a private trouble multiplied and named."
+      }
+    ]
+  },
+  {
+    "id": "jinbang-after",
+    "zh": "《金榜题名之后》（出路分化与文化资本）",
+    "pinyin": "jīnbǎng tímíng zhīhòu",
+    "en": "After the Exam Lists: how graduates' paths diverge",
+    "def_zh": "郑雅君对精英大学生的研究：同进名校，出路为何分化？关键在文化资本差异塑造的两种“上大学的方式”——目标掌控模式（多为优势家庭：入学即知规则，绩点实习留学步步为营）与直觉依赖模式（多为寒门：延续高考惯性埋头读书，临毕业才发现游戏规则已变）。“懂游戏规则”本身是隐性课程——布迪厄文化资本理论的中国校园实证。接续科举以来“上榜之后”的古老命题。",
+    "def_en": "Zheng Yajun's study of elite-university students asks why equal admission yields unequal exits: cultural capital splits them into two modes of 'doing university' — the target-mastery mode (advantaged students who arrive knowing the meta-game: GPA, internships, exchange, each move sequenced) and the intuition-reliance mode (first-generation students who keep gaokao-grinding until graduation reveals the rules changed). Bourdieu's hidden curriculum, documented on Chinese campuses — and the modern instalment of a question as old as the examination lists themselves.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "金榜题名之后：大学生出路分化之谜（郑雅君）"
+      }
+    ],
+    "collocations": [
+      "cultural capital",
+      "first-generation students",
+      "the hidden curriculum",
+      "meritocracy's fine print"
+    ],
+    "example": "'Getting in is not catching up' is the sentence western coverage of elite admissions keeps rediscovering — this book supplies the Chinese evidence, and 文化资本 maps onto Bourdieu without remainder.",
+    "nuance": "文化资本 = cultural capital（布迪厄）；隐性课程 = the hidden curriculum；寒门 = disadvantaged/first-generation（“寒门难出贵子”议题）。直接续 [[imperial-examinations]]（金榜题名的现代下半场）与 [[xiang-biao]] 内卷、[[nine-rank]]（上品无寒门的回声）。",
+    "links": [
+      {
+        "to": "imperial-examinations",
+        "rel": "related"
+      },
+      {
+        "to": "nine-rank",
+        "rel": "related"
+      },
+      {
+        "to": "xiang-biao",
+        "rel": "related"
+      },
+      {
+        "to": "instructional-science",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "society",
+      "ideas"
+    ],
+    "period": "2023年",
+    "pron": "cultural capital /ˈkəlʧərəl ˈkæpɪtəl/",
+    "etymology": "capital（资本）转喻+cultural——布迪厄术语：可继承、可增值的文化资产。",
+    "synonyms": [
+      {
+        "word": "hidden curriculum",
+        "ipa": "/ˈhɪdən kərˈɪkjələm/",
+        "sentence": "The hidden curriculum examines what the syllabus never taught."
+      },
+      {
+        "word": "first-generation student",
+        "ipa": "/fərst-ˌʤɛnərˈeɪʃən ˈstudənt/",
+        "sentence": "The first-generation student learns the rules mid-game."
+      }
+    ]
+  },
+  {
+    "id": "ayn-rand",
+    "zh": "安·兰德与客观主义",
+    "pinyin": "Ān Lándé",
+    "en": "Ayn Rand and Objectivism",
+    "def_zh": "《阿特拉斯耸耸肩》《源泉》：兰德的客观主义哲学小说——理性自利（rational self-interest）为最高道德，创造者/生产者是文明的阿特拉斯（“耸肩”即罢工——约翰·高尔特带走头脑），利他主义被斥为道德勒索，资本主义是唯一道德的制度。美国右翼与硅谷的地下圣经（格林斯潘出身兰德圈），学院哲学多不认，文化影响极巨——“Who is John Galt?”是英语政治梗。",
+    "def_en": "Atlas Shrugged and The Fountainhead are philosophy delivered as blockbuster: Objectivism's rational self-interest as the moral summit, creators as civilisation's Atlas (the 'shrug' is their strike — John Galt withdraws the minds), altruism unmasked as moral extortion, capitalism the only moral system. Academia shrugs back, but the cultural footprint is enormous — Greenspan came from Rand's circle, Silicon Valley quotes her sideways, and 'Who is John Galt?' remains a live political meme.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Atlas Shrugged / The Fountainhead (Ayn Rand)"
+      }
+    ],
+    "collocations": [
+      "rational self-interest",
+      "Who is John Galt?",
+      "the virtue of selfishness",
+      "makers and takers"
+    ],
+    "example": "'Makers v. takers' rhetoric in US budget fights is Rand vulgarised — knowing her lets you source half of libertarian Twitter in one citation.",
+    "nuance": "客观主义 = Objectivism（大写专名）。“理性自利”与 [[adam-smith]] 的 self-interest 谱系相接而更极端（斯密有道德情操论平衡——常被兰德派略去）。与 [[communist-manifesto]] 构成二十世纪意识形态光谱的两极——并读即冷战思想史。",
+    "links": [
+      {
+        "to": "adam-smith",
+        "rel": "related"
+      },
+      {
+        "to": "communist-manifesto",
+        "rel": "contrast"
+      },
+      {
+        "to": "utopian-socialism",
+        "rel": "contrast"
+      },
+      {
+        "to": "entrepreneurship-indie",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "1943年/1957年",
+    "pron": "objectivism /əbˈdʒɛktɪvɪzəm/",
+    "etymology": "objectivism 源自拉丁 obiectum（掷于前之物→对象）——“客观主义”自铭以对象性。",
+    "synonyms": [
+      {
+        "word": "rational egoism",
+        "ipa": "/ˈræʃənəl ˈigoʊˌɪzəm/",
+        "sentence": "Rational egoism makes a virtue of the ledger."
+      },
+      {
+        "word": "libertarianism",
+        "ipa": "/ˌlɪbəˈteəriənɪzəm/",
+        "sentence": "Libertarianism quotes her novels like case law."
+      }
+    ]
+  },
+  {
+    "id": "bingham-rule-of-law",
+    "zh": "《法治》（宾厄姆八原则）",
+    "pinyin": "Bīng'è'mǔ fǎzhì",
+    "en": "Bingham's The Rule of Law",
+    "def_zh": "英国前首席大法官宾厄姆对“法治”的权威界定：核心是“所有人和机构皆受法律约束并享其保护，法律公开、面向未来、由法院公开施行”。八项原则：法律可及且可预测；依法而非裁量决定权利；法律面前平等；公权力须善意、合目的、不越权行使；保护基本人权；提供可负担的争端解决；程序公正；国家遵守国际法义务。“薄”法治（形式合法）与“厚”法治（含人权）之辨的标准文本——分析中国“依法治国”表述的最佳英方参照系。",
+    "def_en": "The late Lord Bingham's authoritative statement: 'all persons and authorities within the state, whether public or private, should be bound by and entitled to the benefit of laws publicly made... and publicly administered in the courts', unpacked into eight ingredients — accessible law; rights decided by law not discretion; equality before the law; public power exercised in good faith, for proper purpose, within limits; human-rights protection; affordable dispute resolution; fair procedure; and state compliance with international law. The standard text for the thin/thick rule-of-law distinction — and the sharpest available lens for parsing 依法治国.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "The Rule of Law (Tom Bingham)"
+      }
+    ],
+    "collocations": [
+      "the rule of law",
+      "thick vs thin conceptions",
+      "equality before the law",
+      "judicial review",
+      "accessible and predictable law"
+    ],
+    "example": "When commentators grade a country 'rule of law' or 'rule by law', Bingham's eight ingredients are the unspoken scorecard — put this node beside [[law-based-governance]] and you hold both sides of the century's key legal argument.",
+    "nuance": "thick/thin rule of law = 厚/薄法治观（是否内含人权实质）。judicial review 双义：英义（司法审查行政行为）/美义（违宪审查）——细分点。本节点为 [[magna-carta]]→[[twelve-tables]]→[[common-vs-civil-law]]→[[law-based-governance]] 法治长线的英方当代收口。",
+    "links": [
+      {
+        "to": "magna-carta",
+        "rel": "broader"
+      },
+      {
+        "to": "law-based-governance",
+        "rel": "contrast"
+      },
+      {
+        "to": "common-vs-civil-law",
+        "rel": "related"
+      },
+      {
+        "to": "chinese-legal-tradition",
+        "rel": "related"
+      },
+      {
+        "to": "westphalia",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "governance"
+    ],
+    "period": "2010年",
+    "pron": "rule of law /rul əv lɔ/",
+    "etymology": "rule 源自拉丁 regula（直尺）——法治即“以尺为治”，与 rule by law 一介词之差。",
+    "synonyms": [
+      {
+        "word": "due process",
+        "ipa": "/du ˈprɔˌsɛs/",
+        "sentence": "Due process is fairness written as procedure."
+      },
+      {
+        "word": "judicial independence",
+        "ipa": "/ʤuˈdɪʃəl ˌɪndɪˈpɛndəns/",
+        "sentence": "Judicial independence lets courts disappoint their patrons."
+      }
+    ]
+  },
+  {
+    "id": "index-investing",
+    "zh": "指数投资与个股研究（博格与林奇）",
+    "pinyin": "zhǐshù tóuzī",
+    "en": "index investing and stock-picking: Bogle v. Lynch",
+    "def_zh": "个人投资的两极经典：博格《长赢投资》——成本至上（成本假说：市场回报−费用=投资者回报），指数基金让你稳获市场平均而费用趋零，“别找草堆里的针，把整个草堆买下来”；林奇《彼得·林奇的成功投资》——个人投资者的信息优势在身边（“买你了解的东西”），tenbagger（十倍股）、六类公司分类（缓慢/稳定/快速增长、周期、困境反转、隐蔽资产）。被动与主动之争的原典配对——用户美股/ETF兴趣的理论地基。",
+    "def_en": "The retail investor's two poles: Bogle's Little Book — cost is destiny (market return minus fees equals your return), so 'don't look for the needle, buy the haystack' with an index fund; and Lynch's One Up — the amateur's edge is local knowledge ('buy what you know'), hunt tenbaggers, classify companies into six types before touching them. The passive-active debate at source — and the theoretical floor under your own ETF-and-US-stocks practice.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "One Up On Wall Street (Lynch) / Common Sense Investing (Bogle)"
+      }
+    ],
+    "collocations": [
+      "index funds",
+      "expense ratio",
+      "buy the haystack",
+      "tenbagger",
+      "buy what you know"
+    ],
+    "example": "Buffett's wager that an S&P tracker would beat hedge funds over a decade (it did, easily) turned Bogle's arithmetic into folklore — 'costs matter' is now the one investing sentence everyone owns.",
+    "nuance": "指数基金 = index funds；费用率 = expense ratio；十倍股 = tenbagger（林奇自铸词已入英语词典）。有效市场假说 EMH 为背景理论。链 [[corporations-exchanges]]、[[personal-finance-classics]]（通俗版）——投资英语三层完成。",
+    "links": [
+      {
+        "to": "corporations-exchanges",
+        "rel": "related"
+      },
+      {
+        "to": "personal-finance-classics",
+        "rel": "related"
+      },
+      {
+        "to": "econ-principles",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy"
+    ],
+    "period": "1989年/2007年",
+    "pron": "diversification /dɪˌvərsəfəˈkeɪʃən/",
+    "etymology": "diversification 源自拉丁 diversus（转向不同）+ facere——分散即“使不同”。",
+    "synonyms": [
+      {
+        "word": "passive investing",
+        "ipa": "/ˈpæsɪv ˌɪnˈvɛstɪŋ/",
+        "sentence": "Passive investing wins by refusing to play."
+      },
+      {
+        "word": "expense ratio",
+        "ipa": "/ɪkˈspɛns ˈreɪʃiˌoʊ/",
+        "sentence": "The expense ratio is the leak that sinks the compounding."
+      }
+    ]
+  },
+  {
+    "id": "yiyun-li",
+    "zh": "李翊云（用第二语言写作）",
+    "pinyin": "Lǐ Yìyún",
+    "en": "Yiyun Li: writing in an adopted language",
+    "def_zh": "书库中最完整的作家专柜：北京长大、北大生物系、赴美读免疫学博士后转写作，只用英语写作并拒绝作品中译——“私人的语言”论（中文承载太多不欲回访的记忆，英语是选择而非继承的语言）。《千年敬祈》《漂泊者》（小说）、《亲爱的朋友》（谈抑郁与阅读的散文）、《理由终结之处》（与自杀离世之子的虚构对话）、Things in Nature Merely Grow（丧子续章）。以第二语言达到文体巅峰（麦克阿瑟天才奖）——对以英语重建概念世界的学习者，是最深的同行者文本。",
+    "def_en": "The library's most complete single-author shelf: Beijing-raised, Peking University biology, an immunology PhD track abandoned for fiction — written only in English, with Chinese translation long refused: her essays argue that Chinese carries memories she chooses not to revisit, making English 'a private language', inherited by no one and therefore chosen. From A Thousand Years of Good Prayers through the essays on depression and reading to Where Reasons End — conversations with a son lost to suicide — she reached the summit of English prose style in a second language (MacArthur 'genius' grant included). For anyone rebuilding their conceptual world in English, she is the deepest fellow-traveller text available.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Yiyun Li 作品群（Where Reasons End 等）"
+      }
+    ],
+    "collocations": [
+      "adopted language",
+      "a private language",
+      "exophonic writers",
+      "L2 writing"
+    ],
+    "example": "Li joins Conrad and Nabokov in the tiny club of style-defining exophonic writers — proof, kept on your own shelf, that a second language can become not a limit but the instrument.",
+    "nuance": "exophonic（用非母语写作的）为文学研究术语。她“拒绝中译”的立场与本项目“以英语重建概念”方向同构而更决绝——张力本身值得写一篇双语随笔。链 [[new-culture]] 白话文（语言选择即自我塑造的前例）、[[daodejing-english]]（翻译与不可译）。",
+    "links": [
+      {
+        "to": "daodejing-english",
+        "rel": "related"
+      },
+      {
+        "to": "new-culture",
+        "rel": "related"
+      },
+      {
+        "to": "ai-imagenet",
+        "rel": "related"
+      },
+      {
+        "to": "shiji",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "period": "2005年至今",
+    "pron": "exophony /ɛkˈsɒfəni/",
+    "etymology": "exophony 源自希腊 exō（外）+ phōnē（声音）——“外语写作”的文学术语。",
+    "synonyms": [
+      {
+        "word": "adopted language",
+        "ipa": "/əˈdɑptəd ˈlæŋgwɪʤ/",
+        "sentence": "An adopted language is a house you chose, then built."
+      },
+      {
+        "word": "bilingual identity",
+        "ipa": "/baɪˈlɪŋgwəl aɪˈdɛntəˌti/",
+        "sentence": "A bilingual identity keeps two ledgers of memory."
+      }
+    ]
+  },
+  {
+    "id": "lucky-country",
+    "zh": "《幸运之国》与澳大利亚认同",
+    "pinyin": "xìngyùn zhī guó",
+    "en": "The Lucky Country and Australian identity",
+    "def_zh": "霍恩1964年名著：“澳大利亚是个幸运的国家，由二流人物经营，全凭好运分享他人的想法”——书名本是讽刺（靠资源与殖民遗产而非创新致富），却被国民欢快误用为自夸，作者抱憾终身。与《Girt Nation》（戏谑体澳洲史）同为理解澳洲自我叙事的钥匙：cultural cringe（文化自卑）、tall poppy syndrome（高罂粟综合征——枪打出头鸟）、fair go（公平机会）、mateship——NSW 生活与教师职场的语用背景。",
+    "def_en": "Horne's 1964 barb — 'Australia is a lucky country run mainly by second-rate people who share its luck' — was written as indictment (rich by minerals and inheritance, not ideas) and adopted by the nation as a compliment, to the author's lifelong exasperation: the most successfully misread title in Australian letters. With Girt Nation's irreverent history it unlocks the local self-talk your staffroom runs on — cultural cringe, tall poppy syndrome, fair go, mateship — the idiom set that no migrant professional in NSW can skip.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "The Lucky Country (Horne) / Girt Nation (Hunt)"
+      }
+    ],
+    "collocations": [
+      "the lucky country",
+      "tall poppy syndrome",
+      "fair go",
+      "cultural cringe",
+      "mateship"
+    ],
+    "example": "Every mining-boom budget and every 'she'll be right' policy debate gets the Horne citation — usually straight-faced, which is itself his thesis vindicated.",
+    "nuance": "the lucky country 的反讽本义是澳洲文化素养的口令（用对=内行）。tall poppy syndrome（见不得人好）与中文“枪打出头鸟”精确对应——绝佳双语对。fair go、mateship 为澳洲价值观官方词（入籍考试范围！）。链 [[decolonisation]]（澳洲的定居殖民史另一面）。",
+    "links": [
+      {
+        "to": "decolonisation",
+        "rel": "related"
+      },
+      {
+        "to": "westward-expansion",
+        "rel": "related"
+      },
+      {
+        "to": "harari-imagined-orders",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "society"
+    ],
+    "period": "1964年",
+    "pron": "irony /ˈaɪrəni/",
+    "etymology": "irony 源自希腊 eirōneia（佯装无知——苏格拉底式反讽）——书名之讽被举国误读，堪称词义现场课。",
+    "synonyms": [
+      {
+        "word": "complacency",
+        "ipa": "/kəmˈpleɪsənsi/",
+        "sentence": "Complacency is luck mistaken for merit."
+      },
+      {
+        "word": "national myth",
+        "ipa": "/ˈnæʃənəl mɪθ/",
+        "sentence": "A national myth is autobiography by committee."
+      }
+    ]
+  },
+  {
+    "id": "zeng-guofan",
+    "zh": "曾国藩（结硬寨打呆仗与日课自省）",
+    "pinyin": "Zēng Guófān",
+    "en": "Zeng Guofan: dumb persistence and daily audit",
+    "def_zh": "张宏杰《曾国藩传》：资质平平（考秀才七次）而成“立德立功立言三不朽”——秘诀是“尚拙”：结硬寨、打呆仗（湘军不求奇谋，深沟高垒步步为营困死太平军）；日课十二条与写日记自省（把修身工程化）；“大处着眼，小处着手”；晚年办洋务（江南制造局）开近代化先声。与斯多亚日省、富兰克林美德清单同型——中式自我管理的原典人物，管理界奉为“笨功夫”哲学。",
+    "def_en": "Zhang Hongjie's bestselling life of the Qing statesman who failed the licentiate exam seven times and ended as the dynasty's model of the 'three immortalities': his method was engineered dullness — 'build hard camps, fight dumb battles' (the Xiang Army starved the Taiping out with trenches, not brilliance); a twelve-item daily regimen and a diary of merciless self-audit; 'plan from the large, act from the small'; and, late, the arsenals that began self-strengthening. Franklin's virtue ledger and the Stoic evening review, Chinese-style — business China's favourite patron saint of un-clever persistence.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "曾国藩传（张宏杰）"
+      }
+    ],
+    "collocations": [
+      "deliberate dullness",
+      "fortify and grind",
+      "daily self-examination",
+      "the long game"
+    ],
+    "example": "“结硬寨，打呆仗” circulates in Chinese business writing exactly where English cites 'compound interest' and 'boring wins' — Buffett's moat rhetoric has a Hunanese ancestor.",
+    "nuance": "“结硬寨打呆仗”可译 build hard camps, fight dull battles（需释：attritional discipline over cleverness）。三不朽 = the three immortalities (virtue, deeds, words——《左传》)。链 [[taiping]]（他是镇压者——同一史实的两个节点视角！）、[[self-strengthening]]（他是发起人）、[[stoicism]]、[[atomic-habits]]（日课=习惯系统）。",
+    "links": [
+      {
+        "to": "taiping",
+        "rel": "related"
+      },
+      {
+        "to": "self-strengthening",
+        "rel": "related"
+      },
+      {
+        "to": "stoicism",
+        "rel": "related"
+      },
+      {
+        "to": "atomic-habits",
+        "rel": "related"
+      },
+      {
+        "to": "confucius",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "governance"
+    ],
+    "period": "1811年–1872年",
+    "pron": "perseverance /ˌpərsəˈvɪrəns/",
+    "etymology": "perseverance 源自拉丁 per-（贯穿）+ severus（严格）——坚持即“一严到底”。",
+    "synonyms": [
+      {
+        "word": "self-discipline",
+        "ipa": "/sɛlf-ˈdɪsəplən/",
+        "sentence": "Self-discipline is a diary that answers back."
+      },
+      {
+        "word": "attrition",
+        "ipa": "/əˈtrɪʃən/",
+        "sentence": "He won by attrition: camps, ditches, patience."
+      }
+    ]
+  },
+  {
+    "id": "fromm-love",
+    "zh": "弗洛姆《爱的艺术》",
+    "pinyin": "Fúluòmǔ / ài de yìshù",
+    "en": "Fromm: The Art of Loving",
+    "def_zh": "弗洛姆三部曲（《爱的艺术》《论不服从》《存在的艺术》）核心：爱不是坠入的运气而是需要学习的能力/艺术——包含关心、责任、尊重、了解四要素；成熟的爱是“在保全自身完整性前提下的结合”（我因为爱你所以需要你，而非因为需要你所以爱你）；现代资本主义把爱异化为交换与消费（“人格市场”）。占有（to have）还是存在（to be）的生存方式之问贯穿三书——法兰克福学派的人本主义一翼。",
+    "def_en": "The trilogy's heart: love is not a happening but a faculty — an art demanding knowledge and effort, composed of care, responsibility, respect and knowledge; mature love is 'union under the condition of preserving one's integrity' ('I need you because I love you', not the reverse); and consumer capitalism corrupts it into exchange on a 'personality market'. Behind it, the To Have or To Be question that names Fromm's whole humanism — the Frankfurt School's warmest export.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "艾里希·弗洛姆三部曲（爱的艺术等）"
+      }
+    ],
+    "collocations": [
+      "the art of loving",
+      "to have or to be",
+      "care, responsibility, respect, knowledge",
+      "escape from freedom"
+    ],
+    "example": "'Love is a verb' — the couples-counselling cliché — is Fromm dissolved into pop culture; 允许爱情消失 (also on this shelf) is the same conversation continued in Chinese.",
+    "nuance": "《逃避自由》Escape from Freedom 为其名著背景（自由的重负——链 [[courage-disliked]] 被讨厌的勇气=自由的代价，两书同题异答）。异化 = alienation（马克思概念的心理学化——链 [[marxism]]）。占有/存在 = having/being modes。",
+    "links": [
+      {
+        "to": "courage-disliked",
+        "rel": "related"
+      },
+      {
+        "to": "marxism",
+        "rel": "related"
+      },
+      {
+        "to": "jiceng-women",
+        "rel": "related"
+      },
+      {
+        "to": "stoicism",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "1956年",
+    "pron": "alienation /ˌeɪliəˈneɪʃən/",
+    "etymology": "alienation 源自拉丁 alienus（他者的）——异化即“变成他者之物”，马克思-弗洛姆共用词。",
+    "synonyms": [
+      {
+        "word": "the art of loving",
+        "ipa": "/ðə ɑrt əv ˈləvɪŋ/",
+        "sentence": "Loving is an art: studied, practised, failed at, resumed."
+      },
+      {
+        "word": "having and being",
+        "ipa": "/ˈhævɪŋ ənd biɪŋ/",
+        "sentence": "Having hoards; being unfolds."
+      }
+    ]
+  },
+  {
+    "id": "story-craft",
+    "zh": "故事技艺（编剧与叙事理论）",
+    "pinyin": "gùshi jìyì",
+    "en": "the craft of story",
+    "def_zh": "三本互补的叙事方法论：克龙《故事天才》（Story Genius）——故事的本质是主角内在误信（misbelief）被现实逐步击碎的心理弧线，脑科学证明人靠故事模拟生存；特鲁比《故事的解剖》——欲望（desire）+对手（opponent）+道德抉择的22步结构，反对三幕式公式；金《写作这回事》（On Writing）——回忆录+工具箱：“门关着写初稿，门开着改”（write with the door closed）、副词是地狱之路、情境（situation）先于情节。对游戏课（9GAMZA）的叙事设计与英语写作教学皆为直接弹药。",
+    "def_en": "Three complementary manuals: Cron's Story Genius — story is a protagonist's misbelief colliding with events, the brain running survival simulations (neuroscience as story theory); Truby's Anatomy of Story — desire, opponent and moral argument in 22 steps, against three-act formula; King's On Writing — memoir plus toolbox: first drafts with the door closed, 'the road to hell is paved with adverbs', situation before plot. Direct ammunition both for narrative design in your Unity course and for teaching writing itself.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Story Genius / The Anatomy of Story / On Writing"
+      }
+    ],
+    "collocations": [
+      "character arc",
+      "misbelief/the lie the character believes",
+      "desire and opponent",
+      "show, don't tell",
+      "kill your darlings"
+    ],
+    "example": "Game-writing courses teach 'the lie your character believes' as core loop design — Cron's misbelief is the same mechanic your 9GAMZA students can code as a variable that flips at the climax.",
+    "nuance": "人物弧线 = character arc；“角色相信的谎言”= the lie/misbelief（编剧圈术语）；show, don't tell（少说明多呈现）与 kill your darlings（忍痛删爱句）为写作课两大格言。链 [[ming-novels]]、[[homer-epics]]（叙事传统）与 [[tang-exchange]] 孙悟空IP（游戏叙事资源）。",
+    "links": [
+      {
+        "to": "ming-novels",
+        "rel": "related"
+      },
+      {
+        "to": "homer-epics",
+        "rel": "related"
+      },
+      {
+        "to": "instructional-science",
+        "rel": "related"
+      },
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "period": "2000年–2016年",
+    "pron": "narrative /ˈnɛrətɪv/",
+    "etymology": "narrative 源自拉丁 narrare（讲述）←gnarus（知晓）——叙事即“使人知晓”。",
+    "synonyms": [
+      {
+        "word": "character arc",
+        "ipa": "/ˈkɛrɪktər ɑrk/",
+        "sentence": "A character arc is belief under demolition."
+      },
+      {
+        "word": "plot",
+        "ipa": "/plɑt/",
+        "sentence": "Plot is causality wearing suspense."
+      }
+    ]
+  },
+  {
+    "id": "wittgenstein-language",
+    "zh": "维特根斯坦（语言的界限）",
+    "pinyin": "Wéitègēnsītǎn",
+    "en": "Wittgenstein: the limits of language",
+    "def_zh": "蒙克传记《天才之为责任》呈现的双期维特根斯坦：前期《逻辑哲学论》——“我的语言的界限意味着我的世界的界限”“对于不可说的，必须保持沉默”（语言为世界画界）；后期《哲学研究》自我推翻——意义即使用（meaning is use），语言是嵌入生活形式的语言游戏（language games），家族相似取代本质定义；“哲学问题的形式是：我找不着北”。对双语者的直接意义：每学会一种新说法，即挪动一次世界的界限——本知识库的哲学守护神。",
+    "def_en": "Monk's Duty of Genius gives both Wittgensteins: the early Tractatus — 'the limits of my language mean the limits of my world'; 'whereof one cannot speak, thereof one must be silent' — and the later Investigations that demolished it: meaning is use, language is a family of games embedded in forms of life, and philosophy's problems have the form 'I don't know my way about'. For a bilingual learner the cash value is immediate: every new way of saying is a border moved — which makes him, quietly, this knowledge base's patron philosopher.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Ludwig Wittgenstein: The Duty of Genius (Monk)"
+      }
+    ],
+    "collocations": [
+      "language games",
+      "meaning is use",
+      "forms of life",
+      "the limits of my language",
+      "family resemblance"
+    ],
+    "example": "'The limits of my language mean the limits of my world' belongs on this project's homepage — 322 nodes in, every 中英 mapping you've added is a border you've moved.",
+    "nuance": "语言游戏 = language games；生活形式 = forms of life；家族相似 = family resemblance（分类学难题的标准解——链 [[logic-toolkit]] 概念定义）。《逻辑哲学论》= the Tractatus。与 [[laozi]]“道可道非常道”的可说/不可说对话是中西语言哲学的天然桥（链 [[daodejing-english]]）。",
+    "links": [
+      {
+        "to": "daodejing-english",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      },
+      {
+        "to": "laozi",
+        "rel": "related"
+      },
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "1921年/1953年",
+    "pron": "language game /ˈlæŋgwɪʤ geɪm/",
+    "etymology": "language（拉丁 lingua 舌）+ game（古英语 gamen 游戏）——语言游戏：意义在用法中。",
+    "synonyms": [
+      {
+        "word": "form of life",
+        "ipa": "/fɔrm əv laɪf/",
+        "sentence": "A form of life is the game board under the grammar."
+      },
+      {
+        "word": "semantics",
+        "ipa": "/sɪˈmæntɪks/",
+        "sentence": "Semantics ends where use begins, he decided — twice."
+      }
+    ]
+  },
+  {
+    "id": "wang-xiaobo",
+    "zh": "王小波",
+    "pinyin": "wáng xiǎobō",
+    "en": "Wang Xiaobo: the silent majority",
+    "def_zh": "《沉默的大多数》《一只特立独行的猪》:以幽默与逻辑写自由主义常识——沉默的大多数(不进入话语的人群)、特立独行(拒绝被设置的生活)、“智慧本身就是好的”。中文自由派散文的文体源头之一。",
+    "def_en": "Essays of humour and logic in defence of common sense: the silent majority (those outside official discourse), the nonconformist pig that refused its assigned life, intelligence as a good in itself. A stylistic fountainhead of liberal Chinese prose.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "王小波作品大全集"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "nonconformist /ˌnɒnkənˈfɔːrmɪst/",
+    "etymology": "silent majority 本是尼克松1969年演讲词(支持他的“沉默的大多数”)——王小波反用:被剥夺话语者;一词两史,中英语境正好相反,绝佳误译陷阱。",
+    "synonyms": [
+      {
+        "word": "the unheard",
+        "ipa": "/ði ʌnˈhɜːrd/",
+        "sentence": "The unheard are not voiceless; the microphone was simply routed elsewhere."
+      },
+      {
+        "word": "contrarian",
+        "ipa": "/kənˈtreəriən/",
+        "sentence": "A true contrarian disagrees with the setup, not just the conclusion."
+      }
+    ],
+    "collocations": [
+      "沉默的大多数",
+      "一只特立独行的猪",
+      "思维的乐趣",
+      "the pleasure of thinking"
+    ],
+    "example": "王小波的猪跳出猪圈那一刻,是中文散文里最著名的自由主义寓言——《动物庄园》的单猪镜像。",
+    "nuance": "英译其人常借 Orwell+Vonnegut 定位;注意 silent majority 中英所指相反(尼克松:保守多数;王小波:失语多数)——直译必错,语境定夺。",
+    "links": [
+      {
+        "to": "animal-farm-allegory",
+        "rel": "related"
+      },
+      {
+        "to": "liu-yu-bullet",
+        "rel": "related"
+      },
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "fu-lei-letters",
+    "zh": "《傅雷家书》",
+    "pinyin": "fùléi jiāshū",
+    "en": "Fu Lei's family letters",
+    "def_zh": "翻译家傅雷致钢琴家傅聪的家书:艺术修养、做人先于做艺术家、“赤子之心”——中文家教书信的正典。傅雷亦是罗曼·罗兰《约翰·克利斯朵夫》的经典中译者:家书与译笔同一血脉。",
+    "def_en": "The translator Fu Lei's letters to his pianist son Fu Cong: artistic cultivation, being a person before being an artist, the pure heart (赤子之心). Fu Lei also gave Chinese its classic Jean-Christophe — the letters and the translations share one bloodstream.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "傅雷家书"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "cultivation /ˌkʌltɪˈveɪʃən/",
+    "etymology": "赤子之心 出《孟子》——英译常作 a child's pure heart / the heart of a newborn;candour(坦诚)源自拉丁 candor(纯白之光),与“赤子”意象暗合。",
+    "synonyms": [
+      {
+        "word": "mentorship by letter",
+        "ipa": "/ˈmɛntɔːrʃɪp baɪ ˈlɛtər/",
+        "sentence": "Mentorship by letter outlives both hands that wrote it."
+      },
+      {
+        "word": "candour",
+        "ipa": "/ˈkændər/",
+        "sentence": "Candour between father and son is love with the varnish off."
+      }
+    ],
+    "collocations": [
+      "先为人,次为艺术家",
+      "赤子之心",
+      "a Chinese Chesterfield's Letters",
+      "艺术的修养"
+    ],
+    "example": "英语世界的对应物是切斯特菲尔德勋爵家书——但傅雷教的不是处世,是人格与艺术的合一。",
+    "nuance": "傅雷1966年之死使家书成为时代伤痕文本——阅读史与政治史不可剥离;与 rolland-heroism、zhu-shenghao 构成中译者三联像。",
+    "links": [
+      {
+        "to": "rolland-heroism",
+        "rel": "related"
+      },
+      {
+        "to": "zhu-shenghao",
+        "rel": "related"
+      },
+      {
+        "to": "beethoven",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "rolland-heroism",
+    "zh": "罗曼·罗兰的英雄主义",
+    "pinyin": "luómàn luólán",
+    "en": "Romain Rolland: one heroism",
+    "def_zh": "《约翰·克利斯朵夫》(以贝多芬为原型的音乐家成长史诗)与《名人传》:“世上只有一种英雄主义,就是看清生活的真相之后依然热爱生活”——中文励志语录第一来源之一,经傅雷译笔成为汉语名句。",
+    "def_en": "Jean-Christophe (a musician's bildungsroman on Beethoven's template) and the Lives: 'there is only one heroism in the world — to see the world as it is, and to love it.' Via Fu Lei's translation the line became a Chinese proverb.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Delphi Collected Works of Romain Rolland"
+      }
+    ],
+    "themes": [
+      "culture",
+      "ideas"
+    ],
+    "pron": "bildungsroman /ˈbɪldʊŋzroʊˌmɑːn/",
+    "etymology": "bildungsroman 德语 Bildung(教养、塑造)+Roman(小说)——成长小说;英语径借德文,与 kindergarten、zeitgeist 同批移民。",
+    "synonyms": [
+      {
+        "word": "tragic optimism",
+        "ipa": "/ˈtrædʒɪk ˈɒptɪmɪzəm/",
+        "sentence": "Tragic optimism loves life after reading its full autopsy."
+      },
+      {
+        "word": "hero worship",
+        "ipa": "/ˈhɪəroʊ ˈwɜːrʃɪp/",
+        "sentence": "Rolland's hero worship picked composers over conquerors."
+      }
+    ],
+    "collocations": [
+      "只有一种英雄主义",
+      "above the battle (au-dessus de la mêlée)",
+      "a river of a novel",
+      "the Beethoven template"
+    ],
+    "example": "那句“看清生活真相依然热爱生活”在中文互联网的引用量,可能超过罗兰在法国本土的全部现存读者。",
+    "nuance": "罗兰在法语文学史地位已边缘,在中文世界却因傅雷封圣——接受史错位的极端案例;一战中《超乎混战之上》的和平主义立场使其两边不讨好,与教材一战单元互文。",
+    "links": [
+      {
+        "to": "fu-lei-letters",
+        "rel": "related"
+      },
+      {
+        "to": "beethoven",
+        "rel": "related"
+      },
+      {
+        "to": "wwi",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "ming-history-pop",
+    "zh": "《明朝那些事儿》",
+    "pinyin": "míngcháo nàxiē shìr",
+    "en": "Ming history, the pop phenomenon",
+    "def_zh": "当年明月以网络连载体重写明史:帝王心术、文官集团、言官制度、张居正改革——历史通俗写作的现象级样本(销量千万级)。其方法:正史底本+心理推演+段子文体。",
+    "def_en": "Ming history rewritten as serialised internet prose: imperial psychology, the scholar-official machine, the censorate, Zhang Juzheng's reforms. A publishing phenomenon that defined Chinese popular history — orthodox sources, psychological reconstruction, meme-ready style.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "明朝那些事儿 (当年明月)"
+      }
+    ],
+    "themes": [
+      "culture",
+      "governance"
+    ],
+    "pron": "popular history /ˈpɒpjʊlər ˈhɪstəri/",
+    "etymology": "censorate(言官系统)为汉学英语术语:censor 源自罗马监察官(censere 评估)——罗马与明朝各自发明了“专职批评官员”,一词两制。",
+    "synonyms": [
+      {
+        "word": "narrative history",
+        "ipa": "/ˈnærətɪv ˈhɪstəri/",
+        "sentence": "Narrative history smuggles footnotes inside a page-turner."
+      },
+      {
+        "word": "the censorate",
+        "ipa": "/ðə ˈsɛnsərət/",
+        "sentence": "The censorate institutionalised criticism, then punished its best practitioners."
+      }
+    ],
+    "collocations": [
+      "历史可以写得很好看",
+      "the Grand Secretariat",
+      "文官集团 vs 皇权",
+      "Zhang Juzheng's Single Whip reform"
+    ],
+    "example": "英语对应物是 Bryson 式笔法进历史:Tom Holland、Dan Jones——通俗史学的中英双潮同期而起。",
+    "nuance": "英文读明史的正典是黄仁宇《万历十五年》(1587, A Year of No Significance)——同一朝代,学院与网络两种文体;“大历史观”(macro-history)即黄仁宇自造英语词。与 chinese-currency 节点的一条鞭法相接。",
+    "links": [
+      {
+        "to": "chinese-taxation",
+        "rel": "related"
+      },
+      {
+        "to": "bryson-science",
+        "rel": "related"
+      },
+      {
+        "to": "nine-rank",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "global-history-stavrianos",
+    "zh": "斯塔夫里阿诺斯《全球通史》",
+    "pinyin": "quánqiú tōngshǐ",
+    "en": "Stavrianos: A Global History",
+    "def_zh": "从史前到21世纪的单卷全球史,中国高校世界史第一入门书:全球史观(以全球为单位而非国别拼盘)、“月球视角”、欧亚大陆整体论、第三世界视野。你的九年级世界历史教材即此史观的义务教育版。",
+    "def_en": "The one-volume global survey that trained generations of Chinese undergraduates: history from a lunar vantage, Eurasia as one system, the Third World written back in. Your Grade-9 world-history textbook is this worldview at school scale.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "全球通史 (Stavrianos 中译)"
+      },
+      {
+        "book": "enlib",
+        "chapter": "A Global History (Stavrianos 英文原版) / The Earth and Its Peoples"
+      }
+    ],
+    "themes": [
+      "ideas",
+      "culture"
+    ],
+    "pron": "Eurasia /jʊˈreɪʒə/",
+    "etymology": "history 源自希腊 historia(探究)——史学本义“调查”;global history 对 national history 的反叛,词序即宣言:先全球,后国家。",
+    "synonyms": [
+      {
+        "word": "world-systems view",
+        "ipa": "/wɜːrld ˈsɪstəmz vjuː/",
+        "sentence": "A world-systems view reads empires as nodes, not islands."
+      },
+      {
+        "word": "the lunar vantage",
+        "ipa": "/ðə ˈluːnər ˈvɑːntɪdʒ/",
+        "sentence": "From the lunar vantage, borders are the one thing you cannot see."
+      }
+    ],
+    "collocations": [
+      "a global perspective",
+      "the view from the moon",
+      "Eurasian ecumene",
+      "writing the Third World back in"
+    ],
+    "example": "此书在中国的地位远超其在英语学界的地位——接受史的又一错位:英语世界视其为过时教材,中文世界奉为启蒙。",
+    "nuance": "本知识库世界史板块(wh9a/wh9b)的方法论祖师:教材的全球史框架即斯氏遗产——此节点是整个 ConceptBridge 历史网络的“自我出处”。",
+    "links": [
+      {
+        "to": "indo-european-migrations",
+        "rel": "related"
+      },
+      {
+        "to": "columbian-exchange",
+        "rel": "related"
+      },
+      {
+        "to": "guns-germs-steel",
+        "rel": "related"
+      },
+      {
+        "to": "harari-imagined-orders",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "qiu-miaojin",
+    "zh": "邱妙津",
+    "pinyin": "qiū miàojīn",
+    "en": "Qiu Miaojin: Last Words from Montmartre",
+    "def_zh": "台湾同志文学殉道者:《鳄鱼手记》(“拉子”一词的来源)与《蒙马特遗书》(26岁自尽前的二十封书信体小说)。NYRB 经典书系英译使其进入世界文学——华语酷儿写作的国际正典化个案。",
+    "def_en": "Taiwan's queer-literature martyr: Notes of a Crocodile (origin of the term 拉子 for lesbian) and Last Words from Montmartre, twenty testament-letters before her suicide at 26. NYRB Classics translations canonised her worldwide.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "蒙马特遗书 / Notes of a Crocodile (邱妙津, NYRB 英译)"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "pron": "testament /ˈtɛstəmənt/",
+    "etymology": "testament 源自拉丁 testis(见证人)——“遗书”与“圣约”(Old/New Testament)同词:见证即立约;邱妙津书名的英译 Last Words 舍此双关。",
+    "synonyms": [
+      {
+        "word": "epistolary novel",
+        "ipa": "/ɪˈpɪstələri ˈnɒvəl/",
+        "sentence": "An epistolary novel eavesdrops on letters that were always meant to be found."
+      },
+      {
+        "word": "queer canon",
+        "ipa": "/kwɪər ˈkænən/",
+        "sentence": "The queer canon collects the books that survived their authors."
+      }
+    ],
+    "collocations": [
+      "Last Words from Montmartre",
+      "the crocodile's notebooks",
+      "posthumous canonisation",
+      "testimonial fiction"
+    ],
+    "example": "与李翊云、张爱玲同架:三种离散/跨语写作——张自译,李换语,邱被译;英译是她的第二次生命。",
+    "nuance": "阅读伦理提示:自杀者遗作的浪漫化风险——文学价值与生命叙事需分开处理;“拉子/鳄鱼”是台湾同志亚文化词汇考古的活标本。",
+    "links": [
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      },
+      {
+        "to": "eileen-chang",
+        "rel": "related"
+      },
+      {
+        "to": "barthes-lovers-discourse",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "gao-xingjian",
+    "zh": "高行健《灵山》",
+    "pinyin": "gāo xíngjiàn",
+    "en": "Gao Xingjian: Soul Mountain",
+    "def_zh": "2000年诺贝尔文学奖(首位华语得主):《灵山》以你/我/他人称漂移写长江流域的漫游与自我追寻——“没有主义”(without isms)是其文学立场;冷文学(cold literature):写作独立于市场与政治。",
+    "def_en": "The 2000 Nobel laureate — the first writing in Chinese. Soul Mountain drifts through pronouns (you/I/he) down the Yangtze in search of a self. His creed: without isms; cold literature, owing nothing to market or politics.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Soul Mountain (Gao Xingjian, Mabel Lee 英译)"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "pron": "laureate /ˈlɒriət/",
+    "etymology": "“灵山”出佛典(灵鹫山)——英译 Soul Mountain 舍佛教典故取普世灵魂义:译名即一次改写,得失并存。",
+    "synonyms": [
+      {
+        "word": "cold literature",
+        "ipa": "/koʊld ˈlɪtərətʃər/",
+        "sentence": "Cold literature writes for no one, and therefore can say anything."
+      },
+      {
+        "word": "pronoun drift",
+        "ipa": "/ˈproʊnaʊn drɪft/",
+        "sentence": "Pronoun drift lets one traveller be crowd enough for a novel."
+      }
+    ],
+    "collocations": [
+      "without isms (没有主义)",
+      "the Nobel in Chinese",
+      "a one-man pilgrimage",
+      "the Yangtze interior"
+    ],
+    "example": "2000与2012两次华语诺奖(高行健/莫言)的接受史对照,是理解文学与政治光谱的现成教材。",
+    "nuance": "高行健得奖时为法籍——“首位华语诺奖”与“首位中国籍诺奖(莫言)”在中英文报道中措辞政治学分明;Mabel Lee 译本的争议(直译流)是翻译批评常引案例。",
+    "links": [
+      {
+        "to": "mo-yan-sorghum",
+        "rel": "contrast"
+      },
+      {
+        "to": "daodejing-english",
+        "rel": "related"
+      },
+      {
+        "to": "yiyun-li",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "mo-yan-sorghum",
+    "zh": "莫言《红高粱》",
+    "pinyin": "mòyán",
+    "en": "Mo Yan: Red Sorghum and hallucinatory realism",
+    "def_zh": "2012年诺奖(授奖词:hallucinatory realism 幻觉现实主义):《红高粱家族》以高密东北乡写抗战与生命力崇拜——魔幻现实主义的中国化;葛浩文(Howard Goldblatt)的改写式英译是翻译学的著名争论场。",
+    "def_en": "The 2012 Nobel citation coined 'hallucinatory realism' for him. Red Sorghum mythologises Gaomi county through war and vitality-worship — magical realism sinicised. Howard Goldblatt's freely rewritten translations are translation studies' favourite battlefield.",
+    "sources": [
+      {
+        "book": "reading",
+        "chapter": "Red Sorghum (Mo Yan, Goldblatt 英译)"
+      }
+    ],
+    "themes": [
+      "culture"
+    ],
+    "pron": "hallucinatory /həˈluːsɪnətəri/",
+    "etymology": "sorghum(高粱)经拉丁 syricum(叙利亚谷)辗转入英——作物名的贸易路线,恰似小说的酒与血。",
+    "synonyms": [
+      {
+        "word": "hallucinatory realism",
+        "ipa": "/həˈluːsɪnətəri ˈriəlɪzəm/",
+        "sentence": "Hallucinatory realism lets folk memory outvote the archive."
+      },
+      {
+        "word": "rewriting translation",
+        "ipa": "/ˌriːˈraɪtɪŋ trænzˈleɪʃən/",
+        "sentence": "Goldblatt's rewriting translation asks whose novel the English reader actually holds."
+      }
+    ],
+    "collocations": [
+      "the Gaomi Northeast Township",
+      "my grandfather's generation",
+      "the red sorghum fields",
+      "Goldblatt's English"
+    ],
+    "example": "马尔克斯的马孔多与莫言的高密东北乡:两块邮票大的故乡,各自扛起一个大陆的魔幻——grbest 的 magical-realism 节点在此接上中文支线。",
+    "nuance": "诺奖词 hallucinatory(幻觉的)刻意区别于 magical(魔幻)——委员会为莫言另铸术语;葛浩文英译删改幅度大,读英译即读合译,引用需注明。",
+    "links": [
+      {
+        "to": "magical-realism",
+        "rel": "narrower"
+      },
+      {
+        "to": "war-of-resistance",
+        "rel": "related"
+      },
+      {
+        "to": "gao-xingjian",
+        "rel": "contrast"
+      }
+    ]
+  }
 ]

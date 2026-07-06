@@ -1,0 +1,317 @@
+[
+  {
+    "id": "photosynthesis",
+    "zh": "光合作用",
+    "pinyin": "guānghé zuòyòng",
+    "en": "photosynthesis",
+    "def_zh": "初中生物核心:绿色植物利用叶绿素,把二氧化碳和水在光下转化为葡萄糖并释放氧气——地球几乎所有食物链与大气氧的源头。呼吸作用(respiration)是其逆过程。",
+    "def_en": "Green plants use chlorophyll to turn carbon dioxide and water into glucose and oxygen using light — the base of nearly every food chain and the source of atmospheric oxygen. Respiration is the reverse.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "生物学七年级上册"
+      }
+    ],
+    "themes": [
+      "science"
+    ],
+    "pron": "photosynthesis /ˌfoʊtoʊˈsɪnθəsɪs/",
+    "etymology": "photo-(希腊 phōs 光)+ synthesis(syn 合+thesis 放置)——“以光合成”;字面即中文“光合”的希腊语版,两语构词完全对应。",
+    "synonyms": [
+      {
+        "word": "chlorophyll",
+        "ipa": "/ˈklɔːrəfɪl/",
+        "sentence": "Chlorophyll is the pigment that spends sunlight and pays in sugar."
+      },
+      {
+        "word": "carbon fixation",
+        "ipa": "/ˈkɑːrbən fɪkˈseɪʃən/",
+        "sentence": "Carbon fixation locks a gas into a leaf and, eventually, into you."
+      }
+    ],
+    "collocations": [
+      "the light-dependent reactions",
+      "fix carbon dioxide",
+      "the Calvin cycle",
+      "primary production"
+    ],
+    "example": "Every calorie you burn was, one step back, sunlight a leaf agreed to store.",
+    "nuance": "中英构词完全同源(光合=photo+synthesis),是理科术语中希英-汉互译最透明的一类——记住词根 photo/syn 便解锁 photograph、synthesis、synthetic 全串。",
+    "links": [
+      {
+        "to": "ecology-population",
+        "rel": "related"
+      },
+      {
+        "to": "darwin",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "periodic-table",
+    "zh": "元素周期表",
+    "pinyin": "yuánsù zhōuqībiǎo",
+    "en": "the periodic table",
+    "def_zh": "门捷列夫1869年按原子序数与化学性质周期性排列元素;族(group,纵列,价电子相同)与周期(period,横行);周期律预言了未知元素。初中化学的骨架。",
+    "def_en": "Mendeleev's 1869 arrangement of elements by atomic number and recurring properties: groups (columns, shared valence) and periods (rows). The periodic law even predicted undiscovered elements.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "化学九年级上册"
+      }
+    ],
+    "themes": [
+      "science"
+    ],
+    "pron": "periodic /ˌpɪəriˈɒdɪk/",
+    "etymology": "element 源自拉丁 elementum(基本组分);period 希腊 periodos(周而复始,peri 环绕+hodos 路)——周期表即“性质绕圈重现之表”。",
+    "synonyms": [
+      {
+        "word": "atomic number",
+        "ipa": "/əˈtɒmɪk ˈnʌmbər/",
+        "sentence": "The atomic number is an element's address and its identity at once."
+      },
+      {
+        "word": "valence",
+        "ipa": "/ˈveɪləns/",
+        "sentence": "Valence counts the hands an atom has free for bonding."
+      }
+    ],
+    "collocations": [
+      "the periodic law",
+      "groups and periods",
+      "noble gases",
+      "atomic number and mass"
+    ],
+    "example": "Mendeleev left gaps and predicted their tenants — chemistry's boldest bet, paid in full within fifteen years.",
+    "nuance": "periodic 一词双义:化学“周期表的”与日常“periodic 定期的”同源(都指周而复始)。中文“元素”对英语 element,但 element 在英语也指“要素、天气(the elements)”——多义须防。",
+    "links": [
+      {
+        "to": "nobel-chemistry",
+        "rel": "related"
+      },
+      {
+        "to": "newton",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "plate-tectonics",
+    "zh": "板块构造",
+    "pinyin": "bǎnkuài gòuzào",
+    "en": "plate tectonics",
+    "def_zh": "地理与地球科学核心:岩石圈分裂为板块,在地幔对流上漂移;板块边界产生地震、火山、造山与海沟。魏格纳大陆漂移说的现代继承者。",
+    "def_en": "The lithosphere is broken into plates drifting on mantle convection; their boundaries make earthquakes, volcanoes, mountains and trenches. The modern heir to Wegener's continental drift.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "地理七年级上册 / 高中地理必修第一册"
+      }
+    ],
+    "themes": [
+      "science",
+      "geography"
+    ],
+    "pron": "tectonics /tɛkˈtɒnɪks/",
+    "etymology": "tectonic 源自希腊 tektōn(建造者、木匠)——architect(总建造者)同根;板块“构造”即大地的木工活。",
+    "synonyms": [
+      {
+        "word": "continental drift",
+        "ipa": "/ˌkɒntɪˈnɛntəl drɪft/",
+        "sentence": "Continental drift was mocked for decades before the seafloor confessed."
+      },
+      {
+        "word": "subduction",
+        "ipa": "/səbˈdʌkʃən/",
+        "sentence": "Subduction is one plate diving under another, trench-first."
+      }
+    ],
+    "collocations": [
+      "plate boundaries",
+      "the Ring of Fire",
+      "seafloor spreading",
+      "convergent and divergent margins"
+    ],
+    "example": "Japan's earthquakes and the Himalayas' height are the same story told at two plate boundaries.",
+    "nuance": "对接用户 GIS/地理背景:tectonic 亦入政治隐喻(tectonic shift 巨变)——《经济学人》高频比喻,词源(建造者)使“地质级变动”意象成立。",
+    "links": [
+      {
+        "to": "gis-core",
+        "rel": "related"
+      },
+      {
+        "to": "human-geography-basics",
+        "rel": "related"
+      },
+      {
+        "to": "nile-river",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "computational-thinking",
+    "zh": "计算思维",
+    "pinyin": "jìsuàn sīwéi",
+    "en": "computational thinking",
+    "def_zh": "高中信息技术核心素养:分解(decomposition)、模式识别(pattern recognition)、抽象(abstraction)、算法设计四步——把问题变成机器可解的形式。不等于编程,而是编程背后的思维方式。",
+    "def_en": "The core competency of the IT curriculum: decomposition, pattern recognition, abstraction, and algorithm design — recasting a problem into a machine-solvable form. Not coding itself, but the thinking underneath it.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "信息技术必修1 数据与计算"
+      }
+    ],
+    "themes": [
+      "technology",
+      "ideas"
+    ],
+    "pron": "computational /ˌkɒmpjʊˈteɪʃənəl/",
+    "etymology": "compute 源自拉丁 com-(一起)+ putare(计算、修剪、思量)——putare 亦生 dispute、reputation:计算与“思量、评断”同根。",
+    "synonyms": [
+      {
+        "word": "decomposition",
+        "ipa": "/ˌdiːkɒmpəˈzɪʃən/",
+        "sentence": "Decomposition breaks a monster problem into a queue of solvable ones."
+      },
+      {
+        "word": "abstraction",
+        "ipa": "/æbˈstrækʃən/",
+        "sentence": "Abstraction keeps what matters and forgets the rest, on purpose."
+      }
+    ],
+    "collocations": [
+      "decompose the problem",
+      "pattern recognition",
+      "abstract away the detail",
+      "algorithmic thinking"
+    ],
+    "example": "Teaching Y9 IST to plan before they code is teaching decomposition — computational thinking wearing a lesson plan.",
+    "nuance": "与教材“逻辑与思维”及 algorithms-cs 节点三位一体:computational thinking 是形式逻辑在计算机时代的应用面;你的 IST/Game On 课程直接以此为素养目标(NESA)。",
+    "links": [
+      {
+        "to": "algorithms-cs",
+        "rel": "related"
+      },
+      {
+        "to": "logic-toolkit",
+        "rel": "related"
+      },
+      {
+        "to": "design-thinking",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "engineering-design-process",
+    "zh": "工程设计过程",
+    "pinyin": "gōngchéng shèjì guòchéng",
+    "en": "the engineering design process",
+    "def_zh": "通用技术/技术与设计核心:发现需求→明确任务→方案构思→制作模型/原型→测试评估→优化迭代。NSW的technology课程与中国教材共享同一循环,是你Y7工程单元的骨架。",
+    "def_en": "The core loop of design & technology: identify a need, define the task, generate concepts, prototype, test and evaluate, then iterate. NSW's technology syllabus and the Chinese textbook share the same cycle — the backbone of your Y7 engineering unit.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "通用技术必修 技术与设计1"
+      }
+    ],
+    "themes": [
+      "technology",
+      "teaching"
+    ],
+    "pron": "iteration /ˌɪtəˈreɪʃən/",
+    "etymology": "engineer 源自拉丁 ingenium(天赋、巧思)——与 ingenious 同根;工程师本义“有巧思的人”,不是“开引擎的人”(engine 巧合同源)。",
+    "synonyms": [
+      {
+        "word": "prototype",
+        "ipa": "/ˈproʊtətaɪp/",
+        "sentence": "A prototype is a question you can hold in your hand."
+      },
+      {
+        "word": "constraints",
+        "ipa": "/kənˈstreɪnts/",
+        "sentence": "Constraints are the design brief's honest fine print: cost, time, materials."
+      }
+    ],
+    "collocations": [
+      "identify the need",
+      "design brief",
+      "test and evaluate",
+      "iterate the design",
+      "fit for purpose"
+    ],
+    "example": "Y7 students think 'design' means drawing; the process teaches them it means testing, failing and redrawing — three times.",
+    "nuance": "与 design-thinking 节点是同一循环的两个术语系统:工程界说 design process(NESA/技术教材),商界说 design thinking(d.school)——教学中对齐二者可省学生大量困惑。",
+    "links": [
+      {
+        "to": "design-thinking",
+        "rel": "related"
+      },
+      {
+        "to": "computational-thinking",
+        "rel": "related"
+      },
+      {
+        "to": "second-industrial-revolution",
+        "rel": "related"
+      }
+    ]
+  },
+  {
+    "id": "monsoon-climate",
+    "zh": "季风气候",
+    "pinyin": "jìfēng qìhòu",
+    "en": "the monsoon",
+    "def_zh": "中国地理核心:海陆热力差异导致的季节性盛行风向反转——夏季风带来降水(雨热同期),冬季风干冷。东亚季风塑造了中国农业格局与人口分布。",
+    "def_en": "The seasonal reversal of prevailing winds driven by land-sea temperature contrast: the summer monsoon brings rain when it is hot (rain and heat together), the winter monsoon is dry and cold. The East Asian monsoon shaped China's农业 and where its people live.",
+    "sources": [
+      {
+        "book": "stem",
+        "chapter": "地理八年级上册 / 高中地理必修第一册"
+      }
+    ],
+    "themes": [
+      "geography",
+      "science"
+    ],
+    "pron": "monsoon /mɒnˈsuːn/",
+    "etymology": "monsoon 源自阿拉伯 mawsim(季节)——经葡萄牙语 monção 入英;一个阿拉伯航海词描述了印度洋与东亚的定期风,词源即贸易史。",
+    "synonyms": [
+      {
+        "word": "prevailing wind",
+        "ipa": "/prɪˈveɪlɪŋ wɪnd/",
+        "sentence": "The prevailing wind decides which coast gets the rain and which gets the desert."
+      },
+      {
+        "word": "rain-heat concurrence",
+        "ipa": "/reɪn hiːt kənˈkʌrəns/",
+        "sentence": "Rain-heat concurrence lets one growing season do the work of two."
+      }
+    ],
+    "collocations": [
+      "the summer/winter monsoon",
+      "monsoon Asia",
+      "rain belt",
+      "the retreat of the monsoon"
+    ],
+    "example": "The same monsoon that floods the south feeds a fifth of humanity — geography as demography's silent author.",
+    "nuance": "monsoon 词根是“季节”而非“雨”,故 monsoon 可指风也可指雨季——英语中 the monsoon 常直接指雨季,须按语境判断。对接教材人口分布(胡焕庸线)与季风区关系。",
+    "links": [
+      {
+        "to": "food-agriculture",
+        "rel": "related"
+      },
+      {
+        "to": "plate-tectonics",
+        "rel": "related"
+      },
+      {
+        "to": "human-geography-basics",
+        "rel": "related"
+      }
+    ]
+  }
+]

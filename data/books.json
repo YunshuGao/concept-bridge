@@ -626,6 +626,26 @@
    "phase": 6,
    "status": "complete",
    "chapters": []
+  },
+  {
+   "id": "jiang",
+   "title_zh": "蒋教授讲座系列（文明史/秘史/博弈论/但丁）",
+   "title_en": "Professor Jiang lecture series (Civilization / Secret History / Game Theory / Dante)",
+   "format": "transcript",
+   "path": "D:/Reading",
+   "phase": 7,
+   "status": "complete",
+   "chapters": []
+  },
+  {
+   "id": "stem",
+   "title_zh": "理科与技术教科书（数理化生地/信息/通用技术）",
+   "title_en": "STEM & Technology textbooks (maths, physics, chemistry, biology, geography, IT, design & technology)",
+   "format": "collection",
+   "path": "../",
+   "phase": 7,
+   "status": "complete",
+   "chapters": []
   }
  ]
 }
