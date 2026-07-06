@@ -56,5 +56,31 @@ class TestValidate(unittest.TestCase):
         errors, _ = validate([a, b], {"wh9a"})
         self.assertTrue(any("banana" in e for e in errors))
 
+import json, tempfile, shutil
+from build import generate
+
+class TestGenerate(unittest.TestCase):
+    def test_generates_core_pages(self):
+        books = [{"id": "wh9a", "title_zh": "世界历史九上", "title_en": "World History 9A",
+                  "format": "pdf", "path": "x.pdf", "phase": 1, "status": "in-progress",
+                  "chapters": ["第1课 古代埃及"]}]
+        a = node(period="前3100年–前30年",
+                 links=[{"to": "b-node", "rel": "related"}])
+        b = node(id="b-node", zh="乙概念", en="concept B")
+        out = Path(tempfile.mkdtemp())
+        try:
+            generate(books, [a, b], out)
+            for p in ["index.html", "c/keju-imperial-examination.html",
+                      "book/wh9a.html", "themes.html", "timeline.html",
+                      "graph.html", "search-index.json"]:
+                self.assertTrue((out / p).exists(), p)
+            html = (out / "c/keju-imperial-examination.html").read_text(encoding="utf-8")
+            self.assertIn("科举制", html)
+            self.assertIn("b-node.html", html)
+            idx = json.loads((out / "search-index.json").read_text(encoding="utf-8"))
+            self.assertEqual(len(idx), 2)
+        finally:
+            shutil.rmtree(out)
+
 if __name__ == "__main__":
     unittest.main()
