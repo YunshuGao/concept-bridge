@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>明治维新 · the Meiji Restoration · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第4课 日本明治维新</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>明治维新 <span class="pinyin">Míngzhì wéixīn</span><span class="en">the Meiji Restoration</span></h1>
+<p class="meta">⏳ 1868年起</p>
+<div class="card"><p class="zh">19世纪中期德川幕府锁国（仅与中荷有限贸易）阻碍日本发展；1853–54年美国舰队两次强行进入日本港口（“黑船来航”），日本被迫签不平等条约开港，经济受冲击、幕府动摇。中下级武士联合西南强藩与朝廷公卿发动倒幕运动，1868年“王政复古”政变结束幕府统治，改元明治。明治维新以西方为榜样全面改造日本：废藩置县加强中央集权；征兵制建新式军队；地税改革、“殖产兴业”发展近代经济；“文明开化”改造教育文化生活。日本迅速走上资本主义道路、跻身强国之列，但保留大量旧制度残余、军国主义色彩浓厚，强大后很快对外侵略扩张。</p><p class="endef">Two centuries of Tokugawa seclusion ended when Perry&#x27;s &#x27;black ships&#x27; forced Japan open in 1853–54 on unequal terms; the shaken shogunate fell to an alliance of lower samurai, powerful south-western domains and the court, and in 1868 power was &#x27;restored&#x27; to the Meiji emperor. The new state remade Japan on Western lines — domains into prefectures, conscription in place of samurai, land-tax finance, &#x27;rich country, strong army&#x27; industrialisation, &#x27;civilisation and enlightenment&#x27; in schooling and daily life. Japan vaulted into the ranks of the powers — carrying forward, the textbook stresses, a heavy strain of militarism that soon turned outward.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ the black ships</li><li>▸ unequal treaties</li><li>▸ rich country, strong army (fukoku kyohei)</li><li>▸ civilisation and enlightenment</li><li>▸ abolish the domains and establish prefectures</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Meiji Japan is development economics&#x27; favourite case study: the one 19th-century country that answered Western gunboats by out-modernising the West, tariffs, textbooks and all.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>英语定名 the Meiji Restoration（“复古”着眼于王政复古），中文“维新”着眼于革新——同一事件两种命名重心。“锁国”= sakoku/national seclusion；“不平等条约”= unequal treaties（该词同样用于中国近代史）；“殖产兴业”“富国强兵”英语常直接用 fukoku kyōhei 或译 rich country, strong army。与1861俄国、1860s美国并观：19世纪60年代全球改革潮是常见比较史框架。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">取代了 replaced</span> <a class="node" href="../c/shogunate.html">幕府统治 · the shogunate</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/taika-reform.html">大化改新 · the Taika Reforms</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/peter-the-great.html">彼得一世改革 · Peter the Great&#x27;s reforms</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/samurai.html">武士与武士道 · the samurai and bushido</a></li><li><span class="rel">受影响于 influenced-by</span> <a class="node" href="../c/industrial-revolution.html">第一次工业革命 · the (First) Industrial Revolution</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/constitutional-monarchy.html">君主立宪制 · constitutional monarchy</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>wh9b 第4课 日本明治维新</p>
+<p><a class="tag" href="../themes.html#governance">#governance</a><a class="tag" href="../themes.html#economy">#economy</a><a class="tag" href="../themes.html#war">#war</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
