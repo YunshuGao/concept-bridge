@@ -1,0 +1,52 @@
+[
+  {
+    "id": "human-geography-basics",
+    "zh": "人地关系与区域认知",
+    "pinyin": "réndì guānxì / qūyù rènzhī",
+    "en": "human-environment relations and regional thinking",
+    "def_zh": "人文地理研究人类活动与地理环境的关系。社区与地图（方向、比例尺、图例——从地图和图表中获取信息）；聚落：乡村（农村、渔村、牧村——生产生活与自然环境相适应）与城市（功能分区、城乡差异与联系）。世界典型区域案例：稻作文化的印度/湄公河平原、用机械种庄稼的美国中部平原、牧场牧民（内蒙古/澳大利亚/安第斯）、耕海牧鱼（日本）、沙漠绿洲（波斯坎儿井）、山地之国（瑞士旅游）、水上都市（威尼斯）——因地制宜、人与自然和谐共生：自然环境为人类活动提供条件，人类活动应遵循自然规律；区域发展各具特色，无优劣之分。",
+    "def_en": "Human geography's junior toolkit: reading maps (direction, scale, legend — information literacy avant la lettre), classifying settlements (village types matched to environments; urban functional zones; rural-urban links), and the world tour of adaptation case studies — monsoon rice bowls, Midwestern machine farms, Mongolian and Andean pastoralists, Japan's fishing coasts, qanat-fed oases, Alpine tourism, Venice on water — all teaching one thesis: development succeeds by suiting the land (因地制宜), and regions differ without ranking. The junior version, in effect, of geography's oldest debate — possibilism against determinism — resolved in favour of harmony.",
+    "sources": [
+      {
+        "book": "rwdl",
+        "chapter": "人文地理（上册）"
+      }
+    ],
+    "collocations": [
+      "human-environment interaction",
+      "settlement patterns",
+      "adapt to local conditions",
+      "regional cognition",
+      "carrying capacity"
+    ],
+    "example": "因地制宜 — 'suit measures to local conditions' — is simultaneously a geography principle, a policy cliché in every provincial document, and a GIS analyst's job description; for a demography-and-GIS graduate this node is home turf renamed.",
+    "nuance": "人地关系 = human-environment relations/interaction（地理学核心概念，课标 human-environment coordination 人地协调观）；因地制宜 = adapting to local conditions（政策文件万能短语）。环境决定论/或然论 = environmental determinism/possibilism（地理思想史对轴——用户 GIS 背景的学科接口）。坎儿井 = qanat/karez。",
+    "links": [
+      {
+        "to": "river-valley-civilizations",
+        "rel": "related"
+      },
+      {
+        "to": "dujiangyan",
+        "rel": "related"
+      },
+      {
+        "to": "urbanisation",
+        "rel": "related"
+      },
+      {
+        "to": "food-agriculture",
+        "rel": "related"
+      },
+      {
+        "to": "ecology-population",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "geography-environment",
+      "society"
+    ],
+    "period": "教材体系"
+  }
+]

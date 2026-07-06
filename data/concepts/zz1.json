@@ -1,0 +1,46 @@
+[
+  {
+    "id": "utopian-socialism",
+    "zh": "空想社会主义",
+    "pinyin": "kōngxiǎng shèhuìzhǔyì",
+    "en": "utopian socialism",
+    "def_zh": "资本主义形成初期，圣西门、傅立叶、欧文等看到资本主义弊端，设计未来社会美好蓝图（欧文的“新和谐公社”实验），是科学社会主义的思想来源；但仅从理性、正义等原则出发，主张阶级调和、反对阶级斗争，没有找到社会变革的正确途径，故称“空想”。马克思恩格斯创立唯物史观和剩余价值学说，使社会主义从空想变为科学。",
+    "def_en": "Saint-Simon, Fourier and Owen saw industrial capitalism's miseries early and drafted blueprints for the good society — Owen even bankrolling his New Harmony commune — supplying scientific socialism's raw material. The verdict built into the Chinese term: 'utopian' because they appealed to reason and justice rather than class struggle, designing paradise without a road to it; Marx's twin discoveries (historical materialism, surplus value) turned the dream into a doctrine.",
+    "sources": [
+      {
+        "book": "zz1",
+        "chapter": "第一课 社会主义从空想到科学、从理论到实践的发展"
+      }
+    ],
+    "collocations": [
+      "utopian socialists",
+      "from utopia to science",
+      "model communities",
+      "blueprints for society"
+    ],
+    "example": "Every failed intentional community from New Harmony to modern co-living startups gets the Owen citation — 'utopian' as both compliment and diagnosis, exactly the double edge Engels gave it.",
+    "nuance": "“空想”定译 utopian（恩格斯书名 Socialism: Utopian and Scientific 的框架直接构成本课）。utopia 出自莫尔《乌托邦》（1516——文艺复兴节点的邻居）。“新和谐公社”= New Harmony。",
+    "links": [
+      {
+        "to": "marxism",
+        "rel": "replaced-by"
+      },
+      {
+        "to": "industrial-revolution",
+        "rel": "effect"
+      },
+      {
+        "to": "communist-manifesto",
+        "rel": "related"
+      },
+      {
+        "to": "taiping",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "ideas"
+    ],
+    "period": "19世纪初"
+  }
+]

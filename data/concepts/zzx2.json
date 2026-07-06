@@ -1,0 +1,52 @@
+[
+  {
+    "id": "civil-code",
+    "zh": "《民法典》与民事权利",
+    "pinyin": "Mínfǎdiǎn",
+    "en": "the Civil Code and civil rights in daily life",
+    "def_zh": "《中华人民共和国民法典》2020年5月28日通过、2021年施行——新中国第一部以“法典”命名的法律，共七编：总则、物权、合同、人格权、婚姻家庭、继承、侵权责任，被称为“社会生活的百科全书”。核心概念：民事主体（自然人—民事权利能力与行为能力、法人）；物权（所有权、用益物权、担保物权——保障各类物权）；合同（订立—要约承诺、履行—全面诚信、违约责任）；人格权独立成编（生命健康、名誉、隐私、个人信息保护）；婚姻家庭（婚姻自由、夫妻财产、离婚冷静期）；继承（法定/遗嘱）；侵权责任（过错责任为主）。解决争议途径：调解、仲裁、诉讼（民事诉讼举证“谁主张、谁举证”）。",
+    "def_en": "China's Civil Code (passed 28 May 2020, in force 2021) — the PRC's first statute titled a 'code', seven books from General Provisions through Property, Contract, the pioneering standalone Personality Rights book (privacy and personal data included), Marriage and Family (with its debated divorce cooling-off period), Succession and Tort: 'an encyclopedia of social life'. The node doubles as a legal-English phrasebook: natural/legal persons, capacity, real rights, offer and acceptance, breach, fault liability, mediation-arbitration-litigation — the vocabulary in which Chinese business and daily life is now legally described.",
+    "sources": [
+      {
+        "book": "zzx2",
+        "chapter": "第一单元 民事权利与义务"
+      }
+    ],
+    "collocations": [
+      "the Civil Code",
+      "personality rights",
+      "offer and acceptance",
+      "tort liability",
+      "burden of proof"
+    ],
+    "example": "The Code's personality-rights book put China unexpectedly ahead of many jurisdictions on face-recognition and data suits — the privacy litigation wave now reported worldwide cites articles this chapter teaches.",
+    "nuance": "民法典 = the Civil Code；物权 = real rights/property rights（大陆法系术语——链 [[common-vs-civil-law]]，中国民法典属大陆法系谱系、师承德国潘德克顿体系）；人格权 = personality rights（大陆法概念，普通法无直接对应）；侵权 = tort。离婚冷静期 = the divorce cooling-off period（社会新闻高频）。“谁主张谁举证”= the burden of proof lies with the claimant。",
+    "links": [
+      {
+        "to": "common-vs-civil-law",
+        "rel": "broader"
+      },
+      {
+        "to": "justinian-code",
+        "rel": "related"
+      },
+      {
+        "to": "napoleon",
+        "rel": "related"
+      },
+      {
+        "to": "law-based-governance",
+        "rel": "related"
+      },
+      {
+        "to": "chinese-legal-tradition",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "society"
+    ],
+    "period": "2021年施行"
+  }
+]

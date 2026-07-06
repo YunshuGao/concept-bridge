@@ -1,0 +1,190 @@
+[
+  {
+    "id": "basic-economic-system",
+    "zh": "我国的基本经济制度",
+    "pinyin": "jīběn jīngjì zhìdù",
+    "en": "China's basic economic system",
+    "def_zh": "公有制为主体、多种所有制经济共同发展，按劳分配为主体、多种分配方式并存，社会主义市场经济体制——三者共同构成社会主义基本经济制度。公有制经济（国有经济为主导——控制国民经济命脉；集体经济）与非公有制经济（个体、私营、外资——“两个毫不动摇”：毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展）。生产资料所有制在生产关系中起决定性作用；以公有制为主体是实现共同富裕的基本前提。",
+    "def_en": "Three pillars, constitutionally entrenched: public ownership as mainstay with diverse forms developing together ('two unwaverings' — unwaveringly consolidate the state sector, unwaveringly encourage the private); distribution according to work as mainstay among multiple modes; and the socialist market economy as the operating system. The state economy 'controls the lifelines' — the doctrine behind every SOE, from the Grid to the banks — while private firms supply most growth, jobs and innovation: the hybrid that western commentary spends careers trying to classify.",
+    "sources": [
+      {
+        "book": "zz2",
+        "chapter": "第一课 我国的生产资料所有制"
+      }
+    ],
+    "collocations": [
+      "public ownership as mainstay",
+      "state-owned enterprises (SOEs)",
+      "the two unwaverings",
+      "mixed-ownership reform",
+      "the lifelines of the economy"
+    ],
+    "example": "Every 'guojin mintui' (state advances, private retreats) debate — and every Economist piece on SOE reform — argues inside this chapter's categories; knowing the official frame is the price of entry.",
+    "nuance": "“两个毫不动摇”= the two unwaverings（官方译）；国有企业 = state-owned enterprises (SOEs)；混合所有制改革 = mixed-ownership reform；“国民经济命脉”= the lifelines/commanding heights of the economy（commanding heights 本是列宁语——经由 [[new-economic-policy]] 的词汇环流）。",
+    "links": [
+      {
+        "to": "three-transformations",
+        "rel": "related"
+      },
+      {
+        "to": "economic-reform",
+        "rel": "related"
+      },
+      {
+        "to": "socialism-chinese",
+        "rel": "related"
+      },
+      {
+        "to": "monopoly-capitalism",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "governance"
+    ],
+    "period": "现行制度"
+  },
+  {
+    "id": "market-government",
+    "zh": "市场与政府（决定性作用与宏观调控）",
+    "pinyin": "shìchǎng yǔ zhèngfǔ",
+    "en": "market and state: decisive role and macro regulation",
+    "def_zh": "市场通过价格、供求、竞争机制配置资源——“使市场在资源配置中起决定性作用”（十八届三中全会由“基础性”升格）；但市场调节存在自发性、盲目性、滞后性，会失灵（垄断、外部性、公共物品缺位、分配不公），故须“更好发挥政府作用”：科学的宏观调控（经济政策：财政政策与货币政策；经济规划）、市场监管、公共服务、社会保障——构建市场机制有效、微观主体有活力、宏观调控有度的经济体制。",
+    "def_en": "The 2013 formula that moved markets worldwide: resources allocated by the market's 'decisive role' (upgraded from 'basic'), paired inseparably with 'giving better play to the role of government'. The textbook teaches market failure by the book — monopoly, externalities, public goods, inequality — and the state's answering toolkit: macro regulation through fiscal and monetary policy, planning, regulation and public services. The Chinese economic-policy debate, in other words, is conducted in mainstream economics vocabulary with one extra term of art: 宏观调控.",
+    "sources": [
+      {
+        "book": "zz2",
+        "chapter": "第二课 我国的社会主义市场经济体制"
+      }
+    ],
+    "collocations": [
+      "the decisive role of the market",
+      "macro regulation/macroeconomic management",
+      "market failure",
+      "fiscal and monetary policy",
+      "visible and invisible hands"
+    ],
+    "example": "'Decisive role' v. 'better play to government' is the tightrope every Third Plenum communiqué walks — analysts count which phrase comes first the way Kremlinologists once counted podium positions.",
+    "nuance": "宏观调控 = macro regulation/macroeconomic regulation（中国特色政策词，直译通行）；市场失灵 = market failure；外部性 = externalities；公共物品 = public goods——本课直接教授经济学英语基本盘。“看得见的手与看不见的手”回链 [[adam-smith]]、[[new-deal]]。",
+    "links": [
+      {
+        "to": "adam-smith",
+        "rel": "related"
+      },
+      {
+        "to": "new-deal",
+        "rel": "related"
+      },
+      {
+        "to": "economic-reform",
+        "rel": "broader"
+      },
+      {
+        "to": "basic-economic-system",
+        "rel": "related"
+      },
+      {
+        "to": "great-depression",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "1992年至今"
+  },
+  {
+    "id": "new-development-concepts",
+    "zh": "新发展理念与高质量发展",
+    "pinyin": "xīn fāzhǎn lǐniàn",
+    "en": "the new development concepts and high-quality growth",
+    "def_zh": "我国经济已由高速增长阶段转向高质量发展阶段；社会主要矛盾转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。必须坚持以人民为中心的发展思想，贯彻创新、协调、绿色、开放、共享的新发展理念（创新是第一动力、协调是内生特点、绿色是普遍形态、开放是必由之路、共享是根本目的），建设现代化经济体系（实体经济、乡村振兴、区域协调发展），加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局。",
+    "def_en": "The official growth doctrine since 2015-17: China has shifted 'from high-speed to high-quality development', its principal contradiction now 'unbalanced and inadequate development' against the people's aspiration for a better life. The five concepts — innovative, coordinated, green, open, shared development — plus the 'dual circulation' architecture (domestic circulation as mainstay, domestic-international mutually reinforcing) supply the vocabulary of every plan, work report and provincial slogan since: the language in which Beijing now talks about GDP, and pointedly not only about GDP.",
+    "sources": [
+      {
+        "book": "zz2",
+        "chapter": "第三课 我国的经济发展"
+      }
+    ],
+    "collocations": [
+      "high-quality development",
+      "the new development concepts",
+      "dual circulation",
+      "the principal contradiction",
+      "rural revitalisation"
+    ],
+    "example": "When 'high-quality development' replaced growth targets in headlines, analysts learned to read this chapter: the phrase signals the trade-offs Beijing will and won't make, from property deleveraging to the green transition.",
+    "nuance": "官方译语：新发展理念 = the new development philosophy/concepts；高质量发展 = high-quality development；双循环 = dual circulation；乡村振兴 = rural revitalisation；主要矛盾 = the principal contradiction（矛盾框架源自 [[dialectics]]——毛《矛盾论》的政策化）。“不平衡不充分”= unbalanced and inadequate。",
+    "links": [
+      {
+        "to": "socialism-chinese",
+        "rel": "broader"
+      },
+      {
+        "to": "ecology-population",
+        "rel": "related"
+      },
+      {
+        "to": "wto-globalisation",
+        "rel": "related"
+      },
+      {
+        "to": "market-government",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "economy",
+      "ideas"
+    ],
+    "period": "2015年至今"
+  },
+  {
+    "id": "common-prosperity",
+    "zh": "收入分配与共同富裕",
+    "pinyin": "gòngtóng fùyù",
+    "en": "income distribution and common prosperity",
+    "def_zh": "按劳分配为主体、多种分配方式并存（劳动、资本、土地、知识、技术、管理、数据等要素按贡献参与分配）。居民收入分初次分配（市场：效率）、再分配（政府：税收、社会保障、转移支付——更加注重公平）、第三次分配（社会：慈善公益）。完善个人收入分配，扎实推进共同富裕——共同富裕是社会主义的本质要求，是全体人民的富裕、人民群众物质生活和精神生活都富裕，不是少数人的富裕、也不是整齐划一的平均主义，要靠共同奋斗、分阶段促进。健全多层次社会保障体系（社会保险、社会救助、社会福利、社会优抚）。",
+    "def_en": "Distribution runs in three rounds: primary (markets rewarding labour and, notably, capital, technology, management and data as factors), redistribution (taxes, transfers, social insurance — 'with greater attention to fairness'), and a 'third distribution' through philanthropy. Above it sits the goal that moved global markets in 2021: common prosperity — defined in the textbook exactly as officials define it to investors: prosperity for all through common effort, in stages; neither the wealth of a few nor absolute egalitarianism. The safety net (insurance, assistance, welfare, veterans' provision) completes the architecture.",
+    "sources": [
+      {
+        "book": "zz2",
+        "chapter": "第四课 我国的个人收入分配与社会保障"
+      }
+    ],
+    "collocations": [
+      "common prosperity",
+      "primary/redistribution/third distribution",
+      "factor-based distribution",
+      "the social safety net",
+      "excessive incomes"
+    ],
+    "example": "The 2021 'common prosperity' campaign wiped billions off tech valuations while officials insisted on this chapter's caveats — 'not egalitarianism, not killing the rich' — a masterclass in why decoding official definitions is a market skill.",
+    "nuance": "共同富裕 = common prosperity（官方译）；三次分配 = the three distributions（第三次分配 the third/tertiary distribution——慈善的政策化名称）。数据作为生产要素 = data as a factor of production（中国首创的官方表述，数字经济讨论的前沿词）。链 [[welfare-state]]、[[wenjing]]、[[taiping]]（绝对平均主义的反面教材）。",
+    "links": [
+      {
+        "to": "welfare-state",
+        "rel": "related"
+      },
+      {
+        "to": "basic-economic-system",
+        "rel": "related"
+      },
+      {
+        "to": "taiping",
+        "rel": "contrast"
+      },
+      {
+        "to": "socialism-chinese",
+        "rel": "broader"
+      }
+    ],
+    "themes": [
+      "economy",
+      "society"
+    ],
+    "period": "现行制度"
+  }
+]

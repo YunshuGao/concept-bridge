@@ -1,0 +1,51 @@
+[
+  {
+    "id": "china-constitution",
+    "zh": "宪法与公民基本权利义务",
+    "pinyin": "xiànfǎ / jīběn quánlì yìwù",
+    "en": "the PRC Constitution and citizens' rights and duties",
+    "def_zh": "我国现行宪法为1982年宪法（经多次修正）。宪法是国家的根本法：规定国家生活中最根本最重要的问题（国家性质、根本制度、根本任务），具有最高法律效力，是其他法律的立法基础和依据，制定修改程序更严格；一切组织和个人的根本活动准则——坚持宪法至上、加强宪法监督（宪法宣誓制度、国家宪法日12月4日）。公民基本权利：政治权利和自由（选举权被选举权、监督权）、人身自由、社会经济与文化教育权利（财产权、劳动权、受教育权——受教育既是权利又是义务）；权利行使有界限（不得损害国家社会集体利益和他人合法权利）。基本义务：遵守宪法法律、维护国家统一和民族团结、保卫祖国依法服兵役、依法纳税等——权利义务相统一。",
+    "def_en": "The 1982 Constitution (as amended) taught as supreme law: the fundamental questions of state settled in one document with highest legal force, stricter amendment procedure, and — the institutional expression — Constitution Day (4 December) and the oath officials swear on it. The rights catalogue runs from franchise and oversight through personal liberty to property, labour and education (a right and a duty at once); the limits clause is built in (no exercise may harm state, society or others' lawful rights); the duties list — upholding unity, military service, taxpaying — completes the pairing the textbook names 'the unity of rights and duties', a deliberately different accent from rights-first western charters.",
+    "sources": [
+      {
+        "book": "df8b",
+        "chapter": "第一单元 坚持宪法至上"
+      }
+    ],
+    "collocations": [
+      "the fundamental law",
+      "constitutional supremacy",
+      "basic rights and duties",
+      "the unity of rights and obligations"
+    ],
+    "example": "'Rights AND duties, always together' is the frame Chinese civics shares with Singaporean and differs from American — comparative civics courses use exactly this pairing to teach how constitutions encode different social contracts.",
+    "nuance": "根本法 = the fundamental law；宪法至上 = constitutional supremacy。权利义务统一观与 [[declaration-of-independence]] 天赋权利观、[[bill-of-rights-1689]] 的对读是公民教育比较学的核心练习。受教育“既是权利又是义务”为中式宪法的标志性条款。",
+    "links": [
+      {
+        "to": "law-based-governance",
+        "rel": "related"
+      },
+      {
+        "to": "first-fyp",
+        "rel": "related"
+      },
+      {
+        "to": "us-constitution",
+        "rel": "contrast"
+      },
+      {
+        "to": "declaration-rights-of-man",
+        "rel": "related"
+      },
+      {
+        "to": "civil-code",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "1982年至今"
+  }
+]

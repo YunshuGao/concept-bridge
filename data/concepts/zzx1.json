@@ -1,0 +1,96 @@
+[
+  {
+    "id": "national-interest-power",
+    "zh": "国家利益与综合国力",
+    "pinyin": "guójiā lìyì / zōnghé guólì",
+    "en": "national interest and comprehensive national power",
+    "def_zh": "国家利益是国际关系的决定性因素，是主权国家制定和实施对外政策的依据——维护国家利益是主权国家对外活动的出发点和落脚点（共同利益是合作基础，利益对立是冲突根源）。当代国际竞争的实质是以经济和科技实力为基础的综合国力的较量：包括经济、科技、军事等硬实力与文化、价值观念、国际影响力等软实力。主权国家的基本权利：独立权、平等权、自卫权、管辖权。",
+    "def_en": "IR realism, officially endorsed: national interest as the decisive variable of international relations, the alpha and omega of foreign policy — shared interests grounding cooperation, clashing ones breeding conflict. Contemporary competition is defined as the contest of comprehensive national power: hard power (economy, technology, arms) plus soft power (culture, values, voice) — Nye's coinage naturalised into the curriculum. Sovereign rights enumerated: independence, equality, self-defence, jurisdiction — the Westphalian toolkit as civics.",
+    "sources": [
+      {
+        "book": "zzx1",
+        "chapter": "第一单元 各具特色的国家"
+      }
+    ],
+    "collocations": [
+      "national interest",
+      "comprehensive national power",
+      "hard and soft power",
+      "sovereign rights"
+    ],
+    "example": "'Comprehensive national power' rankings are a Chinese think-tank genre the way GDP tables are a western one — the term itself (综合国力) is this curriculum's realism made measurable.",
+    "nuance": "综合国力 = comprehensive national power (CNP——英语研究直接使用缩写)。软实力 = soft power（约瑟夫·奈概念被教材收编——概念旅行的实例）。国家利益 the national interest 为IR现实主义纲领词——教材立场与摩根索教科书几乎同构，是读英文IR文献的直通桥。",
+    "links": [
+      {
+        "to": "westphalia",
+        "rel": "broader"
+      },
+      {
+        "to": "multipolar-world",
+        "rel": "related"
+      },
+      {
+        "to": "cold-war",
+        "rel": "related"
+      },
+      {
+        "to": "warring-states",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance",
+      "ideas"
+    ],
+    "period": "教材体系"
+  },
+  {
+    "id": "international-organisations",
+    "zh": "国际组织（政府间与非政府）",
+    "pinyin": "guójì zǔzhī",
+    "en": "international organisations",
+    "def_zh": "国际组织按成员性质分政府间国际组织（如联合国、世贸组织、欧盟、东盟、非盟、亚太经合组织、上合组织、金砖机制）与非政府国际组织（如国际奥委会、红十字国际委员会、绿色和平）；按地域分世界性与区域性。作用：促进交流合作、协调争端、应对全球性挑战（也受强权政治制约、大国操控风险）。中国全面参与并积极推动：主办APEC、G20杭州峰会，发起亚投行、上合组织，参与维和——全球治理体系改革和建设的参与者、建设者、贡献者。",
+    "def_en": "The organisational fauna of world politics, classified: intergovernmental (UN, WTO, EU, ASEAN, the African Union, APEC, the SCO, BRICS) versus non-governmental (the IOC, the ICRC, Greenpeace); global versus regional. Functions — cooperation, dispute management, global commons problems — with the textbook's caveat that great powers bend them. China's role is stated as builder, not just member: AIIB and SCO founded, APEC and G20 hosted, blue helmets supplied — 'participant, builder and contributor' to global governance reform, the formula behind every multilateral communiqué Beijing signs.",
+    "sources": [
+      {
+        "book": "zzx1",
+        "chapter": "第四单元 国际组织"
+      }
+    ],
+    "collocations": [
+      "intergovernmental organisations (IGOs)",
+      "NGOs",
+      "regional integration",
+      "multilateralism",
+      "global governance"
+    ],
+    "example": "The acronym soup of any summit week — ASEAN+3, RCEP, SCO, BRICS+ — is this chapter's taxonomy in motion; 'alphabet multilateralism' is how the Economist mocks and maps it at once.",
+    "nuance": "政府间/非政府组织 = IGO/NGO（英语基本缩写）。东盟 = ASEAN；非盟 = the African Union (AU)；上合组织 = the SCO。“参与者建设者贡献者”= participant, builder and contributor（官方三联式，白皮书标配）。多边主义 = multilateralism——中美话语争夺中的高频词（true multilateralism 真正的多边主义）。",
+    "links": [
+      {
+        "to": "united-nations",
+        "rel": "broader"
+      },
+      {
+        "to": "european-integration",
+        "rel": "related"
+      },
+      {
+        "to": "wto-globalisation",
+        "rel": "related"
+      },
+      {
+        "to": "multipolar-world",
+        "rel": "related"
+      },
+      {
+        "to": "prc-diplomacy",
+        "rel": "related"
+      }
+    ],
+    "themes": [
+      "governance"
+    ],
+    "period": "现行体系"
+  }
+]
