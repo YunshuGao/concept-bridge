@@ -1,725 +1,935 @@
 [
-  {
-    "id": "prc-founding",
-    "zh": "中华人民共和国成立",
-    "pinyin": "Zhōnghuá Rénmín Gònghéguó chénglì",
-    "en": "the founding of the People's Republic of China",
-    "def_zh": "1949年9月中国人民政治协商会议第一届全体会议（北平）通过《共同纲领》（起临时宪法作用）、选举中央人民政府委员会毛泽东为主席，定国旗国歌首都纪年。10月1日开国大典，毛泽东宣告中华人民共和国中央人民政府成立——开辟了中国历史新纪元：中国真正成为独立自主的国家，人民当家作主；壮大了世界和平民主和社会主义的力量。1951年西藏和平解放，祖国大陆获得统一。",
-    "def_en": "On 1 October 1949, from the Tiananmen rostrum, Mao proclaimed the People's Republic — the ceremony every Chinese schoolchild can narrate, capping a political consultative conference whose Common Programme served as interim constitution. The textbook's significance-formula: a new epoch — China independent at last, its people 'masters of their own house' — and a heavyweight addition to the socialist world. Tibet's peaceful liberation in 1951 completed the mainland's unification.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第1课 中华人民共和国成立"
-      }
-    ],
-    "collocations": [
-      "the founding ceremony",
-      "stand up (the Chinese people have stood up)",
-      "the Common Programme",
-      "New China"
-    ],
-    "example": "'The Chinese people have stood up' — whether or not Mao said it exactly so on the day — is the founding soundbite; 'since New China was founded' remains the standard dating phrase in every official text.",
-    "nuance": "“新中国”= New China（官方语汇，外媒常保留引号）；“当家作主”= masters of their own country/house。开国大典 = the founding ceremony。政协 = the CPPCC（两会之一——链 [[first-fyp]] 的人大，构成当代政制骨架词汇）。",
-    "links": [
-      {
-        "to": "civil-war-1946",
-        "rel": "effect"
-      },
-      {
-        "to": "october-revolution",
-        "rel": "related"
-      },
-      {
-        "to": "korean-war",
-        "rel": "related"
-      },
-      {
-        "to": "qing-frontier",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance"
-    ],
-    "period": "1949年"
-  },
-  {
-    "id": "korean-war",
-    "zh": "抗美援朝",
-    "pinyin": "kàng-Měi yuán-Cháo",
-    "en": "the War to Resist America and Aid Korea",
-    "def_zh": "1950年朝鲜内战爆发，美国出兵干涉并越过三八线扩大侵略、轰炸中国边境城市、第七舰队入侵台湾海峡，威胁新中国安全。应朝方请求，1950年10月彭德怀率中国人民志愿军入朝，与朝鲜军民并肩作战，五战五捷；上甘岭战役中黄继光舍身堵枪眼、邱少云严守纪律烈火中牺牲——志愿军被誉“最可爱的人”。1953年7月美国被迫在《朝鲜停战协定》上签字。抗美援朝战争的胜利，抵御了帝国主义侵略扩张，捍卫了新中国安全，保卫了中国人民和平生活，稳定了朝鲜半岛局势，维护了亚洲和世界和平，大大提高了我国国际地位。",
-    "def_en": "When the Korean civil war internationalised — UN forces driving north to the Yalu, US planes over Chinese towns, the Seventh Fleet in the Taiwan Strait — China answered with the People's Volunteers under Peng Dehuai (October 1950), who threw the front back to the 38th parallel and held it through battles like Shangganling until the 1953 armistice. The textbook frames it as the founding victory: security defended, world standing won, and the martyr-heroes — Huang Jiguang, Qiu Shaoyun — installed in the national pantheon as 'the most beloved people'.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第2课 抗美援朝"
-      }
-    ],
-    "collocations": [
-      "the Korean War",
-      "the 38th parallel",
-      "the armistice",
-      "the People's Volunteers"
-    ],
-    "example": "Same war, three names — Korea's 'Fatherland Liberation War', America's 'forgotten war', China's 'Resist America, Aid Korea' — the naming triangle is the historiography lesson in itself.",
-    "nuance": "英语通称 the Korean War；中方名直译 the War to Resist US Aggression and Aid Korea（官方英译）。停战协定 = armistice（至今无和约——朝鲜半岛新闻的法律背景板）。志愿军 = the (Chinese People's) Volunteers——“志愿”名义的外交功能值得注意。",
-    "links": [
-      {
-        "to": "prc-founding",
-        "rel": "related"
-      },
-      {
-        "to": "cold-war",
-        "rel": "broader"
-      },
-      {
-        "to": "japanese-miracle",
-        "rel": "related"
-      },
-      {
-        "to": "prc-diplomacy",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "war"
-    ],
-    "period": "1950年–1953年"
-  },
-  {
-    "id": "land-reform-1950",
-    "zh": "土地改革（1950–52）",
-    "pinyin": "tǔdì gǎigé",
-    "en": "the Land Reform of 1950-52",
-    "def_zh": "新中国成立时占全国三亿多人口的新解放区尚未土改，封建土地制度严重阻碍农村经济和社会发展。1950年《中华人民共和国土地改革法》颁布：废除地主阶级封建剥削的土地所有制，实行农民的土地所有制。1952年底基本完成：近三亿无地少地农民分得土地——彻底摧毁了存在两千多年的封建土地制度，消灭地主阶级；农民翻身成为土地的主人；人民政权更加巩固，解放了农村生产力，为国家工业化建设准备了条件。",
-    "def_en": "The 1950 Agrarian Reform Law finished what the base areas had begun: landlordism — the tenure system the textbook dates back two millennia — abolished nationwide, and by end-1952 some 300 million landless and land-poor peasants held title. The formula: the peasants 'turned over' (fanshen) to become masters of the land, the new state rooted itself in the villages, and rural productivity was freed to feed the industrialisation about to begin.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第3课 土地改革"
-      }
-    ],
-    "collocations": [
-      "agrarian reform",
-      "fanshen (turning over)",
-      "landlords as a class",
-      "land to the peasants"
-    ],
-    "example": "William Hinton's Fanshen made a Shanxi village's land reform an English-language classic — the anthropological witness text that gave the movement its western vocabulary.",
-    "nuance": "封建土地制度 = the feudal land(-tenure) system（此处“封建”即马克思主义用法——链 [[fengjian]] 的三分警告再次适用）。“翻身”= fanshen（韩丁书名使其直接进入英语）。与 [[serf-emancipation]]、[[cardenas-reform]]、[[civil-war-1946]] 的土地政治谱系贯通。",
-    "links": [
-      {
-        "to": "civil-war-1946",
-        "rel": "related"
-      },
-      {
-        "to": "three-transformations",
-        "rel": "replaced-by"
-      },
-      {
-        "to": "serf-emancipation",
-        "rel": "related"
-      },
-      {
-        "to": "taiping",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "society",
-      "economy"
-    ],
-    "period": "1950年–1952年"
-  },
-  {
-    "id": "first-fyp",
-    "zh": "一五计划与人民代表大会制度",
-    "pinyin": "yīwǔ jìhuà / réndà zhìdù",
-    "en": "the First Five-Year Plan and the people's congress system",
-    "def_zh": "新中国工业基础薄弱（毛泽东：“一辆汽车、一架飞机……都不能造”）。1953–57年第一个五年计划集中力量发展重工业：以苏联援建156个项目为中心，鞍钢三大工程、长春一汽（1956年第一辆解放牌汽车）、沈阳机床飞机制造，宝成鹰厦铁路、川藏青藏新藏公路、1957武汉长江大桥（“一桥飞架南北，天堑变通途”）——超额完成，开始改变工业落后面貌。1954年9月第一届全国人民代表大会通过《中华人民共和国宪法》（第一部社会主义类型宪法；此前1953年5.7亿人口规模的普选）：一切权力属于人民，全国人大为最高国家权力机关——人民代表大会制度为我国根本政治制度。",
-    "def_en": "Starting from Mao's inventory — 'we can make tables and teacups... but not one car, one plane' — the First Five-Year Plan (1953–57), built around 156 Soviet-aided projects, delivered the heavy-industrial firsts: Anshan steel, the first Liberation truck out of Changchun (1956), jet fighters, the Wuhan Yangzi bridge ('a bridge flies north-south; the moat becomes a thoroughfare'). Alongside it came the constitutional scaffolding: after a 570-million-strong election, the first National People's Congress adopted the 1954 Constitution — all power to the people, the NPC supreme — establishing the people's congress system as the state's foundational institution.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第4课 新中国工业化的起步和人民代表大会制度的确立"
-      }
-    ],
-    "collocations": [
-      "the First Five-Year Plan",
-      "Soviet-aided projects",
-      "the National People's Congress",
-      "the 1954 Constitution"
-    ],
-    "example": "The 'Two Sessions' every March — NPC plus CPPCC — are this chapter's institutions at work; the wire-service boilerplate ('China's rubber-stamp parliament', hotly contested) makes the textbook's account required contrast-reading.",
-    "nuance": "全国人大 = the National People's Congress (NPC)；“根本政治制度”= the fundamental political system。一五计划链 [[soviet-industrialisation]]（五年计划的直接师承——教材苏联援建156项即证）。“两会”= the Two Sessions（Economist 中国报道的年历词）。",
-    "links": [
-      {
-        "to": "soviet-industrialisation",
-        "rel": "influenced-by"
-      },
-      {
-        "to": "land-reform-1950",
-        "rel": "related"
-      },
-      {
-        "to": "three-transformations",
-        "rel": "related"
-      },
-      {
-        "to": "us-constitution",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy",
-      "governance"
-    ],
-    "period": "1953年–1957年"
-  },
-  {
-    "id": "three-transformations",
-    "zh": "三大改造",
-    "pinyin": "sāndà gǎizào",
-    "en": "the Three Great Transformations",
-    "def_zh": "国家对农业、手工业、资本主义工商业的社会主义改造：农业经互助组—初级社—高级社走合作化道路（自愿互利、典型示范；1956年绝大多数农户入社）；90%以上个体手工业者入社；资本主义工商业逐步公私合营，对资本家占有的生产资料实行赎买政策（定息5%）——和平过渡，中国社会主义改造的创举。1956年底三大改造基本完成，实现生产资料私有制向社会主义公有制转变，社会主义基本制度建立，我国进入社会主义初级阶段——中国历史上最深刻的社会变革（后期存在要求过急、工作过粗、改变过快等缺点）。",
-    "def_en": "Between 1953 and 1956 private China was folded into socialism: peasants through mutual-aid teams into cooperatives, artisans likewise, and capitalist industry and commerce into joint state-private operation — the owners bought out with fixed 5% interest, a 'peaceful transition' the textbook counts as a Chinese innovation (one capitalist's scripted verdict: 'I lost my little exploitation and gained a socialist country'). By end-1956 ownership of the means of production had changed hands; socialism's basic system stood, the 'primary stage of socialism' had begun — 'the most profound social transformation in Chinese history', with an official footnote conceding it was rushed, rough and too fast.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第5课 三大改造"
-      }
-    ],
-    "collocations": [
-      "socialist transformation",
-      "joint state-private ownership",
-      "buying out the capitalists",
-      "the primary stage of socialism"
-    ],
-    "example": "The 'primary stage of socialism' coined here became the load-bearing phrase of the reform era — the doctrine that lets a communist party run a market economy and cite this chapter doing it.",
-    "nuance": "公私合营 = joint state-private operation；赎买 = redemption/buying-out（对照 [[serf-emancipation]] 的 redemption payments——方向相反的同词！）。“社会主义初级阶段”= the primary stage of socialism（当代官方理论基石，1987年正式化——本课埋其种子）。同仁堂案例连接品牌史与政治史。",
-    "links": [
-      {
-        "to": "first-fyp",
-        "rel": "related"
-      },
-      {
-        "to": "land-reform-1950",
-        "rel": "replaced"
-      },
-      {
-        "to": "soviet-model",
-        "rel": "influenced-by"
-      },
-      {
-        "to": "economic-reform",
-        "rel": "related"
-      },
-      {
-        "to": "new-economic-policy",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy",
-      "governance",
-      "ideas"
-    ],
-    "period": "1953年–1956年"
-  },
-  {
-    "id": "exploration-setbacks",
-    "zh": "艰辛探索与建设成就（1956–76）",
-    "pinyin": "jiānxīn tànsuǒ",
-    "en": "the arduous exploration, 1956-76",
-    "def_zh": "1956年中共八大正确分析国内主要矛盾（良好开端；《论十大关系》）。1958年总路线（“鼓足干劲、力争上游、多快好省”）后掀起“大跃进”和人民公社化运动——反映改变落后的迫切愿望，但急于求成忽视客观经济规律，加以自然灾害，1959–61年国民经济发生严重困难；1961年“调整、巩固、充实、提高”八字方针调整（七千人大会），1965年完成。1966–76年“文化大革命”：毛泽东错误认为党和国家面临资本主义复辟危险，“以阶级斗争为纲”；林彪、江青集团利用之，民主法制遭践踏、刘少奇冤案；1971年粉碎林彪集团（九一三），1976年粉碎“四人帮”结束十年动乱——新中国成立后最严重的挫折。同期建设成就仍巨大：武汉包头钢铁基地、大庆油田（1965年石油自给）、电子原子能航天工业从无到有，人工合成结晶牛胰岛素世界领先；铁人王进喜、焦裕禄、雷锋等英模辈出；文革期间氢弹（1967）卫星（1970）籼型杂交水稻（1973）——“决不是‘文化大革命’的成果”。",
-    "def_en": "The two decades after 1956 mix triumph and self-inflicted wound in the textbook's careful accounting. The Eighth Congress diagnosed correctly; the Great Leap of 1958 — mass mobilisation against economic law — plus natural disasters brought the 'serious difficulties' of 1959–61, corrected by the readjustment of the early sixties. Then the Cultural Revolution (1966–76): launched on Mao's misjudgment that capitalist restoration threatened, exploited by the Lin Biao and Jiang Qing cliques, trampling law and democracy (President Liu Shaoqi its greatest injustice) — 'the most severe setback since the founding'. Yet the same years built Daqing and oil self-sufficiency, synthesised insulin first in the world, tested the H-bomb and orbited a satellite — achievements 'in spite of, never because of' the turmoil — and canonised the model heroes Lei Feng, Jiao Yulu and 'Iron Man' Wang Jinxi.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第6课 艰辛探索与建设成就"
-      }
-    ],
-    "collocations": [
-      "the Great Leap Forward",
-      "the people's communes",
-      "the Cultural Revolution",
-      "readjustment",
-      "model workers"
-    ],
-    "example": "The 1981 Resolution's arithmetic — Mao '70% right, 30% wrong' — governs this chapter's every sentence; reading it beside Western accounts (famine death tolls, Red Guard violence) is the sharpest historiography exercise this entire knowledge base offers.",
-    "nuance": "大跃进 = the Great Leap Forward；人民公社 = the people's communes（commune 词义长旅：[[medieval-towns]]→[[first-international]]→此处）。“严重困难”的教材表述 vs 西方文献 the Great Famine——分歧最大处，需双语并置阅读。文革 = the Cultural Revolution；“十年动乱”= the decade of turmoil。雷锋 = Lei Feng（learn-from-Lei-Feng 运动使其成为英语可识别符号）。",
-    "links": [
-      {
-        "to": "three-transformations",
-        "rel": "replaced"
-      },
-      {
-        "to": "soviet-model",
-        "rel": "related"
-      },
-      {
-        "to": "khrushchev-brezhnev",
-        "rel": "related"
-      },
-      {
-        "to": "third-plenum",
-        "rel": "replaced-by"
-      },
-      {
-        "to": "science-two-bombs",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance",
-      "economy",
-      "society"
-    ],
-    "period": "1956年–1976年"
-  },
-  {
-    "id": "third-plenum",
-    "zh": "十一届三中全会（伟大的历史转折）",
-    "pinyin": "shíyījiè sānzhōng quánhuì",
-    "en": "the Third Plenum of 1978",
-    "def_zh": "“文革”后“两个凡是”方针引起不满，1978年思想理论界展开真理标准问题大讨论——“实践是检验真理的唯一标准”，解放思想。1978年12月中共十一届三中全会（北京）：冲破长期“左”的错误的严重束缚，确定解放思想、开动脑筋、实事求是、团结一致向前看的指导方针；果断结束“以阶级斗争为纲”，作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性决策；实际上形成以邓小平为核心的党的第二代中央领导集体。是新中国成立以来党的历史上具有深远意义的伟大转折，开启了改革开放和社会主义现代化建设新时期。（此后平反冤假错案、1981年《关于建国以来党的若干历史问题的决议》。）",
-    "def_en": "Out of the truth-criterion debate — 'practice is the sole criterion of truth', the slogan that broke the 'two whatevers' — came the meeting that redirected the country: the Third Plenum of the Eleventh Central Committee, December 1978. Class struggle was retired as the key link; economic construction became the party's central task; 'reform and opening up' was decided; and Deng Xiaoping emerged as core of the second leadership generation. The textbook's superlative — 'a great turning point of far-reaching significance' — is for once undersold: this is the pivot on which China's, and arguably the world economy's, past half-century turns.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第7课 伟大的历史转折"
-      }
-    ],
-    "collocations": [
-      "reform and opening up",
-      "seek truth from facts",
-      "the two whatevers",
-      "a turning point"
-    ],
-    "example": "Every December anniversary and every 'deepen reform' communiqué positions itself as heir to 1978 — 'since reform and opening up' rivals 'since New China' as official history's other epoch-marker.",
-    "nuance": "改革开放 = reform and opening up（官方定译，Economist 直接使用）。“实事求是”= seek truth from facts（毛语被邓征用——语义史）。三中全会 = the Third Plenum（因1978而使 'Third Plenum' 在英语报道中永久带有“重大改革窗口”的联想——2013年三中全会报道即消费此联想）。",
-    "links": [
-      {
-        "to": "exploration-setbacks",
-        "rel": "replaced"
-      },
-      {
-        "to": "economic-reform",
-        "rel": "cause"
-      },
-      {
-        "to": "opening-up",
-        "rel": "cause"
-      },
-      {
-        "to": "meiji-restoration",
-        "rel": "related"
-      },
-      {
-        "to": "new-economic-policy",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance",
-      "ideas",
-      "economy"
-    ],
-    "period": "1978年"
-  },
-  {
-    "id": "economic-reform",
-    "zh": "经济体制改革",
-    "pinyin": "jīngjì tǐzhì gǎigé",
-    "en": "the economic system reforms",
-    "def_zh": "改革先从农村开始：1978年安徽凤阳小岗村农民实行分田包干到户，家庭联产承包责任制逐步在全国推开——激发农民劳动热情，农业大发展；乡镇企业迅速发展，为农民致富和实现现代化开辟新路。1984年起城市改革全面展开、重点是国有企业改革：政企分开、扩大企业自主权、按劳分配为主多种分配方式并存，增强企业活力。1992年中共十四大明确提出建立社会主义市场经济体制——把社会主义基本制度和市场经济结合起来，对现代化建设有巨大推动作用，使中国经济实力明显增强。",
-    "def_en": "Reform began in a farmhouse: eighteen Xiaogang villagers secretly contracted collective land to households in 1978, and their 'household responsibility system' — output above quota kept by the family — swept the country, detonating agricultural growth and the township enterprises that industrialised the countryside sideways. Cities followed from 1984 with state-enterprise reform — autonomy, profit retention, pay by work — and in 1992 the Fourteenth Congress named the destination: a 'socialist market economy', the oxymoron that worked, and the institutional core of the growth miracle.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第8课 经济体制改革"
-      }
-    ],
-    "collocations": [
-      "the household responsibility system",
-      "township and village enterprises",
-      "state-owned enterprise reform",
-      "the socialist market economy"
-    ],
-    "example": "The Xiaogang contract — signed in secret, thumb-printed, with a clause pledging to raise each other's children if anyone was jailed — is reform's founding relic, displayed like a Magna Carta of the smallholder.",
-    "nuance": "家庭联产承包责任制 = the household (contract) responsibility system；乡镇企业 = township and village enterprises (TVEs——发展经济学专名)；社会主义市场经济 = the socialist market economy。与 [[new-economic-policy]]、[[wenjing]]（休养生息）的政策家族树在此结果——本知识库经济改革线的终点站。",
-    "links": [
-      {
-        "to": "third-plenum",
-        "rel": "effect"
-      },
-      {
-        "to": "three-transformations",
-        "rel": "related"
-      },
-      {
-        "to": "new-economic-policy",
-        "rel": "related"
-      },
-      {
-        "to": "adam-smith",
-        "rel": "related"
-      },
-      {
-        "to": "han-founding",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy"
-    ],
-    "period": "1978年–1992年"
-  },
-  {
-    "id": "opening-up",
-    "zh": "对外开放",
-    "pinyin": "duìwài kāifàng",
-    "en": "the opening to the world",
-    "def_zh": "1980年设深圳、珠海、汕头、厦门4个经济特区（深圳在短短几年建成繁华都市，“一夜崛起之城”，成为对外开放的窗口）；1984年开放14个沿海城市，1985年开辟沿海经济开放区（长三角珠三角闽三角环渤海），1988年海南建省设经济特区，1990年建立上海浦东开发区——形成“经济特区—沿海开放城市—沿海经济开放区—内地”全方位、多层次、宽领域的对外开放格局。2001年中国加入世界贸易组织，为参与经济全球化开辟新途径，为国民经济和社会发展开拓新空间。",
-    "def_en": "Opening came in concentric waves: four Special Economic Zones in 1980 — Shenzhen, the fishing town that became 'the city built overnight', its名言 'time is money' scandalous and thrilling — then fourteen coastal cities (1984), the delta open regions, Hainan (1988), Pudong (1990): the layered geography 'SEZs — coastal cities — open regions — interior' that let capitalism in by gradient. WTO accession in 2001 completed the arc begun at [[canton-system]]'s single port: from one door grudgingly ajar to membership of the trading system itself.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第9课 对外开放"
-      }
-    ],
-    "collocations": [
-      "Special Economic Zones",
-      "the window of opening",
-      "coastal development strategy",
-      "WTO accession"
-    ],
-    "example": "Shenzhen v. Hong Kong GDP charts are journalism's favourite reform scorecard — the SEZ that grew from 30,000 people to out-produce its model in forty years, cited in every 'can it be copied?' piece about charter cities.",
-    "nuance": "经济特区 = Special Economic Zones (SEZs——全球发展政策通用词，中国原产)。“时间就是金钱，效率就是生命”= time is money, efficiency is life（深圳蛇口口号——改革语汇的化石层）。与 [[medieval-towns]] 特许状、[[opium-war]] 被迫开放的对照：主动/被动开放的百年轮回是绝佳论述题。",
-    "links": [
-      {
-        "to": "third-plenum",
-        "rel": "effect"
-      },
-      {
-        "to": "canton-system",
-        "rel": "contrast"
-      },
-      {
-        "to": "wto-globalisation",
-        "rel": "related"
-      },
-      {
-        "to": "medieval-towns",
-        "rel": "related"
-      },
-      {
-        "to": "one-country-two-systems",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy"
-    ],
-    "period": "1980年–2001年"
-  },
-  {
-    "id": "socialism-chinese",
-    "zh": "中国特色社会主义理论体系",
-    "pinyin": "Zhōngguó tèsè shèhuìzhǔyì",
-    "en": "socialism with Chinese characteristics",
-    "def_zh": "邓小平提出“走自己的道路，建设有中国特色的社会主义”（1982年十二大）；十三大系统阐述社会主义初级阶段理论、“一个中心两个基本点”基本路线；1992年南方谈话（“发展才是硬道理”）进一步解放思想，十四大确立邓小平理论在全党的指导地位（十五大写入党章）——改革开放和现代化建设的总设计师。此后：江泽民“三个代表”重要思想、胡锦涛科学发展观相继写入党章；2012年十八大后习近平新时代中国特色社会主义思想（2017年十九大写入党章），提出中国梦（中华民族伟大复兴）、“两个一百年”奋斗目标、“四个全面”战略布局、新发展理念，全面建成小康社会、开启全面建设社会主义现代化国家新征程。",
-    "def_en": "Deng's 1982 formula — 'build socialism with Chinese characteristics' — grew into the party's evolving theoretical canon: the primary-stage doctrine and the basic line ('one centre, two basic points'), the 1992 southern tour ('development is the hard truth') that relaunched reform, then each leader's contribution written successively into the constitution — Deng Xiaoping Theory, Jiang's Three Represents, Hu's Scientific Outlook, and from 2017 Xi Jinping Thought for a New Era, with its Chinese Dream of national rejuvenation, centenary goals and new development concepts. To read a party congress communiqué is to read this chapter's vocabulary verbatim.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第10课 建设中国特色社会主义"
-      },
-      {
-        "book": "ch8b",
-        "chapter": "第11课 为实现中国梦而努力奋斗"
-      }
-    ],
-    "collocations": [
-      "socialism with Chinese characteristics",
-      "the southern tour",
-      "the Chinese Dream",
-      "national rejuvenation",
-      "written into the constitution"
-    ],
-    "example": "'Socialism with Chinese characteristics' earns a knowing smile in western commentary ('capitalism with Chinese characteristics' the standing joke) — but the phrase's official English is fixed, and decoding congress-speak requires exactly this glossary.",
-    "nuance": "官方定译集：中国特色社会主义 = socialism with Chinese characteristics；南方谈话 = the southern tour/talks；中国梦 = the Chinese Dream；中华民族伟大复兴 = the great rejuvenation of the Chinese nation；“三个代表”= the Three Represents。政治文本英译的规范性（新华社定译不可自创）是本节点的元教训——Economist 引用时的括注风格值得模仿。",
-    "links": [
-      {
-        "to": "third-plenum",
-        "rel": "effect"
-      },
-      {
-        "to": "economic-reform",
-        "rel": "related"
-      },
-      {
-        "to": "marxism",
-        "rel": "related"
-      },
-      {
-        "to": "multipolar-world",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas",
-      "governance"
-    ],
-    "period": "1982年至今"
-  },
-  {
-    "id": "ethnic-autonomy",
-    "zh": "民族区域自治制度",
-    "pinyin": "mínzú qūyù zìzhì",
-    "en": "regional ethnic autonomy",
-    "def_zh": "我国民族格局“大杂居、小聚居、相互交错”；党把民族平等、民族团结、各民族共同繁荣作为处理民族关系的基本原则，实行民族区域自治制度（基本政治制度）：在国家统一领导下，各少数民族聚居地方实行区域自治、设自治机关行使自治权——内蒙古（1947，第一个）、新疆、广西、宁夏、西藏五大自治区及自治州县。国家采取优惠政策（西部大开发、兴边富民；对口支援西藏；保护少数民族文化如整理《格萨尔王传》等）促进各民族共同繁荣发展，铸牢中华民族共同体意识。",
-    "def_en": "For a population 'mixed at large, clustered in pockets', the PRC's answer is regional ethnic autonomy: self-governing organs in minority-concentrated areas under unified state leadership — five autonomous regions from Inner Mongolia (1947) to Tibet, plus prefectures and counties — under the triple principle of equality, unity and common prosperity, with preferential development policies (the Western Development drive, paired-assistance to Tibet) and cultural preservation from the Gesar epic down. The current keyword caps the account: forging a shared consciousness of the Chinese nation as one community.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第12课 民族大团结"
-      }
-    ],
-    "collocations": [
-      "autonomous regions",
-      "ethnic minorities",
-      "common prosperity of all ethnic groups",
-      "the Chinese national community"
-    ],
-    "example": "Xinjiang and Tibet coverage turns on this chapter's terms — 'autonomous region' as constitutional promise v. practice is the entire debate; knowing the official framework is the precondition for reading both sides.",
-    "nuance": "民族 = ethnic group（官方今译；旧译 nationality 已弃——56个民族 = 56 ethnic groups）。“铸牢中华民族共同体意识”官方译 forging the sense of community for the Chinese nation——当代民族政策的纲领句。与 [[yuan-dynasty]] 宣政院、[[qing-frontier]]、[[xiaowen-reforms]] 构成治边传统长线。",
-    "links": [
-      {
-        "to": "qing-frontier",
-        "rel": "related"
-      },
-      {
-        "to": "xiaowen-reforms",
-        "rel": "related"
-      },
-      {
-        "to": "prc-founding",
-        "rel": "related"
-      },
-      {
-        "to": "decolonisation",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance",
-      "society"
-    ],
-    "period": "1947年至今"
-  },
-  {
-    "id": "one-country-two-systems",
-    "zh": "一国两制与香港澳门回归",
-    "pinyin": "yìguó liǎngzhì",
-    "en": "One Country, Two Systems and the return of Hong Kong and Macau",
-    "def_zh": "邓小平从维护祖国和中华民族根本利益出发，创造性提出“一国两制”伟大构想：在祖国统一前提下，国家主体坚持社会主义制度，台湾香港澳门保持原有的资本主义制度和生活方式长期不变——为实现祖国和平统一开辟了新途径。经中英（1984联合声明）、中葡（1987）谈判：1997年7月1日中国恢复对香港行使主权、设香港特别行政区；1999年12月20日恢复对澳门行使主权。港澳回归洗雪百年国耻，是完成祖国统一大业道路上的重要一步。",
-    "def_en": "Deng's signature invention: within one China, the mainland stays socialist while Hong Kong, Macau (and, on offer, Taiwan) keep their capitalist systems and ways of life — 'One Country, Two Systems', the formula that unlocked the Sino-British Joint Declaration (1984) and brought Hong Kong home at midnight on 1 July 1997, Macau following in 1999: the century of humiliation's territorial ledger closed, in the textbook's phrase, 'washing away a hundred years of national shame'.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第13课 香港和澳门回归祖国"
-      }
-    ],
-    "collocations": [
-      "One Country, Two Systems",
-      "the handover",
-      "Special Administrative Region",
-      "a high degree of autonomy"
-    ],
-    "example": "Since 2019-20 every Hong Kong headline has audited this formula — 'the death of one country two systems' v. 'restoring order' — making the textbook's confident 1997 narrative and the news cycle mutually illuminating reading.",
-    "nuance": "一国两制 = One Country, Two Systems（官方英译定式，逗号有无皆见）；回归 = the return/handover（中方用 return——主权本未丧失的立场语；西方媒体惯用 handover）。特别行政区 = Special Administrative Region (SAR)。“百年国耻”呼应 [[opium-war]]——本知识库首尾闭环之一。",
-    "links": [
-      {
-        "to": "opium-war",
-        "rel": "related"
-      },
-      {
-        "to": "qi-jiguang",
-        "rel": "related"
-      },
-      {
-        "to": "cross-strait",
-        "rel": "related"
-      },
-      {
-        "to": "socialism-chinese",
-        "rel": "broader"
-      }
-    ],
-    "themes": [
-      "governance"
-    ],
-    "period": "1997年/1999年"
-  },
-  {
-    "id": "cross-strait",
-    "zh": "海峡两岸的交往",
-    "pinyin": "hǎixiá liǎng'àn",
-    "en": "cross-strait relations",
-    "def_zh": "新中国成立后党和政府把实现台湾和祖国大陆统一作为神圣使命，对台方针从“解放台湾”发展为“和平统一、一国两制”基本方针。1987年台湾当局被迫调整“三不”政策、开放赴大陆探亲，两岸同胞近38年隔绝状态被打破；1992年海协会海基会达成“九二共识”（海峡两岸同属一个中国，共同努力谋求国家统一）；1993年汪辜会谈；2005年连战“和平之旅”；2008年两岸“三通”（通邮通航通商）；2015年习近平马英九新加坡会面——1949年以来两岸领导人首次会面。两岸经济文化交流蓬勃发展；祖国完全统一是全体中华儿女的共同心愿。",
-    "def_en": "Policy evolved from 'liberate Taiwan' to 'peaceful reunification, one country two systems'; contact evolved with it — family visits from 1987 ending 38 years of severance, the 1992 Consensus ('both sides belong to one China', each side's phrasing its own), the 1993 Wang-Koo talks, direct post-flights-trade from 2008, and the Xi-Ma handshake in Singapore (2015), the first leaders' meeting since 1949. The textbook closes on the axiom: complete reunification is the shared aspiration of all Chinese — the sentence every Taiwan Strait news story is ultimately about.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第14课 海峡两岸的交往"
-      }
-    ],
-    "collocations": [
-      "the 1992 Consensus",
-      "cross-strait ties",
-      "the three links",
-      "peaceful reunification"
-    ],
-    "example": "Whether the '1992 Consensus' exists, and what it contains, decides Taiwanese elections — a two-word historical citation carrying an entire geopolitical standoff.",
-    "nuance": "“九二共识”= the 1992 Consensus（其内涵表述之争——one China, respective interpretations——是台海报道核心）。统一 = reunification（中方用词，含 re- 的立场；部分西媒作 unification——前缀即政治）。三通 = the three links。与 [[zheng-chenggong]]、[[jiawu-war]]、[[victory-1945]] 的台湾史链贯通。",
-    "links": [
-      {
-        "to": "one-country-two-systems",
-        "rel": "related"
-      },
-      {
-        "to": "zheng-chenggong",
-        "rel": "related"
-      },
-      {
-        "to": "civil-war-1946",
-        "rel": "effect"
-      },
-      {
-        "to": "victory-1945",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance"
-    ],
-    "period": "1979年至今"
-  },
-  {
-    "id": "prc-diplomacy",
-    "zh": "新中国外交（从和平共处到大国外交）",
-    "pinyin": "xīn Zhōngguó wàijiāo",
-    "en": "PRC diplomacy: from Five Principles to great-power diplomacy",
-    "def_zh": "新中国奉行独立自主的和平外交政策，建国第一年与苏联等17国建交。1953年周恩来接见印度代表团时首次提出和平共处五项原则（互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处），成为处理国与国关系的基本准则；1955年万隆会议“求同存异”。70年代外交突破：1971年10月第26届联大恢复中华人民共和国在联合国的一切合法权利；1972年尼克松访华（上海公报）、中日建交，1979年中美正式建交（美国承认只有一个中国、台湾是中国的一部分）。改革开放后全方位外交：构建人类命运共同体、“一带一路”、亚投行、G20杭州峰会、金砖机制——形成全方位、多层次、立体化的外交布局，国际地位与影响力显著提高。",
-    "def_en": "From independence's first principle came the Five Principles of Peaceful Coexistence (Zhou Enlai, 1953-54) and Bandung's 'seek common ground'; from isolation came the 1970s breakout — the UN seat restored in 1971 ('the developing countries carried us in', Mao said of the vote), Nixon in Beijing in 1972, normalisation with Washington in 1979 on the one-China acknowledgment. The reform decades built the full lattice — BRI, the AIIB, G20 summitry, BRICS — the 'omnidirectional, multi-tiered, multidimensional' diplomacy behind every summit photograph, with 'a community with a shared future for mankind' as its stated horizon.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第16课 独立自主的和平外交"
-      },
-      {
-        "book": "ch8b",
-        "chapter": "第17课 外交事业的发展"
-      }
-    ],
-    "collocations": [
-      "the Five Principles of Peaceful Coexistence",
-      "ping-pong diplomacy",
-      "the Shanghai Communique",
-      "normalisation",
-      "the Belt and Road"
-    ],
-    "example": "Nixon's 'week that changed the world' and the ping-pong team that preceded it remain diplomacy's favourite case of signalling — and the Shanghai Communique's one-China wording is still parsed comma by comma fifty years on.",
-    "nuance": "和平共处五项原则已在 [[bandung-conference]] 建节点——此处为其制度史全景。“恢复合法席位”= the restoration of lawful rights（非“加入”——用词的法理立场）。中美三个联合公报 = the three joint communiques；acknowledge vs recognize 之辨（上海公报的著名措辞）是外交英语的教科书案例。",
-    "links": [
-      {
-        "to": "bandung-conference",
-        "rel": "related"
-      },
-      {
-        "to": "united-nations",
-        "rel": "related"
-      },
-      {
-        "to": "cold-war",
-        "rel": "related"
-      },
-      {
-        "to": "korean-war",
-        "rel": "related"
-      },
-      {
-        "to": "multipolar-world",
-        "rel": "related"
-      },
-      {
-        "to": "silk-road",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance"
-    ],
-    "period": "1949年至今"
-  },
-  {
-    "id": "science-two-bombs",
-    "zh": "科技文化成就与社会生活变迁",
-    "pinyin": "kējì wénhuà chéngjiù",
-    "en": "science and life: from Two Bombs, One Satellite to the high-speed era",
-    "def_zh": "“两弹一星”：1964年第一颗原子弹爆炸成功（打破核垄断）、1966年导弹核武器试验、1967年氢弹、1970年“东方红一号”卫星（第五个能发射卫星的国家）——钱学森邓稼先等元勋隐姓埋名艰苦奋斗铸就“两弹一星”精神；载人航天：2003年杨利伟神舟五号（第三个掌握载人航天技术的国家）、太空行走、空间站。袁隆平籼型杂交水稻（1973，“东方魔稻”，为解决世界性饥饿问题作出重要贡献，获首届国家最高科学技术奖）；屠呦呦发现青蒿素（对疟疾治愈率很高，2015年诺贝尔生理学或医学奖——中国本土科学家首获诺奖）。“双百”方针；莫言2012年获诺贝尔文学奖。社会生活：从凭票证的“新三年旧三年缝缝补补又三年”到衣食住行用巨变——高铁（世界最大高铁网）、移动支付、网购改变日常，恩格尔系数下降，从温饱走向小康。",
-    "def_en": "Strategic science first: the atomic bomb (1964), the H-bomb three years later — the fastest such interval ever — and the Dongfanghong satellite (1970), built by scientists like Qian Xuesen and Deng Jiajia who vanished into deserts for decades ('Two Bombs, One Satellite spirit' now names the ethos); crewed flight followed from Yang Liwei (2003) to a space station. Civilian science fed the world instead: Yuan Longping's hybrid rice (1973) and Tu Youyou's artemisinin — a malaria cure from a 4th-century recipe, and China's first home-grown science Nobel (2015). Daily life travelled furthest of all: from ration coupons and 'new three years, old three years, patched three more' to the world's largest high-speed rail network, mobile payment and the Engel coefficient's long slide — the textbook's own measure of the journey from subsistence to moderate prosperity.",
-    "sources": [
-      {
-        "book": "ch8b",
-        "chapter": "第18课 科技文化成就"
-      },
-      {
-        "book": "ch8b",
-        "chapter": "第19课 社会生活的变迁"
-      }
-    ],
-    "collocations": [
-      "Two Bombs, One Satellite",
-      "hybrid rice",
-      "artemisinin",
-      "high-speed rail",
-      "the Engel coefficient"
-    ],
-    "example": "Qian Xuesen's arc — MIT and Caltech, deported in the McCarthy era, father of China's missiles — is the cautionary tale every chip-sanctions op-ed retells: 'the most expensive deportation in American history'.",
-    "nuance": "“两弹一星”= Two Bombs, One Satellite（直译已入英语文献）。袁隆平 hybrid rice、屠呦呦 artemisinin（青蒿素——古方到诺奖的科学叙事，全球卫生报道常客）。恩格尔系数 = the Engel coefficient——教材直接使用的经济学指标，绝佳的学科词衔接。钱学森之问（为何培养不出大师）另是教育讨论热词。",
-    "links": [
-      {
-        "to": "exploration-setbacks",
-        "rel": "related"
-      },
-      {
-        "to": "cold-war",
-        "rel": "related"
-      },
-      {
-        "to": "han-medicine",
-        "rel": "related"
-      },
-      {
-        "to": "economic-reform",
-        "rel": "effect"
-      },
-      {
-        "to": "information-age",
-        "rel": "related"
-      },
-      {
-        "to": "khrushchev-brezhnev",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "science-tech",
-      "society"
-    ],
-    "period": "1964年至今"
-  }
+ {
+  "id": "prc-founding",
+  "zh": "中华人民共和国成立",
+  "pinyin": "Zhōnghuá Rénmín Gònghéguó chénglì",
+  "en": "the founding of the People's Republic of China",
+  "def_zh": "1949年9月中国人民政治协商会议第一届全体会议（北平）通过《共同纲领》（起临时宪法作用）、选举中央人民政府委员会毛泽东为主席，定国旗国歌首都纪年。10月1日开国大典，毛泽东宣告中华人民共和国中央人民政府成立——开辟了中国历史新纪元：中国真正成为独立自主的国家，人民当家作主；壮大了世界和平民主和社会主义的力量。1951年西藏和平解放，祖国大陆获得统一。",
+  "def_en": "On 1 October 1949, from the Tiananmen rostrum, Mao proclaimed the People's Republic — the ceremony every Chinese schoolchild can narrate, capping a political consultative conference whose Common Programme served as interim constitution. The textbook's significance-formula: a new epoch — China independent at last, its people 'masters of their own house' — and a heavyweight addition to the socialist world. Tibet's peaceful liberation in 1951 completed the mainland's unification.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第1课 中华人民共和国成立"
+   }
+  ],
+  "collocations": [
+   "the founding ceremony",
+   "stand up (the Chinese people have stood up)",
+   "the Common Programme",
+   "New China"
+  ],
+  "example": "'The Chinese people have stood up' — whether or not Mao said it exactly so on the day — is the founding soundbite; 'since New China was founded' remains the standard dating phrase in every official text.",
+  "nuance": "“新中国”= New China（官方语汇，外媒常保留引号）；“当家作主”= masters of their own country/house。开国大典 = the founding ceremony。政协 = the CPPCC（两会之一——链 [[first-fyp]] 的人大，构成当代政制骨架词汇）。",
+  "links": [
+   {
+    "to": "civil-war-1946",
+    "rel": "effect"
+   },
+   {
+    "to": "october-revolution",
+    "rel": "related"
+   },
+   {
+    "to": "korean-war",
+    "rel": "related"
+   },
+   {
+    "to": "qing-frontier",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance"
+  ],
+  "period": "1949年",
+  "pron": "proclamation /ˌprɑkləˈmeɪʃən/",
+  "etymology": "proclamation 源自拉丁 pro-（向前）+ clamare（呼喊）——开国大典正是“向前的呼喊”。",
+  "synonyms": [
+   {
+    "word": "founding",
+    "ipa": "/ˈfaʊndɪŋ/",
+    "sentence": "A founding fuses ceremony with statecraft."
+   },
+   {
+    "word": "new epoch",
+    "ipa": "/nu ˈɛpək/",
+    "sentence": "Every new epoch renames the years."
+   }
+  ]
+ },
+ {
+  "id": "korean-war",
+  "zh": "抗美援朝",
+  "pinyin": "kàng-Měi yuán-Cháo",
+  "en": "the War to Resist America and Aid Korea",
+  "def_zh": "1950年朝鲜内战爆发，美国出兵干涉并越过三八线扩大侵略、轰炸中国边境城市、第七舰队入侵台湾海峡，威胁新中国安全。应朝方请求，1950年10月彭德怀率中国人民志愿军入朝，与朝鲜军民并肩作战，五战五捷；上甘岭战役中黄继光舍身堵枪眼、邱少云严守纪律烈火中牺牲——志愿军被誉“最可爱的人”。1953年7月美国被迫在《朝鲜停战协定》上签字。抗美援朝战争的胜利，抵御了帝国主义侵略扩张，捍卫了新中国安全，保卫了中国人民和平生活，稳定了朝鲜半岛局势，维护了亚洲和世界和平，大大提高了我国国际地位。",
+  "def_en": "When the Korean civil war internationalised — UN forces driving north to the Yalu, US planes over Chinese towns, the Seventh Fleet in the Taiwan Strait — China answered with the People's Volunteers under Peng Dehuai (October 1950), who threw the front back to the 38th parallel and held it through battles like Shangganling until the 1953 armistice. The textbook frames it as the founding victory: security defended, world standing won, and the martyr-heroes — Huang Jiguang, Qiu Shaoyun — installed in the national pantheon as 'the most beloved people'.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第2课 抗美援朝"
+   }
+  ],
+  "collocations": [
+   "the Korean War",
+   "the 38th parallel",
+   "the armistice",
+   "the People's Volunteers"
+  ],
+  "example": "Same war, three names — Korea's 'Fatherland Liberation War', America's 'forgotten war', China's 'Resist America, Aid Korea' — the naming triangle is the historiography lesson in itself.",
+  "nuance": "英语通称 the Korean War；中方名直译 the War to Resist US Aggression and Aid Korea（官方英译）。停战协定 = armistice（至今无和约——朝鲜半岛新闻的法律背景板）。志愿军 = the (Chinese People's) Volunteers——“志愿”名义的外交功能值得注意。",
+  "links": [
+   {
+    "to": "prc-founding",
+    "rel": "related"
+   },
+   {
+    "to": "cold-war",
+    "rel": "broader"
+   },
+   {
+    "to": "japanese-miracle",
+    "rel": "related"
+   },
+   {
+    "to": "prc-diplomacy",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "war"
+  ],
+  "period": "1950年–1953年",
+  "pron": "armistice /ˈɑrməstəs/",
+  "etymology": "armistice 源自拉丁 arma（武器）+ sistere（停住）→ 停战——朝鲜至今停战而未和。",
+  "synonyms": [
+   {
+    "word": "stalemate",
+    "ipa": "/ˈsteɪlˌmeɪt/",
+    "sentence": "The stalemate froze at the parallel where it began."
+   },
+   {
+    "word": "intervention",
+    "ipa": "/ˌɪntərˈvɛnʃən/",
+    "sentence": "Intervention turned a civil war into a world question."
+   }
+  ]
+ },
+ {
+  "id": "land-reform-1950",
+  "zh": "土地改革（1950–52）",
+  "pinyin": "tǔdì gǎigé",
+  "en": "the Land Reform of 1950-52",
+  "def_zh": "新中国成立时占全国三亿多人口的新解放区尚未土改，封建土地制度严重阻碍农村经济和社会发展。1950年《中华人民共和国土地改革法》颁布：废除地主阶级封建剥削的土地所有制，实行农民的土地所有制。1952年底基本完成：近三亿无地少地农民分得土地——彻底摧毁了存在两千多年的封建土地制度，消灭地主阶级；农民翻身成为土地的主人；人民政权更加巩固，解放了农村生产力，为国家工业化建设准备了条件。",
+  "def_en": "The 1950 Agrarian Reform Law finished what the base areas had begun: landlordism — the tenure system the textbook dates back two millennia — abolished nationwide, and by end-1952 some 300 million landless and land-poor peasants held title. The formula: the peasants 'turned over' (fanshen) to become masters of the land, the new state rooted itself in the villages, and rural productivity was freed to feed the industrialisation about to begin.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第3课 土地改革"
+   }
+  ],
+  "collocations": [
+   "agrarian reform",
+   "fanshen (turning over)",
+   "landlords as a class",
+   "land to the peasants"
+  ],
+  "example": "William Hinton's Fanshen made a Shanxi village's land reform an English-language classic — the anthropological witness text that gave the movement its western vocabulary.",
+  "nuance": "封建土地制度 = the feudal land(-tenure) system（此处“封建”即马克思主义用法——链 [[fengjian]] 的三分警告再次适用）。“翻身”= fanshen（韩丁书名使其直接进入英语）。与 [[serf-emancipation]]、[[cardenas-reform]]、[[civil-war-1946]] 的土地政治谱系贯通。",
+  "links": [
+   {
+    "to": "civil-war-1946",
+    "rel": "related"
+   },
+   {
+    "to": "three-transformations",
+    "rel": "replaced-by"
+   },
+   {
+    "to": "serf-emancipation",
+    "rel": "related"
+   },
+   {
+    "to": "taiping",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "society",
+   "economy"
+  ],
+  "period": "1950年–1952年",
+  "pron": "agrarian reform /əˈgrɛriən rɪˈfɔrm/",
+  "etymology": "agrarian 源自拉丁 ager（田地）——agrarian law 本是罗马分地法案之名，词有前世。",
+  "synonyms": [
+   {
+    "word": "redistribution",
+    "ipa": "/ˌridɪstrəˈbjuʃən/",
+    "sentence": "Redistribution of land redistributes loyalty."
+   },
+   {
+    "word": "emancipation",
+    "ipa": "/ɪˌmænsəˈpeɪʃən/",
+    "sentence": "For tenants, title deeds were emancipation papers."
+   }
+  ]
+ },
+ {
+  "id": "first-fyp",
+  "zh": "一五计划与人民代表大会制度",
+  "pinyin": "yīwǔ jìhuà / réndà zhìdù",
+  "en": "the First Five-Year Plan and the people's congress system",
+  "def_zh": "新中国工业基础薄弱（毛泽东：“一辆汽车、一架飞机……都不能造”）。1953–57年第一个五年计划集中力量发展重工业：以苏联援建156个项目为中心，鞍钢三大工程、长春一汽（1956年第一辆解放牌汽车）、沈阳机床飞机制造，宝成鹰厦铁路、川藏青藏新藏公路、1957武汉长江大桥（“一桥飞架南北，天堑变通途”）——超额完成，开始改变工业落后面貌。1954年9月第一届全国人民代表大会通过《中华人民共和国宪法》（第一部社会主义类型宪法；此前1953年5.7亿人口规模的普选）：一切权力属于人民，全国人大为最高国家权力机关——人民代表大会制度为我国根本政治制度。",
+  "def_en": "Starting from Mao's inventory — 'we can make tables and teacups... but not one car, one plane' — the First Five-Year Plan (1953–57), built around 156 Soviet-aided projects, delivered the heavy-industrial firsts: Anshan steel, the first Liberation truck out of Changchun (1956), jet fighters, the Wuhan Yangzi bridge ('a bridge flies north-south; the moat becomes a thoroughfare'). Alongside it came the constitutional scaffolding: after a 570-million-strong election, the first National People's Congress adopted the 1954 Constitution — all power to the people, the NPC supreme — establishing the people's congress system as the state's foundational institution.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第4课 新中国工业化的起步和人民代表大会制度的确立"
+   }
+  ],
+  "collocations": [
+   "the First Five-Year Plan",
+   "Soviet-aided projects",
+   "the National People's Congress",
+   "the 1954 Constitution"
+  ],
+  "example": "The 'Two Sessions' every March — NPC plus CPPCC — are this chapter's institutions at work; the wire-service boilerplate ('China's rubber-stamp parliament', hotly contested) makes the textbook's account required contrast-reading.",
+  "nuance": "全国人大 = the National People's Congress (NPC)；“根本政治制度”= the fundamental political system。一五计划链 [[soviet-industrialisation]]（五年计划的直接师承——教材苏联援建156项即证）。“两会”= the Two Sessions（Economist 中国报道的年历词）。",
+  "links": [
+   {
+    "to": "soviet-industrialisation",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "land-reform-1950",
+    "rel": "related"
+   },
+   {
+    "to": "three-transformations",
+    "rel": "related"
+   },
+   {
+    "to": "us-constitution",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy",
+   "governance"
+  ],
+  "period": "1953年–1957年",
+  "pron": "five-year plan /faɪv-jɪr plæn/",
+  "etymology": "plan 源自拉丁 planus（平面）→ 图纸→计划——计划即先画后建。",
+  "synonyms": [
+   {
+    "word": "industrialisation",
+    "ipa": "/ɪnˌdʌstriəlaɪˈzeɪʃən/",
+    "sentence": "Crash industrialisation buys steel with grain."
+   },
+   {
+    "word": "planned economy",
+    "ipa": "/plænd ɪˈkɑnəmi/",
+    "sentence": "A planned economy is a wager that offices can price."
+   }
+  ]
+ },
+ {
+  "id": "three-transformations",
+  "zh": "三大改造",
+  "pinyin": "sāndà gǎizào",
+  "en": "the Three Great Transformations",
+  "def_zh": "国家对农业、手工业、资本主义工商业的社会主义改造：农业经互助组—初级社—高级社走合作化道路（自愿互利、典型示范；1956年绝大多数农户入社）；90%以上个体手工业者入社；资本主义工商业逐步公私合营，对资本家占有的生产资料实行赎买政策（定息5%）——和平过渡，中国社会主义改造的创举。1956年底三大改造基本完成，实现生产资料私有制向社会主义公有制转变，社会主义基本制度建立，我国进入社会主义初级阶段——中国历史上最深刻的社会变革（后期存在要求过急、工作过粗、改变过快等缺点）。",
+  "def_en": "Between 1953 and 1956 private China was folded into socialism: peasants through mutual-aid teams into cooperatives, artisans likewise, and capitalist industry and commerce into joint state-private operation — the owners bought out with fixed 5% interest, a 'peaceful transition' the textbook counts as a Chinese innovation (one capitalist's scripted verdict: 'I lost my little exploitation and gained a socialist country'). By end-1956 ownership of the means of production had changed hands; socialism's basic system stood, the 'primary stage of socialism' had begun — 'the most profound social transformation in Chinese history', with an official footnote conceding it was rushed, rough and too fast.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第5课 三大改造"
+   }
+  ],
+  "collocations": [
+   "socialist transformation",
+   "joint state-private ownership",
+   "buying out the capitalists",
+   "the primary stage of socialism"
+  ],
+  "example": "The 'primary stage of socialism' coined here became the load-bearing phrase of the reform era — the doctrine that lets a communist party run a market economy and cite this chapter doing it.",
+  "nuance": "公私合营 = joint state-private operation；赎买 = redemption/buying-out（对照 [[serf-emancipation]] 的 redemption payments——方向相反的同词！）。“社会主义初级阶段”= the primary stage of socialism（当代官方理论基石，1987年正式化——本课埋其种子）。同仁堂案例连接品牌史与政治史。",
+  "links": [
+   {
+    "to": "first-fyp",
+    "rel": "related"
+   },
+   {
+    "to": "land-reform-1950",
+    "rel": "replaced"
+   },
+   {
+    "to": "soviet-model",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "related"
+   },
+   {
+    "to": "new-economic-policy",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy",
+   "governance",
+   "ideas"
+  ],
+  "period": "1953年–1956年",
+  "pron": "nationalisation /ˌnæʃənəlaɪˈzeɪʃən/",
+  "etymology": "nationalisation 源自 natio（出生→民族→国家）+ -isation——收归国有。",
+  "synonyms": [
+   {
+    "word": "collectivisation",
+    "ipa": "/kəˌlɛktɪvaɪˈzeɪʃən/",
+    "sentence": "Collectivisation pooled the fields and the risks."
+   },
+   {
+    "word": "buy-out",
+    "ipa": "/baɪ-aʊt/",
+    "sentence": "The buy-out retired a class with interest payments."
+   }
+  ]
+ },
+ {
+  "id": "exploration-setbacks",
+  "zh": "艰辛探索与建设成就（1956–76）",
+  "pinyin": "jiānxīn tànsuǒ",
+  "en": "the arduous exploration, 1956-76",
+  "def_zh": "1956年中共八大正确分析国内主要矛盾（良好开端；《论十大关系》）。1958年总路线（“鼓足干劲、力争上游、多快好省”）后掀起“大跃进”和人民公社化运动——反映改变落后的迫切愿望，但急于求成忽视客观经济规律，加以自然灾害，1959–61年国民经济发生严重困难；1961年“调整、巩固、充实、提高”八字方针调整（七千人大会），1965年完成。1966–76年“文化大革命”：毛泽东错误认为党和国家面临资本主义复辟危险，“以阶级斗争为纲”；林彪、江青集团利用之，民主法制遭践踏、刘少奇冤案；1971年粉碎林彪集团（九一三），1976年粉碎“四人帮”结束十年动乱——新中国成立后最严重的挫折。同期建设成就仍巨大：武汉包头钢铁基地、大庆油田（1965年石油自给）、电子原子能航天工业从无到有，人工合成结晶牛胰岛素世界领先；铁人王进喜、焦裕禄、雷锋等英模辈出；文革期间氢弹（1967）卫星（1970）籼型杂交水稻（1973）——“决不是‘文化大革命’的成果”。",
+  "def_en": "The two decades after 1956 mix triumph and self-inflicted wound in the textbook's careful accounting. The Eighth Congress diagnosed correctly; the Great Leap of 1958 — mass mobilisation against economic law — plus natural disasters brought the 'serious difficulties' of 1959–61, corrected by the readjustment of the early sixties. Then the Cultural Revolution (1966–76): launched on Mao's misjudgment that capitalist restoration threatened, exploited by the Lin Biao and Jiang Qing cliques, trampling law and democracy (President Liu Shaoqi its greatest injustice) — 'the most severe setback since the founding'. Yet the same years built Daqing and oil self-sufficiency, synthesised insulin first in the world, tested the H-bomb and orbited a satellite — achievements 'in spite of, never because of' the turmoil — and canonised the model heroes Lei Feng, Jiao Yulu and 'Iron Man' Wang Jinxi.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第6课 艰辛探索与建设成就"
+   }
+  ],
+  "collocations": [
+   "the Great Leap Forward",
+   "the people's communes",
+   "the Cultural Revolution",
+   "readjustment",
+   "model workers"
+  ],
+  "example": "The 1981 Resolution's arithmetic — Mao '70% right, 30% wrong' — governs this chapter's every sentence; reading it beside Western accounts (famine death tolls, Red Guard violence) is the sharpest historiography exercise this entire knowledge base offers.",
+  "nuance": "大跃进 = the Great Leap Forward；人民公社 = the people's communes（commune 词义长旅：[[medieval-towns]]→[[first-international]]→此处）。“严重困难”的教材表述 vs 西方文献 the Great Famine——分歧最大处，需双语并置阅读。文革 = the Cultural Revolution；“十年动乱”= the decade of turmoil。雷锋 = Lei Feng（learn-from-Lei-Feng 运动使其成为英语可识别符号）。",
+  "links": [
+   {
+    "to": "three-transformations",
+    "rel": "replaced"
+   },
+   {
+    "to": "soviet-model",
+    "rel": "related"
+   },
+   {
+    "to": "khrushchev-brezhnev",
+    "rel": "related"
+   },
+   {
+    "to": "third-plenum",
+    "rel": "replaced-by"
+   },
+   {
+    "to": "science-two-bombs",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance",
+   "economy",
+   "society"
+  ],
+  "period": "1956年–1976年",
+  "pron": "setback /ˈsɛtˌbæk/",
+  "etymology": "setback 由 set + back 复合（挫折=被向后放置）——教材“挫折”的直译对应。",
+  "synonyms": [
+   {
+    "word": "turmoil",
+    "ipa": "/ˈtərˌmɔɪl/",
+    "sentence": "The turmoil suspended schools and promoted slogans."
+   },
+   {
+    "word": "zigzag",
+    "ipa": "/ˈzɪgzæg/",
+    "sentence": "History rarely moves without zigzags, the textbook says — twice."
+   }
+  ]
+ },
+ {
+  "id": "third-plenum",
+  "zh": "十一届三中全会（伟大的历史转折）",
+  "pinyin": "shíyījiè sānzhōng quánhuì",
+  "en": "the Third Plenum of 1978",
+  "def_zh": "“文革”后“两个凡是”方针引起不满，1978年思想理论界展开真理标准问题大讨论——“实践是检验真理的唯一标准”，解放思想。1978年12月中共十一届三中全会（北京）：冲破长期“左”的错误的严重束缚，确定解放思想、开动脑筋、实事求是、团结一致向前看的指导方针；果断结束“以阶级斗争为纲”，作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性决策；实际上形成以邓小平为核心的党的第二代中央领导集体。是新中国成立以来党的历史上具有深远意义的伟大转折，开启了改革开放和社会主义现代化建设新时期。（此后平反冤假错案、1981年《关于建国以来党的若干历史问题的决议》。）",
+  "def_en": "Out of the truth-criterion debate — 'practice is the sole criterion of truth', the slogan that broke the 'two whatevers' — came the meeting that redirected the country: the Third Plenum of the Eleventh Central Committee, December 1978. Class struggle was retired as the key link; economic construction became the party's central task; 'reform and opening up' was decided; and Deng Xiaoping emerged as core of the second leadership generation. The textbook's superlative — 'a great turning point of far-reaching significance' — is for once undersold: this is the pivot on which China's, and arguably the world economy's, past half-century turns.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第7课 伟大的历史转折"
+   }
+  ],
+  "collocations": [
+   "reform and opening up",
+   "seek truth from facts",
+   "the two whatevers",
+   "a turning point"
+  ],
+  "example": "Every December anniversary and every 'deepen reform' communiqué positions itself as heir to 1978 — 'since reform and opening up' rivals 'since New China' as official history's other epoch-marker.",
+  "nuance": "改革开放 = reform and opening up（官方定译，Economist 直接使用）。“实事求是”= seek truth from facts（毛语被邓征用——语义史）。三中全会 = the Third Plenum（因1978而使 'Third Plenum' 在英语报道中永久带有“重大改革窗口”的联想——2013年三中全会报道即消费此联想）。",
+  "links": [
+   {
+    "to": "exploration-setbacks",
+    "rel": "replaced"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "cause"
+   },
+   {
+    "to": "opening-up",
+    "rel": "cause"
+   },
+   {
+    "to": "meiji-restoration",
+    "rel": "related"
+   },
+   {
+    "to": "new-economic-policy",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance",
+   "ideas",
+   "economy"
+  ],
+  "period": "1978年",
+  "pron": "pivot /ˈpɪvət/",
+  "etymology": "pivot 源自古法语（轴心）——“转折点”的机械隐喻，1978正是国运之轴。",
+  "synonyms": [
+   {
+    "word": "turning point",
+    "ipa": "/ˈtərnɪŋ pɔɪnt/",
+    "sentence": "The turning point was a communiqué, not a battle."
+   },
+   {
+    "word": "policy shift",
+    "ipa": "/ˈpɑləsi ʃɪft/",
+    "sentence": "One policy shift re-priced a fifth of humanity."
+   }
+  ]
+ },
+ {
+  "id": "economic-reform",
+  "zh": "经济体制改革",
+  "pinyin": "jīngjì tǐzhì gǎigé",
+  "en": "the economic system reforms",
+  "def_zh": "改革先从农村开始：1978年安徽凤阳小岗村农民实行分田包干到户，家庭联产承包责任制逐步在全国推开——激发农民劳动热情，农业大发展；乡镇企业迅速发展，为农民致富和实现现代化开辟新路。1984年起城市改革全面展开、重点是国有企业改革：政企分开、扩大企业自主权、按劳分配为主多种分配方式并存，增强企业活力。1992年中共十四大明确提出建立社会主义市场经济体制——把社会主义基本制度和市场经济结合起来，对现代化建设有巨大推动作用，使中国经济实力明显增强。",
+  "def_en": "Reform began in a farmhouse: eighteen Xiaogang villagers secretly contracted collective land to households in 1978, and their 'household responsibility system' — output above quota kept by the family — swept the country, detonating agricultural growth and the township enterprises that industrialised the countryside sideways. Cities followed from 1984 with state-enterprise reform — autonomy, profit retention, pay by work — and in 1992 the Fourteenth Congress named the destination: a 'socialist market economy', the oxymoron that worked, and the institutional core of the growth miracle.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第8课 经济体制改革"
+   }
+  ],
+  "collocations": [
+   "the household responsibility system",
+   "township and village enterprises",
+   "state-owned enterprise reform",
+   "the socialist market economy"
+  ],
+  "example": "The Xiaogang contract — signed in secret, thumb-printed, with a clause pledging to raise each other's children if anyone was jailed — is reform's founding relic, displayed like a Magna Carta of the smallholder.",
+  "nuance": "家庭联产承包责任制 = the household (contract) responsibility system；乡镇企业 = township and village enterprises (TVEs——发展经济学专名)；社会主义市场经济 = the socialist market economy。与 [[new-economic-policy]]、[[wenjing]]（休养生息）的政策家族树在此结果——本知识库经济改革线的终点站。",
+  "links": [
+   {
+    "to": "third-plenum",
+    "rel": "effect"
+   },
+   {
+    "to": "three-transformations",
+    "rel": "related"
+   },
+   {
+    "to": "new-economic-policy",
+    "rel": "related"
+   },
+   {
+    "to": "adam-smith",
+    "rel": "related"
+   },
+   {
+    "to": "han-founding",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "period": "1978年–1992年",
+  "pron": "decollectivisation /diːkəˌlɛktɪvaɪˈzeɪʃən/",
+  "etymology": "de-（解除）+ collectivisation——包产到户的学名即“去集体化”。",
+  "synonyms": [
+   {
+    "word": "liberalisation",
+    "ipa": "/ˌlɪbərəlaɪˈzeɪʃən/",
+    "sentence": "Liberalisation began in a farmhouse, not a ministry."
+   },
+   {
+    "word": "marketisation",
+    "ipa": "/ˌmɑːkɪtaɪˈzeɪʃən/",
+    "sentence": "Marketisation crept outward from the special zones."
+   }
+  ]
+ },
+ {
+  "id": "opening-up",
+  "zh": "对外开放",
+  "pinyin": "duìwài kāifàng",
+  "en": "the opening to the world",
+  "def_zh": "1980年设深圳、珠海、汕头、厦门4个经济特区（深圳在短短几年建成繁华都市，“一夜崛起之城”，成为对外开放的窗口）；1984年开放14个沿海城市，1985年开辟沿海经济开放区（长三角珠三角闽三角环渤海），1988年海南建省设经济特区，1990年建立上海浦东开发区——形成“经济特区—沿海开放城市—沿海经济开放区—内地”全方位、多层次、宽领域的对外开放格局。2001年中国加入世界贸易组织，为参与经济全球化开辟新途径，为国民经济和社会发展开拓新空间。",
+  "def_en": "Opening came in concentric waves: four Special Economic Zones in 1980 — Shenzhen, the fishing town that became 'the city built overnight', its名言 'time is money' scandalous and thrilling — then fourteen coastal cities (1984), the delta open regions, Hainan (1988), Pudong (1990): the layered geography 'SEZs — coastal cities — open regions — interior' that let capitalism in by gradient. WTO accession in 2001 completed the arc begun at [[canton-system]]'s single port: from one door grudgingly ajar to membership of the trading system itself.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第9课 对外开放"
+   }
+  ],
+  "collocations": [
+   "Special Economic Zones",
+   "the window of opening",
+   "coastal development strategy",
+   "WTO accession"
+  ],
+  "example": "Shenzhen v. Hong Kong GDP charts are journalism's favourite reform scorecard — the SEZ that grew from 30,000 people to out-produce its model in forty years, cited in every 'can it be copied?' piece about charter cities.",
+  "nuance": "经济特区 = Special Economic Zones (SEZs——全球发展政策通用词，中国原产)。“时间就是金钱，效率就是生命”= time is money, efficiency is life（深圳蛇口口号——改革语汇的化石层）。与 [[medieval-towns]] 特许状、[[opium-war]] 被迫开放的对照：主动/被动开放的百年轮回是绝佳论述题。",
+  "links": [
+   {
+    "to": "third-plenum",
+    "rel": "effect"
+   },
+   {
+    "to": "canton-system",
+    "rel": "contrast"
+   },
+   {
+    "to": "wto-globalisation",
+    "rel": "related"
+   },
+   {
+    "to": "medieval-towns",
+    "rel": "related"
+   },
+   {
+    "to": "one-country-two-systems",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "period": "1980年–2001年",
+  "pron": "special economic zone /ˈspɛʃəl ˌɛkəˈnɑmɪk zoʊn/",
+  "etymology": "zone 源自希腊 zōnē（腰带）——“地带”即环带，经济特区是画出的带。",
+  "synonyms": [
+   {
+    "word": "opening",
+    "ipa": "/ˈoʊpənɪŋ/",
+    "sentence": "The opening was gradual by design and irreversible by success."
+   },
+   {
+    "word": "liberalised enclave",
+    "ipa": "/ˈlɪˌbərəˌlaɪzd ˈɛnˌkleɪv/",
+    "sentence": "A liberalised enclave tests reforms the hinterland fears."
+   }
+  ]
+ },
+ {
+  "id": "socialism-chinese",
+  "zh": "中国特色社会主义理论体系",
+  "pinyin": "Zhōngguó tèsè shèhuìzhǔyì",
+  "en": "socialism with Chinese characteristics",
+  "def_zh": "邓小平提出“走自己的道路，建设有中国特色的社会主义”（1982年十二大）；十三大系统阐述社会主义初级阶段理论、“一个中心两个基本点”基本路线；1992年南方谈话（“发展才是硬道理”）进一步解放思想，十四大确立邓小平理论在全党的指导地位（十五大写入党章）——改革开放和现代化建设的总设计师。此后：江泽民“三个代表”重要思想、胡锦涛科学发展观相继写入党章；2012年十八大后习近平新时代中国特色社会主义思想（2017年十九大写入党章），提出中国梦（中华民族伟大复兴）、“两个一百年”奋斗目标、“四个全面”战略布局、新发展理念，全面建成小康社会、开启全面建设社会主义现代化国家新征程。",
+  "def_en": "Deng's 1982 formula — 'build socialism with Chinese characteristics' — grew into the party's evolving theoretical canon: the primary-stage doctrine and the basic line ('one centre, two basic points'), the 1992 southern tour ('development is the hard truth') that relaunched reform, then each leader's contribution written successively into the constitution — Deng Xiaoping Theory, Jiang's Three Represents, Hu's Scientific Outlook, and from 2017 Xi Jinping Thought for a New Era, with its Chinese Dream of national rejuvenation, centenary goals and new development concepts. To read a party congress communiqué is to read this chapter's vocabulary verbatim.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第10课 建设中国特色社会主义"
+   },
+   {
+    "book": "ch8b",
+    "chapter": "第11课 为实现中国梦而努力奋斗"
+   }
+  ],
+  "collocations": [
+   "socialism with Chinese characteristics",
+   "the southern tour",
+   "the Chinese Dream",
+   "national rejuvenation",
+   "written into the constitution"
+  ],
+  "example": "'Socialism with Chinese characteristics' earns a knowing smile in western commentary ('capitalism with Chinese characteristics' the standing joke) — but the phrase's official English is fixed, and decoding congress-speak requires exactly this glossary.",
+  "nuance": "官方定译集：中国特色社会主义 = socialism with Chinese characteristics；南方谈话 = the southern tour/talks；中国梦 = the Chinese Dream；中华民族伟大复兴 = the great rejuvenation of the Chinese nation；“三个代表”= the Three Represents。政治文本英译的规范性（新华社定译不可自创）是本节点的元教训——Economist 引用时的括注风格值得模仿。",
+  "links": [
+   {
+    "to": "third-plenum",
+    "rel": "effect"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "related"
+   },
+   {
+    "to": "marxism",
+    "rel": "related"
+   },
+   {
+    "to": "multipolar-world",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "period": "1982年至今",
+  "pron": "ideology /ˌaɪdiˈɑləʤi/",
+  "etymology": "ideology 源自希腊 idea + logos——法国大革命时期新造词：“观念之学”。",
+  "synonyms": [
+   {
+    "word": "official doctrine",
+    "ipa": "/əˈfɪʃəl ˈdɔktərɪn/",
+    "sentence": "Official doctrine accretes by congress, like coral."
+   },
+   {
+    "word": "theoretical system",
+    "ipa": "/ˌθiərˈɛtɪkəl ˈsɪstəm/",
+    "sentence": "The theoretical system canonises each leader's contribution."
+   }
+  ]
+ },
+ {
+  "id": "ethnic-autonomy",
+  "zh": "民族区域自治制度",
+  "pinyin": "mínzú qūyù zìzhì",
+  "en": "regional ethnic autonomy",
+  "def_zh": "我国民族格局“大杂居、小聚居、相互交错”；党把民族平等、民族团结、各民族共同繁荣作为处理民族关系的基本原则，实行民族区域自治制度（基本政治制度）：在国家统一领导下，各少数民族聚居地方实行区域自治、设自治机关行使自治权——内蒙古（1947，第一个）、新疆、广西、宁夏、西藏五大自治区及自治州县。国家采取优惠政策（西部大开发、兴边富民；对口支援西藏；保护少数民族文化如整理《格萨尔王传》等）促进各民族共同繁荣发展，铸牢中华民族共同体意识。",
+  "def_en": "For a population 'mixed at large, clustered in pockets', the PRC's answer is regional ethnic autonomy: self-governing organs in minority-concentrated areas under unified state leadership — five autonomous regions from Inner Mongolia (1947) to Tibet, plus prefectures and counties — under the triple principle of equality, unity and common prosperity, with preferential development policies (the Western Development drive, paired-assistance to Tibet) and cultural preservation from the Gesar epic down. The current keyword caps the account: forging a shared consciousness of the Chinese nation as one community.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第12课 民族大团结"
+   }
+  ],
+  "collocations": [
+   "autonomous regions",
+   "ethnic minorities",
+   "common prosperity of all ethnic groups",
+   "the Chinese national community"
+  ],
+  "example": "Xinjiang and Tibet coverage turns on this chapter's terms — 'autonomous region' as constitutional promise v. practice is the entire debate; knowing the official framework is the precondition for reading both sides.",
+  "nuance": "民族 = ethnic group（官方今译；旧译 nationality 已弃——56个民族 = 56 ethnic groups）。“铸牢中华民族共同体意识”官方译 forging the sense of community for the Chinese nation——当代民族政策的纲领句。与 [[yuan-dynasty]] 宣政院、[[qing-frontier]]、[[xiaowen-reforms]] 构成治边传统长线。",
+  "links": [
+   {
+    "to": "qing-frontier",
+    "rel": "related"
+   },
+   {
+    "to": "xiaowen-reforms",
+    "rel": "related"
+   },
+   {
+    "to": "prc-founding",
+    "rel": "related"
+   },
+   {
+    "to": "decolonisation",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance",
+   "society"
+  ],
+  "period": "1947年至今",
+  "pron": "autonomy /əˈtɑnəmi/",
+  "etymology": "autonomy 源自希腊 autos（自己）+ nomos（法）——“自治”即自订其法。",
+  "synonyms": [
+   {
+    "word": "self-government",
+    "ipa": "/sɛlf-ˈgəvərnmənt/",
+    "sentence": "Regional self-government operates under unified leadership."
+   },
+   {
+    "word": "minority policy",
+    "ipa": "/məˈnɔrəti ˈpɑləsi/",
+    "sentence": "Minority policy is where empire and nation negotiate."
+   }
+  ]
+ },
+ {
+  "id": "one-country-two-systems",
+  "zh": "一国两制与香港澳门回归",
+  "pinyin": "yìguó liǎngzhì",
+  "en": "One Country, Two Systems and the return of Hong Kong and Macau",
+  "def_zh": "邓小平从维护祖国和中华民族根本利益出发，创造性提出“一国两制”伟大构想：在祖国统一前提下，国家主体坚持社会主义制度，台湾香港澳门保持原有的资本主义制度和生活方式长期不变——为实现祖国和平统一开辟了新途径。经中英（1984联合声明）、中葡（1987）谈判：1997年7月1日中国恢复对香港行使主权、设香港特别行政区；1999年12月20日恢复对澳门行使主权。港澳回归洗雪百年国耻，是完成祖国统一大业道路上的重要一步。",
+  "def_en": "Deng's signature invention: within one China, the mainland stays socialist while Hong Kong, Macau (and, on offer, Taiwan) keep their capitalist systems and ways of life — 'One Country, Two Systems', the formula that unlocked the Sino-British Joint Declaration (1984) and brought Hong Kong home at midnight on 1 July 1997, Macau following in 1999: the century of humiliation's territorial ledger closed, in the textbook's phrase, 'washing away a hundred years of national shame'.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第13课 香港和澳门回归祖国"
+   }
+  ],
+  "collocations": [
+   "One Country, Two Systems",
+   "the handover",
+   "Special Administrative Region",
+   "a high degree of autonomy"
+  ],
+  "example": "Since 2019-20 every Hong Kong headline has audited this formula — 'the death of one country two systems' v. 'restoring order' — making the textbook's confident 1997 narrative and the news cycle mutually illuminating reading.",
+  "nuance": "一国两制 = One Country, Two Systems（官方英译定式，逗号有无皆见）；回归 = the return/handover（中方用 return——主权本未丧失的立场语；西方媒体惯用 handover）。特别行政区 = Special Administrative Region (SAR)。“百年国耻”呼应 [[opium-war]]——本知识库首尾闭环之一。",
+  "links": [
+   {
+    "to": "opium-war",
+    "rel": "related"
+   },
+   {
+    "to": "qi-jiguang",
+    "rel": "related"
+   },
+   {
+    "to": "cross-strait",
+    "rel": "related"
+   },
+   {
+    "to": "socialism-chinese",
+    "rel": "broader"
+   }
+  ],
+  "themes": [
+   "governance"
+  ],
+  "period": "1997年/1999年",
+  "pron": "handover /ˈhændoʊvər/",
+  "etymology": "handover 由 hand + over 复合——移交；中方用 return（回归）自有立场。",
+  "synonyms": [
+   {
+    "word": "reunification formula",
+    "ipa": "/riˌunəfəˈkeɪʃən ˈfɔrmjələ/",
+    "sentence": "The reunification formula promised difference within oneness."
+   },
+   {
+    "word": "special administrative region",
+    "ipa": "/ˈspɛʃəl ədˈmɪnɪˌstreɪtɪv ˈriʤən/",
+    "sentence": "A special administrative region is an exception written into law."
+   }
+  ]
+ },
+ {
+  "id": "cross-strait",
+  "zh": "海峡两岸的交往",
+  "pinyin": "hǎixiá liǎng'àn",
+  "en": "cross-strait relations",
+  "def_zh": "新中国成立后党和政府把实现台湾和祖国大陆统一作为神圣使命，对台方针从“解放台湾”发展为“和平统一、一国两制”基本方针。1987年台湾当局被迫调整“三不”政策、开放赴大陆探亲，两岸同胞近38年隔绝状态被打破；1992年海协会海基会达成“九二共识”（海峡两岸同属一个中国，共同努力谋求国家统一）；1993年汪辜会谈；2005年连战“和平之旅”；2008年两岸“三通”（通邮通航通商）；2015年习近平马英九新加坡会面——1949年以来两岸领导人首次会面。两岸经济文化交流蓬勃发展；祖国完全统一是全体中华儿女的共同心愿。",
+  "def_en": "Policy evolved from 'liberate Taiwan' to 'peaceful reunification, one country two systems'; contact evolved with it — family visits from 1987 ending 38 years of severance, the 1992 Consensus ('both sides belong to one China', each side's phrasing its own), the 1993 Wang-Koo talks, direct post-flights-trade from 2008, and the Xi-Ma handshake in Singapore (2015), the first leaders' meeting since 1949. The textbook closes on the axiom: complete reunification is the shared aspiration of all Chinese — the sentence every Taiwan Strait news story is ultimately about.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第14课 海峡两岸的交往"
+   }
+  ],
+  "collocations": [
+   "the 1992 Consensus",
+   "cross-strait ties",
+   "the three links",
+   "peaceful reunification"
+  ],
+  "example": "Whether the '1992 Consensus' exists, and what it contains, decides Taiwanese elections — a two-word historical citation carrying an entire geopolitical standoff.",
+  "nuance": "“九二共识”= the 1992 Consensus（其内涵表述之争——one China, respective interpretations——是台海报道核心）。统一 = reunification（中方用词，含 re- 的立场；部分西媒作 unification——前缀即政治）。三通 = the three links。与 [[zheng-chenggong]]、[[jiawu-war]]、[[victory-1945]] 的台湾史链贯通。",
+  "links": [
+   {
+    "to": "one-country-two-systems",
+    "rel": "related"
+   },
+   {
+    "to": "zheng-chenggong",
+    "rel": "related"
+   },
+   {
+    "to": "civil-war-1946",
+    "rel": "effect"
+   },
+   {
+    "to": "victory-1945",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance"
+  ],
+  "period": "1979年至今",
+  "pron": "rapprochement /ræˈprɒʃmɒ̃/",
+  "etymology": "rapprochement 法语“重新接近”（re- + approcher）——两岸解冻的标准外交词。",
+  "synonyms": [
+   {
+    "word": "détente",
+    "ipa": "/deɪˈtɒnt/",
+    "sentence": "Cross-strait détente travels by charter flight and pilgrimage."
+   },
+   {
+    "word": "status quo",
+    "ipa": "/ˈstætəs kwoʊ/",
+    "sentence": "Every side defends a different status quo."
+   }
+  ]
+ },
+ {
+  "id": "prc-diplomacy",
+  "zh": "新中国外交（从和平共处到大国外交）",
+  "pinyin": "xīn Zhōngguó wàijiāo",
+  "en": "PRC diplomacy: from Five Principles to great-power diplomacy",
+  "def_zh": "新中国奉行独立自主的和平外交政策，建国第一年与苏联等17国建交。1953年周恩来接见印度代表团时首次提出和平共处五项原则（互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处），成为处理国与国关系的基本准则；1955年万隆会议“求同存异”。70年代外交突破：1971年10月第26届联大恢复中华人民共和国在联合国的一切合法权利；1972年尼克松访华（上海公报）、中日建交，1979年中美正式建交（美国承认只有一个中国、台湾是中国的一部分）。改革开放后全方位外交：构建人类命运共同体、“一带一路”、亚投行、G20杭州峰会、金砖机制——形成全方位、多层次、立体化的外交布局，国际地位与影响力显著提高。",
+  "def_en": "From independence's first principle came the Five Principles of Peaceful Coexistence (Zhou Enlai, 1953-54) and Bandung's 'seek common ground'; from isolation came the 1970s breakout — the UN seat restored in 1971 ('the developing countries carried us in', Mao said of the vote), Nixon in Beijing in 1972, normalisation with Washington in 1979 on the one-China acknowledgment. The reform decades built the full lattice — BRI, the AIIB, G20 summitry, BRICS — the 'omnidirectional, multi-tiered, multidimensional' diplomacy behind every summit photograph, with 'a community with a shared future for mankind' as its stated horizon.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第16课 独立自主的和平外交"
+   },
+   {
+    "book": "ch8b",
+    "chapter": "第17课 外交事业的发展"
+   }
+  ],
+  "collocations": [
+   "the Five Principles of Peaceful Coexistence",
+   "ping-pong diplomacy",
+   "the Shanghai Communique",
+   "normalisation",
+   "the Belt and Road"
+  ],
+  "example": "Nixon's 'week that changed the world' and the ping-pong team that preceded it remain diplomacy's favourite case of signalling — and the Shanghai Communique's one-China wording is still parsed comma by comma fifty years on.",
+  "nuance": "和平共处五项原则已在 [[bandung-conference]] 建节点——此处为其制度史全景。“恢复合法席位”= the restoration of lawful rights（非“加入”——用词的法理立场）。中美三个联合公报 = the three joint communiques；acknowledge vs recognize 之辨（上海公报的著名措辞）是外交英语的教科书案例。",
+  "links": [
+   {
+    "to": "bandung-conference",
+    "rel": "related"
+   },
+   {
+    "to": "united-nations",
+    "rel": "related"
+   },
+   {
+    "to": "cold-war",
+    "rel": "related"
+   },
+   {
+    "to": "korean-war",
+    "rel": "related"
+   },
+   {
+    "to": "multipolar-world",
+    "rel": "related"
+   },
+   {
+    "to": "silk-road",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance"
+  ],
+  "period": "1949年至今",
+  "pron": "normalisation /ˌnɔːməlaɪˈzeɪʃən/",
+  "etymology": "normalisation 源自拉丁 norma（木匠角尺）→ 常规化——中美建交的关键词。",
+  "synonyms": [
+   {
+    "word": "peaceful coexistence",
+    "ipa": "/ˈpisfəl ˌkoʊɪgˈzɪstəns/",
+    "sentence": "Peaceful coexistence was doctrine before it was détente."
+   },
+   {
+    "word": "multilateralism",
+    "ipa": "/ˌmʌltiˈlætərəlɪzəm/",
+    "sentence": "Multilateralism is power wearing procedure."
+   }
+  ]
+ },
+ {
+  "id": "science-two-bombs",
+  "zh": "科技文化成就与社会生活变迁",
+  "pinyin": "kējì wénhuà chéngjiù",
+  "en": "science and life: from Two Bombs, One Satellite to the high-speed era",
+  "def_zh": "“两弹一星”：1964年第一颗原子弹爆炸成功（打破核垄断）、1966年导弹核武器试验、1967年氢弹、1970年“东方红一号”卫星（第五个能发射卫星的国家）——钱学森邓稼先等元勋隐姓埋名艰苦奋斗铸就“两弹一星”精神；载人航天：2003年杨利伟神舟五号（第三个掌握载人航天技术的国家）、太空行走、空间站。袁隆平籼型杂交水稻（1973，“东方魔稻”，为解决世界性饥饿问题作出重要贡献，获首届国家最高科学技术奖）；屠呦呦发现青蒿素（对疟疾治愈率很高，2015年诺贝尔生理学或医学奖——中国本土科学家首获诺奖）。“双百”方针；莫言2012年获诺贝尔文学奖。社会生活：从凭票证的“新三年旧三年缝缝补补又三年”到衣食住行用巨变——高铁（世界最大高铁网）、移动支付、网购改变日常，恩格尔系数下降，从温饱走向小康。",
+  "def_en": "Strategic science first: the atomic bomb (1964), the H-bomb three years later — the fastest such interval ever — and the Dongfanghong satellite (1970), built by scientists like Qian Xuesen and Deng Jiajia who vanished into deserts for decades ('Two Bombs, One Satellite spirit' now names the ethos); crewed flight followed from Yang Liwei (2003) to a space station. Civilian science fed the world instead: Yuan Longping's hybrid rice (1973) and Tu Youyou's artemisinin — a malaria cure from a 4th-century recipe, and China's first home-grown science Nobel (2015). Daily life travelled furthest of all: from ration coupons and 'new three years, old three years, patched three more' to the world's largest high-speed rail network, mobile payment and the Engel coefficient's long slide — the textbook's own measure of the journey from subsistence to moderate prosperity.",
+  "sources": [
+   {
+    "book": "ch8b",
+    "chapter": "第18课 科技文化成就"
+   },
+   {
+    "book": "ch8b",
+    "chapter": "第19课 社会生活的变迁"
+   }
+  ],
+  "collocations": [
+   "Two Bombs, One Satellite",
+   "hybrid rice",
+   "artemisinin",
+   "high-speed rail",
+   "the Engel coefficient"
+  ],
+  "example": "Qian Xuesen's arc — MIT and Caltech, deported in the McCarthy era, father of China's missiles — is the cautionary tale every chip-sanctions op-ed retells: 'the most expensive deportation in American history'.",
+  "nuance": "“两弹一星”= Two Bombs, One Satellite（直译已入英语文献）。袁隆平 hybrid rice、屠呦呦 artemisinin（青蒿素——古方到诺奖的科学叙事，全球卫生报道常客）。恩格尔系数 = the Engel coefficient——教材直接使用的经济学指标，绝佳的学科词衔接。钱学森之问（为何培养不出大师）另是教育讨论热词。",
+  "links": [
+   {
+    "to": "exploration-setbacks",
+    "rel": "related"
+   },
+   {
+    "to": "cold-war",
+    "rel": "related"
+   },
+   {
+    "to": "han-medicine",
+    "rel": "related"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "effect"
+   },
+   {
+    "to": "information-age",
+    "rel": "related"
+   },
+   {
+    "to": "khrushchev-brezhnev",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "science-tech",
+   "society"
+  ],
+  "period": "1964年至今",
+  "pron": "deterrent /dɪˈtɛrənt/",
+  "etymology": "deterrent 源自拉丁 de-（离开）+ terrere（恐吓）→ 吓阻——“两弹”的战略本义。",
+  "synonyms": [
+   {
+    "word": "strategic weapons",
+    "ipa": "/strəˈtiʤɪk ˈwɛpənz/",
+    "sentence": "Strategic weapons bought the seat before the economy could."
+   },
+   {
+    "word": "self-reliance",
+    "ipa": "/sɛlf-rɪˈlaɪəns/",
+    "sentence": "Self-reliance was a virtue made of embargoes."
+   }
+  ]
+ }
 ]

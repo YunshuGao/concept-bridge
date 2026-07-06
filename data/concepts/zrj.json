@@ -1,52 +1,66 @@
 [
-  {
-    "id": "zhu-rongji-reforms",
-    "zh": "朱镕基与九十年代经济改革",
-    "pinyin": "Zhū Róngjī",
-    "en": "Zhu Rongji and the reforms of the 1990s",
-    "def_zh": "《朱镕基讲话实录》（四卷）是1990年代改革攻坚的第一手文献：1994年分税制改革（中央与地方按税种划分收入——重建中央财力、奠定此后央地财政关系；讲话中反复向各省算账说服）；金融整顿（治理三角债、约束乱集资、央行专业化）；1998年国企三年脱困与“抓大放小”（下岗分流 layoffs 的痛苦转型）；住房制度改革（终结福利分房——商品房时代开端）；应对亚洲金融危机（人民币不贬值承诺）；漫长的入世谈判（2001年收官）。“不管前面是地雷阵还是万丈深渊，我都将勇往直前”——技术官僚改革者的标本。",
-    "def_en": "The four volumes of Zhu Rongji's recorded remarks are the primary source for reform's hardest decade: the 1994 tax-sharing reform that rebuilt central revenue (the transcripts show him haggling province by province — the fiscal constitution of today's China being negotiated aloud); banking cleaned up; the brutal three-year SOE rescue with its tens of millions of layoffs ('grasp the large, release the small'); housing marketised; the RMB held firm through the Asian financial crisis; and the WTO accession he closed in 2001. His famous vow — 'be it minefield or abyss, I will march forward' — made him the archetype of the technocratic reformer, and this book his ledger.",
-    "sources": [
-      {
-        "book": "zrj",
-        "chapter": "分税制改革与国企改革（第一、二卷）"
-      }
-    ],
-    "collocations": [
-      "the tax-sharing reform",
-      "grasp the large, release the small",
-      "layoffs (xiagang)",
-      "WTO accession",
-      "technocrat"
-    ],
-    "example": "When economists explain today's local-debt and land-finance problems they start at 1994 — Zhu's tax-sharing system is the institutional cause célèbre, praised and blamed in the same papers ([[zhishen-shinei]] is the best modern gloss).",
-    "nuance": "分税制 = the tax-sharing system/reform（央地财政关系的分水岭——链 [[chinese-taxation]] 的当代章）；下岗 = xiagang/layoffs（一代人的社会记忆词）；抓大放小 = grasp the big, let go of the small。朱镕基英语世界形象（'economic tsar'——链 [[peter-the-great]] 的 czar 用法！）。",
-    "links": [
-      {
-        "to": "economic-reform",
-        "rel": "broader"
-      },
-      {
-        "to": "chinese-taxation",
-        "rel": "related"
-      },
-      {
-        "to": "opening-up",
-        "rel": "related"
-      },
-      {
-        "to": "wang-anshi",
-        "rel": "related"
-      },
-      {
-        "to": "basic-economic-system",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy",
-      "governance"
-    ],
-    "period": "1991年–2003年"
-  }
+ {
+  "id": "zhu-rongji-reforms",
+  "zh": "朱镕基与九十年代经济改革",
+  "pinyin": "Zhū Róngjī",
+  "en": "Zhu Rongji and the reforms of the 1990s",
+  "def_zh": "《朱镕基讲话实录》（四卷）是1990年代改革攻坚的第一手文献：1994年分税制改革（中央与地方按税种划分收入——重建中央财力、奠定此后央地财政关系；讲话中反复向各省算账说服）；金融整顿（治理三角债、约束乱集资、央行专业化）；1998年国企三年脱困与“抓大放小”（下岗分流 layoffs 的痛苦转型）；住房制度改革（终结福利分房——商品房时代开端）；应对亚洲金融危机（人民币不贬值承诺）；漫长的入世谈判（2001年收官）。“不管前面是地雷阵还是万丈深渊，我都将勇往直前”——技术官僚改革者的标本。",
+  "def_en": "The four volumes of Zhu Rongji's recorded remarks are the primary source for reform's hardest decade: the 1994 tax-sharing reform that rebuilt central revenue (the transcripts show him haggling province by province — the fiscal constitution of today's China being negotiated aloud); banking cleaned up; the brutal three-year SOE rescue with its tens of millions of layoffs ('grasp the large, release the small'); housing marketised; the RMB held firm through the Asian financial crisis; and the WTO accession he closed in 2001. His famous vow — 'be it minefield or abyss, I will march forward' — made him the archetype of the technocratic reformer, and this book his ledger.",
+  "sources": [
+   {
+    "book": "zrj",
+    "chapter": "分税制改革与国企改革（第一、二卷）"
+   }
+  ],
+  "collocations": [
+   "the tax-sharing reform",
+   "grasp the large, release the small",
+   "layoffs (xiagang)",
+   "WTO accession",
+   "technocrat"
+  ],
+  "example": "When economists explain today's local-debt and land-finance problems they start at 1994 — Zhu's tax-sharing system is the institutional cause célèbre, praised and blamed in the same papers ([[zhishen-shinei]] is the best modern gloss).",
+  "nuance": "分税制 = the tax-sharing system/reform（央地财政关系的分水岭——链 [[chinese-taxation]] 的当代章）；下岗 = xiagang/layoffs（一代人的社会记忆词）；抓大放小 = grasp the big, let go of the small。朱镕基英语世界形象（'economic tsar'——链 [[peter-the-great]] 的 czar 用法！）。",
+  "links": [
+   {
+    "to": "economic-reform",
+    "rel": "broader"
+   },
+   {
+    "to": "chinese-taxation",
+    "rel": "related"
+   },
+   {
+    "to": "opening-up",
+    "rel": "related"
+   },
+   {
+    "to": "wang-anshi",
+    "rel": "related"
+   },
+   {
+    "to": "basic-economic-system",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy",
+   "governance"
+  ],
+  "period": "1991年–2003年",
+  "pron": "restructuring /riːˈstrʌktʃərɪŋ/",
+  "etymology": "re- + structure（拉丁 struere 堆建）——朱镕基改革的关键词:抓大放小。",
+  "synonyms": [
+   {
+    "word": "state-owned enterprise reform",
+    "ipa": "/steɪt-oʊnd ˈɛnərˌpraɪz rɪˈfɔrm/",
+    "sentence": "SOE reform traded iron rice bowls for balance sheets."
+   },
+   {
+    "word": "banking reform",
+    "ipa": "/ˈbæŋkɪŋ rɪˈfɔrm/",
+    "sentence": "Banking reform is surgery on the economy's heart, awake."
+   }
+  ]
+ }
 ]

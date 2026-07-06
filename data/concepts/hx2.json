@@ -1,165 +1,207 @@
 [
-  {
-    "id": "food-agriculture",
-    "zh": "从食物采集到现代粮食安全",
-    "pinyin": "shíwù cǎijí dào liángshi ānquán",
-    "en": "from foraging to food security",
-    "def_zh": "远古人类采集渔猎；约1万年前农业出现（原始农耕畜牧革命——人类经济和社会生活的第一次革命：从食物采集者变成食物生产者），东亚稻粟、西亚麦豆、美洲玉米甘薯各成体系并随交流传播（新航路后食物物种大交流）。工业革命后食物生产现代化：机械化、化肥良种，冷链储运、罐头加工。现代问题：粮食安全（人口激增耕地减少；中国以占世界7%的耕地养活22%的人口，杂交水稻贡献巨大；《中华人民共和国粮食安全保障法》）与食品安全（化肥农药残留、添加剂滥用——各国立法监管）。消除饥饿仍是人类共同挑战。",
-    "def_en": "Agriculture — humanity's first revolution, turning foragers into producers about 10,000 years ago — arose independently around rice and millet, wheat and barley, maize and potato, then cross-pollinated the planet after 1492. Industry mechanised it; chemistry fertilised it; refrigeration globalised it. The modern residue is the paired anxiety every government budget reflects: food security (China feeding 22% of the world on 7% of its arable land, hybrid rice doing heavy lifting) and food safety (residues, additives, the regulatory state's kitchen inspection) — with hunger, the textbook closes, still humanity's unfinished business.",
-    "sources": [
-      {
-        "book": "hx2",
-        "chapter": "第1课 从食物采集到食物生产"
-      }
-    ],
-    "collocations": [
-      "food security",
-      "arable land",
-      "the agricultural revolution",
-      "self-sufficiency ratio",
-      "food safety standards"
-    ],
-    "example": "'Who will feed China?' — Lester Brown's 1995 provocation — set off a policy debate Beijing answers annually with the No. 1 Document; the 7%-feeds-22% line in this textbook is the standing rebuttal.",
-    "nuance": "粮食安全 = food security 与食品安全 = food safety——中文一词之差，英语两个领域（高频混淆）。“18亿亩耕地红线”= the arable land red line。农业起源双中心呼应 [[neolithic-farming]]；物种交流即 [[columbian-exchange]]。",
-    "links": [
-      {
-        "to": "neolithic-farming",
-        "rel": "broader"
-      },
-      {
-        "to": "columbian-exchange",
-        "rel": "related"
-      },
-      {
-        "to": "science-two-bombs",
-        "rel": "related"
-      },
-      {
-        "to": "malthus",
-        "rel": "related"
-      },
-      {
-        "to": "ecology-population",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy",
-      "science-tech",
-      "society"
-    ],
-    "period": "1万年前至今"
-  },
-  {
-    "id": "corporations-exchanges",
-    "zh": "股份公司与证券交易所",
-    "pinyin": "gǔfèn gōngsī / zhèngquàn jiāoyìsuǒ",
-    "en": "joint-stock companies and stock exchanges",
-    "def_zh": "商业贸易发展催生商业经营方式演变：古代已有契约（两河流域、中国）、借贷、汇兑（唐飞钱、宋交子、明清票号）。新航路开辟后商业经营方式重大变化：1602年荷兰东印度公司为最早的股份公司之一（发行股票集资、股东承担有限责任），阿姆斯特丹证券交易所为世界最早的证券交易所之一；17世纪后银行、证券、保险等近代金融体系渐成（英格兰银行1694）；百货公司（19世纪）、连锁商店、超市及20世纪以来的跨国公司改变商业与生活。中国近代出现新式银行（1897中国通商银行）、大型百货公司；改革开放后建立上海深圳证券交易所（1990），社会主义市场经济下金融体系日趋完善。",
-    "def_en": "Trade invented its own institutions: contracts on Mesopotamian clay and Chinese paper, Tang 'flying money' remittances, Ming-Qing draft banks — then the great leap of 1602, the Dutch East India Company selling shares of itself, limited liability distributing risk and the Amsterdam Exchange pricing it daily: the joint-stock corporation and the stock market, capitalism's twin engines, followed by central banking (the Bank of England, 1694), insurance, the department store and the multinational. China joined each wave in turn — its first modern bank in 1897, and the Shanghai and Shenzhen exchanges reopening the market economy's trading floor in 1990.",
-    "sources": [
-      {
-        "book": "hx2",
-        "chapter": "第8课 世界市场与商业贸易"
-      }
-    ],
-    "collocations": [
-      "joint-stock company",
-      "limited liability",
-      "the stock exchange",
-      "shareholders",
-      "the multinational corporation"
-    ],
-    "example": "The VOC is every finance course's Adam: first shares, first exchange, arguably first bubble-adjacent mania — and its governance fights (angry shareholders, entrenched directors) read like this morning's proxy season.",
-    "nuance": "股份公司 = joint-stock company；有限责任 = limited liability（现代经济的隐形基础设施——Economist 曾称其为最伟大发明之一）；证券交易所 = stock exchange。飞钱 = flying money（唐代汇票）；票号已在 [[qing-prosperity]]。VOC 链 [[east-india-company]]、[[early-colonialism]]——公司与帝国的共生。",
-    "links": [
-      {
-        "to": "east-india-company",
-        "rel": "related"
-      },
-      {
-        "to": "jiaozi",
-        "rel": "related"
-      },
-      {
-        "to": "song-economy",
-        "rel": "related"
-      },
-      {
-        "to": "world-monetary-system",
-        "rel": "related"
-      },
-      {
-        "to": "opening-up",
-        "rel": "related"
-      },
-      {
-        "to": "monopoly-capitalism",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy"
-    ],
-    "period": "1602年至今"
-  },
-  {
-    "id": "epidemics-medicine",
-    "zh": "疫病、医学与公共卫生",
-    "pinyin": "yìbìng yǔ gōnggòng wèishēng",
-    "en": "epidemics, medicine and public health",
-    "def_zh": "疫病深刻影响人类历史：古代天花（康熙曾患）、鼠疫（14世纪黑死病夺走欧洲一半左右人口，劳动力短缺冲击封建生产关系）、1918大流感（死亡2000万以上）等；疫病促成防治努力——中国古代已有隔离（汉“病迁坊”）、明清人痘接种术（后传欧洲）；1796年英国詹纳牛痘接种法；19世纪细菌学（巴斯德、科赫）与1928年弗莱明青霉素（二战广泛应用）革命性进步；中医药宝库（《伤寒杂病论》《本草纲目》针灸；屠呦呦青蒿素）。现代医疗卫生体系：基本医疗卫生体系、医疗服务与保障体系建立完善；新中国爱国卫生运动（“把医疗卫生工作的重点放到农村去”、赤脚医生）、基本消灭血吸虫病天花，人均预期寿命大幅提高——公共卫生为现代国家治理的重要维度。",
-    "def_en": "Disease has been history's silent legislator: the Black Death killing perhaps half of Europe and loosening serfdom's grip, smallpox scarring emperors, the 1918 influenza out-killing the world war. Medicine answered across civilisations — Chinese quarantine wards and variolation (inoculation's ancestor, carried west), Jenner's vaccine (1796), the germ theory of Pasteur and Koch, Fleming's penicillin (1928) mass-produced by war; TCM's pharmacy contributing from the Treatise on Cold Damage to Tu Youyou's artemisinin. The modern state's answer is systemic: universal health infrastructure — in China's case the Patriotic Health Campaigns, barefoot doctors and the great gains in life expectancy that made public health a core measure of governance itself.",
-    "sources": [
-      {
-        "book": "hx2",
-        "chapter": "第14课 历史上的疫病与医学成就"
-      },
-      {
-        "book": "hx2",
-        "chapter": "第15课 现代医疗卫生体系与社会生活"
-      }
-    ],
-    "collocations": [
-      "the Black Death",
-      "quarantine",
-      "vaccination/inoculation",
-      "germ theory",
-      "barefoot doctors",
-      "life expectancy"
-    ],
-    "example": "COVID coverage was written in this chapter's vocabulary — quarantine (from Venice's quaranta giorni), herd immunity, the WHO — and China's zero-Covid debate replayed the oldest tension here: liberty against contagion.",
-    "nuance": "quarantine 词源威尼斯语“四十天”（黑死病隔离期）——防疫史的词汇化石。人痘/牛痘 = variolation/vaccination（vacca=牛——詹纳的奶牛进了词根）。赤脚医生 = barefoot doctors（英语直译通行，全球初级卫生保健运动的中国符号）。黑死病的劳动力经济学链 [[serfdom]]、[[malthus]]。",
-    "links": [
-      {
-        "to": "han-medicine",
-        "rel": "related"
-      },
-      {
-        "to": "science-two-bombs",
-        "rel": "related"
-      },
-      {
-        "to": "serfdom",
-        "rel": "related"
-      },
-      {
-        "to": "columbian-exchange",
-        "rel": "related"
-      },
-      {
-        "to": "welfare-state",
-        "rel": "related"
-      },
-      {
-        "to": "urbanisation",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "science-tech",
-      "society"
-    ],
-    "period": "古代至今"
-  }
+ {
+  "id": "food-agriculture",
+  "zh": "从食物采集到现代粮食安全",
+  "pinyin": "shíwù cǎijí dào liángshi ānquán",
+  "en": "from foraging to food security",
+  "def_zh": "远古人类采集渔猎；约1万年前农业出现（原始农耕畜牧革命——人类经济和社会生活的第一次革命：从食物采集者变成食物生产者），东亚稻粟、西亚麦豆、美洲玉米甘薯各成体系并随交流传播（新航路后食物物种大交流）。工业革命后食物生产现代化：机械化、化肥良种，冷链储运、罐头加工。现代问题：粮食安全（人口激增耕地减少；中国以占世界7%的耕地养活22%的人口，杂交水稻贡献巨大；《中华人民共和国粮食安全保障法》）与食品安全（化肥农药残留、添加剂滥用——各国立法监管）。消除饥饿仍是人类共同挑战。",
+  "def_en": "Agriculture — humanity's first revolution, turning foragers into producers about 10,000 years ago — arose independently around rice and millet, wheat and barley, maize and potato, then cross-pollinated the planet after 1492. Industry mechanised it; chemistry fertilised it; refrigeration globalised it. The modern residue is the paired anxiety every government budget reflects: food security (China feeding 22% of the world on 7% of its arable land, hybrid rice doing heavy lifting) and food safety (residues, additives, the regulatory state's kitchen inspection) — with hunger, the textbook closes, still humanity's unfinished business.",
+  "sources": [
+   {
+    "book": "hx2",
+    "chapter": "第1课 从食物采集到食物生产"
+   }
+  ],
+  "collocations": [
+   "food security",
+   "arable land",
+   "the agricultural revolution",
+   "self-sufficiency ratio",
+   "food safety standards"
+  ],
+  "example": "'Who will feed China?' — Lester Brown's 1995 provocation — set off a policy debate Beijing answers annually with the No. 1 Document; the 7%-feeds-22% line in this textbook is the standing rebuttal.",
+  "nuance": "粮食安全 = food security 与食品安全 = food safety——中文一词之差，英语两个领域（高频混淆）。“18亿亩耕地红线”= the arable land red line。农业起源双中心呼应 [[neolithic-farming]]；物种交流即 [[columbian-exchange]]。",
+  "links": [
+   {
+    "to": "neolithic-farming",
+    "rel": "broader"
+   },
+   {
+    "to": "columbian-exchange",
+    "rel": "related"
+   },
+   {
+    "to": "science-two-bombs",
+    "rel": "related"
+   },
+   {
+    "to": "malthus",
+    "rel": "related"
+   },
+   {
+    "to": "ecology-population",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy",
+   "science-tech",
+   "society"
+  ],
+  "period": "1万年前至今",
+  "pron": "food security /fud sɪˈkjʊrəti/",
+  "etymology": "security 源自拉丁 se-（无）+ cura（忧）→ 无忧——粮食安全即“食无忧”。",
+  "synonyms": [
+   {
+    "word": "self-sufficiency",
+    "ipa": "/sɛlf-səˈfɪʃənsi/",
+    "sentence": "Grain self-sufficiency is strategy measured in mu."
+   },
+   {
+    "word": "supply chain",
+    "ipa": "/səˈplaɪ ʧeɪn/",
+    "sentence": "A supply chain is only as calm as its hungriest link."
+   }
+  ]
+ },
+ {
+  "id": "corporations-exchanges",
+  "zh": "股份公司与证券交易所",
+  "pinyin": "gǔfèn gōngsī / zhèngquàn jiāoyìsuǒ",
+  "en": "joint-stock companies and stock exchanges",
+  "def_zh": "商业贸易发展催生商业经营方式演变：古代已有契约（两河流域、中国）、借贷、汇兑（唐飞钱、宋交子、明清票号）。新航路开辟后商业经营方式重大变化：1602年荷兰东印度公司为最早的股份公司之一（发行股票集资、股东承担有限责任），阿姆斯特丹证券交易所为世界最早的证券交易所之一；17世纪后银行、证券、保险等近代金融体系渐成（英格兰银行1694）；百货公司（19世纪）、连锁商店、超市及20世纪以来的跨国公司改变商业与生活。中国近代出现新式银行（1897中国通商银行）、大型百货公司；改革开放后建立上海深圳证券交易所（1990），社会主义市场经济下金融体系日趋完善。",
+  "def_en": "Trade invented its own institutions: contracts on Mesopotamian clay and Chinese paper, Tang 'flying money' remittances, Ming-Qing draft banks — then the great leap of 1602, the Dutch East India Company selling shares of itself, limited liability distributing risk and the Amsterdam Exchange pricing it daily: the joint-stock corporation and the stock market, capitalism's twin engines, followed by central banking (the Bank of England, 1694), insurance, the department store and the multinational. China joined each wave in turn — its first modern bank in 1897, and the Shanghai and Shenzhen exchanges reopening the market economy's trading floor in 1990.",
+  "sources": [
+   {
+    "book": "hx2",
+    "chapter": "第8课 世界市场与商业贸易"
+   }
+  ],
+  "collocations": [
+   "joint-stock company",
+   "limited liability",
+   "the stock exchange",
+   "shareholders",
+   "the multinational corporation"
+  ],
+  "example": "The VOC is every finance course's Adam: first shares, first exchange, arguably first bubble-adjacent mania — and its governance fights (angry shareholders, entrenched directors) read like this morning's proxy season.",
+  "nuance": "股份公司 = joint-stock company；有限责任 = limited liability（现代经济的隐形基础设施——Economist 曾称其为最伟大发明之一）；证券交易所 = stock exchange。飞钱 = flying money（唐代汇票）；票号已在 [[qing-prosperity]]。VOC 链 [[east-india-company]]、[[early-colonialism]]——公司与帝国的共生。",
+  "links": [
+   {
+    "to": "east-india-company",
+    "rel": "related"
+   },
+   {
+    "to": "jiaozi",
+    "rel": "related"
+   },
+   {
+    "to": "song-economy",
+    "rel": "related"
+   },
+   {
+    "to": "world-monetary-system",
+    "rel": "related"
+   },
+   {
+    "to": "opening-up",
+    "rel": "related"
+   },
+   {
+    "to": "monopoly-capitalism",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "period": "1602年至今",
+  "pron": "corporation /ˌkɔrpərˈeɪʃən/",
+  "etymology": "corporation 源自拉丁 corpus（身体）→ corporare 成体——公司即“法人身体”。",
+  "synonyms": [
+   {
+    "word": "joint-stock company",
+    "ipa": "/ʤɔɪnt-stɑk ˈkəmpəˌni/",
+    "sentence": "The joint-stock company splits risk into tradable slices."
+   },
+   {
+    "word": "bourse",
+    "ipa": "/bʊəs/",
+    "sentence": "A bourse prices tomorrow every afternoon."
+   }
+  ]
+ },
+ {
+  "id": "epidemics-medicine",
+  "zh": "疫病、医学与公共卫生",
+  "pinyin": "yìbìng yǔ gōnggòng wèishēng",
+  "en": "epidemics, medicine and public health",
+  "def_zh": "疫病深刻影响人类历史：古代天花（康熙曾患）、鼠疫（14世纪黑死病夺走欧洲一半左右人口，劳动力短缺冲击封建生产关系）、1918大流感（死亡2000万以上）等；疫病促成防治努力——中国古代已有隔离（汉“病迁坊”）、明清人痘接种术（后传欧洲）；1796年英国詹纳牛痘接种法；19世纪细菌学（巴斯德、科赫）与1928年弗莱明青霉素（二战广泛应用）革命性进步；中医药宝库（《伤寒杂病论》《本草纲目》针灸；屠呦呦青蒿素）。现代医疗卫生体系：基本医疗卫生体系、医疗服务与保障体系建立完善；新中国爱国卫生运动（“把医疗卫生工作的重点放到农村去”、赤脚医生）、基本消灭血吸虫病天花，人均预期寿命大幅提高——公共卫生为现代国家治理的重要维度。",
+  "def_en": "Disease has been history's silent legislator: the Black Death killing perhaps half of Europe and loosening serfdom's grip, smallpox scarring emperors, the 1918 influenza out-killing the world war. Medicine answered across civilisations — Chinese quarantine wards and variolation (inoculation's ancestor, carried west), Jenner's vaccine (1796), the germ theory of Pasteur and Koch, Fleming's penicillin (1928) mass-produced by war; TCM's pharmacy contributing from the Treatise on Cold Damage to Tu Youyou's artemisinin. The modern state's answer is systemic: universal health infrastructure — in China's case the Patriotic Health Campaigns, barefoot doctors and the great gains in life expectancy that made public health a core measure of governance itself.",
+  "sources": [
+   {
+    "book": "hx2",
+    "chapter": "第14课 历史上的疫病与医学成就"
+   },
+   {
+    "book": "hx2",
+    "chapter": "第15课 现代医疗卫生体系与社会生活"
+   }
+  ],
+  "collocations": [
+   "the Black Death",
+   "quarantine",
+   "vaccination/inoculation",
+   "germ theory",
+   "barefoot doctors",
+   "life expectancy"
+  ],
+  "example": "COVID coverage was written in this chapter's vocabulary — quarantine (from Venice's quaranta giorni), herd immunity, the WHO — and China's zero-Covid debate replayed the oldest tension here: liberty against contagion.",
+  "nuance": "quarantine 词源威尼斯语“四十天”（黑死病隔离期）——防疫史的词汇化石。人痘/牛痘 = variolation/vaccination（vacca=牛——詹纳的奶牛进了词根）。赤脚医生 = barefoot doctors（英语直译通行，全球初级卫生保健运动的中国符号）。黑死病的劳动力经济学链 [[serfdom]]、[[malthus]]。",
+  "links": [
+   {
+    "to": "han-medicine",
+    "rel": "related"
+   },
+   {
+    "to": "science-two-bombs",
+    "rel": "related"
+   },
+   {
+    "to": "serfdom",
+    "rel": "related"
+   },
+   {
+    "to": "columbian-exchange",
+    "rel": "related"
+   },
+   {
+    "to": "welfare-state",
+    "rel": "related"
+   },
+   {
+    "to": "urbanisation",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "science-tech",
+   "society"
+  ],
+  "period": "古代至今",
+  "pron": "epidemic /ˌɛpɪˈdɛmɪk/",
+  "etymology": "epidemic 源自希腊 epi（在上）+ dēmos（民众）——“降临于民”之疾；pandemic 则 pan-（全体）。",
+  "synonyms": [
+   {
+    "word": "pandemic",
+    "ipa": "/pænˈdɛmɪk/",
+    "sentence": "A pandemic is an epidemic with a passport."
+   },
+   {
+    "word": "quarantine",
+    "ipa": "/kˈwɔrənˌtin/",
+    "sentence": "Quarantine is the fortieth day, Venetian arithmetic."
+   }
+  ]
+ }
 ]

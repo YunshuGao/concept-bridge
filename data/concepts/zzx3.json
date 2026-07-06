@@ -1,47 +1,61 @@
 [
-  {
-    "id": "logic-toolkit",
-    "zh": "逻辑与思维（形式逻辑与推理）",
-    "pinyin": "luóji yǔ sīwéi",
-    "en": "the logic toolkit: laws and inference",
-    "def_zh": "形式逻辑基本规律：同一律（思维的确定性——概念判断保持同一，防偷换概念/论题）、矛盾律（一致性——互相矛盾的判断不能同真，防自相矛盾）、排中律（明确性——互相矛盾的判断不能同假，防骑墙居中）。概念（内涵外延；定义与划分）与判断。推理：演绎推理（必然推理——三段论、假言/选言推理，前提真+形式有效则结论必然真）、归纳推理（不完全归纳为或然——求同求异共变等穆勒五法提高可靠性）、类比推理（或然——启发发现）。辩证思维（整体性动态性；分析与综合）；创新思维（联想、发散与聚合、逆向思维、超前思维）。",
-    "def_en": "Critical thinking with Chinese textbook rigour: the three classical laws (identity — no equivocation; non-contradiction; excluded middle — no fence-sitting), concepts with intension and extension, and the inference family — deduction's guarantee (valid form + true premises = necessarily true conclusion, syllogisms and conditionals included), induction's probability (Mill's methods to strengthen it), analogy's suggestiveness. Capped with dialectical and creative thinking (analysis/synthesis, divergent/convergent, reverse and anticipatory thinking) — in effect, the argumentative English survival kit: every fallacy name and inference verb an essay or leader column runs on.",
-    "sources": [
-      {
-        "book": "zzx3",
-        "chapter": "第二单元 遵循逻辑思维规则"
-      }
-    ],
-    "collocations": [
-      "the law of non-contradiction",
-      "deduction, induction, analogy",
-      "syllogism",
-      "equivocation",
-      "valid vs sound"
-    ],
-    "example": "IELTS and university writing rubrics grade exactly this chapter — 'develop a coherent argument, avoid logical fallacies'; the Chinese logic textbook and the western style guide turn out to be teaching the same skill.",
-    "nuance": "同一律/矛盾律/排中律 = the laws of identity / non-contradiction / excluded middle（亚里士多德——链 [[aristotle]] 收环）。“偷换概念”= equivocation；“自相矛盾”= self-contradiction（韩非子矛盾典故是中文“矛盾”一词本源——链 [[legalism]]、[[dialectics]] 的 contradiction 三义辨析：逻辑矛盾/辩证矛盾/成语矛盾——本知识库最精微的一组区分）。valid（有效）vs sound（可靠）为逻辑英语关键对。",
-    "links": [
-      {
-        "to": "aristotle",
-        "rel": "broader"
-      },
-      {
-        "to": "dialectics",
-        "rel": "related"
-      },
-      {
-        "to": "legalism",
-        "rel": "related"
-      },
-      {
-        "to": "socrates",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas"
-    ],
-    "period": "教材体系"
-  }
+ {
+  "id": "logic-toolkit",
+  "zh": "逻辑与思维（形式逻辑与推理）",
+  "pinyin": "luóji yǔ sīwéi",
+  "en": "the logic toolkit: laws and inference",
+  "def_zh": "形式逻辑基本规律：同一律（思维的确定性——概念判断保持同一，防偷换概念/论题）、矛盾律（一致性——互相矛盾的判断不能同真，防自相矛盾）、排中律（明确性——互相矛盾的判断不能同假，防骑墙居中）。概念（内涵外延；定义与划分）与判断。推理：演绎推理（必然推理——三段论、假言/选言推理，前提真+形式有效则结论必然真）、归纳推理（不完全归纳为或然——求同求异共变等穆勒五法提高可靠性）、类比推理（或然——启发发现）。辩证思维（整体性动态性；分析与综合）；创新思维（联想、发散与聚合、逆向思维、超前思维）。",
+  "def_en": "Critical thinking with Chinese textbook rigour: the three classical laws (identity — no equivocation; non-contradiction; excluded middle — no fence-sitting), concepts with intension and extension, and the inference family — deduction's guarantee (valid form + true premises = necessarily true conclusion, syllogisms and conditionals included), induction's probability (Mill's methods to strengthen it), analogy's suggestiveness. Capped with dialectical and creative thinking (analysis/synthesis, divergent/convergent, reverse and anticipatory thinking) — in effect, the argumentative English survival kit: every fallacy name and inference verb an essay or leader column runs on.",
+  "sources": [
+   {
+    "book": "zzx3",
+    "chapter": "第二单元 遵循逻辑思维规则"
+   }
+  ],
+  "collocations": [
+   "the law of non-contradiction",
+   "deduction, induction, analogy",
+   "syllogism",
+   "equivocation",
+   "valid vs sound"
+  ],
+  "example": "IELTS and university writing rubrics grade exactly this chapter — 'develop a coherent argument, avoid logical fallacies'; the Chinese logic textbook and the western style guide turn out to be teaching the same skill.",
+  "nuance": "同一律/矛盾律/排中律 = the laws of identity / non-contradiction / excluded middle（亚里士多德——链 [[aristotle]] 收环）。“偷换概念”= equivocation；“自相矛盾”= self-contradiction（韩非子矛盾典故是中文“矛盾”一词本源——链 [[legalism]]、[[dialectics]] 的 contradiction 三义辨析：逻辑矛盾/辩证矛盾/成语矛盾——本知识库最精微的一组区分）。valid（有效）vs sound（可靠）为逻辑英语关键对。",
+  "links": [
+   {
+    "to": "aristotle",
+    "rel": "broader"
+   },
+   {
+    "to": "dialectics",
+    "rel": "related"
+   },
+   {
+    "to": "legalism",
+    "rel": "related"
+   },
+   {
+    "to": "socrates",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "period": "教材体系",
+  "pron": "inference /ˈɪnfərəns/",
+  "etymology": "inference 源自拉丁 inferre（携入）——推理即“把结论带进来”。",
+  "synonyms": [
+   {
+    "word": "deduction",
+    "ipa": "/dɪˈdəkʃən/",
+    "sentence": "Deduction guarantees; induction gambles well."
+   },
+   {
+    "word": "law of non-contradiction",
+    "ipa": "/lɔ əv nɑn-ˌkɑntrəˈdɪkʃən/",
+    "sentence": "The law of non-contradiction refuses to have it both ways."
+   }
+  ]
+ }
 ]

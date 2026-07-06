@@ -1,505 +1,645 @@
 [
-  {
-    "id": "zongfa",
-    "zh": "宗法制",
-    "pinyin": "zōngfǎzhì",
-    "en": "the patrilineal lineage system",
-    "def_zh": "与西周分封制互为表里的制度：以父系血缘为纽带，嫡长子继承制为核心（嫡长子为大宗、余子为小宗），解决统治阶级内部在权力和财产分配方面的矛盾；家国同构，政治权力分配与血缘关系相结合——对中国社会结构、家族观念影响绵长深远。",
-    "def_en": "The twin of Zhou enfeoffment: descent-line law built on primogeniture — the eldest son by the principal wife heading the great line, younger sons founding lesser lines — allocating power and property inside the ruling clan and fusing family with state ('the state as family writ large'). Its residue outlived every dynasty: ancestral halls, lineage trusts, and the family-first grammar of Chinese social life.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第1课 中国古代政治制度的形成与发展"
-      }
-    ],
-    "collocations": [
-      "primogeniture",
-      "lineage/clan organisation",
-      "ancestral worship",
-      "family-state homology"
-    ],
-    "example": "Family firms' succession fights read like Zhou constitutional crises — Asia's business press explains chaebol and Chinese-founder successions with lineage vocabulary this system minted.",
-    "nuance": "嫡长子继承制 = primogeniture（欧洲同制——[[fengjian]] 与 feudalism 比较的又一支点）。大宗小宗可译 the major/minor lines of descent。“家国同构”= the homology of family and state——理解中国政治文化的钥匙概念，英语汉学用 familism/family-state 讨论。",
-    "links": [
-      {
-        "to": "fengjian",
-        "rel": "related"
-      },
-      {
-        "to": "shang-zhou",
-        "rel": "broader"
-      },
-      {
-        "to": "confucius",
-        "rel": "influenced"
-      },
-      {
-        "to": "clan-society",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance",
-      "society",
-      "ideas"
-    ],
-    "period": "西周"
-  },
-  {
-    "id": "nine-rank",
-    "zh": "九品中正制",
-    "pinyin": "jiǔpǐn zhōngzhèng zhì",
-    "en": "the Nine-Rank system",
-    "def_zh": "曹魏创立的选官制度：在各州郡设中正官，依家世、道德、才能将士人评为九等（上上至下下），朝廷据以授官。初创时兼顾人才，西晋后中正官被世家大族垄断，评定标准唯重家世——“上品无寒门，下品无势族”，成为维护士族特权的工具；至隋被科举制取代。",
-    "def_en": "Cao Wei's recruitment fix: local 'rectifiers' graded gentlemen into nine ranks by pedigree, character and talent, the court appointing accordingly. Capture followed fast — the great families monopolised the rectifierships and pedigree swallowed the other criteria, yielding the era's bitter epigram: 'no poor families in the upper ranks, no powerful clans in the lower'. Aristocracy with a scorecard, until the examinations abolished the scorer.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第5课 中国古代官员的选拔与管理"
-      }
-    ],
-    "collocations": [
-      "aristocratic capture",
-      "pedigree over merit",
-      "the great families",
-      "gatekeeping"
-    ],
-    "example": "'Upper ranks, no poor families' is quoted in every Chinese debate about elite reproduction — the ancient one-liner for what sociologists now measure as intergenerational advantage in admissions and hiring.",
-    "nuance": "英语定译 the Nine-Rank (Arbiter) system / nine-grade controller system。士族门阀 = the aristocratic great clans/gentry clans（魏晋门阀政治 aristocratic politics 为汉学专题）。本节点补齐选官三部曲：察举（[[han-wudi]]）→九品中正→科举（[[imperial-examinations]]）。",
-    "links": [
-      {
-        "to": "han-wudi",
-        "rel": "replaced"
-      },
-      {
-        "to": "imperial-examinations",
-        "rel": "replaced-by"
-      },
-      {
-        "to": "jin-disunion",
-        "rel": "related"
-      },
-      {
-        "to": "fengjian",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance",
-      "society"
-    ],
-    "period": "220年–隋"
-  },
-  {
-    "id": "western-civil-service",
-    "zh": "西方文官制度",
-    "pinyin": "Xīfāng wénguān zhìdù",
-    "en": "the Western civil service",
-    "def_zh": "近代西方原行恩赐官职制、“政党分肥制”（美国，selon胜选者分配官职），腐败低效。工业革命后国家管理职能急剧扩展，要求专业化官员队伍：英国1855、1870年两次枢密院令确立文官制度——公开考试、择优录用、政治中立、职务常任、论功晋升；美国1883年《彭德尔顿法》建立联邦文官制度。西方文官制度的建立借鉴了中国科举制；它规范了西方国家政府行政部门事务官员的选用管理、实现了政治和管理的分离、有利于政府工作稳定性持续性、促进了国家治理水平提高（亦有官僚习气、机构膨胀等问题）。",
-    "def_en": "Before reform, Western offices went by patronage — America's 'spoils system' rotating the bureaucracy with each election — until industrial-age government outgrew amateurs: Britain's orders-in-council (1855, 1870) built the modern civil service on open competitive examination, merit, permanence and political neutrality, and America's Pendleton Act (1883) followed. The textbook states plainly what Victorian critics sneered at: the model borrowed from China's examinations. Politics separated from administration; the permanent government was born — with its own pathologies of bureaucratism and bloat duly noted.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第6课 西方的文官制度"
-      }
-    ],
-    "collocations": [
-      "the spoils system",
-      "open competitive examination",
-      "political neutrality",
-      "the permanent secretary",
-      "Yes Minister"
-    ],
-    "example": "'Yes Minister' is the culture's verdict on this institution — Sir Humphrey the eternal permanent secretary managing his transient minister; the joke only works because the 1870 settlement did.",
-    "nuance": "文官 = civil servants；“政党分肥制”= the spoils system（“to the victor belong the spoils”）；政治中立 = political neutrality；政务官/事务官之分 = political appointees vs career officials——比较政府学的骨架区分。诺斯科特—屈维廉报告 the Northcote-Trevelyan Report (1854) 与科举渊源已在 [[imperial-examinations]] 铺垫，此处闭环。",
-    "links": [
-      {
-        "to": "imperial-examinations",
-        "rel": "influenced-by"
-      },
-      {
-        "to": "industrial-revolution",
-        "rel": "effect"
-      },
-      {
-        "to": "junxian",
-        "rel": "related"
-      },
-      {
-        "to": "constitutional-monarchy",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "governance"
-    ],
-    "period": "1855年–1883年"
-  },
-  {
-    "id": "chinese-legal-tradition",
-    "zh": "中华法系（礼法结合）",
-    "pinyin": "Zhōnghuá fǎxì",
-    "en": "the Chinese legal tradition: law wedded to ritual",
-    "def_zh": "先秦德治法治之争（儒家孔孟主德治仁政；法家商鞅韩非主法治——铸刑书为中国最早成文法）后，汉魏以降律令儒家化：以经注律、引经决狱。《唐律疏议》（653年）继承汉魏以来法律制定和阐释的经验、是中国现存最早最完整的封建法典，是中华法系确立的标志——礼法结合的典范（“德礼为政教之本，刑罚为政教之用”）。宋以后理学深入族规家训，明清乡约（明太祖“六谕”、康熙“圣谕十六条”）宣讲教化与法律合流——法律与教化并用为中国古代国家治理的基本特征。",
-    "def_en": "From the classical quarrel — Confucian rule by virtue against Legalist rule by law — imperial China synthesised: statutes read through the classics, verdicts argued from scripture, until the Tang Code with Commentary (653), the oldest complete Chinese code extant, perfected the marriage ('virtue and ritual are the root of government; punishment its instrument') and founded what jurists call the Chinese legal family, exported wholesale to Japan, Korea and Vietnam. Below the code ran the pedagogy — clan rules, village covenants, imperial maxims read aloud — law and moral instruction as one governing technology.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第8课 中国古代的法治与教化"
-      }
-    ],
-    "collocations": [
-      "the Tang Code",
-      "law and ritual",
-      "Confucianisation of the law",
-      "village covenants"
-    ],
-    "example": "Comparative lawyers class the world into common law, civil law, Islamic law — and the Chinese legal family, whose Tang Code governed a quarter of humanity's ancestors; 'rule of law v. rule of virtue' remains a live official formula (依法治国与以德治国相结合).",
-    "nuance": "中华法系 = the Chinese legal family/tradition（法系 legal family 为比较法学术语）。《唐律疏议》= the Tang Code (with Commentary)。“律令儒家化”= the Confucianisation of law（瞿同祖名题，英语汉学经典）。乡约 = village covenants/community compacts。当代“依法治国”= law-based governance（官方译，非 rule of law——细微而要害）。",
-    "links": [
-      {
-        "to": "legalism",
-        "rel": "related"
-      },
-      {
-        "to": "confucius",
-        "rel": "related"
-      },
-      {
-        "to": "justinian-code",
-        "rel": "related"
-      },
-      {
-        "to": "tang-golden-age",
-        "rel": "related"
-      },
-      {
-        "to": "common-vs-civil-law",
-        "rel": "contrast"
-      }
-    ],
-    "themes": [
-      "ideas",
-      "governance"
-    ],
-    "period": "653年定型"
-  },
-  {
-    "id": "common-vs-civil-law",
-    "zh": "英美法系与大陆法系",
-    "pinyin": "Yīng-Měi fǎxì / dàlù fǎxì",
-    "en": "common law and civil law",
-    "def_zh": "近代西方两大法系：英美法系（普通法系）——11世纪诺曼征服后王室法院巡回审判、以判例法为主、遵循先例，12世纪末形成普通法，光荣革命后确立君主立宪制框架下的法治，陪审团制度、律师制度、“无罪推定”；美国等承袭。大陆法系（民法系）——以罗马法为基础、以《法国民法典》（1804，拿破仑法典）为代表的成文法体系，明确立法与司法分工、法官依法审判；法德等欧陆及其影响地区通行。近代西方法律制度的基本特征：立法司法独立、保障个人权利（陪审、律师、无罪推定）——亦有财产多寡的实际不平等等局限。基督教的宗教伦理与教化在中古及近代西方社会发挥了重要作用。",
-    "def_en": "The West runs on two legal operating systems. Common law, grown from Norman England's circuit judges: case law and precedent (stare decisis), juries, adversarial trial, the presumption of innocence — exported wherever Britain ruled. Civil law, Rome's heir through the Code Napoléon (1804): comprehensive written codes, judges applying rather than making law — the continental and Latin world's standard. The textbook's balance sheet credits both with judicial independence and rights protection, and debits both with the gap between formal equality and propertied reality; Christian ethics, it adds, did the culture's day-to-day moral schooling.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第9课 近代西方的法律与教化"
-      }
-    ],
-    "collocations": [
-      "case law and precedent",
-      "codified law",
-      "the presumption of innocence",
-      "trial by jury",
-      "adversarial vs inquisitorial"
-    ],
-    "example": "Why Hong Kong finance documents itself in English common law while mainland contracts cite codes — and why Brexit lawyers and EU drafters chronically misread each other — is this one distinction doing daily work.",
-    "nuance": "先例原则 = stare decisis/precedent；无罪推定 = the presumption of innocence；对抗制/纠问制 = adversarial/inquisitorial。本节点整合先前伏线：[[roman-law]]→[[justinian-code]]→大陆法系；[[magna-carta]]→[[glorious-revolution]]→普通法。《拿破仑法典》已在 [[napoleon]]。三大法系并 [[chinese-legal-tradition]] 构成全球法律地图。",
-    "links": [
-      {
-        "to": "roman-law",
-        "rel": "broader"
-      },
-      {
-        "to": "justinian-code",
-        "rel": "related"
-      },
-      {
-        "to": "magna-carta",
-        "rel": "related"
-      },
-      {
-        "to": "napoleon",
-        "rel": "related"
-      },
-      {
-        "to": "chinese-legal-tradition",
-        "rel": "contrast"
-      }
-    ],
-    "themes": [
-      "ideas",
-      "governance"
-    ],
-    "period": "11世纪至今"
-  },
-  {
-    "id": "westphalia",
-    "zh": "近代民族国家与国际法（威斯特伐利亚体系）",
-    "pinyin": "Wēisītèfáliyà tǐxì",
-    "en": "the nation-state and international law: Westphalia and after",
-    "def_zh": "宗教改革与专制王权推动西欧民族国家形成（国家主权意识、民族认同）。格劳秀斯《战争与和平法》（1625）奠定国际法基础（国家主权“至高无上”“独立平等”）。1648年《威斯特伐利亚和约》结束三十年战争，确立国际关系中的国家领土、主权与独立等原则，开创用国际会议和谈判达成协议解决国际争端、结束战争的先例，确认缔约国必须遵守条约等原则——威斯特伐利亚体系为近代国际法体系之始。1815年维也纳会议建立维也纳体系，外交制度进一步发展（常驻使节等）；一战后国联、二战后联合国与《联合国宪章》确立的主权平等、不干涉内政等原则延续发展这一传统。",
-    "def_en": "Reformation and royal absolutism hatched the sovereign nation-state; Grotius's On the Law of War and Peace (1625) gave it a law; and the Peace of Westphalia (1648), closing the Thirty Years War, wrote the rules the world still argues over: territorial sovereignty, the equality and independence of states, disputes settled by congress and treaty, treaties binding once signed. Vienna (1815) added the machinery of permanent diplomacy; the League and the UN Charter universalised the principles. 'Westphalian sovereignty' remains the term of art — invoked whenever intervention, human rights or supranational union tests the 1648 default.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第12课 近代西方民族国家与国际法的发展"
-      }
-    ],
-    "collocations": [
-      "Westphalian sovereignty",
-      "the nation-state",
-      "non-interference",
-      "the law of nations",
-      "the international system"
-    ],
-    "example": "China's diplomacy is often called 'the last Westphalian power' — sovereignty and non-interference held absolute — an irony historians savour, since the system arrived at gunpoint in 1840 and was resisted precisely as foreign.",
-    "nuance": "民族国家 = the nation-state（nation/state/country 的精细区分是政治英语基本功）；主权 = sovereignty。“威斯特伐利亚体系”= the Westphalian system——IR 头号历史术语。格劳秀斯 = Grotius（国际法之父）。与 [[bandung-conference]] 五项原则、[[united-nations]] 宪章原则、[[qing-frontier]] 尼布楚（中国首个 Westphalian 式条约）全部连通。",
-    "links": [
-      {
-        "to": "wwi",
-        "rel": "related"
-      },
-      {
-        "to": "united-nations",
-        "rel": "influenced"
-      },
-      {
-        "to": "qing-frontier",
-        "rel": "related"
-      },
-      {
-        "to": "bandung-conference",
-        "rel": "related"
-      },
-      {
-        "to": "versailles",
-        "rel": "related"
-      },
-      {
-        "to": "european-integration",
-        "rel": "contrast"
-      }
-    ],
-    "themes": [
-      "governance",
-      "ideas"
-    ],
-    "period": "1648年"
-  },
-  {
-    "id": "chinese-currency",
-    "zh": "中国货币演进（从铜钱到白银）",
-    "pinyin": "Zhōngguó huòbì yǎnjìn",
-    "en": "China's monetary evolution: from bronze coin to silver",
-    "def_zh": "商后期出现铜铸币；春秋战国布币刀币圜钱蚁鼻钱并行，秦统一为圆形方孔钱（沿用两千年；汉五铢、唐开元通宝改“通宝”制、北宋起铸年号钱）。铜钱价值低流通量不足生“钱荒”，北宋交子（世界最早纸币）作辅币，元朝以纸钞为单一流通货币——元末滥印致恶性通胀财政崩溃。明中期起白银渐成国家财政和民间交易的基本支付手段（白银货币化——商品经济发展之需亦推动其发展），清朝白银法定与铜钱兼用。晚清铸银元；1935年国民政府法币改革（白银收归国有），抗战解放战争间法币急剧贬值崩溃，金圆券银圆券相继失败；1948年12月1日中国人民银行成立、发行人民币，新中国法定货币，长期币值稳定，国际影响日增。",
-    "def_en": "China's money ran the world's longest experiment: bronze coin standardised by Qin and reissued for two millennia; paper invented (jiaozi) when coin ran short, made sole legal tender by the Yuan — and destroyed by the printing press, the first fiat hyperinflation; then silver, flooding in from American mines via the galleon trade, monetising the Ming economy from below until the state legalised what commerce had decided. The modern sequel compressed the cycle: the 1935 fabi reform nationalised silver, war inflation annihilated fabi and gold yuan alike, and from December 1948 the People's Bank's renminbi restored what the textbook calls the first principle — stable money, centrally and singly issued.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第15课 货币的使用与世界货币体系的形成"
-      }
-    ],
-    "collocations": [
-      "the silver economy",
-      "monetisation of silver",
-      "fiat inflation",
-      "currency reform",
-      "renminbi internationalisation"
-    ],
-    "example": "Global historians love the loop: Potosí's silver sailed to Manila and bought Ming taxes — the first world economy ran on Chinese demand for a metal China barely mined, [[columbian-exchange]] in monetary form.",
-    "nuance": "白银货币化 = the monetisation of silver（明清经济史核心议题，弗兰克《白银资本》ReOrient 使其进入全球史）。法币 = fabi (legal tender notes)；金圆券 = the gold yuan——链 [[civil-war-1946]] 通胀亡国叙事与 [[versailles]] 魏玛。人民币 = renminbi (RMB)/yuan——货币名混用规则（currency=renminbi, unit=yuan）是财经英语必修。",
-    "links": [
-      {
-        "to": "jiaozi",
-        "rel": "broader"
-      },
-      {
-        "to": "columbian-exchange",
-        "rel": "related"
-      },
-      {
-        "to": "qing-prosperity",
-        "rel": "related"
-      },
-      {
-        "to": "civil-war-1946",
-        "rel": "related"
-      },
-      {
-        "to": "world-monetary-system",
-        "rel": "related"
-      },
-      {
-        "to": "qin-standardisation",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy"
-    ],
-    "period": "商代–1948年"
-  },
-  {
-    "id": "world-monetary-system",
-    "zh": "金本位与布雷顿森林体系",
-    "pinyin": "jīnběnwèi / Bùléidùn Sēnlín tǐxì",
-    "en": "the gold standard and Bretton Woods",
-    "def_zh": "19世纪国际结算日繁，1816年英国率先实行金本位制，各国先后采用——形成以英镑为中心、金币或黄金流通为主的国际金本位货币制度：金币法定含金量、自由流通不易贬值，促进资本主义生产和世界经济发展。1929年大危机挤兑致美国停兑黄金，金本位制崩溃，英法美各建货币集团各自为政。二战后美国成为资本主义世界霸主：1944年7月44国布雷顿森林会议确立以美元为中心的国际货币体系——35美元兑1盎司黄金、各国货币与美元挂钩（美元等同黄金，“美金”），设国际货币基金组织与世界银行；一定程度促进国际贸易、稳定国际金融，也为美国推行世界霸权提供有利条件。20世纪70年代初美国停止美元兑换黄金，布雷顿森林体系瓦解，浮动汇率取代固定汇率；美元仍为主要储备货币，欧元日元人民币影响上升（2015年中国倡设亚投行）。",
-    "def_en": "Britain fixed sterling to gold in 1816 and the world followed: the classical gold standard — sterling at the centre, currencies anchored in metal — banked the first globalisation until 1929's bank runs broke it into rival currency blocs. Bretton Woods (July 1944, 44 nations) rebuilt the anchor around the new hegemon: $35 an ounce, everyone pegged to the dollar, the IMF and World Bank as machinery — trade stabilised, and American primacy institutionalised, until Nixon closed the gold window in 1971 and floating rates took over. The dollar still dominates reserves and settlement; the euro, yen and renminbi — with China's AIIB as institutional statement — crowd the stage's edges.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第15课 货币的使用与世界货币体系的形成"
-      }
-    ],
-    "collocations": [
-      "the gold standard",
-      "the Bretton Woods system",
-      "the Nixon shock",
-      "reserve currency",
-      "exorbitant privilege"
-    ],
-    "example": "Every debate on de-dollarisation, crypto or CBDCs is a Bretton Woods seance — 'a new Bretton Woods' has been demanded at every crisis since 1971, which tells you what the original achieved.",
-    "nuance": "金本位 = the gold standard；固定/浮动汇率 = fixed/floating exchange rates；储备货币 = reserve currency；“嚣张的特权”= exorbitant privilege（法财长语，美元霸权的标准短语）。尼克松冲击 the Nixon shock (1971)。IMF/World Bank/亚投行的机构谱系连接 [[wto-globalisation]]、[[marshall-plan]]、[[multipolar-world]]——Economist 财经版的全套家当。",
-    "links": [
-      {
-        "to": "great-depression",
-        "rel": "related"
-      },
-      {
-        "to": "wwii",
-        "rel": "effect"
-      },
-      {
-        "to": "cold-war",
-        "rel": "related"
-      },
-      {
-        "to": "wto-globalisation",
-        "rel": "related"
-      },
-      {
-        "to": "chinese-currency",
-        "rel": "related"
-      },
-      {
-        "to": "industrial-revolution",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy"
-    ],
-    "period": "1816年–1971年"
-  },
-  {
-    "id": "chinese-taxation",
-    "zh": "中国赋税制度的演变",
-    "pinyin": "Zhōngguó fùshuì zhìdù",
-    "en": "the evolution of Chinese taxation",
-    "def_zh": "秦汉赋役三分：田赋（秦“收泰半之赋”；汉降至十五税一、三十税一）、人头税（口赋算赋）、徭役（更卒正卒戍卒）。隋唐租庸调制（基于均田制授田；以庸代役）；均田制破坏后780年杨炎两税法——以国家财政支出确定赋税总额、按田亩资产征税、夏秋两征：征税基准从人丁转向土地财产的转折。宋加征代役金（王安石募役法）；明后期张居正一条鞭法：赋役合并、一概折银（白银货币化的配套）——中国赋役制度重大变革；1712年康熙“滋生人丁永不加赋”、雍正摊丁入亩——存在约2000年的人头税彻底废除，人身束缚进一步减弱。近代：鸦片战争后协定关税丧失关税自主权（赫德掌海关半世纪），1927–30年国民政府“改订新约”部分收回，新中国真正收回；1980年个人所得税法（1799年英国首创个税）；2006年全面取消农业税——2000多年农业税退出历史舞台。",
-    "def_en": "Two millennia of fiscal history run one direction: from taxing bodies to taxing wealth. Qin took 'the greater half'; Han cut land tax to a thirtieth but poll taxes and corvée ground on. The Tang's grain-cloth-service triad collapsed with its land allotments, and the Two-Tax reform of 780 — tax by acreage and assets, twice yearly, budget-first — made the great turn; Zhang Juzheng's Single Whip (1580s) commuted everything into silver, and the Yongzheng emperor's merger of poll tax into land tax (1720s) abolished the head count after twenty centuries. The modern arc ran through tariff autonomy lost at Nanjing (Hart's Customs run by foreigners for fifty years) and regained in 1949 — to the 2006 abolition of the agricultural tax itself, closing a 2,600-year account first opened by the Warring States.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第16课 中国赋税制度的演变"
-      }
-    ],
-    "collocations": [
-      "poll tax",
-      "corvée",
-      "the Two-Tax reform",
-      "the Single Whip reform",
-      "tariff autonomy"
-    ],
-    "example": "'From people to land to silver' is the arc public-finance courses borrow from China — and 2006's农业税 abolition made world news precisely because the ledger it closed was older than Rome's.",
-    "nuance": "租庸调 = the zu-yong-diao (grain-labour-cloth) system；两税法 = the Two-Tax reform；一条鞭法 = the Single Whip reform（定译）；摊丁入亩 = merging the poll tax into the land tax。赫德 = Robert Hart（客卿治关——半殖民财政的人格化，链 [[opium-war]]）。个税起源1799英国（战争财政！）链 [[napoleon]]。",
-    "links": [
-      {
-        "to": "han-founding",
-        "rel": "related"
-      },
-      {
-        "to": "an-lushan",
-        "rel": "related"
-      },
-      {
-        "to": "chinese-currency",
-        "rel": "related"
-      },
-      {
-        "to": "qing-prosperity",
-        "rel": "related"
-      },
-      {
-        "to": "opium-war",
-        "rel": "related"
-      },
-      {
-        "to": "magna-carta",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "economy",
-      "governance"
-    ],
-    "period": "秦–2006年"
-  },
-  {
-    "id": "hukou-baojia",
-    "zh": "户籍制度与基层治理",
-    "pinyin": "hùjí zhìdù / bǎojiǎ",
-    "en": "household registration and grassroots control",
-    "def_zh": "战国始大规模编排民户（秦献公“为户籍相伍”；《商君书》男女皆登记）——户籍是赋役征发的依据，历代极重视：汉“编户齐民”、隋“大索貌阅”、唐三年一造；东晋黄籍白籍与“土断”；宋主户客户；元“诸色户计”按职业定籍世代相袭；明黄册（里甲制为基础，玄武湖册库153万册）；清摊丁入亩后作用削弱、乾隆永停编审。基层组织：秦汉乡里什伍、唐邻保、王安石保甲、明十家牌法、清保甲制（十户一牌十牌一甲十甲一保）——户籍管理与治安监控合一；任务是征发赋役和维护稳定。社会救济：汉常平仓、隋义仓、朱熹社仓，宋以后宗族（范仲淹义田）与慈善组织作用渐大。（西方：中古庄园与城市自治，近代地方自治传统；现代社会保障体系。）",
-    "def_en": "The registered household is China's oldest governing instrument: from Warring-States Qin enrolling every man and woman ('the born recorded, the dead struck off') through Han's 'registered equal subjects', colour-coded refugee registers in the Jin, occupation-castes under the Yuan, to the Ming's Yellow Registers — 1.5 million volumes archived on an island lake — the file that made taxation, conscription and immobility possible. Below it ran mutual surveillance: five-family groups, Wang Anshi's baojia, Qing door-plaques listing every resident, watch-and-report as neighbourhood duty; beside it, the granary line — ever-normal, charity and community granaries — as the state's famine insurance. The chapter is the deep history of two living institutions: the hukou and the grid.",
-    "sources": [
-      {
-        "book": "hx1",
-        "chapter": "第17课 中国古代的户籍制度与社会治理"
-      }
-    ],
-    "collocations": [
-      "the hukou system",
-      "the baojia system",
-      "mutual surveillance",
-      "ever-normal granaries",
-      "grid management"
-    ],
-    "example": "Every migration-and-inequality story in China runs on the word hukou — the 2,300-year-old register that still prices a child's schooling by birthplace; and 'grid management' (网格化) is baojia with a dashboard, as commentators noted during lockdowns.",
-    "nuance": "户籍 = the household registration (hukou) system——hukou 已入英语；保甲 = the baojia system（同样直接使用）。常平仓 = ever-normal granaries（此译经华莱士影响了美国新政农业政策——制度环流的奇例，链 [[new-deal]]）。“编户齐民”= registered equal subjects。网格化治理 = grid(-based) management——当代延伸词。",
-    "links": [
-      {
-        "to": "chinese-taxation",
-        "rel": "related"
-      },
-      {
-        "to": "shang-yang",
-        "rel": "related"
-      },
-      {
-        "to": "junxian",
-        "rel": "related"
-      },
-      {
-        "to": "welfare-state",
-        "rel": "related"
-      },
-      {
-        "to": "new-deal",
-        "rel": "related"
-      },
-      {
-        "to": "manorialism",
-        "rel": "contrast"
-      }
-    ],
-    "themes": [
-      "governance",
-      "society"
-    ],
-    "period": "战国至今"
-  }
+ {
+  "id": "zongfa",
+  "zh": "宗法制",
+  "pinyin": "zōngfǎzhì",
+  "en": "the patrilineal lineage system",
+  "def_zh": "与西周分封制互为表里的制度：以父系血缘为纽带，嫡长子继承制为核心（嫡长子为大宗、余子为小宗），解决统治阶级内部在权力和财产分配方面的矛盾；家国同构，政治权力分配与血缘关系相结合——对中国社会结构、家族观念影响绵长深远。",
+  "def_en": "The twin of Zhou enfeoffment: descent-line law built on primogeniture — the eldest son by the principal wife heading the great line, younger sons founding lesser lines — allocating power and property inside the ruling clan and fusing family with state ('the state as family writ large'). Its residue outlived every dynasty: ancestral halls, lineage trusts, and the family-first grammar of Chinese social life.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第1课 中国古代政治制度的形成与发展"
+   }
+  ],
+  "collocations": [
+   "primogeniture",
+   "lineage/clan organisation",
+   "ancestral worship",
+   "family-state homology"
+  ],
+  "example": "Family firms' succession fights read like Zhou constitutional crises — Asia's business press explains chaebol and Chinese-founder successions with lineage vocabulary this system minted.",
+  "nuance": "嫡长子继承制 = primogeniture（欧洲同制——[[fengjian]] 与 feudalism 比较的又一支点）。大宗小宗可译 the major/minor lines of descent。“家国同构”= the homology of family and state——理解中国政治文化的钥匙概念，英语汉学用 familism/family-state 讨论。",
+  "links": [
+   {
+    "to": "fengjian",
+    "rel": "related"
+   },
+   {
+    "to": "shang-zhou",
+    "rel": "broader"
+   },
+   {
+    "to": "confucius",
+    "rel": "influenced"
+   },
+   {
+    "to": "clan-society",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance",
+   "society",
+   "ideas"
+  ],
+  "period": "西周",
+  "pron": "primogeniture /ˌpraɪməʊˈdʒɛnɪtʃə/",
+  "etymology": "primogeniture 源自拉丁 primus（第一）+ genitura（出生）——长子继承制。",
+  "synonyms": [
+   {
+    "word": "lineage",
+    "ipa": "/ˈlɪniəʤ/",
+    "sentence": "Lineage is genealogy given legal force."
+   },
+   {
+    "word": "patriliny",
+    "ipa": "/ˈpætrɪlɪni/",
+    "sentence": "Patriliny routes property and surname down one line."
+   }
+  ]
+ },
+ {
+  "id": "nine-rank",
+  "zh": "九品中正制",
+  "pinyin": "jiǔpǐn zhōngzhèng zhì",
+  "en": "the Nine-Rank system",
+  "def_zh": "曹魏创立的选官制度：在各州郡设中正官，依家世、道德、才能将士人评为九等（上上至下下），朝廷据以授官。初创时兼顾人才，西晋后中正官被世家大族垄断，评定标准唯重家世——“上品无寒门，下品无势族”，成为维护士族特权的工具；至隋被科举制取代。",
+  "def_en": "Cao Wei's recruitment fix: local 'rectifiers' graded gentlemen into nine ranks by pedigree, character and talent, the court appointing accordingly. Capture followed fast — the great families monopolised the rectifierships and pedigree swallowed the other criteria, yielding the era's bitter epigram: 'no poor families in the upper ranks, no powerful clans in the lower'. Aristocracy with a scorecard, until the examinations abolished the scorer.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第5课 中国古代官员的选拔与管理"
+   }
+  ],
+  "collocations": [
+   "aristocratic capture",
+   "pedigree over merit",
+   "the great families",
+   "gatekeeping"
+  ],
+  "example": "'Upper ranks, no poor families' is quoted in every Chinese debate about elite reproduction — the ancient one-liner for what sociologists now measure as intergenerational advantage in admissions and hiring.",
+  "nuance": "英语定译 the Nine-Rank (Arbiter) system / nine-grade controller system。士族门阀 = the aristocratic great clans/gentry clans（魏晋门阀政治 aristocratic politics 为汉学专题）。本节点补齐选官三部曲：察举（[[han-wudi]]）→九品中正→科举（[[imperial-examinations]]）。",
+  "links": [
+   {
+    "to": "han-wudi",
+    "rel": "replaced"
+   },
+   {
+    "to": "imperial-examinations",
+    "rel": "replaced-by"
+   },
+   {
+    "to": "jin-disunion",
+    "rel": "related"
+   },
+   {
+    "to": "fengjian",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance",
+   "society"
+  ],
+  "period": "220年–隋",
+  "pron": "aristocracy /ˌærɪˈstɒkrəsi/",
+  "etymology": "aristocracy 源自希腊 aristos（最优者）+ kratos（权力）——“贤者之治”终成门第之治，词义即讽刺。",
+  "synonyms": [
+   {
+    "word": "patronage",
+    "ipa": "/ˈpætrənɪʤ/",
+    "sentence": "Patronage systems grade the graders."
+   },
+   {
+    "word": "pedigree",
+    "ipa": "/ˈpɛdəgri/",
+    "sentence": "When pedigree is the criterion, merit is a rumour."
+   }
+  ]
+ },
+ {
+  "id": "western-civil-service",
+  "zh": "西方文官制度",
+  "pinyin": "Xīfāng wénguān zhìdù",
+  "en": "the Western civil service",
+  "def_zh": "近代西方原行恩赐官职制、“政党分肥制”（美国，selon胜选者分配官职），腐败低效。工业革命后国家管理职能急剧扩展，要求专业化官员队伍：英国1855、1870年两次枢密院令确立文官制度——公开考试、择优录用、政治中立、职务常任、论功晋升；美国1883年《彭德尔顿法》建立联邦文官制度。西方文官制度的建立借鉴了中国科举制；它规范了西方国家政府行政部门事务官员的选用管理、实现了政治和管理的分离、有利于政府工作稳定性持续性、促进了国家治理水平提高（亦有官僚习气、机构膨胀等问题）。",
+  "def_en": "Before reform, Western offices went by patronage — America's 'spoils system' rotating the bureaucracy with each election — until industrial-age government outgrew amateurs: Britain's orders-in-council (1855, 1870) built the modern civil service on open competitive examination, merit, permanence and political neutrality, and America's Pendleton Act (1883) followed. The textbook states plainly what Victorian critics sneered at: the model borrowed from China's examinations. Politics separated from administration; the permanent government was born — with its own pathologies of bureaucratism and bloat duly noted.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第6课 西方的文官制度"
+   }
+  ],
+  "collocations": [
+   "the spoils system",
+   "open competitive examination",
+   "political neutrality",
+   "the permanent secretary",
+   "Yes Minister"
+  ],
+  "example": "'Yes Minister' is the culture's verdict on this institution — Sir Humphrey the eternal permanent secretary managing his transient minister; the joke only works because the 1870 settlement did.",
+  "nuance": "文官 = civil servants；“政党分肥制”= the spoils system（“to the victor belong the spoils”）；政治中立 = political neutrality；政务官/事务官之分 = political appointees vs career officials——比较政府学的骨架区分。诺斯科特—屈维廉报告 the Northcote-Trevelyan Report (1854) 与科举渊源已在 [[imperial-examinations]] 铺垫，此处闭环。",
+  "links": [
+   {
+    "to": "imperial-examinations",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "industrial-revolution",
+    "rel": "effect"
+   },
+   {
+    "to": "junxian",
+    "rel": "related"
+   },
+   {
+    "to": "constitutional-monarchy",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "governance"
+  ],
+  "period": "1855年–1883年",
+  "pron": "civil service /ˈsɪvəl ˈsərvɪs/",
+  "etymology": "civil（civis 公民）+ service（servus 仆）——“公民之仆”，文官的理想自铭。",
+  "synonyms": [
+   {
+    "word": "bureaucracy",
+    "ipa": "/bjʊˈrɑkrəsi/",
+    "sentence": "Bureaucracy is government by desks — bureau plus kratos."
+   },
+   {
+    "word": "mandarinate",
+    "ipa": "/ˈmændərɪneɪt/",
+    "sentence": "Britain built a mandarinate and named it after China's."
+   }
+  ]
+ },
+ {
+  "id": "chinese-legal-tradition",
+  "zh": "中华法系（礼法结合）",
+  "pinyin": "Zhōnghuá fǎxì",
+  "en": "the Chinese legal tradition: law wedded to ritual",
+  "def_zh": "先秦德治法治之争（儒家孔孟主德治仁政；法家商鞅韩非主法治——铸刑书为中国最早成文法）后，汉魏以降律令儒家化：以经注律、引经决狱。《唐律疏议》（653年）继承汉魏以来法律制定和阐释的经验、是中国现存最早最完整的封建法典，是中华法系确立的标志——礼法结合的典范（“德礼为政教之本，刑罚为政教之用”）。宋以后理学深入族规家训，明清乡约（明太祖“六谕”、康熙“圣谕十六条”）宣讲教化与法律合流——法律与教化并用为中国古代国家治理的基本特征。",
+  "def_en": "From the classical quarrel — Confucian rule by virtue against Legalist rule by law — imperial China synthesised: statutes read through the classics, verdicts argued from scripture, until the Tang Code with Commentary (653), the oldest complete Chinese code extant, perfected the marriage ('virtue and ritual are the root of government; punishment its instrument') and founded what jurists call the Chinese legal family, exported wholesale to Japan, Korea and Vietnam. Below the code ran the pedagogy — clan rules, village covenants, imperial maxims read aloud — law and moral instruction as one governing technology.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第8课 中国古代的法治与教化"
+   }
+  ],
+  "collocations": [
+   "the Tang Code",
+   "law and ritual",
+   "Confucianisation of the law",
+   "village covenants"
+  ],
+  "example": "Comparative lawyers class the world into common law, civil law, Islamic law — and the Chinese legal family, whose Tang Code governed a quarter of humanity's ancestors; 'rule of law v. rule of virtue' remains a live official formula (依法治国与以德治国相结合).",
+  "nuance": "中华法系 = the Chinese legal family/tradition（法系 legal family 为比较法学术语）。《唐律疏议》= the Tang Code (with Commentary)。“律令儒家化”= the Confucianisation of law（瞿同祖名题，英语汉学经典）。乡约 = village covenants/community compacts。当代“依法治国”= law-based governance（官方译，非 rule of law——细微而要害）。",
+  "links": [
+   {
+    "to": "legalism",
+    "rel": "related"
+   },
+   {
+    "to": "confucius",
+    "rel": "related"
+   },
+   {
+    "to": "justinian-code",
+    "rel": "related"
+   },
+   {
+    "to": "tang-golden-age",
+    "rel": "related"
+   },
+   {
+    "to": "common-vs-civil-law",
+    "rel": "contrast"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "period": "653年定型",
+  "pron": "code /koʊd/",
+  "etymology": "code 源自拉丁 codex（木板书册）——法典即“成册之法”，《唐律疏议》正是。",
+  "synonyms": [
+   {
+    "word": "jurisprudence",
+    "ipa": "/ˌdʒʊərɪsˈpruːdəns/",
+    "sentence": "A jurisprudence wedded to ritual judges motives as well as acts."
+   },
+   {
+    "word": "legal family",
+    "ipa": "/ˈligəl ˈfæməli/",
+    "sentence": "Comparative law sorts the world into legal families."
+   }
+  ]
+ },
+ {
+  "id": "common-vs-civil-law",
+  "zh": "英美法系与大陆法系",
+  "pinyin": "Yīng-Měi fǎxì / dàlù fǎxì",
+  "en": "common law and civil law",
+  "def_zh": "近代西方两大法系：英美法系（普通法系）——11世纪诺曼征服后王室法院巡回审判、以判例法为主、遵循先例，12世纪末形成普通法，光荣革命后确立君主立宪制框架下的法治，陪审团制度、律师制度、“无罪推定”；美国等承袭。大陆法系（民法系）——以罗马法为基础、以《法国民法典》（1804，拿破仑法典）为代表的成文法体系，明确立法与司法分工、法官依法审判；法德等欧陆及其影响地区通行。近代西方法律制度的基本特征：立法司法独立、保障个人权利（陪审、律师、无罪推定）——亦有财产多寡的实际不平等等局限。基督教的宗教伦理与教化在中古及近代西方社会发挥了重要作用。",
+  "def_en": "The West runs on two legal operating systems. Common law, grown from Norman England's circuit judges: case law and precedent (stare decisis), juries, adversarial trial, the presumption of innocence — exported wherever Britain ruled. Civil law, Rome's heir through the Code Napoléon (1804): comprehensive written codes, judges applying rather than making law — the continental and Latin world's standard. The textbook's balance sheet credits both with judicial independence and rights protection, and debits both with the gap between formal equality and propertied reality; Christian ethics, it adds, did the culture's day-to-day moral schooling.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第9课 近代西方的法律与教化"
+   }
+  ],
+  "collocations": [
+   "case law and precedent",
+   "codified law",
+   "the presumption of innocence",
+   "trial by jury",
+   "adversarial vs inquisitorial"
+  ],
+  "example": "Why Hong Kong finance documents itself in English common law while mainland contracts cite codes — and why Brexit lawyers and EU drafters chronically misread each other — is this one distinction doing daily work.",
+  "nuance": "先例原则 = stare decisis/precedent；无罪推定 = the presumption of innocence；对抗制/纠问制 = adversarial/inquisitorial。本节点整合先前伏线：[[roman-law]]→[[justinian-code]]→大陆法系；[[magna-carta]]→[[glorious-revolution]]→普通法。《拿破仑法典》已在 [[napoleon]]。三大法系并 [[chinese-legal-tradition]] 构成全球法律地图。",
+  "links": [
+   {
+    "to": "roman-law",
+    "rel": "broader"
+   },
+   {
+    "to": "justinian-code",
+    "rel": "related"
+   },
+   {
+    "to": "magna-carta",
+    "rel": "related"
+   },
+   {
+    "to": "napoleon",
+    "rel": "related"
+   },
+   {
+    "to": "chinese-legal-tradition",
+    "rel": "contrast"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "governance"
+  ],
+  "period": "11世纪至今",
+  "pron": "precedent /ˈprɛsɪdənt/",
+  "etymology": "precedent 源自拉丁 praecedere（先行）——判例即“先行者”。",
+  "synonyms": [
+   {
+    "word": "case law",
+    "ipa": "/keɪs lɔ/",
+    "sentence": "Case law grows ruling by ruling, like coral."
+   },
+   {
+    "word": "codification",
+    "ipa": "/ˌkəʊdɪfɪˈkeɪʃən/",
+    "sentence": "Codification dreams of a statute for every quarrel."
+   }
+  ]
+ },
+ {
+  "id": "westphalia",
+  "zh": "近代民族国家与国际法（威斯特伐利亚体系）",
+  "pinyin": "Wēisītèfáliyà tǐxì",
+  "en": "the nation-state and international law: Westphalia and after",
+  "def_zh": "宗教改革与专制王权推动西欧民族国家形成（国家主权意识、民族认同）。格劳秀斯《战争与和平法》（1625）奠定国际法基础（国家主权“至高无上”“独立平等”）。1648年《威斯特伐利亚和约》结束三十年战争，确立国际关系中的国家领土、主权与独立等原则，开创用国际会议和谈判达成协议解决国际争端、结束战争的先例，确认缔约国必须遵守条约等原则——威斯特伐利亚体系为近代国际法体系之始。1815年维也纳会议建立维也纳体系，外交制度进一步发展（常驻使节等）；一战后国联、二战后联合国与《联合国宪章》确立的主权平等、不干涉内政等原则延续发展这一传统。",
+  "def_en": "Reformation and royal absolutism hatched the sovereign nation-state; Grotius's On the Law of War and Peace (1625) gave it a law; and the Peace of Westphalia (1648), closing the Thirty Years War, wrote the rules the world still argues over: territorial sovereignty, the equality and independence of states, disputes settled by congress and treaty, treaties binding once signed. Vienna (1815) added the machinery of permanent diplomacy; the League and the UN Charter universalised the principles. 'Westphalian sovereignty' remains the term of art — invoked whenever intervention, human rights or supranational union tests the 1648 default.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第12课 近代西方民族国家与国际法的发展"
+   }
+  ],
+  "collocations": [
+   "Westphalian sovereignty",
+   "the nation-state",
+   "non-interference",
+   "the law of nations",
+   "the international system"
+  ],
+  "example": "China's diplomacy is often called 'the last Westphalian power' — sovereignty and non-interference held absolute — an irony historians savour, since the system arrived at gunpoint in 1840 and was resisted precisely as foreign.",
+  "nuance": "民族国家 = the nation-state（nation/state/country 的精细区分是政治英语基本功）；主权 = sovereignty。“威斯特伐利亚体系”= the Westphalian system——IR 头号历史术语。格劳秀斯 = Grotius（国际法之父）。与 [[bandung-conference]] 五项原则、[[united-nations]] 宪章原则、[[qing-frontier]] 尼布楚（中国首个 Westphalian 式条约）全部连通。",
+  "links": [
+   {
+    "to": "wwi",
+    "rel": "related"
+   },
+   {
+    "to": "united-nations",
+    "rel": "influenced"
+   },
+   {
+    "to": "qing-frontier",
+    "rel": "related"
+   },
+   {
+    "to": "bandung-conference",
+    "rel": "related"
+   },
+   {
+    "to": "versailles",
+    "rel": "related"
+   },
+   {
+    "to": "european-integration",
+    "rel": "contrast"
+   }
+  ],
+  "themes": [
+   "governance",
+   "ideas"
+  ],
+  "period": "1648年",
+  "pron": "sovereignty /ˈsɑvrənti/",
+  "etymology": "sovereignty 源自古法语 soverain ←拉丁 super（在上）——主权即“至上性”。",
+  "synonyms": [
+   {
+    "word": "nation-state",
+    "ipa": "/ˈneɪʃən-steɪt/",
+    "sentence": "The nation-state marries a people to a border."
+   },
+   {
+    "word": "non-interference",
+    "ipa": "/nɑn-ˌɪnərˈfɪrəns/",
+    "sentence": "Non-interference is sovereignty's defensive twin."
+   }
+  ]
+ },
+ {
+  "id": "chinese-currency",
+  "zh": "中国货币演进（从铜钱到白银）",
+  "pinyin": "Zhōngguó huòbì yǎnjìn",
+  "en": "China's monetary evolution: from bronze coin to silver",
+  "def_zh": "商后期出现铜铸币；春秋战国布币刀币圜钱蚁鼻钱并行，秦统一为圆形方孔钱（沿用两千年；汉五铢、唐开元通宝改“通宝”制、北宋起铸年号钱）。铜钱价值低流通量不足生“钱荒”，北宋交子（世界最早纸币）作辅币，元朝以纸钞为单一流通货币——元末滥印致恶性通胀财政崩溃。明中期起白银渐成国家财政和民间交易的基本支付手段（白银货币化——商品经济发展之需亦推动其发展），清朝白银法定与铜钱兼用。晚清铸银元；1935年国民政府法币改革（白银收归国有），抗战解放战争间法币急剧贬值崩溃，金圆券银圆券相继失败；1948年12月1日中国人民银行成立、发行人民币，新中国法定货币，长期币值稳定，国际影响日增。",
+  "def_en": "China's money ran the world's longest experiment: bronze coin standardised by Qin and reissued for two millennia; paper invented (jiaozi) when coin ran short, made sole legal tender by the Yuan — and destroyed by the printing press, the first fiat hyperinflation; then silver, flooding in from American mines via the galleon trade, monetising the Ming economy from below until the state legalised what commerce had decided. The modern sequel compressed the cycle: the 1935 fabi reform nationalised silver, war inflation annihilated fabi and gold yuan alike, and from December 1948 the People's Bank's renminbi restored what the textbook calls the first principle — stable money, centrally and singly issued.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第15课 货币的使用与世界货币体系的形成"
+   }
+  ],
+  "collocations": [
+   "the silver economy",
+   "monetisation of silver",
+   "fiat inflation",
+   "currency reform",
+   "renminbi internationalisation"
+  ],
+  "example": "Global historians love the loop: Potosí's silver sailed to Manila and bought Ming taxes — the first world economy ran on Chinese demand for a metal China barely mined, [[columbian-exchange]] in monetary form.",
+  "nuance": "白银货币化 = the monetisation of silver（明清经济史核心议题，弗兰克《白银资本》ReOrient 使其进入全球史）。法币 = fabi (legal tender notes)；金圆券 = the gold yuan——链 [[civil-war-1946]] 通胀亡国叙事与 [[versailles]] 魏玛。人民币 = renminbi (RMB)/yuan——货币名混用规则（currency=renminbi, unit=yuan）是财经英语必修。",
+  "links": [
+   {
+    "to": "jiaozi",
+    "rel": "broader"
+   },
+   {
+    "to": "columbian-exchange",
+    "rel": "related"
+   },
+   {
+    "to": "qing-prosperity",
+    "rel": "related"
+   },
+   {
+    "to": "civil-war-1946",
+    "rel": "related"
+   },
+   {
+    "to": "world-monetary-system",
+    "rel": "related"
+   },
+   {
+    "to": "qin-standardisation",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "period": "商代–1948年",
+  "pron": "monetisation /ˌmʌnɪtaɪˈzeɪʃən/",
+  "etymology": "monetisation 源自拉丁 moneta（铸币所——朱诺神庙别名）——money 与 mint 同出此庙。",
+  "synonyms": [
+   {
+    "word": "currency",
+    "ipa": "/ˈkərənsi/",
+    "sentence": "A currency is a promise standardised."
+   },
+   {
+    "word": "silver standard",
+    "ipa": "/ˈsɪlvər ˈstændərd/",
+    "sentence": "On a silver standard, Potosí sneezed and Suzhou caught cold."
+   }
+  ]
+ },
+ {
+  "id": "world-monetary-system",
+  "zh": "金本位与布雷顿森林体系",
+  "pinyin": "jīnběnwèi / Bùléidùn Sēnlín tǐxì",
+  "en": "the gold standard and Bretton Woods",
+  "def_zh": "19世纪国际结算日繁，1816年英国率先实行金本位制，各国先后采用——形成以英镑为中心、金币或黄金流通为主的国际金本位货币制度：金币法定含金量、自由流通不易贬值，促进资本主义生产和世界经济发展。1929年大危机挤兑致美国停兑黄金，金本位制崩溃，英法美各建货币集团各自为政。二战后美国成为资本主义世界霸主：1944年7月44国布雷顿森林会议确立以美元为中心的国际货币体系——35美元兑1盎司黄金、各国货币与美元挂钩（美元等同黄金，“美金”），设国际货币基金组织与世界银行；一定程度促进国际贸易、稳定国际金融，也为美国推行世界霸权提供有利条件。20世纪70年代初美国停止美元兑换黄金，布雷顿森林体系瓦解，浮动汇率取代固定汇率；美元仍为主要储备货币，欧元日元人民币影响上升（2015年中国倡设亚投行）。",
+  "def_en": "Britain fixed sterling to gold in 1816 and the world followed: the classical gold standard — sterling at the centre, currencies anchored in metal — banked the first globalisation until 1929's bank runs broke it into rival currency blocs. Bretton Woods (July 1944, 44 nations) rebuilt the anchor around the new hegemon: $35 an ounce, everyone pegged to the dollar, the IMF and World Bank as machinery — trade stabilised, and American primacy institutionalised, until Nixon closed the gold window in 1971 and floating rates took over. The dollar still dominates reserves and settlement; the euro, yen and renminbi — with China's AIIB as institutional statement — crowd the stage's edges.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第15课 货币的使用与世界货币体系的形成"
+   }
+  ],
+  "collocations": [
+   "the gold standard",
+   "the Bretton Woods system",
+   "the Nixon shock",
+   "reserve currency",
+   "exorbitant privilege"
+  ],
+  "example": "Every debate on de-dollarisation, crypto or CBDCs is a Bretton Woods seance — 'a new Bretton Woods' has been demanded at every crisis since 1971, which tells you what the original achieved.",
+  "nuance": "金本位 = the gold standard；固定/浮动汇率 = fixed/floating exchange rates；储备货币 = reserve currency；“嚣张的特权”= exorbitant privilege（法财长语，美元霸权的标准短语）。尼克松冲击 the Nixon shock (1971)。IMF/World Bank/亚投行的机构谱系连接 [[wto-globalisation]]、[[marshall-plan]]、[[multipolar-world]]——Economist 财经版的全套家当。",
+  "links": [
+   {
+    "to": "great-depression",
+    "rel": "related"
+   },
+   {
+    "to": "wwii",
+    "rel": "effect"
+   },
+   {
+    "to": "cold-war",
+    "rel": "related"
+   },
+   {
+    "to": "wto-globalisation",
+    "rel": "related"
+   },
+   {
+    "to": "chinese-currency",
+    "rel": "related"
+   },
+   {
+    "to": "industrial-revolution",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy"
+  ],
+  "period": "1816年–1971年",
+  "pron": "gold standard /goʊld ˈstændərd/",
+  "etymology": "standard（旗帜→基准）：金本位即“以金为旗”。",
+  "synonyms": [
+   {
+    "word": "peg",
+    "ipa": "/pɛg/",
+    "sentence": "A currency peg imports someone else's monetary policy."
+   },
+   {
+    "word": "reserve currency",
+    "ipa": "/rɪˈzərv ˈkərənsi/",
+    "sentence": "The reserve currency issuer spends what others must earn."
+   }
+  ]
+ },
+ {
+  "id": "chinese-taxation",
+  "zh": "中国赋税制度的演变",
+  "pinyin": "Zhōngguó fùshuì zhìdù",
+  "en": "the evolution of Chinese taxation",
+  "def_zh": "秦汉赋役三分：田赋（秦“收泰半之赋”；汉降至十五税一、三十税一）、人头税（口赋算赋）、徭役（更卒正卒戍卒）。隋唐租庸调制（基于均田制授田；以庸代役）；均田制破坏后780年杨炎两税法——以国家财政支出确定赋税总额、按田亩资产征税、夏秋两征：征税基准从人丁转向土地财产的转折。宋加征代役金（王安石募役法）；明后期张居正一条鞭法：赋役合并、一概折银（白银货币化的配套）——中国赋役制度重大变革；1712年康熙“滋生人丁永不加赋”、雍正摊丁入亩——存在约2000年的人头税彻底废除，人身束缚进一步减弱。近代：鸦片战争后协定关税丧失关税自主权（赫德掌海关半世纪），1927–30年国民政府“改订新约”部分收回，新中国真正收回；1980年个人所得税法（1799年英国首创个税）；2006年全面取消农业税——2000多年农业税退出历史舞台。",
+  "def_en": "Two millennia of fiscal history run one direction: from taxing bodies to taxing wealth. Qin took 'the greater half'; Han cut land tax to a thirtieth but poll taxes and corvée ground on. The Tang's grain-cloth-service triad collapsed with its land allotments, and the Two-Tax reform of 780 — tax by acreage and assets, twice yearly, budget-first — made the great turn; Zhang Juzheng's Single Whip (1580s) commuted everything into silver, and the Yongzheng emperor's merger of poll tax into land tax (1720s) abolished the head count after twenty centuries. The modern arc ran through tariff autonomy lost at Nanjing (Hart's Customs run by foreigners for fifty years) and regained in 1949 — to the 2006 abolition of the agricultural tax itself, closing a 2,600-year account first opened by the Warring States.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第16课 中国赋税制度的演变"
+   }
+  ],
+  "collocations": [
+   "poll tax",
+   "corvée",
+   "the Two-Tax reform",
+   "the Single Whip reform",
+   "tariff autonomy"
+  ],
+  "example": "'From people to land to silver' is the arc public-finance courses borrow from China — and 2006's农业税 abolition made world news precisely because the ledger it closed was older than Rome's.",
+  "nuance": "租庸调 = the zu-yong-diao (grain-labour-cloth) system；两税法 = the Two-Tax reform；一条鞭法 = the Single Whip reform（定译）；摊丁入亩 = merging the poll tax into the land tax。赫德 = Robert Hart（客卿治关——半殖民财政的人格化，链 [[opium-war]]）。个税起源1799英国（战争财政！）链 [[napoleon]]。",
+  "links": [
+   {
+    "to": "han-founding",
+    "rel": "related"
+   },
+   {
+    "to": "an-lushan",
+    "rel": "related"
+   },
+   {
+    "to": "chinese-currency",
+    "rel": "related"
+   },
+   {
+    "to": "qing-prosperity",
+    "rel": "related"
+   },
+   {
+    "to": "opium-war",
+    "rel": "related"
+   },
+   {
+    "to": "magna-carta",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "economy",
+   "governance"
+  ],
+  "period": "秦–2006年",
+  "pron": "taxation /tækˈseɪʃən/",
+  "etymology": "tax 源自拉丁 taxare（评估、掂量）——税收本义即“估价”。",
+  "synonyms": [
+   {
+    "word": "levy",
+    "ipa": "/ˈlɛvi/",
+    "sentence": "Each dynasty's levy migrated from heads to acres."
+   },
+   {
+    "word": "fiscal system",
+    "ipa": "/ˈfɪskəl ˈsɪstəm/",
+    "sentence": "A fiscal system is the state's metabolism."
+   }
+  ]
+ },
+ {
+  "id": "hukou-baojia",
+  "zh": "户籍制度与基层治理",
+  "pinyin": "hùjí zhìdù / bǎojiǎ",
+  "en": "household registration and grassroots control",
+  "def_zh": "战国始大规模编排民户（秦献公“为户籍相伍”；《商君书》男女皆登记）——户籍是赋役征发的依据，历代极重视：汉“编户齐民”、隋“大索貌阅”、唐三年一造；东晋黄籍白籍与“土断”；宋主户客户；元“诸色户计”按职业定籍世代相袭；明黄册（里甲制为基础，玄武湖册库153万册）；清摊丁入亩后作用削弱、乾隆永停编审。基层组织：秦汉乡里什伍、唐邻保、王安石保甲、明十家牌法、清保甲制（十户一牌十牌一甲十甲一保）——户籍管理与治安监控合一；任务是征发赋役和维护稳定。社会救济：汉常平仓、隋义仓、朱熹社仓，宋以后宗族（范仲淹义田）与慈善组织作用渐大。（西方：中古庄园与城市自治，近代地方自治传统；现代社会保障体系。）",
+  "def_en": "The registered household is China's oldest governing instrument: from Warring-States Qin enrolling every man and woman ('the born recorded, the dead struck off') through Han's 'registered equal subjects', colour-coded refugee registers in the Jin, occupation-castes under the Yuan, to the Ming's Yellow Registers — 1.5 million volumes archived on an island lake — the file that made taxation, conscription and immobility possible. Below it ran mutual surveillance: five-family groups, Wang Anshi's baojia, Qing door-plaques listing every resident, watch-and-report as neighbourhood duty; beside it, the granary line — ever-normal, charity and community granaries — as the state's famine insurance. The chapter is the deep history of two living institutions: the hukou and the grid.",
+  "sources": [
+   {
+    "book": "hx1",
+    "chapter": "第17课 中国古代的户籍制度与社会治理"
+   }
+  ],
+  "collocations": [
+   "the hukou system",
+   "the baojia system",
+   "mutual surveillance",
+   "ever-normal granaries",
+   "grid management"
+  ],
+  "example": "Every migration-and-inequality story in China runs on the word hukou — the 2,300-year-old register that still prices a child's schooling by birthplace; and 'grid management' (网格化) is baojia with a dashboard, as commentators noted during lockdowns.",
+  "nuance": "户籍 = the household registration (hukou) system——hukou 已入英语；保甲 = the baojia system（同样直接使用）。常平仓 = ever-normal granaries（此译经华莱士影响了美国新政农业政策——制度环流的奇例，链 [[new-deal]]）。“编户齐民”= registered equal subjects。网格化治理 = grid(-based) management——当代延伸词。",
+  "links": [
+   {
+    "to": "chinese-taxation",
+    "rel": "related"
+   },
+   {
+    "to": "shang-yang",
+    "rel": "related"
+   },
+   {
+    "to": "junxian",
+    "rel": "related"
+   },
+   {
+    "to": "welfare-state",
+    "rel": "related"
+   },
+   {
+    "to": "new-deal",
+    "rel": "related"
+   },
+   {
+    "to": "manorialism",
+    "rel": "contrast"
+   }
+  ],
+  "themes": [
+   "governance",
+   "society"
+  ],
+  "period": "战国至今",
+  "pron": "household registration /ˈhaʊsˌhoʊld ˌrɛʤɪˈstreɪʃən/",
+  "etymology": "register 源自拉丁 regerere（载回、记录）→ registrum——户籍即“载录”。",
+  "synonyms": [
+   {
+    "word": "census",
+    "ipa": "/ˈsɛnsəs/",
+    "sentence": "A census is the state counting what it may later claim."
+   },
+   {
+    "word": "mutual surveillance",
+    "ipa": "/mˈjuʧuəl sərˈveɪləns/",
+    "sentence": "Mutual surveillance deputises the neighbourhood."
+   }
+  ]
+ }
 ]

@@ -1,47 +1,61 @@
 [
-  {
-    "id": "core-socialist-values",
-    "zh": "社会主义核心价值观",
-    "pinyin": "shèhuìzhǔyì héxīn jiàzhíguān",
-    "en": "the core socialist values",
-    "def_zh": "国家层面：富强、民主、文明、和谐；社会层面：自由、平等、公正、法治；个人层面：爱国、敬业、诚信、友善——十二个词二十四字，是当代中国精神的集中体现，凝结着全体人民共同的价值追求；回答了建设什么样的国家、什么样的社会、培育什么样的公民的重大问题。要内化于心、外化于行，与中华优秀传统文化相承接（讲仁爱、重民本、守诚信、崇正义、尚和合、求大同）。",
-    "def_en": "The twelve-word canon on every school wall and construction hoarding, tiered by level: prosperity, democracy, civility, harmony (nation); freedom, equality, justice, rule of law (society); patriotism, dedication, integrity, friendliness (citizen). Framed as the distillation of 'the contemporary Chinese spirit', continuous with the traditional virtues ([[chinese-culture-core]]'s benevolence, people-first, good faith, harmony), and — the observation every visiting journalist makes — including 'democracy' and 'freedom' on their own official definitions: the value vocabulary whose translation is never innocent.",
-    "sources": [
-      {
-        "book": "df9a",
-        "chapter": "社会主义核心价值观（贯穿全册）"
-      }
-    ],
-    "collocations": [
-      "the core socialist values",
-      "the 24-character values",
-      "value guidance",
-      "civic virtue"
-    ],
-    "example": "The red banners parsing 富强 to 友善 are China's most photographed texts after Mao's portrait — decoding all twelve on sight is street-level literacy in official China, which is precisely this node's job.",
-    "nuance": "官方译文固定：prosperity, democracy, civility, harmony; freedom, equality, justice, the rule of law; patriotism, dedication, integrity, friendship——各词的官方义与西方义的错位（democracy=whole-process 义）正是阅读练习。“和合”“大同”承 [[chinese-culture-core]]、《礼记》天下为公（链 [[xia-dynasty]] 的“大道之行”）。",
-    "links": [
-      {
-        "to": "chinese-culture-core",
-        "rel": "influenced-by"
-      },
-      {
-        "to": "socialism-chinese",
-        "rel": "related"
-      },
-      {
-        "to": "whole-process-democracy",
-        "rel": "related"
-      },
-      {
-        "to": "confucius",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas",
-      "culture"
-    ],
-    "period": "2012年至今"
-  }
+ {
+  "id": "core-socialist-values",
+  "zh": "社会主义核心价值观",
+  "pinyin": "shèhuìzhǔyì héxīn jiàzhíguān",
+  "en": "the core socialist values",
+  "def_zh": "国家层面：富强、民主、文明、和谐；社会层面：自由、平等、公正、法治；个人层面：爱国、敬业、诚信、友善——十二个词二十四字，是当代中国精神的集中体现，凝结着全体人民共同的价值追求；回答了建设什么样的国家、什么样的社会、培育什么样的公民的重大问题。要内化于心、外化于行，与中华优秀传统文化相承接（讲仁爱、重民本、守诚信、崇正义、尚和合、求大同）。",
+  "def_en": "The twelve-word canon on every school wall and construction hoarding, tiered by level: prosperity, democracy, civility, harmony (nation); freedom, equality, justice, rule of law (society); patriotism, dedication, integrity, friendliness (citizen). Framed as the distillation of 'the contemporary Chinese spirit', continuous with the traditional virtues ([[chinese-culture-core]]'s benevolence, people-first, good faith, harmony), and — the observation every visiting journalist makes — including 'democracy' and 'freedom' on their own official definitions: the value vocabulary whose translation is never innocent.",
+  "sources": [
+   {
+    "book": "df9a",
+    "chapter": "社会主义核心价值观（贯穿全册）"
+   }
+  ],
+  "collocations": [
+   "the core socialist values",
+   "the 24-character values",
+   "value guidance",
+   "civic virtue"
+  ],
+  "example": "The red banners parsing 富强 to 友善 are China's most photographed texts after Mao's portrait — decoding all twelve on sight is street-level literacy in official China, which is precisely this node's job.",
+  "nuance": "官方译文固定：prosperity, democracy, civility, harmony; freedom, equality, justice, the rule of law; patriotism, dedication, integrity, friendship——各词的官方义与西方义的错位（democracy=whole-process 义）正是阅读练习。“和合”“大同”承 [[chinese-culture-core]]、《礼记》天下为公（链 [[xia-dynasty]] 的“大道之行”）。",
+  "links": [
+   {
+    "to": "chinese-culture-core",
+    "rel": "influenced-by"
+   },
+   {
+    "to": "socialism-chinese",
+    "rel": "related"
+   },
+   {
+    "to": "whole-process-democracy",
+    "rel": "related"
+   },
+   {
+    "to": "confucius",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas",
+   "culture"
+  ],
+  "period": "2012年至今",
+  "pron": "values /ˈvæljuz/",
+  "etymology": "value 源自拉丁 valere（强健、值得）——价值观即“何者值得”。",
+  "synonyms": [
+   {
+    "word": "value system",
+    "ipa": "/ˈvælju ˈsɪstəm/",
+    "sentence": "A value system posted on walls aspires to live in habits."
+   },
+   {
+    "word": "civic creed",
+    "ipa": "/ˈsɪvɪk krid/",
+    "sentence": "The civic creed lists twelve words and one order."
+   }
+  ]
+ }
 ]

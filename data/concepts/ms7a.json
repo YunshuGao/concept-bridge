@@ -1,51 +1,65 @@
 [
-  {
-    "id": "art-language",
-    "zh": "美术语言与中西绘画",
-    "pinyin": "měishù yǔyán",
-    "en": "the language of art: Chinese and Western painting compared",
-    "def_zh": "美术语言的基本元素：点、线、面、形状、明暗、色彩（三要素：色相、明度、纯度；冷暖对比）、肌理、空间；组织原理：构图、比例、对称均衡、节奏韵律。中国画（工具：笔墨纸砚；分人物、山水、花鸟；技法：工笔与写意；以线造型、墨分五色、留白、诗书画印一体、散点透视——可游可居的长卷空间）与西方绘画（焦点透视——文艺复兴确立的科学空间；明暗造型、色彩体系；油画材质）各成体系：中国画重意境神韵（“妙在似与不似之间”），西画重形体光色——各美其美、美美与共。美术门类：绘画、雕塑、建筑、设计、书法（中国特有）、篆刻等；欣赏方法：描述—分析—解释—评价。",
-    "def_en": "Art's grammar as the six junior volumes teach it: elements (line, shape, value, colour's three properties, texture, space) and principles (composition, proportion, balance, rhythm) — plus the great comparative lesson: Chinese painting's linear brush idiom, ink's 'five colours', deliberate blankness, the poem-calligraphy-seal ensemble and the scrolling multi-point perspective you travel through, against Western painting's single-vanishing-point science of space (Renaissance-born), modelling in light and oil's material depth. Xu Beihong's dictum 'the marvel lies between likeness and unlikeness' names the Chinese criterion; 'each beauty its own, beauties shared' (Fei Xiaotong) names the textbook's verdict. Appreciation runs describe-analyse-interpret-judge — the same four steps as any English-language art review.",
-    "sources": [
-      {
-        "book": "ms7a",
-        "chapter": "美术语言（七至九年级综合）"
-      }
-    ],
-    "collocations": [
-      "elements and principles of art",
-      "linear perspective",
-      "ink wash",
-      "negative space",
-      "gongbi and xieyi"
-    ],
-    "example": "Auction catalogues toggle between the two grammars nightly — 'literati ink play' and 'chiaroscuro modelling' price different universes; the museum-label English in this node is exactly what a bilingual gallery visit runs on.",
-    "nuance": "散点/焦点透视 = shifting (multi-point) vs linear (fixed-point) perspective（中西空间观的教科书对立——链 [[renaissance]] 透视法、[[weijin-culture]] 顾恺之）。工笔/写意 = gongbi (meticulous) / xieyi (freehand spirit-writing)（拼音直用于英语艺评）。留白 = negative space/deliberate blankness。“妙在似与不似之间”（齐白石）= the marvel lies between likeness and unlikeness。费孝通十六字 = each beauty its own... （链 [[chinese-culture-core]] 和而不同）。",
-    "links": [
-      {
-        "to": "weijin-culture",
-        "rel": "related"
-      },
-      {
-        "to": "renaissance",
-        "rel": "related"
-      },
-      {
-        "to": "van-gogh",
-        "rel": "related"
-      },
-      {
-        "to": "tang-poetry",
-        "rel": "related"
-      },
-      {
-        "to": "chinese-culture-core",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "culture"
-    ],
-    "period": "教材体系"
-  }
+ {
+  "id": "art-language",
+  "zh": "美术语言与中西绘画",
+  "pinyin": "měishù yǔyán",
+  "en": "the language of art: Chinese and Western painting compared",
+  "def_zh": "美术语言的基本元素：点、线、面、形状、明暗、色彩（三要素：色相、明度、纯度；冷暖对比）、肌理、空间；组织原理：构图、比例、对称均衡、节奏韵律。中国画（工具：笔墨纸砚；分人物、山水、花鸟；技法：工笔与写意；以线造型、墨分五色、留白、诗书画印一体、散点透视——可游可居的长卷空间）与西方绘画（焦点透视——文艺复兴确立的科学空间；明暗造型、色彩体系；油画材质）各成体系：中国画重意境神韵（“妙在似与不似之间”），西画重形体光色——各美其美、美美与共。美术门类：绘画、雕塑、建筑、设计、书法（中国特有）、篆刻等；欣赏方法：描述—分析—解释—评价。",
+  "def_en": "Art's grammar as the six junior volumes teach it: elements (line, shape, value, colour's three properties, texture, space) and principles (composition, proportion, balance, rhythm) — plus the great comparative lesson: Chinese painting's linear brush idiom, ink's 'five colours', deliberate blankness, the poem-calligraphy-seal ensemble and the scrolling multi-point perspective you travel through, against Western painting's single-vanishing-point science of space (Renaissance-born), modelling in light and oil's material depth. Xu Beihong's dictum 'the marvel lies between likeness and unlikeness' names the Chinese criterion; 'each beauty its own, beauties shared' (Fei Xiaotong) names the textbook's verdict. Appreciation runs describe-analyse-interpret-judge — the same four steps as any English-language art review.",
+  "sources": [
+   {
+    "book": "ms7a",
+    "chapter": "美术语言（七至九年级综合）"
+   }
+  ],
+  "collocations": [
+   "elements and principles of art",
+   "linear perspective",
+   "ink wash",
+   "negative space",
+   "gongbi and xieyi"
+  ],
+  "example": "Auction catalogues toggle between the two grammars nightly — 'literati ink play' and 'chiaroscuro modelling' price different universes; the museum-label English in this node is exactly what a bilingual gallery visit runs on.",
+  "nuance": "散点/焦点透视 = shifting (multi-point) vs linear (fixed-point) perspective（中西空间观的教科书对立——链 [[renaissance]] 透视法、[[weijin-culture]] 顾恺之）。工笔/写意 = gongbi (meticulous) / xieyi (freehand spirit-writing)（拼音直用于英语艺评）。留白 = negative space/deliberate blankness。“妙在似与不似之间”（齐白石）= the marvel lies between likeness and unlikeness。费孝通十六字 = each beauty its own... （链 [[chinese-culture-core]] 和而不同）。",
+  "links": [
+   {
+    "to": "weijin-culture",
+    "rel": "related"
+   },
+   {
+    "to": "renaissance",
+    "rel": "related"
+   },
+   {
+    "to": "van-gogh",
+    "rel": "related"
+   },
+   {
+    "to": "tang-poetry",
+    "rel": "related"
+   },
+   {
+    "to": "chinese-culture-core",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "culture"
+  ],
+  "period": "教材体系",
+  "pron": "perspective /pərˈspɛktɪv/",
+  "etymology": "perspective 源自拉丁 per-（透过）+ specere（看）→ 透视——中西空间观分野之词。",
+  "synonyms": [
+   {
+    "word": "composition",
+    "ipa": "/ˌkɑmpəˈzɪʃən/",
+    "sentence": "Composition is the sentence structure of a picture."
+   },
+   {
+    "word": "aesthetics",
+    "ipa": "/ɛsˈθɛtɪks/",
+    "sentence": "Aesthetics asks why the likeness isn't the point."
+   }
+  ]
+ }
 ]

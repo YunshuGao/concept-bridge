@@ -29,6 +29,7 @@ h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
         padding:1rem 1.2rem; margin:.6rem 0; }
 .zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
 .pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
 .tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
        font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
        text-decoration:none; }

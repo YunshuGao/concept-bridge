@@ -1,147 +1,189 @@
 [
-  {
-    "id": "dialectical-materialism",
-    "zh": "辩证唯物主义（物质与意识）",
-    "pinyin": "biànzhèng wéiwùzhǔyì",
-    "en": "dialectical materialism: matter and consciousness",
-    "def_zh": "哲学基本问题是思维和存在的关系问题（何者为本原——唯物/唯心；有无同一性——可知论/不可知论）。辩证唯物主义：世界的本质是物质（物质决定意识，意识是客观存在的反映、对物质具有能动的反作用）；运动是物质的固有属性，规律是客观的（不以人的意志为转移——尊重规律与发挥主观能动性相结合，一切从实际出发、实事求是）。实践是认识的基础（来源、动力、检验标准、目的），认识经实践—认识—再实践循环上升——“实践是检验真理的唯一标准”。",
-    "def_en": "The official philosophy's foundations, taught as a system: philosophy's basic question (thinking v. being — materialism against idealism, knowability against agnosticism); matter as primary with consciousness its active reflection; law-governed motion independent of will ('proceed from reality, seek truth from facts'); and practice as knowledge's source, engine, test and purpose — the epistemology whose one-line version, 'practice is the sole criterion of truth', relaunched China in 1978. Marxist philosophical English (base, superstructure, negation) remains live currency in western theory too — this node is the shared dictionary.",
-    "sources": [
-      {
-        "book": "zz4",
-        "chapter": "第二课 探究世界的本质"
-      }
-    ],
-    "collocations": [
-      "materialism vs idealism",
-      "objective laws",
-      "subjective initiative",
-      "practice as the criterion of truth"
-    ],
-    "example": "Deng's reformers won the 1978 argument by quoting this chapter's epistemology against its own orthodoxy — 'practice as the sole criterion' was philosophy deployed as regime change, the textbook's most consequential sentence.",
-    "nuance": "唯物/唯心主义 = materialism/idealism（哲学义，与日常英语 materialistic 拜金、idealistic 理想化的落差——高频误读警告）。主观能动性 = subjective initiative/agency。实事求是链 [[third-plenum]]。“物质”哲学义 = matter（非 material 财物）。",
-    "links": [
-      {
-        "to": "marxism",
-        "rel": "broader"
-      },
-      {
-        "to": "third-plenum",
-        "rel": "related"
-      },
-      {
-        "to": "laozi",
-        "rel": "related"
-      },
-      {
-        "to": "aristotle",
-        "rel": "related"
-      },
-      {
-        "to": "dialectics",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas"
-    ],
-    "period": "教材体系"
-  },
-  {
-    "id": "dialectics",
-    "zh": "唯物辩证法（联系、发展、矛盾）",
-    "pinyin": "wéiwù biànzhèngfǎ",
-    "en": "materialist dialectics: connection, development, contradiction",
-    "def_zh": "唯物辩证法的总特征：联系的观点（普遍性、客观性、多样性——用联系的观点看问题、掌握系统优化方法）与发展的观点（前进性与曲折性统一——前途光明道路曲折；量变与质变——量的积累到一定程度引起质变，“不积跬步无以至千里”）。实质与核心：矛盾规律（对立统一）——矛盾的普遍性与特殊性（具体问题具体分析）、主要矛盾与次要矛盾、矛盾的主要方面与次要方面（“两点论与重点论统一”）。辩证否定观：扬弃——不是简单肯定或否定一切。",
-    "def_en": "The method behind the slogans: everything connected (hence 'systems thinking' as official method), everything developing ('the future is bright, the road is tortuous' — progress through spirals), quantity turning into quality at thresholds. Its 'living soul' is contradiction analysis: contradictions universal yet each particular ('concrete analysis of concrete conditions'), ranked into principal and secondary with principal aspects — the analytical grid by which the party names each era's 主要矛盾 and thereby its policy priority. Dialectical negation ('sublation' — keep the kernel, shed the husk) rounds out a toolkit that explains why Chinese official prose reasons the way it does.",
-    "sources": [
-      {
-        "book": "zz4",
-        "chapter": "第三课 把握世界的规律"
-      }
-    ],
-    "collocations": [
-      "the unity of opposites",
-      "quantitative to qualitative change",
-      "the principal contradiction",
-      "concrete analysis",
-      "two-point and key-point thinking"
-    ],
-    "example": "When the 19th Congress re-named the 'principal contradiction' for the first time since 1981, economists worldwide had to learn this chapter overnight — a philosophy lesson that repriced policy expectations.",
-    "nuance": "矛盾 = contradiction（黑格尔—马克思术语；毛《矛盾论》On Contradiction 使其成为中国政治思维的元语法）；扬弃 = sublation（Aufheben——哲学英语硬词）。量变质变 = quantitative/qualitative change。“具体问题具体分析”= concrete analysis of concrete conditions（列宁语）。链 [[laozi]] 对立转化（福祸相依）——中式辩证的本土根系。",
-    "links": [
-      {
-        "to": "dialectical-materialism",
-        "rel": "related"
-      },
-      {
-        "to": "marxism",
-        "rel": "broader"
-      },
-      {
-        "to": "laozi",
-        "rel": "related"
-      },
-      {
-        "to": "new-development-concepts",
-        "rel": "influenced"
-      },
-      {
-        "to": "hundred-schools",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas"
-    ],
-    "period": "教材体系"
-  },
-  {
-    "id": "historical-materialism",
-    "zh": "历史唯物主义（社会存在与人民群众）",
-    "pinyin": "lìshǐ wéiwùzhǔyì",
-    "en": "historical materialism: social being and the people",
-    "def_zh": "社会存在决定社会意识，社会意识具有相对独立性（先进社会意识可推动社会发展）。生产力与生产关系、经济基础与上层建筑的矛盾运动是社会发展的基本规律（生产关系一定要适合生产力状况——改革即社会主义制度的自我完善和发展）。社会历史的主体是人民群众：人民群众是历史的创造者（物质财富、精神财富的创造者，社会变革的决定力量）——坚持群众观点和群众路线（一切为了群众、一切依靠群众，从群众中来、到群众中去）。价值观的导向作用；在劳动和奉献、个人与社会的统一中创造和实现人生价值。",
-    "def_en": "The social half of the doctrine: being determines consciousness; productive forces and relations, base and superstructure, drive history through their friction (reform, in this frame, is socialism 'perfecting itself' when relations lag forces); and the masses — not heroes — make history, grounding the 'mass line' method ('from the masses, to the masses') that the party names as its lifeline. This is the theory referenced by every 'people-centred' formulation, and the analytical frame [[marxism]] built and this book operationalises for civic instruction.",
-    "sources": [
-      {
-        "book": "zz4",
-        "chapter": "第五课 寻觅社会的真谛"
-      }
-    ],
-    "collocations": [
-      "base and superstructure",
-      "productive forces and relations of production",
-      "the masses make history",
-      "the mass line"
-    ],
-    "example": "'Base and superstructure' escaped the seminar long ago — Economist writers use it half-ironically for everything from crypto to culture wars; the source vocabulary is this chapter's.",
-    "nuance": "经济基础/上层建筑 = base/superstructure（英语理论界通用）；群众路线 = the mass line（官方译，治理研究专名）。“自我完善和发展”是改革的经典正当化语式——链 [[economic-reform]]、[[third-plenum]]。人民群众史观 vs 英雄史观（great man theory）为史学理论对轴——链 [[shiji]]。",
-    "links": [
-      {
-        "to": "marxism",
-        "rel": "broader"
-      },
-      {
-        "to": "dialectical-materialism",
-        "rel": "related"
-      },
-      {
-        "to": "economic-reform",
-        "rel": "related"
-      },
-      {
-        "to": "chen-sheng-uprising",
-        "rel": "related"
-      },
-      {
-        "to": "whole-process-democracy",
-        "rel": "related"
-      }
-    ],
-    "themes": [
-      "ideas"
-    ],
-    "period": "教材体系"
-  }
+ {
+  "id": "dialectical-materialism",
+  "zh": "辩证唯物主义（物质与意识）",
+  "pinyin": "biànzhèng wéiwùzhǔyì",
+  "en": "dialectical materialism: matter and consciousness",
+  "def_zh": "哲学基本问题是思维和存在的关系问题（何者为本原——唯物/唯心；有无同一性——可知论/不可知论）。辩证唯物主义：世界的本质是物质（物质决定意识，意识是客观存在的反映、对物质具有能动的反作用）；运动是物质的固有属性，规律是客观的（不以人的意志为转移——尊重规律与发挥主观能动性相结合，一切从实际出发、实事求是）。实践是认识的基础（来源、动力、检验标准、目的），认识经实践—认识—再实践循环上升——“实践是检验真理的唯一标准”。",
+  "def_en": "The official philosophy's foundations, taught as a system: philosophy's basic question (thinking v. being — materialism against idealism, knowability against agnosticism); matter as primary with consciousness its active reflection; law-governed motion independent of will ('proceed from reality, seek truth from facts'); and practice as knowledge's source, engine, test and purpose — the epistemology whose one-line version, 'practice is the sole criterion of truth', relaunched China in 1978. Marxist philosophical English (base, superstructure, negation) remains live currency in western theory too — this node is the shared dictionary.",
+  "sources": [
+   {
+    "book": "zz4",
+    "chapter": "第二课 探究世界的本质"
+   }
+  ],
+  "collocations": [
+   "materialism vs idealism",
+   "objective laws",
+   "subjective initiative",
+   "practice as the criterion of truth"
+  ],
+  "example": "Deng's reformers won the 1978 argument by quoting this chapter's epistemology against its own orthodoxy — 'practice as the sole criterion' was philosophy deployed as regime change, the textbook's most consequential sentence.",
+  "nuance": "唯物/唯心主义 = materialism/idealism（哲学义，与日常英语 materialistic 拜金、idealistic 理想化的落差——高频误读警告）。主观能动性 = subjective initiative/agency。实事求是链 [[third-plenum]]。“物质”哲学义 = matter（非 material 财物）。",
+  "links": [
+   {
+    "to": "marxism",
+    "rel": "broader"
+   },
+   {
+    "to": "third-plenum",
+    "rel": "related"
+   },
+   {
+    "to": "laozi",
+    "rel": "related"
+   },
+   {
+    "to": "aristotle",
+    "rel": "related"
+   },
+   {
+    "to": "dialectics",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "period": "教材体系",
+  "pron": "materialism /məˈtɪriəˌlɪzəm/",
+  "etymology": "materialism 见前（materia 母质）——唯物主义:存在决定意识。",
+  "synonyms": [
+   {
+    "word": "consciousness",
+    "ipa": "/ˈkɑnʃəsnəs/",
+    "sentence": "Consciousness is matter's opinion of itself."
+   },
+   {
+    "word": "objective reality",
+    "ipa": "/əˈbʤɛktɪv ˌriˈæləˌti/",
+    "sentence": "Objective reality outvotes wishes."
+   }
+  ]
+ },
+ {
+  "id": "dialectics",
+  "zh": "唯物辩证法（联系、发展、矛盾）",
+  "pinyin": "wéiwù biànzhèngfǎ",
+  "en": "materialist dialectics: connection, development, contradiction",
+  "def_zh": "唯物辩证法的总特征：联系的观点（普遍性、客观性、多样性——用联系的观点看问题、掌握系统优化方法）与发展的观点（前进性与曲折性统一——前途光明道路曲折；量变与质变——量的积累到一定程度引起质变，“不积跬步无以至千里”）。实质与核心：矛盾规律（对立统一）——矛盾的普遍性与特殊性（具体问题具体分析）、主要矛盾与次要矛盾、矛盾的主要方面与次要方面（“两点论与重点论统一”）。辩证否定观：扬弃——不是简单肯定或否定一切。",
+  "def_en": "The method behind the slogans: everything connected (hence 'systems thinking' as official method), everything developing ('the future is bright, the road is tortuous' — progress through spirals), quantity turning into quality at thresholds. Its 'living soul' is contradiction analysis: contradictions universal yet each particular ('concrete analysis of concrete conditions'), ranked into principal and secondary with principal aspects — the analytical grid by which the party names each era's 主要矛盾 and thereby its policy priority. Dialectical negation ('sublation' — keep the kernel, shed the husk) rounds out a toolkit that explains why Chinese official prose reasons the way it does.",
+  "sources": [
+   {
+    "book": "zz4",
+    "chapter": "第三课 把握世界的规律"
+   }
+  ],
+  "collocations": [
+   "the unity of opposites",
+   "quantitative to qualitative change",
+   "the principal contradiction",
+   "concrete analysis",
+   "two-point and key-point thinking"
+  ],
+  "example": "When the 19th Congress re-named the 'principal contradiction' for the first time since 1981, economists worldwide had to learn this chapter overnight — a philosophy lesson that repriced policy expectations.",
+  "nuance": "矛盾 = contradiction（黑格尔—马克思术语；毛《矛盾论》On Contradiction 使其成为中国政治思维的元语法）；扬弃 = sublation（Aufheben——哲学英语硬词）。量变质变 = quantitative/qualitative change。“具体问题具体分析”= concrete analysis of concrete conditions（列宁语）。链 [[laozi]] 对立转化（福祸相依）——中式辩证的本土根系。",
+  "links": [
+   {
+    "to": "dialectical-materialism",
+    "rel": "related"
+   },
+   {
+    "to": "marxism",
+    "rel": "broader"
+   },
+   {
+    "to": "laozi",
+    "rel": "related"
+   },
+   {
+    "to": "new-development-concepts",
+    "rel": "influenced"
+   },
+   {
+    "to": "hundred-schools",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "period": "教材体系",
+  "pron": "contradiction /ˌkɑntrəˈdɪkʃən/",
+  "etymology": "contradiction 源自拉丁 contra（相对）+ dicere（说）——矛盾即“对着说”:中文取自韩非的矛与盾。",
+  "synonyms": [
+   {
+    "word": "negation of the negation",
+    "ipa": "/nəˈgeɪʃən əv ðə nəˈgeɪʃən/",
+    "sentence": "The negation of the negation spirals, not circles."
+   },
+   {
+    "word": "quantitative change",
+    "ipa": "/kˈwɑntɪˌteɪtɪv ʧeɪnʤ/",
+    "sentence": "Quantitative change queues; qualitative change jumps."
+   }
+  ]
+ },
+ {
+  "id": "historical-materialism",
+  "zh": "历史唯物主义（社会存在与人民群众）",
+  "pinyin": "lìshǐ wéiwùzhǔyì",
+  "en": "historical materialism: social being and the people",
+  "def_zh": "社会存在决定社会意识，社会意识具有相对独立性（先进社会意识可推动社会发展）。生产力与生产关系、经济基础与上层建筑的矛盾运动是社会发展的基本规律（生产关系一定要适合生产力状况——改革即社会主义制度的自我完善和发展）。社会历史的主体是人民群众：人民群众是历史的创造者（物质财富、精神财富的创造者，社会变革的决定力量）——坚持群众观点和群众路线（一切为了群众、一切依靠群众，从群众中来、到群众中去）。价值观的导向作用；在劳动和奉献、个人与社会的统一中创造和实现人生价值。",
+  "def_en": "The social half of the doctrine: being determines consciousness; productive forces and relations, base and superstructure, drive history through their friction (reform, in this frame, is socialism 'perfecting itself' when relations lag forces); and the masses — not heroes — make history, grounding the 'mass line' method ('from the masses, to the masses') that the party names as its lifeline. This is the theory referenced by every 'people-centred' formulation, and the analytical frame [[marxism]] built and this book operationalises for civic instruction.",
+  "sources": [
+   {
+    "book": "zz4",
+    "chapter": "第五课 寻觅社会的真谛"
+   }
+  ],
+  "collocations": [
+   "base and superstructure",
+   "productive forces and relations of production",
+   "the masses make history",
+   "the mass line"
+  ],
+  "example": "'Base and superstructure' escaped the seminar long ago — Economist writers use it half-ironically for everything from crypto to culture wars; the source vocabulary is this chapter's.",
+  "nuance": "经济基础/上层建筑 = base/superstructure（英语理论界通用）；群众路线 = the mass line（官方译，治理研究专名）。“自我完善和发展”是改革的经典正当化语式——链 [[economic-reform]]、[[third-plenum]]。人民群众史观 vs 英雄史观（great man theory）为史学理论对轴——链 [[shiji]]。",
+  "links": [
+   {
+    "to": "marxism",
+    "rel": "broader"
+   },
+   {
+    "to": "dialectical-materialism",
+    "rel": "related"
+   },
+   {
+    "to": "economic-reform",
+    "rel": "related"
+   },
+   {
+    "to": "chen-sheng-uprising",
+    "rel": "related"
+   },
+   {
+    "to": "whole-process-democracy",
+    "rel": "related"
+   }
+  ],
+  "themes": [
+   "ideas"
+  ],
+  "period": "教材体系",
+  "pron": "social being /ˈsoʊʃəl biɪŋ/",
+  "etymology": "being 古英语 bēon（存在）——社会存在决定社会意识:历史唯物主义第一定理。",
+  "synonyms": [
+   {
+    "word": "masses",
+    "ipa": "/ˈmæsɪz/",
+    "sentence": "The masses make history; heroes take minutes."
+   },
+   {
+    "word": "superstructure",
+    "ipa": "/ˈsupərˌstrəkʧər/",
+    "sentence": "The superstructure dances to the base's tune, mostly."
+   }
+  ]
+ }
 ]

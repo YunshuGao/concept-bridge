@@ -8,7 +8,8 @@ DATA = ROOT / "data"
 SITE = ROOT / "site"
 
 REQUIRED = ["id", "zh", "en", "def_zh", "def_en", "sources", "themes"]
-OPTIONAL = ["pinyin", "en_alt", "collocations", "example", "nuance", "links", "period"]
+OPTIONAL = ["pinyin", "en_alt", "collocations", "example", "nuance", "links", "period",
+            "pron", "etymology", "synonyms"]
 LINK_RELS = {"related", "broader", "narrower", "replaced", "replaced-by",
              "influenced", "influenced-by", "contrast", "cause", "effect"}
 
@@ -82,12 +83,23 @@ def concept_page(n, by_id, backlinks):
     b = [f'<h1>{escape(n["zh"])} '
          f'<span class="pinyin">{escape(n.get("pinyin", ""))}</span>'
          f'<span class="en">{escape(n["en"])}</span></h1>']
+    if n.get("pron"):
+        b.append(f'<p class="meta">🔊 <span class="ipa">{escape(n["pron"])}</span></p>')
     if n.get("en_alt"):
         b.append('<p class="meta">also: ' + " · ".join(escape(x) for x in n["en_alt"]) + "</p>")
     if n.get("period"):
         b.append(f'<p class="meta">⏳ {escape(n["period"])}</p>')
     b.append(f'<div class="card"><p class="zh">{escape(n["def_zh"])}</p>'
              f'<p class="endef">{escape(n["def_en"])}</p></div>')
+    if n.get("etymology"):
+        b.append(f"<h2>Etymology 词源</h2><div class='card'><p>{escape(n['etymology'])}</p></div>")
+    if n.get("synonyms"):
+        rows = "".join(
+            f"<li>▸ <b>{escape(s['word'])}</b> "
+            f"<span class='ipa'>{escape(s.get('ipa',''))}</span><br>"
+            f"<em>{escape(s.get('sentence',''))}</em></li>"
+            for s in n["synonyms"])
+        b.append(f"<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'>{rows}</ul></div>")
     if n.get("collocations"):
         b.append("<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'>"
                  + "".join(f"<li>▸ {escape(c)}</li>" for c in n["collocations"])
