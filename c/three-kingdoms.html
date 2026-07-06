@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>三国鼎立 · the Three Kingdoms · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第16课 三国鼎立</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>三国鼎立 <span class="pinyin">Sānguó dǐnglì</span><span class="en">the Three Kingdoms</span></h1>
+<p class="meta">⏳ 220年–280年</p>
+<div class="card"><p class="zh">曹操挟汉献帝号令天下、屯田筹粮，200年官渡之战声东击西烧袁绍乌巢军粮、以少胜多统一北方基础成。208年曹操南下，刘备（三顾茅庐得诸葛亮）联孙权，周瑜黄盖诈降火攻，赤壁之战以约5万破20余万——奠定三分。220年曹丕废汉献帝建魏都洛阳；221年刘备成都称帝国号汉（蜀汉）；229年孙权称帝建吴都建业。魏兴水利，吴开发江东、230年卫温率万人船队达夷洲（今台湾），蜀诸葛亮治蜀开发西南。</p><p class="endef">Cao Cao ruled through a captive emperor and fed his armies from military farms; at Guandu (200) he burned Yuan Shao&#x27;s grain and won the north with the smaller force. Marching south in 208 he met the alliance Zhuge Liang had brokered — thrice-visited in his cottage — between Liu Bei and Sun Quan: at Red Cliffs, fireships behind a false surrender routed 200,000 with 50,000, and China split three ways. Wei (Cao Pi, 220), Shu-Han (Liu Bei, 221) and Wu (Sun Quan, 229) each built their base — Wu&#x27;s fleet reaching Yizhou, today&#x27;s Taiwan, in 230.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ the Three Kingdoms</li><li>▸ the Battle of Red Cliffs</li><li>▸ hold the emperor to command the lords</li><li>▸ the Romance of the Three Kingdoms</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>The Romance of the Three Kingdoms is East Asia&#x27;s shared strategy canon — Japanese CEOs, Korean gamers and Chinese officials all quote it; John Woo&#x27;s Red Cliff simply filmed what the boardroom already knew.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>史书《三国志》(Records of the Three Kingdoms) 与小说《三国演义》(Romance of the Three Kingdoms) 英语书名固定、须分清——教材特意出题辨析草船借箭等为小说虚构。“挟天子以令诸侯”= holding the emperor hostage to command the nobles（与 [[shogunate]]、[[charlemagne]] 的“挟虚君”结构同型）。卫温赴夷洲为两岸论述常引史实。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">结果 effect</span> <a class="node" href="../c/eastern-han.html">东汉兴衰与黄巾起义 · the Eastern Han: revival, eunuchs and the Yellow Turbans</a></li><li><span class="rel">被取代于 replaced-by</span> <a class="node" href="../c/jin-disunion.html">西晋短暂统一与八王之乱 · the brief Jin unification and the War of the Eight Princes</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/legalism.html">法家 · Legalism</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/shogunate.html">幕府统治 · the shogunate</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/eastern-han.html">东汉兴衰与黄巾起义 · the Eastern Han: revival, eunuchs and the Yellow Turbans</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/jin-disunion.html">西晋短暂统一与八王之乱 · the brief Jin unification and the War of the Eight Princes</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7a 第16课 三国鼎立</p>
+<p><a class="tag" href="../themes.html#war">#war</a><a class="tag" href="../themes.html#governance">#governance</a><a class="tag" href="../themes.html#culture">#culture</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

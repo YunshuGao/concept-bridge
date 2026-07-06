@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>商鞅变法 · the Shang Yang reforms · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">第7课 战国时期的社会变化</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>商鞅变法 <span class="pinyin">Shāng Yāng biànfǎ</span><span class="en">the Shang Yang reforms</span></h1>
+<p class="meta">⏳ 前356年起</p>
+<div class="card"><p class="zh">战国铁器牛耕推广、新兴地主阶级势力增强，各国变法以求富国强兵，秦国商鞅变法成效最大（前356年，秦孝公任用）。政治：确立县制由国君直接派官治理、废贵族世袭特权、改革户籍、严明法度；经济：废井田允许土地自由买卖、奖励耕织（多产免徭役）、统一度量衡；军事：奖励军功授爵赐地。秦国力大增、一跃最强，为统一奠基。商鞅“法令至行，公平无私，罚不讳强大”；孝公死后遭诬陷，兵败被车裂——而新法未废。</p><p class="endef">As iron and ox-ploughs empowered a new landowning class, every state reformed to survive; Qin under Shang Yang (from 356 BC) reformed most ruthlessly. Counties under appointed officials replaced hereditary fiefs; aristocratic privilege was abolished, households registered, law enforced without fear or favour (&#x27;punishment did not spare the strong&#x27;); the well-field land system gave way to private sale, production and battlefield merit earned rank and land, weights and measures were standardised. Qin became the terror of the six states. Shang Yang himself, his patron dead, was torn apart by chariots — but the laws stood.</p></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ Legalist reforms</li><li>▸ meritocracy of war</li><li>▸ abolish hereditary privilege</li><li>▸ the reformer dies, the reform survives</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>&#x27;The reformer dies but the reform survives&#x27; is the Shang Yang teaching every Chinese policy debate still cites — pain now, power later, and don&#x27;t expect gratitude.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>“变法”= reform（历史语境常大写专名：the Shang Yang Reforms），隐含“变更成法”的激进义，比 reform 更烈。“井田制”= the well-field system（字面因“井”字田块）。“车裂”= torn apart by chariots——史家爱用的残酷反讽结尾。与 [[peter-the-great]]、[[meiji-restoration]] 同属强制现代化家族。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/warring-states.html">战国七雄 · the Warring States</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/legalism.html">法家 · Legalism</a></li><li><span class="rel">原因 cause</span> <a class="node" href="../c/qin-unification.html">秦统一中国 · the Qin unification of China</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/peter-the-great.html">彼得一世改革 · Peter the Great&#x27;s reforms</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/warring-states.html">战国七雄 · the Warring States</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/dujiangyan.html">都江堰 · the Dujiangyan waterworks</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/legalism.html">法家 · Legalism</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/qin-unification.html">秦统一中国 · the Qin unification of China</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>ch7a 第7课 战国时期的社会变化</p>
+<p><a class="tag" href="../themes.html#governance">#governance</a><a class="tag" href="../themes.html#economy">#economy</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
