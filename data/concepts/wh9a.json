@@ -33,7 +33,7 @@
     "nuance": "中文教材强调古埃及文明“没有延续下去”，与中华文明的连续性对比；英语中表达这种对比常用 continuity vs rupture、an unbroken tradition 等说法。",
     "links": [
       {"to": "pharaoh", "rel": "related"},
-      {"to": "river-valley-civilizations", "rel": "narrower"}
+      {"to": "river-valley-civilizations", "rel": "broader"}
     ],
     "themes": ["culture", "governance"],
     "period": "前3100年–前30年"
@@ -106,7 +106,8 @@
     "example": "The Rosetta Stone did for hieroglyphs what a bilingual dictionary does for any dead language: it turned decoration back into speech.",
     "nuance": "重要陷阱：hieroglyphs 专指埃及（及少数中美洲）文字；汉字的“象形”特征应说 pictographic/pictographic origins，甲骨文是 oracle bone script，切勿称汉字为 hieroglyphs。泛指“难认的文字”时英语可戏称 hieroglyphics（These doctors' notes are pure hieroglyphics）。",
     "links": [
-      {"to": "ancient-egypt", "rel": "related"}
+      {"to": "ancient-egypt", "rel": "related"},
+      {"to": "cuneiform", "rel": "contrast"}
     ],
     "themes": ["culture", "science-tech"],
     "period": "约前3100年起"
@@ -239,5 +240,323 @@
     ],
     "themes": ["economy", "ideas"],
     "period": "约前3500年起"
+  },
+  {
+    "id": "mesopotamia",
+    "zh": "两河流域（美索不达米亚）",
+    "pinyin": "liǎnghé liúyù / Měisuǒbùdámǐyà",
+    "en": "Mesopotamia",
+    "en_alt": ["the Tigris–Euphrates valley", "the land between the rivers"],
+    "def_zh": "西亚幼发拉底河与底格里斯河之间的地区，希腊语意为“两河之间”，人类最早的文明发祥地之一；约前3500年起出现以城市为中心的小国。",
+    "def_en": "The region between the Euphrates and the Tigris in Western Asia — Greek for 'the land between the rivers' — where city-states emerged from about 3500 BC, making it one of the cradles of civilisation.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["ancient Mesopotamia", "Mesopotamian city-states", "the fertile crescent", "between the Tigris and the Euphrates"],
+    "example": "Iraq sits atop the world's oldest urban landscape: every empire from Sumer onward has left a layer in Mesopotamia's mounds.",
+    "nuance": "中文教材惯称“两河流域”，英语正式名是 Mesopotamia——直译 'the two-river valley' 不通。相关地理概念 the Fertile Crescent（新月沃地）在英语史学中极常用。",
+    "links": [
+      {"to": "river-valley-civilizations", "rel": "broader"},
+      {"to": "sumerians", "rel": "related"},
+      {"to": "old-babylon", "rel": "related"}
+    ],
+    "themes": ["geography-environment"],
+    "period": "约前3500年–前539年"
+  },
+  {
+    "id": "sumerians",
+    "zh": "苏美尔人",
+    "pinyin": "Sūměi'ěrrén",
+    "en": "the Sumerians",
+    "def_zh": "两河流域南部最早的文明创造者：发明楔形文字、依月相制定阴历（设闰月调和阴阳历），并创造60进制计数法。",
+    "def_en": "The earliest civilisation-builders of southern Mesopotamia, credited with cuneiform writing, a lunar calendar corrected by intercalary months, and the base-60 number system.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["Sumerian city-states", "the invention of writing", "a base-60 (sexagesimal) system"],
+    "example": "Every time you glance at a clock you are doing Sumerian arithmetic: sixty seconds, sixty minutes — the base-60 habit has outlived its inventors by four millennia.",
+    "nuance": "60进制的学名是 the sexagesimal system，日常表达用 base-60 更亲切。“闰月”是 intercalary/leap month。",
+    "links": [
+      {"to": "cuneiform", "rel": "effect"},
+      {"to": "mesopotamia", "rel": "related"}
+    ],
+    "themes": ["culture", "science-tech"],
+    "period": "约前3500年起"
+  },
+  {
+    "id": "cuneiform",
+    "zh": "楔形文字",
+    "pinyin": "xiēxíng wénzì",
+    "en": "cuneiform",
+    "en_alt": ["cuneiform script"],
+    "def_zh": "苏美尔人发明的文字：用削尖的芦秆或木棒在软泥版上压刻，笔画由粗到细形如木楔，故名。",
+    "def_en": "The wedge-shaped script of Mesopotamia, pressed into wet clay tablets with a cut reed stylus — named from Latin cuneus, 'wedge'.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["cuneiform tablets", "clay tablets", "a scribal tradition", "decipher cuneiform"],
+    "example": "Clay outlasts paper: hundreds of thousands of cuneiform tablets survive, recording everything from epic poetry to complaints about substandard copper.",
+    "nuance": "cuneiform 与 hieroglyphs 是两套体系，勿混用；中文都可笼统称“古文字”，英语必须区分。“泥版”是 clay tablet。",
+    "links": [
+      {"to": "hieroglyphs", "rel": "contrast"},
+      {"to": "sumerians", "rel": "related"}
+    ],
+    "themes": ["culture", "science-tech"],
+    "period": "约前3200年起"
+  },
+  {
+    "id": "old-babylon",
+    "zh": "古巴比伦王国",
+    "pinyin": "gǔ Bābǐlún wángguó",
+    "en": "the Old Babylonian kingdom",
+    "en_alt": ["Old Babylonia", "the First Babylonian Empire"],
+    "def_zh": "幼发拉底河中游小国，公元前18世纪汉谟拉比在位时统一两河流域中下游，成为强大的奴隶制国家；汉谟拉比死后衰落，前1595年为外族所灭。",
+    "def_en": "A minor Euphrates state that, under Hammurabi in the 18th century BC, unified central and southern Mesopotamia into a powerful centralised kingdom; it declined after his death and fell in 1595 BC.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["under Hammurabi", "the rise and fall of Babylon", "a short-lived empire"],
+    "example": "Babylon's fate is the classic imperial parable: a state built on one strongman's energy rarely outlives him by much.",
+    "nuance": "“古巴比伦”对应 Old Babylonian（区别于后来的新巴比伦 Neo-Babylonian）；英语单说 Babylon 常泛指这座城及其文明，还带“繁华堕落之都”的比喻义（a modern Babylon）。",
+    "links": [
+      {"to": "hammurabi", "rel": "related"},
+      {"to": "mesopotamia", "rel": "broader"},
+      {"to": "hanging-gardens", "rel": "related"}
+    ],
+    "themes": ["governance"],
+    "period": "前19世纪–前1595年"
+  },
+  {
+    "id": "hammurabi",
+    "zh": "汉谟拉比",
+    "pinyin": "Hànmólābǐ",
+    "en": "Hammurabi",
+    "def_zh": "古巴比伦第六代国王：以各个击破的策略统一两河流域中下游，实行君主专制、加强中央集权，自称“众神之王”，并颁布著名法典、大兴水利。",
+    "def_en": "The sixth king of Babylon, who unified lower Mesopotamia by picking off rivals one by one, ruled as a self-deified absolute monarch, dug canals on a grand scale, and promulgated the law code that bears his name.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["promulgate/issue a law code", "divide and conquer", "divine kingship"],
+    "example": "Rulers have always understood that codifying law is a form of power: Hammurabi carved his statutes in stone precisely so no one could argue with them.",
+    "nuance": "“各个击破”地道译法是 divide and conquer 或 pick off one by one；“神化自己”可说 self-deification / styled himself king of the gods。",
+    "links": [
+      {"to": "hammurabi-code", "rel": "cause"},
+      {"to": "old-babylon", "rel": "related"},
+      {"to": "absolute-monarchy", "rel": "related"}
+    ],
+    "themes": ["governance"],
+    "period": "前18世纪"
+  },
+  {
+    "id": "hammurabi-code",
+    "zh": "《汉谟拉比法典》",
+    "pinyin": "Hànmólābǐ fǎdiǎn",
+    "en": "the Code of Hammurabi",
+    "def_zh": "迄今已知世界上第一部较为完整的成文法典，刻于黑色石柱（现藏卢浮宫），正文282条；反映古巴比伦森严的社会等级（有公民权自由民、无公民权自由民、奴隶）与活跃的商品经济，严格保护奴隶主利益。",
+    "def_en": "The earliest substantially complete written law code known, its 282 clauses carved on a black stela now in the Louvre; it reveals Old Babylon's rigid hierarchy of full citizens, free non-citizens and slaves, its lively commerce — and its ruthless protection of slave-owners' interests.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["a written law code", "an eye for an eye (lex talionis)", "codify laws", "carved on a stela"],
+    "example": "'An eye for an eye' entered the world as tariff-schedule justice: under Hammurabi the price of an eye depended entirely on whose eye it was.",
+    "nuance": "“成文法”= written/statute law（与习惯法 customary law 相对）。“以眼还眼”原则学名 lex talionis。注意教材强调其阶级性——英语表述可用 justice was graded by status。",
+    "links": [
+      {"to": "hammurabi", "rel": "effect"},
+      {"to": "old-babylon", "rel": "related"},
+      {"to": "slave-society", "rel": "related"}
+    ],
+    "themes": ["governance", "ideas"],
+    "period": "前18世纪"
+  },
+  {
+    "id": "absolute-monarchy",
+    "zh": "君主专制与中央集权",
+    "pinyin": "jūnzhǔ zhuānzhì / zhōngyāng jíquán",
+    "en": "absolute monarchy and centralised power",
+    "en_alt": ["autocracy", "despotism", "centralisation"],
+    "def_zh": "君主个人集军、政、财、司法大权于一身（君主专制），并将权力收归中央（中央集权）的统治形态；汉谟拉比是教材中最早的典型。",
+    "def_en": "Rule in which one monarch concentrates military, administrative, fiscal and judicial power in his own hands, drawing authority to the centre; Hammurabi is the textbook's first exemplar of the pattern.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["absolute rule", "centralise power", "an autocratic state", "concentrate power in one's own hands"],
+    "example": "Autocrats' to-do lists have barely changed in 3,800 years: control the army, control the courts, control the water.",
+    "nuance": "术语雷区：君主专制 = absolute monarchy/autocracy；中央集权 = centralisation（是权力结构，不必然专制）。despotism 带强烈贬义，而 'Oriental despotism'（东方专制主义）是已被批判的旧史学框架，慎用。描述当代政体多用 authoritarian。",
+    "links": [
+      {"to": "hammurabi", "rel": "related"},
+      {"to": "pharaoh", "rel": "related"}
+    ],
+    "themes": ["governance", "ideas"],
+    "period": "古代–近代"
+  },
+  {
+    "id": "hanging-gardens",
+    "zh": "空中花园",
+    "pinyin": "kōngzhōng huāyuán",
+    "en": "the Hanging Gardens of Babylon",
+    "def_zh": "传说新巴比伦国王为慰藉王后思乡而在宫中修建的花园，被誉为古代世界七大奇迹之一；前539年新巴比伦为波斯帝国所灭。",
+    "def_en": "The legendary terraced gardens said to have been built by a Neo-Babylonian king to console his homesick queen — counted among the Seven Wonders of the ancient world.",
+    "sources": [{"book": "wh9a", "chapter": "第2课 古代两河流域"}],
+    "collocations": ["the Seven Wonders of the ancient world", "a wonder of engineering", "legendary/fabled"],
+    "example": "Like many wonders, the Hanging Gardens may owe more to legend than to masonry: archaeologists have never found them.",
+    "nuance": "“空中花园”是意译；英语固定名 the Hanging Gardens（悬挂/层叠之意），不能说 sky garden——那是现代楼顶花园的说法。",
+    "links": [
+      {"to": "old-babylon", "rel": "related"}
+    ],
+    "themes": ["culture"],
+    "period": "前6世纪"
+  },
+  {
+    "id": "indus-civilization",
+    "zh": "古代印度河流域文明",
+    "pinyin": "Yìndùhé liúyù wénmíng",
+    "en": "the Indus Valley Civilisation",
+    "en_alt": ["Harappan civilisation", "Harappa and Mohenjo-daro"],
+    "def_zh": "南亚次大陆最早的文明（约前23–前18世纪），以哈拉帕、摩亨佐·达罗等精心规划的城市遗址著称——上下城分区、街道垂直交叉、有完整下水道系统；因不明原因衰亡，长期不为人知。",
+    "def_en": "South Asia's earliest civilisation (c. 23rd–18th centuries BC), known from meticulously planned cities such as Harappa and Mohenjo-daro — gridded streets, zoned citadels and lower towns, and complete drainage systems — which declined for unknown reasons and was forgotten until modern excavation.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["urban planning", "a grid layout", "drainage/sewerage systems", "archaeological excavation"],
+    "example": "Mohenjo-daro had better drains four thousand years ago than some megacities manage today — town planning is not a modern invention.",
+    "nuance": "英语学界通称 the Indus Valley Civilisation 或 Harappan civilisation；“南亚次大陆”= the (South Asian) subcontinent，英语里常直接说 the subcontinent。",
+    "links": [
+      {"to": "river-valley-civilizations", "rel": "broader"},
+      {"to": "aryans", "rel": "related"}
+    ],
+    "themes": ["culture", "geography-environment"],
+    "period": "约前2300年–前1750年"
+  },
+  {
+    "id": "aryans",
+    "zh": "雅利安人",
+    "pinyin": "Yǎlì'ānrén",
+    "en": "the Indo-Aryans",
+    "en_alt": ["Aryans (dated usage)", "Indo-Aryan migrations"],
+    "def_zh": "约前1500年自中亚侵入印度的游牧部落，自称“雅利安”（意为高贵者），定居印度河、恒河流域，逐渐建立种姓制度。",
+    "def_en": "Pastoral migrants from Central Asia who entered India around 1500 BC, settled the Indus and Ganges plains, and gradually imposed the social hierarchy that became the caste system.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["the Indo-Aryan migrations", "pastoral nomads", "Vedic culture"],
+    "example": "Few words have fallen so far: 'Aryan' began as a Sanskrit self-description meaning noble, and ended as the vocabulary of Nazi race law.",
+    "nuance": "高危词：Aryan 因纳粹种族主义污染，现代英语学术写作用 Indo-Aryan（语言/人群）或 Vedic（文化时期）；单独使用 Aryan 极易引起误读。谈论印度史时说 the Indo-Aryan migrations 而非 Aryan invasion（后者是已被修正的旧说）。",
+    "links": [
+      {"to": "caste-system", "rel": "cause"},
+      {"to": "indus-civilization", "rel": "related"}
+    ],
+    "themes": ["society"],
+    "period": "约前1500年起"
+  },
+  {
+    "id": "caste-system",
+    "zh": "种姓制度",
+    "pinyin": "zhǒngxìng zhìdù",
+    "en": "the caste system",
+    "en_alt": ["varna system", "caste hierarchy"],
+    "def_zh": "雅利安人进入印度后形成的森严等级制度：婆罗门（祭祀）、刹帝利（军政）、吠舍（农牧工商）、首陀罗（服务前三等级）四大等级世代相袭，贵贱分明，职业世袭、等级内婚；四等级之外还有遭歧视的“不可接触者”（贱民）。",
+    "def_en": "India's hereditary social hierarchy: Brahmins (priests), Kshatriyas (warriors and rulers), Vaishyas (farmers, herders and traders) and Shudras (servants of the other three), with occupations inherited and marriage confined within ranks — and, beneath them all, the stigmatised 'untouchables'.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["the caste hierarchy", "upper-/lower-caste", "caste discrimination", "inter-caste marriage", "hereditary occupations"],
+    "example": "Caste survives the ballot box: Indian parties still court voters bloc by bloc, and matrimonial ads still specify caste alongside salary.",
+    "nuance": "教材四等级即 varna（瓦尔纳）；现实印度社会运作单位是更细的 jati（迦提，数千种）。英语 caste 笼统涵盖两者。“贱民”今称 Dalits（自称，意为受压迫者），untouchables 为历史用语，官方称 Scheduled Castes；勿用旧称 pariah 指人（作比喻可用：a pariah state）。",
+    "links": [
+      {"to": "aryans", "rel": "effect"},
+      {"to": "dalits", "rel": "narrower"},
+      {"to": "buddhism", "rel": "contrast"}
+    ],
+    "themes": ["society", "religion"],
+    "period": "约前1500年至今"
+  },
+  {
+    "id": "dalits",
+    "zh": "贱民（不可接触者）",
+    "pinyin": "jiànmín",
+    "en": "Dalits",
+    "en_alt": ["the untouchables (historical)", "Scheduled Castes (official)"],
+    "def_zh": "种姓四等级之外、地位最卑贱的群体，历史上被称为“不可接触者”，在社会上遭受歧视与凌辱。",
+    "def_en": "Those ranked beneath the four varnas altogether — historically branded 'untouchable' and subjected to systematic exclusion and humiliation; today self-identified as Dalits and officially the Scheduled Castes.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["Dalit rights", "caste-based discrimination", "affirmative action/reservations (in India)"],
+    "example": "India's reservation system sets aside university places and government jobs for Dalits — the world's oldest and largest affirmative-action scheme.",
+    "nuance": "用词敏感度排序：Dalit（尊重，当代通用）> Scheduled Castes（法律用语）> untouchable（仅作历史描述）> pariah（指人为冒犯，但 a pariah state / treated as a pariah 是常用比喻）。",
+    "links": [
+      {"to": "caste-system", "rel": "broader"}
+    ],
+    "themes": ["society"],
+    "period": "古代至今"
+  },
+  {
+    "id": "maurya-empire",
+    "zh": "孔雀王朝",
+    "pinyin": "Kǒngquè wángcháo",
+    "en": "the Maurya Empire",
+    "en_alt": ["the Mauryan dynasty"],
+    "def_zh": "古代印度文明的鼎盛时期（约前324–前187年）：除半岛最南端外基本统一印度，农业与工商业繁荣，首都华氏城是当时世界上最繁华、人口最多的城市之一。",
+    "def_en": "Ancient India's high-water mark (c. 324–187 BC), unifying nearly the whole subcontinent; agriculture and commerce flourished, and the capital Pataliputra ranked among the largest, busiest cities on earth.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["at its height/zenith", "unify the subcontinent", "a flourishing trade"],
+    "example": "Two thousand years before 'Make in India', Mauryan Pataliputra was already the subcontinent's commercial showcase.",
+    "nuance": "“鼎盛时期”地道表达：at its height / at its zenith / the golden age of…。华氏城英语名为 Pataliputra（今巴特那 Patna）。",
+    "links": [
+      {"to": "caste-system", "rel": "related"},
+      {"to": "buddhism", "rel": "related"}
+    ],
+    "themes": ["governance", "economy"],
+    "period": "约前324年–前187年"
+  },
+  {
+    "id": "buddhism",
+    "zh": "佛教",
+    "pinyin": "Fójiào",
+    "en": "Buddhism",
+    "def_zh": "公元前6世纪由乔达摩·悉达多创立于印度：早期反对婆罗门特权、提出“众生平等”、不拒低种姓入教，又宣扬“忍耐顺从”而获国王与富人支持；前3世纪起向外传播，经中亚传入中国，南经锡兰传至东南亚。",
+    "def_en": "Founded in India in the 6th century BC by Siddhartha Gautama; early Buddhism rejected Brahmin privilege and preached the equality of all beings while counselling patient acceptance — winning both low-caste converts and royal patronage — and from the 3rd century BC spread through Central Asia to China and via Ceylon across Southeast Asia.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["the spread/transmission of Buddhism", "convert to Buddhism", "Buddhist monasteries", "along the Silk Road"],
+    "example": "Religions travel with trade: Buddhism reached China not by conquest but in the baggage of Silk Road merchants and pilgrim monks.",
+    "nuance": "“众生平等”可译 the equality of all (sentient) beings；“忍耐顺从”教材语境指 forbearance and acceptance。注意约10世纪后佛教在印度本土衰落、被印度教（Hinduism）取代——今日印度并非佛教国家，这是常见误区。",
+    "links": [
+      {"to": "sakyamuni", "rel": "effect"},
+      {"to": "caste-system", "rel": "contrast"}
+    ],
+    "themes": ["religion", "ideas"],
+    "period": "前6世纪起"
+  },
+  {
+    "id": "sakyamuni",
+    "zh": "释迦牟尼",
+    "pinyin": "Shìjiāmóuní",
+    "en": "the Buddha (Siddhartha Gautama)",
+    "en_alt": ["Sakyamuni", "Gautama Buddha"],
+    "def_zh": "佛教创始人，迦毗罗卫城释迦族王子；相传因目睹乞丐、病人与弃尸而感悟“人生皆苦”，离家修行，创立佛教，被尊为“佛陀”。",
+    "def_en": "Founder of Buddhism, a prince of the Shakya clan of Kapilavastu who — shaken, tradition says, by the sight of beggary, sickness and death — renounced his palace to seek liberation from suffering, and came to be honoured as the Buddha, 'the awakened one'.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["attain enlightenment", "renounce the world", "the awakened one"],
+    "example": "The Buddha's biography is antiquity's most famous mid-life career change: a prince who walked out on power to found a philosophy.",
+    "nuance": "Buddha 是尊号（“觉悟者”），本名 Siddhartha Gautama；Sakyamuni（释迦族圣人）是汉传佛教常用称呼，英语学术写作多用 the Buddha 或 Gautama。“佛陀”“悟道”= enlightenment/awakening。",
+    "links": [
+      {"to": "buddhism", "rel": "cause"}
+    ],
+    "themes": ["religion", "ideas"],
+    "period": "前6世纪"
+  },
+  {
+    "id": "arabic-numerals",
+    "zh": "阿拉伯数字",
+    "pinyin": "Ālābó shùzì",
+    "en": "Arabic numerals",
+    "en_alt": ["Hindu-Arabic numerals"],
+    "def_zh": "世界通用的计数符号，实际起源于印度，后经阿拉伯人传播至世界各地，故得名“阿拉伯数字”。",
+    "def_en": "The world's universal number signs — invented in India and carried west by Arab scholars and traders, whose role in transmission gave the digits their misleading name.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["Hindu-Arabic numerals", "the concept of zero", "positional/place-value notation"],
+    "example": "History's credit lines are often mislabelled: 'Arabic' numerals are an Indian invention that Europe learned of second-hand.",
+    "nuance": "学术写作常用 Hindu-Arabic numerals 以还原谱系；相关关键概念：zero（零的观念，亦源自印度）与 place-value/positional notation（位值制）。这是“传播者冠名”现象的典型例子。",
+    "links": [
+      {"to": "maurya-empire", "rel": "related"}
+    ],
+    "themes": ["science-tech", "culture"],
+    "period": "古代印度"
+  },
+  {
+    "id": "sanskrit-epics",
+    "zh": "《摩诃婆罗多》与《罗摩衍那》",
+    "pinyin": "Móhēpóluóduō / Luómóyǎnnà",
+    "en": "the Mahabharata and the Ramayana",
+    "en_alt": ["the Sanskrit epics"],
+    "def_zh": "古代印度两大梵文史诗，篇幅为世界文学罕见；内容以神话为主，同时反映当时印度社会生活及雅利安人向东、向南扩张的斗争。",
+    "def_en": "India's two great Sanskrit epics, among the longest poems in world literature; mythological in frame, they also preserve a picture of early Indian society and of the Indo-Aryan push east and south.",
+    "sources": [{"book": "wh9a", "chapter": "第3课 古代印度"}],
+    "collocations": ["epic poetry", "oral tradition", "Sanskrit literature"],
+    "example": "The Mahabharata is roughly ten times the Iliad and Odyssey combined — and Indian television adaptations of it still stop traffic.",
+    "nuance": "梵文 = Sanskrit；“史诗”= epic。两部书名英语拼写固定（the Mahabharata, the Ramayana），前面加定冠词。",
+    "links": [
+      {"to": "aryans", "rel": "related"}
+    ],
+    "themes": ["culture"],
+    "period": "古代印度"
   }
 ]
