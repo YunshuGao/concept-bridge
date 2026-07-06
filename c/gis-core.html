@@ -31,6 +31,7 @@ h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
         padding:1rem 1.2rem; margin:.6rem 0; }
 .zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
 .pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
 .tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
        font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
        text-decoration:none; }
@@ -57,8 +58,11 @@ canvas { width:100%; background:var(--card); border:1px solid var(--line); borde
 </header>
 <main>
 <h1>GIS 与空间分析核心概念 <span class="pinyin">dìlǐ xìnxī xìtǒng</span><span class="en">GIS and spatial analysis</span></h1>
+<p class="meta">🔊 <span class="ipa">geospatial /ˌdʒiːəʊˈspeɪʃəl/</span></p>
 <p class="meta">⏳ 学科体系</p>
 <div class="card"><p class="zh">Chang《地理信息系统导论》的概念骨架：数据模型（矢量 vector——点线面要素；栅格 raster——像元）；坐标系与投影（datum、UTM）；空间关系（拓扑、缓冲区 buffer、叠加 overlay）；空间分析（插值、密度、网络分析）；遥感与GPS数据源；地图学输出（专题图、分级设色 choropleth）。“地理学第一定律”（Tobler：万物相关，近者尤甚）为空间统计之魂。用户的本科专业——本节点即其专业英语的登记处。</p><p class="endef">The conceptual skeleton of Chang&#x27;s standard text — and of your undergraduate degree: data models (vector&#x27;s points-lines-polygons v. raster&#x27;s cells), coordinate systems and projections, topology, buffers and overlays, interpolation and network analysis, remote sensing and GPS inputs, cartographic output down to the choropleth map. Presiding over it, Tobler&#x27;s First Law of Geography: everything is related to everything else, but near things are more related — the one-liner spatial statistics grew from.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>geo-（大地）+ spatial（拉丁 spatium 空间）——地理空间的。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>spatial analysis</b> <span class='ipa'>/ˈspeɪʃəl æˈnælɪsɪs/</span><br><em>Spatial analysis asks where before it asks why.</em></li><li>▸ <b>cartography</b> <span class='ipa'>/kɑːˈtɒɡrəfi/</span><br><em>Cartography is rhetoric with coordinates.</em></li></ul></div>
 <h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ vector and raster</li><li>▸ buffer and overlay</li><li>▸ choropleth map</li><li>▸ Tobler&#x27;s First Law</li><li>▸ spatial autocorrelation</li></ul></div>
 <h2>In the wild 语境例句</h2><div class='card'><p><em>Every election-night map argument — precincts v. hexbins v. cartograms — is a GIS design seminar in public; the vocabulary here lets you critique it in both languages.</em></p></div>
 <h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>矢量/栅格 = vector/raster；缓冲区分析 = buffer analysis；叠加 = overlay；分级设色图 = choropleth。链 [[human-geography-basics]]（学科的技术臂）与 [[demography-core]]（空间人口学）。</p></div>
