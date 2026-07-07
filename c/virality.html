@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>病毒式传播 · virality (the K-factor) · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Marketing, Growth &amp; Operations 营销、增长与运营</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>病毒式传播 <span class="pinyin">bìngdú shì chuánbō</span><span class="en">virality (the K-factor)</span></h1>
+<p class="meta">🔊 <span class="ipa">virality /vaɪˈrælɪti/</span></p>
+<div class="card"><p class="zh">衡量用户自发带来新用户的能力:K因子=每个用户平均发出的邀请数×邀请转化率。K&gt;1 意味着指数式自增长（每个用户带来不止一个新用户），是零获客成本增长的圣杯，但极少数产品能持续实现。</p><p class="endef">A measure of how effectively users spontaneously bring in new users: the K-factor = invitations sent per user × conversion rate of those invitations. K &gt; 1 means exponential self-growth (each user brings more than one), the holy grail of zero-CAC growth — which very few products sustain.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>viral 源自 virus（拉丁&#x27;毒液、黏液&#x27;）——传播如病毒般人传人;K因子借自流行病学的基本传染数 R0。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>the viral coefficient</b> <span class='ipa'>/ðə ˈvaɪrəl ˌkoʊəˈfɪʃənt/</span><br><em>The viral coefficient decides whether growth ignites or fizzles.</em></li><li>▸ <b>word of mouth</b> <span class='ipa'>/wərd əv maʊθ/</span><br><em>Word of mouth is virality that predates the spreadsheet.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ a K-factor above 1</li><li>▸ viral growth</li><li>▸ the viral coefficient</li><li>▸ invite mechanics</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>A messaging app with a K-factor above 1 grows exponentially without ad spend — each user recruits more than one, and the base doubles on itself.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/growth-loops.html">增长循环 · growth loops</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/network-effects.html">网络效应 · network effects</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/epidemics-medicine.html">疫病、医学与公共卫生 · epidemics, medicine and public health</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/growth-loops.html">增长循环 · growth loops</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/net-promoter-score.html">净推荐值（NPS） · the net promoter score (NPS)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/product-led-growth.html">产品驱动增长 · product-led growth (PLG)</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Marketing, Growth &amp; Operations 营销、增长与运营</p>
+<p><a class="tag" href="../themes.html#marketing">#marketing</a><a class="tag" href="../themes.html#tech">#tech</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

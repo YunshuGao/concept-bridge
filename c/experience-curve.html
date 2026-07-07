@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>经验曲线 · the experience (learning) curve · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Strategy 战略</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>经验曲线 <span class="pinyin">jīngyàn qūxiàn</span><span class="en">the experience (learning) curve</span></h1>
+<p class="meta">🔊 <span class="ipa">experience curve /ɪkˈspɪriəns kərv/</span></p>
+<div class="card"><p class="zh">BCG 的经验发现:累计产量每翻一番，单位成本可预测地下降约20–30%——源于学习、流程改进、规模与创新。它是激进定价与抢占份额战略的理论依据:先亏后赚，以量降本。</p><p class="endef">BCG&#x27;s empirical finding: each doubling of cumulative output cuts unit cost by a predictable 20–30% — from learning, process improvement, scale and innovation. It justifies aggressive pricing to grab share: lose now, win on volume-driven cost.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>experience 源自拉丁 experiri（试验、经历，与 experiment 同根）——经验曲线即“做得越多，越便宜”的量化规律。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>learning curve</b> <span class='ipa'>/ˈlərnɪŋ kərv/</span><br><em>The learning curve is why the tenth factory costs less than the first.</em></li><li>▸ <b>cumulative volume</b> <span class='ipa'>/ˈkjumjələtɪv ˈvɑljum/</span><br><em>Cumulative volume, not annual output, drives the cost decline.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ ride the experience curve</li><li>▸ cost declines with volume</li><li>▸ the learning rate</li><li>▸ price ahead of cost</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Solar panels fell 90% in a decade almost exactly along the experience curve — each doubling of installed capacity cut costs on schedule.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>经验曲线看累计产量（历史总量），规模经济看当期产量（当下规模）——两者常混，但一个是时间积累，一个是瞬时规模。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/cost-leadership.html">成本领先 · cost leadership</a></li><li><span class="rel">对比 contrast</span> <a class="node" href="../c/economies-of-scale.html">规模经济 · economies of scale</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/bcg-matrix.html">波士顿矩阵 · the BCG growth-share matrix</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/cost-leadership.html">成本领先 · cost leadership</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/economies-of-scale.html">规模经济 · economies of scale</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/bcg-matrix.html">波士顿矩阵 · the BCG growth-share matrix</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/kaizen.html">持续改善 · kaizen (continuous improvement)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/automation-productivity.html">自动化与生产率 · automation and productivity</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/penetration-vs-skimming.html">渗透定价与撇脂定价 · penetration vs skimming pricing</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Strategy 战略</p>
+<p><a class="tag" href="../themes.html#strategy">#strategy</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

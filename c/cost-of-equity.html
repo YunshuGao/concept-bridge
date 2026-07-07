@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>股权成本 · the cost of equity · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Valuation 估值</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>股权成本 <span class="pinyin">gǔquán chéngběn</span><span class="en">the cost of equity</span></h1>
+<p class="meta">🔊 <span class="ipa">cost of equity /kɔst əv ˈɛkwəti/</span></p>
+<div class="card"><p class="zh">股东要求的回报率——因股东承担最末位、最高的风险，其要求高于债权人。通常用资本资产定价模型（CAPM）估算:无风险利率 + β × 股权风险溢价。</p><p class="endef">The return shareholders demand — higher than lenders&#x27; because equity holders bear the last, riskiest claim. Usually estimated with the CAPM: the risk-free rate plus beta times the equity risk premium.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>equity 源自拉丁 aequitas（公平）——股权本指“公平分享剩余”的权利；其成本即股东要的补偿。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>required equity return</b> <span class='ipa'>/rikˈwaɪərd ˈɛkwəti rɪˈtərn/</span><br><em>The required equity return is what shareholders could earn on equally risky bets elsewhere.</em></li><li>▸ <b>the CAPM rate</b> <span class='ipa'>/ðə ˈkæpəm reɪt/</span><br><em>The CAPM rate turns a stock&#x27;s market risk into a required return.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ estimate via CAPM</li><li>▸ risk-free rate plus premium</li><li>▸ the equity risk premium</li><li>▸ levered vs unlevered</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>A volatile tech stock&#x27;s cost of equity might be 12% while a utility&#x27;s is 7% — beta captures how much market risk each shareholder bears.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/capital-asset-pricing-model.html">资本资产定价模型 · the CAPM</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/beta.html">贝塔系数 · beta</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/equity-risk-premium.html">股权风险溢价 · the equity risk premium</a></li><li><span class="rel">上位 broader</span> <a class="node" href="../c/cost-of-capital.html">资本成本 · the cost of capital</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/cost-of-capital.html">资本成本 · the cost of capital</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/beta.html">贝塔系数 · beta</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/equity-risk-premium.html">股权风险溢价 · the equity risk premium</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Valuation 估值</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
