@@ -16411,5 +16411,3122 @@
     "rel": "related"
    }
   ]
+ },
+ {
+  "id": "three-statement-linkage",
+  "zh": "三张报表的勾稽",
+  "pinyin": "sānzhāng bàobiǎo de gōujī",
+  "en": "the three-statement linkage",
+  "def_zh": "投行分析师的第一课:利润表、资产负债表、现金流量表并非孤立,而是环环相扣。净利润流入留存收益(连接利润表与资产负债表);净利润加回非现金项、调整营运资本得出经营现金流;期末现金回到资产负债表。看懂这套勾稽,才能判断一家公司的数字是否自洽、是否被操纵。",
+  "def_en": "An analyst's first lesson: the income statement, balance sheet and cash flow statement are not separate but interlock. Net income flows into retained earnings (linking P&L to balance sheet); net income plus non-cash add-backs and working-capital changes gives operating cash flow; ending cash returns to the balance sheet. Master this articulation and you can judge whether a company's numbers are internally consistent — or manipulated.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "three-statement linkage /θri-ˈsteɪtmənt ˈlɪŋkɪʤ/",
+  "etymology": "勾稽（gōujī）为中文会计术语,指数字间的相互稽核关系;英文 articulation 源自拉丁 articulare（分节连接）——报表'关节相连'。",
+  "synonyms": [
+   {
+    "word": "financial statement articulation",
+    "sentence": "Financial statement articulation is the grammar that makes the three statements one story.",
+    "ipa": "/ˌfaɪˈnænʃəl ˈsteɪtmənt ɑːˌtɪkjʊˈleɪʃən/"
+   },
+   {
+    "word": "the accounting plug",
+    "sentence": "The accounting plug is where cash balances the model when everything else is filled in.",
+    "ipa": "/ðə əˈkaʊnɪŋ pləg/"
+   }
+  ],
+  "collocations": [
+   "how the statements link",
+   "net income to retained earnings",
+   "the cash flow bridge",
+   "tie out the statements"
+  ],
+  "example": "An analyst tests a model by breaking one link — raising depreciation — and checking it flows correctly through all three statements; if cash doesn't balance, the model is wrong.",
+  "nuance": "面试高频考题:'折旧增加100(税率0)会如何影响三张报表?'——利润表净利润−100,现金流量表加回折旧使经营现金流+0,资产负债表现金不变但累计折旧+100、留存收益−100。答不出即出局。",
+  "links": [
+   {
+    "to": "income-statement",
+    "rel": "related"
+   },
+   {
+    "to": "balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "cash-flow-statement",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "common-size-analysis",
+  "zh": "共同比分析",
+  "pinyin": "gòngtóngbǐ fēnxī",
+  "en": "common-size analysis",
+  "def_zh": "把利润表各项表示为营收的百分比、资产负债表各项表示为总资产的百分比,消除规模差异,便于跨公司、跨年度比较结构。它一眼揭示成本结构、利润率构成与资产配置的变化——绝对数看不出的趋势,百分比一目了然。",
+  "def_en": "Expressing every income-statement line as a percent of revenue and every balance-sheet line as a percent of total assets, removing size differences so structure can be compared across companies and years. It reveals cost structure, margin composition and asset mix at a glance — trends invisible in absolute numbers jump out as percentages.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "common-size analysis /ˈkɑmən-saɪz æˈnælɪsɪs/",
+  "etymology": "common-size（统一规模）——把不同规模的公司'化为同一尺度'（都以100%为基准）以便比较。",
+  "synonyms": [
+   {
+    "word": "vertical analysis",
+    "sentence": "Vertical analysis reads a single period as percentages of one base line.",
+    "ipa": "/ˈvərtɪkəl æˈnælɪsɪs/"
+   },
+   {
+    "word": "percentage-of-sales",
+    "sentence": "A percentage-of-sales view exposes the cost creeping up while revenue distracts you.",
+    "ipa": "/pərˈsɛnɪʤ-əv-seɪlz/"
+   }
+  ],
+  "collocations": [
+   "common-size the statements",
+   "as a percent of revenue",
+   "vertical vs horizontal analysis",
+   "margin composition"
+  ],
+  "example": "Common-size analysis showed a rival's R&D holding at 15% of sales while ours quietly fell to 8% — a strategic gap the dollar figures had hidden.",
+  "links": [
+   {
+    "to": "gross-margin",
+    "rel": "related"
+   },
+   {
+    "to": "trend-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "benchmarking",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "trend-analysis",
+  "zh": "趋势分析",
+  "pinyin": "qūshì fēnxī",
+  "en": "horizontal (trend) analysis",
+  "def_zh": "横向比较同一项目在多个连续期间的变化（增长率、复合增速CAGR）,以识别方向、加速或恶化。与共同比（纵向）互补:纵向看某一期的结构,横向看结构随时间的演变。分析师用它区分'一次性波动'与'持续趋势'。",
+  "def_en": "Comparing the same line item across several consecutive periods (growth rates, CAGR) to spot direction, acceleration or deterioration. Complementary to common-size (vertical) analysis: vertical reads one period's structure, horizontal reads how that structure evolves over time. Analysts use it to separate a one-off blip from a durable trend.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "trend analysis /trɛnd æˈnælɪsɪs/",
+  "etymology": "horizontal（水平的）——沿时间轴'水平'展开比较多期,与'纵向'共同比相对;CAGR=Compound Annual Growth Rate。",
+  "synonyms": [
+   {
+    "word": "horizontal analysis",
+    "sentence": "Horizontal analysis lays the years side by side so the trajectory can't hide.",
+    "ipa": "/ˌhɔrəˈzɑntəl æˈnælɪsɪs/"
+   },
+   {
+    "word": "CAGR",
+    "sentence": "CAGR smooths a lumpy multi-year change into one clean annual rate.",
+    "ipa": "/ˈkæɡər/"
+   }
+  ],
+  "collocations": [
+   "year-over-year growth",
+   "the CAGR",
+   "a deteriorating trend",
+   "sequential vs year-on-year"
+  ],
+  "example": "Trend analysis revealed margins had slipped for eight straight quarters — not the 'temporary' dip management called it, but a structural decline.",
+  "links": [
+   {
+    "to": "common-size-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "liquidity-ratios",
+  "zh": "流动性比率",
+  "pinyin": "liúdòngxìng bǐlǜ",
+  "en": "liquidity ratios",
+  "def_zh": "衡量企业偿付短期债务能力的指标:流动比率(流动资产/流动负债)、速动比率(剔除存货,更严苛)、现金比率(仅现金及等价物)。它们回答'账上的钱够不够还年内到期的债'——流动性危机往往先于盈利危机杀死一家公司。",
+  "def_en": "Measures of a firm's ability to meet short-term obligations: the current ratio (current assets / current liabilities), the quick ratio (excluding inventory, stricter) and the cash ratio (cash and equivalents only). They answer whether there is enough on hand to cover debts due within the year — a liquidity crisis often kills a company before a profitability one does.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "liquidity ratios /lɪkˈwɪdɪti ˈreɪʃiˌoʊz/",
+  "etymology": "liquid（流动的,拉丁 liquidus 液态）——资产越易变现越'流动';流动性即'变现的容易程度'。",
+  "synonyms": [
+   {
+    "word": "the current ratio",
+    "sentence": "The current ratio asks if a firm could pay its near-term bills without new borrowing.",
+    "ipa": "/ðə ˈkɑrənt ˈreɪʃiˌoʊ/"
+   },
+   {
+    "word": "the quick ratio",
+    "sentence": "The quick ratio strips out inventory because it can't always be sold in a hurry.",
+    "ipa": "/ðə kwɪk ˈreɪʃiˌoʊ/"
+   }
+  ],
+  "collocations": [
+   "the current and quick ratios",
+   "short-term solvency",
+   "a liquidity squeeze",
+   "working-capital coverage"
+  ],
+  "example": "A profitable firm with a current ratio below 1 is a warning: it owes more within a year than it can readily raise — profit on paper, peril in the near term.",
+  "links": [
+   {
+    "to": "working-capital",
+    "rel": "related"
+   },
+   {
+    "to": "solvency-ratios",
+    "rel": "contrast"
+   },
+   {
+    "to": "cash-conversion-cycle",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "solvency-ratios",
+  "zh": "偿债能力比率",
+  "pinyin": "chángzhài nénglì bǐlǜ",
+  "en": "solvency (leverage) ratios",
+  "def_zh": "衡量企业长期偿债能力与财务杠杆的指标:资产负债率、债务权益比、净债务/EBITDA(几倍杠杆)、利息保障倍数(EBIT/利息,盈利够付几次利息)。信贷分析与杠杆收购的核心——它们决定一家公司能背多少债而不至于崩。",
+  "def_en": "Measures of long-run debt capacity and financial leverage: debt-to-assets, debt-to-equity, net debt/EBITDA (turns of leverage) and interest coverage (EBIT/interest, how many times profit covers interest). Central to credit analysis and leveraged buyouts — they decide how much debt a company can carry before it breaks.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "solvency ratios /ˈsɔlvənsi ˈreɪʃiˌoʊz/",
+  "etymology": "solvent 源自拉丁 solvere（解开、偿付）——'有偿付能力'即能'解开'债务;insolvent 即无力偿债。",
+  "synonyms": [
+   {
+    "word": "leverage ratios",
+    "sentence": "Leverage ratios tell a lender how thin the equity cushion under its loan really is.",
+    "ipa": "/ˈlɛvərɪdʒ ˈreɪʃiˌoʊz/"
+   },
+   {
+    "word": "interest coverage",
+    "sentence": "Interest coverage below two is a company one bad quarter from missing a payment.",
+    "ipa": "/ˈɪntəˌrɛst ˈkəvərɪʤ/"
+   }
+  ],
+  "collocations": [
+   "net debt to EBITDA",
+   "interest coverage ratio",
+   "turns of leverage",
+   "the debt-to-equity ratio"
+  ],
+  "example": "A credit analyst rejects the loan: at 6x net-debt-to-EBITDA and interest coverage of 1.3, the borrower can't survive a downturn without defaulting.",
+  "links": [
+   {
+    "to": "leverage",
+    "rel": "related"
+   },
+   {
+    "to": "liquidity-ratios",
+    "rel": "contrast"
+   },
+   {
+    "to": "basel-capital",
+    "rel": "related"
+   },
+   {
+    "to": "leveraged-buyout",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "efficiency-ratios",
+  "zh": "营运效率比率",
+  "pinyin": "yíngyùn xiàolǜ bǐlǜ",
+  "en": "efficiency (activity) ratios",
+  "def_zh": "衡量企业运用资产创造收入的效率:资产周转率(营收/总资产)、存货周转率、应收账款周转率。它们揭示'同样的资产,谁转得更快、赚得更多'——低毛利企业(零售)常靠高周转取胜,是杜邦分析的关键一环。",
+  "def_en": "Measures of how efficiently a firm uses its assets to generate revenue: asset turnover (revenue / total assets), inventory turnover, receivables turnover. They reveal who squeezes more sales from the same assets — low-margin businesses (retail) often win on high turnover, and it is a key limb of DuPont analysis.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "efficiency ratios /ɪˈfɪʃənsi ˈreɪʃiˌoʊz/",
+  "etymology": "activity（活动）——衡量资产'周转活动'的频率;turnover 即'翻转一圈'（资产变现又重置）的次数。",
+  "synonyms": [
+   {
+    "word": "asset turnover",
+    "sentence": "Asset turnover shows how hard a company's balance sheet is actually working.",
+    "ipa": "/ˈæˌsɛt ˈtərˌnoʊvər/"
+   },
+   {
+    "word": "activity ratios",
+    "sentence": "Activity ratios separate the capital-light compounder from the asset-heavy grinder.",
+    "ipa": "/ækˈtɪvɪti ˈreɪʃiˌoʊz/"
+   }
+  ],
+  "collocations": [
+   "asset turnover",
+   "inventory turnover",
+   "receivables turnover",
+   "sweat the assets"
+  ],
+  "example": "Two retailers earn the same ROE, but efficiency ratios show one turns inventory twelve times a year and the other four — a decisive operating gap.",
+  "links": [
+   {
+    "to": "dupont-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "days-outstanding",
+    "rel": "narrower"
+   },
+   {
+    "to": "return-on-invested-capital",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "days-outstanding",
+  "zh": "周转天数（DSO/DIO/DPO）",
+  "pinyin": "zhōuzhuǎn tiānshù",
+  "en": "days outstanding (DSO, DIO, DPO)",
+  "def_zh": "把营运资本三要素折算成天数:DSO应收账款周转天数(收款多快)、DIO存货周转天数(卖货多快)、DPO应付账款周转天数(付款多慢)。现金转换周期=DSO+DIO−DPO。DSO骤升常是收入质量恶化(客户不付款或提前确认收入)的早期警报。",
+  "def_en": "Converting the three working-capital items into days: DSO (days sales outstanding — how fast you collect), DIO (days inventory outstanding — how fast you sell), DPO (days payable outstanding — how slowly you pay). The cash conversion cycle = DSO + DIO − DPO. A jump in DSO is often an early warning of deteriorating revenue quality (customers not paying, or revenue booked too early).",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "days outstanding /deɪz ˌaʊtˈstændɪŋ/",
+  "etymology": "outstanding（未结清的）——款项'悬而未清'的天数;DSO=Days Sales Outstanding 等三缩写是营运资本分析的标准语。",
+  "synonyms": [
+   {
+    "word": "days sales outstanding",
+    "sentence": "Days sales outstanding rising while sales are flat means the cash isn't coming in.",
+    "ipa": "/deɪz seɪlz ˌaʊtˈstændɪŋ/"
+   },
+   {
+    "word": "the cash cycle in days",
+    "sentence": "The cash cycle in days shows how long each sale is trapped before it becomes money.",
+    "ipa": "/ðə kæʃ ˈsaɪkəl ɪn deɪz/"
+   }
+  ],
+  "collocations": [
+   "DSO, DIO and DPO",
+   "stretch payables",
+   "collect receivables faster",
+   "a rising DSO"
+  ],
+  "example": "Revenue grew 20% but DSO leapt from 45 to 80 days — a red flag that the 'growth' was sales booked to customers who weren't actually paying.",
+  "links": [
+   {
+    "to": "cash-conversion-cycle",
+    "rel": "related"
+   },
+   {
+    "to": "working-capital",
+    "rel": "related"
+   },
+   {
+    "to": "revenue-quality-redflags",
+    "rel": "related"
+   },
+   {
+    "to": "efficiency-ratios",
+    "rel": "broader"
+   }
+  ]
+ },
+ {
+  "id": "profitability-ratios",
+  "zh": "盈利能力比率",
+  "pinyin": "yínglì nénglì bǐlǜ",
+  "en": "profitability ratios",
+  "def_zh": "衡量企业赚钱能力的一组利润率与回报率:毛利率、经营利润率、净利率(层层递减,看成本吞噬利润的路径)与ROA、ROE、ROIC(资本回报)。分析师沿利润表逐级追问'利润在哪一层被侵蚀',并用回报率判断商业模式质量。",
+  "def_en": "A set of margins and returns measuring earning power: gross, operating and net margin (stepping down to see where costs eat profit) plus ROA, ROE and ROIC (returns on capital). Analysts walk down the income statement asking at which level profit erodes, and use returns to judge business-model quality.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "profitability ratios /ˌprɑfɪtəˈbɪlɪti ˈreɪʃiˌoʊz/",
+  "etymology": "profit 源自拉丁 profectus（进展、收益,proficere 前进）——利润即'经营带来的进益'。",
+  "synonyms": [
+   {
+    "word": "margin analysis",
+    "sentence": "Margin analysis walks the income statement to find exactly where the profit leaks.",
+    "ipa": "/ˈmɑrʤən æˈnælɪsɪs/"
+   },
+   {
+    "word": "return metrics",
+    "sentence": "Return metrics ask not how much was earned but how much capital it took to earn it.",
+    "ipa": "/rɪˈtərn ˈmɛtrɪks/"
+   }
+  ],
+  "collocations": [
+   "gross, operating and net margin",
+   "margin walk",
+   "return on capital",
+   "operating leverage in the margins"
+  ],
+  "example": "Profitability ratios showed healthy gross margins but collapsing operating margins — costs below the gross line, not the product itself, were the problem.",
+  "links": [
+   {
+    "to": "gross-margin",
+    "rel": "related"
+   },
+   {
+    "to": "return-on-equity",
+    "rel": "related"
+   },
+   {
+    "to": "return-on-invested-capital",
+    "rel": "related"
+   },
+   {
+    "to": "dupont-analysis",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "inventory-accounting",
+  "zh": "存货计价方法",
+  "pinyin": "cúnhuò jìjià fāngfǎ",
+  "en": "inventory accounting (FIFO/LIFO)",
+  "def_zh": "存货成本的计价假设影响利润与税负:先进先出(FIFO,期末存货按新成本、利润通胀期偏高)、后进先出(LIFO,美国特有,通胀期利润与税负偏低,IFRS禁用)、加权平均。LIFO储备揭示两法差异。存货减值(可变现净值)是盈利质量的另一考点。",
+  "def_en": "The cost-flow assumption for inventory shapes profit and taxes: FIFO (first-in-first-out — ending inventory at newer cost, higher profit in inflation), LIFO (last-in-first-out — a US peculiarity, lower profit and tax in inflation, banned under IFRS), and weighted average. The LIFO reserve reveals the gap between the two. Inventory write-downs (to net realisable value) are another earnings-quality test.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "inventory accounting /ˌɪnvənˈtɔri əˈkaʊnɪŋ/",
+  "etymology": "inventory 源自拉丁 invenire（找到、清点,in + venire 来）——存货即'清点在库之物';FIFO/LIFO 为成本流转假设的缩写。",
+  "synonyms": [
+   {
+    "word": "FIFO versus LIFO",
+    "sentence": "FIFO versus LIFO can make two identical firms report different profits in an inflation.",
+    "ipa": "/ˈfaɪfoʊ ˈvərsəz ˈlaɪfoʊ/"
+   },
+   {
+    "word": "the LIFO reserve",
+    "sentence": "The LIFO reserve is the footnote that translates one method back into the other.",
+    "ipa": "/ðə ˈlaɪfoʊ rɪˈzərv/"
+   }
+  ],
+  "collocations": [
+   "FIFO and LIFO",
+   "the LIFO reserve",
+   "lower of cost or market",
+   "inventory write-down"
+  ],
+  "example": "Comparing a LIFO US firm with a FIFO European peer, an analyst adds back the LIFO reserve to put both on the same basis before judging margins.",
+  "links": [
+   {
+    "to": "gaap-ifrs",
+    "rel": "related"
+   },
+   {
+    "to": "days-outstanding",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "revenue-quality-redflags",
+  "zh": "收入质量的危险信号",
+  "pinyin": "shōurù zhìliàng de wēixiǎn xìnhào",
+  "en": "revenue-quality red flags",
+  "def_zh": "识破虚增或提前确认收入的手法:渠道压货(channel stuffing,向经销商硬塞货)、提前确认(bill-and-hold,已开票未发货)、往返交易(round-tripping,互买互卖做大流水)、关联方交易撑收入。信号包括应收账款/递延收入异常、DSO骤升、经营现金流长期落后于净利润。",
+  "def_en": "Spotting inflated or prematurely recognised revenue: channel stuffing (forcing product onto distributors), bill-and-hold (invoiced but not shipped), round-tripping (mutual buy-sell to pump the top line), and related-party sales propping up revenue. Tell-tales include abnormal receivables or deferred revenue, a jumping DSO, and operating cash flow persistently lagging net income.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "revenue quality red flags /ˈrɛvəˌnu kˈwɑləti rɛd flægz/",
+  "etymology": "red flag（红旗）——航海与铁路以红旗示警,引申为'危险信号';channel stuffing 即'把渠道塞满'。",
+  "synonyms": [
+   {
+    "word": "channel stuffing",
+    "sentence": "Channel stuffing borrows next quarter's sales to rescue this one, and the debt comes due.",
+    "ipa": "/ˈʧænəl ˈstəfɪŋ/"
+   },
+   {
+    "word": "aggressive revenue recognition",
+    "sentence": "Aggressive revenue recognition books the sale before the cash, and sometimes before the shipment.",
+    "ipa": "/əˈgrɛsɪv ˈrɛvəˌnu ˌrɛkɪgˈnɪʃən/"
+   }
+  ],
+  "collocations": [
+   "channel stuffing",
+   "bill-and-hold sales",
+   "round-tripping",
+   "cash flow lagging earnings"
+  ],
+  "example": "Rising revenue, soaring receivables and operating cash flow that never followed — the classic red-flag triad that preceded more than one accounting scandal.",
+  "links": [
+   {
+    "to": "revenue-recognition",
+    "rel": "related"
+   },
+   {
+    "to": "days-outstanding",
+    "rel": "related"
+   },
+   {
+    "to": "earnings-management",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "deferred-taxes",
+  "zh": "递延所得税",
+  "pinyin": "dìyán suǒdéshuì",
+  "en": "deferred tax assets and liabilities",
+  "def_zh": "会计利润与税务利润因确认时点不同而产生的暂时性差异,形成递延税项资产(未来可抵税,如可结转亏损)或递延税负(未来须补税,如加速折旧)。分析师需判断递延税资产能否实现(估值备抵),以及大额递延税负对未来现金税负的影响。",
+  "def_en": "Temporary differences between accounting profit and taxable profit, arising from timing, create deferred tax assets (future deductions, e.g. loss carryforwards) or deferred tax liabilities (future taxes owed, e.g. accelerated depreciation). Analysts judge whether a deferred tax asset is realisable (the valuation allowance) and how a large deferred tax liability will hit future cash taxes.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "deferred taxes /dɪˈfərd ˈtæksɪz/",
+  "etymology": "defer 源自拉丁 differre（推迟）——递延即'推迟到未来期间'确认的税项差异。",
+  "synonyms": [
+   {
+    "word": "the deferred tax asset",
+    "sentence": "A deferred tax asset is only worth something if the company will earn enough profit to use it.",
+    "ipa": "/ðə dɪˈfərd tæks ˈæˌsɛt/"
+   },
+   {
+    "word": "the valuation allowance",
+    "sentence": "A valuation allowance is management admitting a deferred tax asset may never be realised.",
+    "ipa": "/ðə væljuˈeɪʃən əˈlaʊəns/"
+   }
+  ],
+  "collocations": [
+   "deferred tax asset/liability",
+   "the valuation allowance",
+   "loss carryforwards",
+   "cash vs book taxes"
+  ],
+  "example": "A loss-making startup's huge deferred tax asset is worthless without future profits — the valuation allowance reveals whether management believes those profits will come.",
+  "links": [
+   {
+    "to": "accrual-accounting",
+    "rel": "related"
+   },
+   {
+    "to": "chinese-taxation",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "lease-accounting",
+  "zh": "租赁会计",
+  "pinyin": "zūlìn kuàijì",
+  "en": "lease accounting (operating vs finance)",
+  "def_zh": "2019年新准则(IFRS16/ASC842)要求把绝大多数租赁资本化上表:确认'使用权资产'与'租赁负债',而非旧规下把经营租赁藏在表外。这大幅改变了负债、EBITDA与杠杆比率——分析师须知晓口径变化,才能跨期、跨准则可比。",
+  "def_en": "New standards from 2019 (IFRS 16 / ASC 842) require capitalising most leases on the balance sheet — recognising a 'right-of-use asset' and a 'lease liability' — rather than keeping operating leases off-balance-sheet as before. This materially changes debt, EBITDA and leverage ratios, so analysts must know the change to compare across periods and standards.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "lease accounting /lis əˈkaʊnɪŋ/",
+  "etymology": "lease 源自古法语 lais（遗留、让与,laisser 让）——租赁即'让与使用权';right-of-use asset 即'使用权资产'。",
+  "synonyms": [
+   {
+    "word": "right-of-use asset",
+    "sentence": "A right-of-use asset put decades of hidden lease obligations onto the balance sheet overnight.",
+    "ipa": "/raɪt-əv-juz ˈæˌsɛt/"
+   },
+   {
+    "word": "capitalised leases",
+    "sentence": "Capitalised leases turned an off-balance-sheet whisper into on-balance-sheet debt.",
+    "ipa": "/ˈkæpɪtəˌlaɪzd ˈlisɪz/"
+   }
+  ],
+  "collocations": [
+   "operating vs finance lease",
+   "the right-of-use asset",
+   "IFRS 16 / ASC 842",
+   "lease-adjusted leverage"
+  ],
+  "example": "After ASC 842, a retailer's balance sheet ballooned with lease liabilities — the debt was always there, just previously hidden in the footnotes.",
+  "links": [
+   {
+    "to": "off-balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "solvency-ratios",
+    "rel": "related"
+   },
+   {
+    "to": "ebitda",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "stock-based-compensation",
+  "zh": "股权激励费用",
+  "pinyin": "gǔquán jīlì fèiyòng",
+  "en": "stock-based compensation (SBC)",
+  "def_zh": "以股票或期权支付员工薪酬,在利润表计为费用但不流出现金,故被公司在'调整后'利润与自由现金流中加回。争议核心:SBC是真实成本还是纸面费用?它稀释股东、迟早要用回购弥补——把它当'非现金'免费加回,是高估科技公司盈利的常见陷阱。",
+  "def_en": "Paying employees in stock or options, expensed on the income statement but with no cash outflow, so companies add it back in 'adjusted' profit and free cash flow. The core debate: is SBC a real cost or a paper one? It dilutes shareholders and is eventually offset by buybacks — treating it as a free 'non-cash' add-back is a common trap that overstates tech-company earnings.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "stock-based compensation /stɑk-beɪst ˌkɑmpənˈseɪʃən/",
+  "etymology": "compensation 源自拉丁 compensare（平衡、补偿）——薪酬即'对劳动的补偿';SBC 以股权而非现金补偿。",
+  "synonyms": [
+   {
+    "word": "share-based payment",
+    "sentence": "Share-based payment is a real cost that happens to skip the cash flow statement.",
+    "ipa": "/ʃɛr-beɪst ˈpeɪmənt/"
+   },
+   {
+    "word": "the dilution overhang",
+    "sentence": "The dilution overhang from SBC is the bill that arrives when the options vest.",
+    "ipa": "/ðə dɪˈluʃən ˈoʊvərˌhæŋ/"
+   }
+  ],
+  "collocations": [
+   "add back SBC",
+   "non-cash but not free",
+   "dilution from options",
+   "adjusted vs GAAP earnings"
+  ],
+  "example": "A tech firm's 'free cash flow' looked strong until an analyst noted it added back massive SBC — a real cost paid in shareholder dilution, not spared at all.",
+  "links": [
+   {
+    "to": "earnings-per-share",
+    "rel": "related"
+   },
+   {
+    "to": "dilution",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "ebitda",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "pension-accounting",
+  "zh": "养老金会计",
+  "pinyin": "yǎnglǎojīn kuàijì",
+  "en": "pension accounting",
+  "def_zh": "设定受益型养老金计划(DB)承诺未来固定给付,企业须估算负债并以资产对冲。'资金缺口'(负债超过计划资产)是隐藏的类债务义务,常藏在附注里。折现率、预期回报率等假设的微调可显著影响利润与负债——是盈余管理与隐性杠杆的温床。",
+  "def_en": "Defined-benefit (DB) pension plans promise fixed future payments, so a firm must estimate the liability and hold assets against it. A funding gap (liabilities exceeding plan assets) is a hidden debt-like obligation, often buried in the footnotes. Tweaks to assumptions — the discount rate, expected return — can materially shift profit and liabilities, making pensions a haven for earnings management and hidden leverage.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "pension accounting /ˈpɛnʃən əˈkaʊnɪŋ/",
+  "etymology": "pension 源自拉丁 pensio（支付,pendere 称量、支付）——养老金即'定期支付的款项';DB=Defined Benefit。",
+  "synonyms": [
+   {
+    "word": "the funded status",
+    "sentence": "The funded status of a pension is a debt hidden in an actuary's assumptions.",
+    "ipa": "/ðə ˈfəndɪd ˈstætəs/"
+   },
+   {
+    "word": "the pension deficit",
+    "sentence": "A large pension deficit is a claim on future cash that rarely shows in the headline debt.",
+    "ipa": "/ðə ˈpɛnʃən ˈdɛfəsət/"
+   }
+  ],
+  "collocations": [
+   "defined-benefit vs defined-contribution",
+   "the funded status",
+   "the pension deficit",
+   "the discount-rate assumption"
+  ],
+  "example": "The company looked lightly leveraged until an analyst added its pension deficit — a multi-billion obligation the balance-sheet debt line never mentioned.",
+  "links": [
+   {
+    "to": "off-balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "solvency-ratios",
+    "rel": "related"
+   },
+   {
+    "to": "discount-rate-risk",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "one-time-items",
+  "zh": "一次性项目与利润正常化",
+  "pinyin": "yícìxìng xiàngmù",
+  "en": "one-time items and normalisation",
+  "def_zh": "重组费用、资产减值、诉讼赔偿、出售收益等非经常性项目会扭曲当期利润。分析师须把它们剔除,还原'正常化'的可持续盈利能力,才能估值与比较。陷阱:管理层倾向把好事算经常、把坏事算一次性('每年都有的一次性费用')——须警惕'惯常的非经常项'。",
+  "def_en": "Restructuring charges, asset impairments, litigation settlements and gains on disposals are non-recurring items that distort reported profit. Analysts strip them out to recover 'normalised', sustainable earning power for valuation and comparison. The trap: management tends to call good things recurring and bad things one-off ('one-time charges' that appear every year) — beware the recurring non-recurring item.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "one-time items /wən-taɪm ˈaɪtəmz/",
+  "etymology": "normalise 源自拉丁 norma（木匠角尺、标准）——正常化即'把利润调回标准、可持续的水平'。",
+  "synonyms": [
+   {
+    "word": "normalised earnings",
+    "sentence": "Normalised earnings strip out the noise to show what the business really earns in a typical year.",
+    "ipa": "/ˈnɔrməˌlaɪzd ˈərnɪŋz/"
+   },
+   {
+    "word": "non-recurring items",
+    "sentence": "Non-recurring items that recur every year are neither non-recurring nor honest.",
+    "ipa": "/nɑn-rɪˈkərɪŋ ˈaɪtəmz/"
+   }
+  ],
+  "collocations": [
+   "strip out one-off items",
+   "normalise the earnings",
+   "recurring vs non-recurring",
+   "below-the-line charges"
+  ],
+  "example": "An analyst normalising earnings noticed 'one-time' restructuring charges in five consecutive years — recurring costs dressed up as exceptional to flatter adjusted profit.",
+  "links": [
+   {
+    "to": "non-gaap-adjustments",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "normalisation-adjustments",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "non-gaap-adjustments",
+  "zh": "非公认会计准则调整",
+  "pinyin": "fēi gōngrèn kuàijì zhǔnzé tiáozhěng",
+  "en": "non-GAAP adjustments",
+  "def_zh": "公司在法定报表之外自行披露'调整后'指标(调整后EBITDA、经调整每股收益),剔除它们认为非经营或非现金的项目。监管要求与GAAP对账。它们可提供有用视角,也常被用来系统性美化盈利——分析师须逐项审视被'调整掉'的是什么、是否合理。",
+  "def_en": "Beyond the statutory statements, companies disclose their own 'adjusted' metrics (adjusted EBITDA, adjusted EPS), excluding items they deem non-operating or non-cash. Regulators require reconciliation to GAAP. They can add useful perspective but are also used to systematically flatter profit — analysts must scrutinise item by item what was 'adjusted out' and whether it is legitimate.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "non-GAAP adjustments /nɑn-ɡæp əˈʤəstmənts/",
+  "etymology": "GAAP 见前;non-GAAP 即'非官方准则'的自定义口径,须与 GAAP '对账'（reconciliation）披露。",
+  "synonyms": [
+   {
+    "word": "adjusted earnings",
+    "sentence": "Adjusted earnings are the number management wants you to see; GAAP is the one the auditor signs.",
+    "ipa": "/əˈʤəstɪd ˈərnɪŋz/"
+   },
+   {
+    "word": "the reconciliation table",
+    "sentence": "The reconciliation table is where you find what the adjective 'adjusted' quietly removed.",
+    "ipa": "/ðə ˌrɛkənˌsɪliˈeɪʃən ˈteɪbəl/"
+   }
+  ],
+  "collocations": [
+   "adjusted EBITDA",
+   "reconcile to GAAP",
+   "the adjustment bridge",
+   "aggressive add-backs"
+  ],
+  "example": "A company's 'adjusted' profit doubled its GAAP figure — reading the reconciliation, an analyst found recurring costs and real SBC excluded to manufacture the flattering number.",
+  "links": [
+   {
+    "to": "ebitda",
+    "rel": "related"
+   },
+   {
+    "to": "one-time-items",
+    "rel": "related"
+   },
+   {
+    "to": "stock-based-compensation",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "segment-reporting",
+  "zh": "分部报告",
+  "pinyin": "fēnbù bàogào",
+  "en": "segment reporting",
+  "def_zh": "多元化企业须按业务或地区分部披露收入、利润与资产,揭开合并数字掩盖的内部结构。它让分析师看清哪块业务真正赚钱、哪块在拖累,是分部估值(SOTP)与识别'隐藏冠军/隐藏亏损'的数据来源。附注里的宝藏。",
+  "def_en": "Diversified companies must disclose revenue, profit and assets by business or geographic segment, opening up the internal structure that consolidated figures conceal. It lets analysts see which unit truly earns and which drags, and is the data source for sum-of-the-parts valuation and spotting a 'hidden gem' or a 'hidden loss-maker'. A treasure in the footnotes.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "segment reporting /ˌsɛgˈmɛnt rɪˈpɔrtɪŋ/",
+  "etymology": "segment 源自拉丁 secare（切割）——分部即'把公司切成可分别观察的块'披露。",
+  "synonyms": [
+   {
+    "word": "segmental disclosure",
+    "sentence": "Segmental disclosure reveals which division subsidises which, behind the consolidated smile.",
+    "ipa": "/sɛɡˈmɛntəl dɪˈskloʊʒər/"
+   },
+   {
+    "word": "the operating segments",
+    "sentence": "The operating segments are where a conglomerate's real winners and losers finally show.",
+    "ipa": "/ðə ˈɔpərˌeɪtɪŋ ˌsɛgˈmɛnts/"
+   }
+  ],
+  "collocations": [
+   "segment-level margins",
+   "the operating segments",
+   "geographic breakdown",
+   "hidden within the consolidation"
+  ],
+  "example": "Segment reporting revealed one division earned all the group's profit while three others lost money — the case for a break-up the consolidated statements had masked.",
+  "links": [
+   {
+    "to": "sum-of-the-parts",
+    "rel": "related"
+   },
+   {
+    "to": "conglomerate-discount",
+    "rel": "related"
+   },
+   {
+    "to": "footnotes-mdna",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "footnotes-mdna",
+  "zh": "附注与管理层讨论",
+  "pinyin": "fùzhù yǔ guǎnlǐcéng tǎolùn",
+  "en": "the footnotes and MD&A",
+  "def_zh": "财报真正的信息量往往不在三张表,而在附注(会计政策、或有负债、关联交易、债务条款、诉讼)与管理层讨论与分析(MD&A,管理层对业绩、风险、前景的自述)。'魔鬼在附注里'——老练的分析师从后往前读,先看附注再看数字。",
+  "def_en": "The real information in a report often lies not in the three statements but in the footnotes (accounting policies, contingent liabilities, related-party dealings, debt covenants, litigation) and the MD&A (management's own discussion of results, risks and outlook). 'The devil is in the footnotes' — seasoned analysts read back-to-front, footnotes before figures.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "footnotes and MD and A /ˈfʊtˌnoʊts ənd ˌɛmˈdiː ənd ə/",
+  "etymology": "footnote（脚注）——原指页脚的注释;MD&A=Management's Discussion and Analysis,美国证监会要求的管理层自述章节。",
+  "synonyms": [
+   {
+    "word": "the notes to the accounts",
+    "sentence": "The notes to the accounts are where a company must say what it would rather not headline.",
+    "ipa": "/ðə noʊts tɪ ðə əˈkaʊnts/"
+   },
+   {
+    "word": "read back to front",
+    "sentence": "Reading back to front puts the disclaimers before the boasts.",
+    "ipa": "/rɛd bæk tɪ frənt/"
+   }
+  ],
+  "collocations": [
+   "the devil is in the footnotes",
+   "the MD&A",
+   "contingent liabilities",
+   "accounting policy notes"
+  ],
+  "example": "The income statement looked clean, but a footnote disclosed a debt covenant near breach and a pending lawsuit — the risks that never make the press release.",
+  "links": [
+   {
+    "to": "segment-reporting",
+    "rel": "related"
+   },
+   {
+    "to": "off-balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "related-party-transactions",
+    "rel": "related"
+   },
+   {
+    "to": "auditor-opinion",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "auditor-opinion",
+  "zh": "审计意见",
+  "pinyin": "shěnjì yìjiàn",
+  "en": "the auditor's opinion",
+  "def_zh": "独立审计师对财报是否'公允反映'企业状况的正式判断:无保留意见(干净,标准)、保留意见、否定意见、无法表示意见。尤其关键的是'持续经营'警示(going concern)——审计师质疑公司能否活过一年。审计意见是财报可信度的第一道外部背书。",
+  "def_en": "The independent auditor's formal judgement on whether the statements 'fairly present' the company's position: unqualified (clean, standard), qualified, adverse, or a disclaimer. Especially critical is a going-concern warning — the auditor doubting the company can survive the next year. The audit opinion is the first external endorsement of a report's credibility.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance",
+   "governance"
+  ],
+  "pron": "auditor's opinion /ˈɔdɪtərz əˈpɪnjən/",
+  "etymology": "audit 源自拉丁 audire（听）——审计本义'听账'(古罗马查账靠朗读);opinion 即审计师的正式'意见'。",
+  "synonyms": [
+   {
+    "word": "a going-concern warning",
+    "sentence": "A going-concern warning is the auditor quietly questioning whether the company lives to next year.",
+    "ipa": "/ə goʊɪŋ-kənˈsərn ˈwɔrnɪŋ/"
+   },
+   {
+    "word": "an unqualified opinion",
+    "sentence": "An unqualified opinion is clean; a qualified one is a caveat you must chase down.",
+    "ipa": "/ən ənkˈwɑlɪˌfaɪd əˈpɪnjən/"
+   }
+  ],
+  "collocations": [
+   "a clean audit opinion",
+   "going concern",
+   "qualified vs unqualified",
+   "the auditor's report"
+  ],
+  "example": "Buried after strong results, a going-concern qualification told the real story: the auditor doubted the company could refinance its debt and survive the year.",
+  "links": [
+   {
+    "to": "corporate-governance",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "footnotes-mdna",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "cash-flow-quality",
+  "zh": "现金流质量",
+  "pinyin": "xiànjīnliú zhìliàng",
+  "en": "cash flow quality",
+  "def_zh": "最难被操纵的报表是现金流量表。核心检验:经营现金流(CFO)是否持续跟得上净利润?'应计比率'(净利润远超CFO)、CFO靠出售应收款或压票据周转做高、把经营支出塞进投资活动——这些都是盈利质量恶化的信号。现金是事实,利润是观点。",
+  "def_en": "The hardest statement to manipulate is the cash flow statement. The core test: does operating cash flow (CFO) keep pace with net income over time? A high accruals ratio (net income far above CFO), CFO propped up by factoring receivables or stretching payables, or operating costs shoved into investing activities — all signal deteriorating earnings quality. Cash is a fact, profit an opinion.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "cash flow quality /kæʃ floʊ kˈwɑləti/",
+  "etymology": "quality（质量）——现金流的'质量'即其可信度与可持续性;与'盈利质量'互为镜像。",
+  "synonyms": [
+   {
+    "word": "the accruals ratio",
+    "sentence": "A high accruals ratio — profit outrunning cash — is the earliest whisper of trouble.",
+    "ipa": "/ðə əˈkruəlz ˈreɪʃiˌoʊ/"
+   },
+   {
+    "word": "cash conversion",
+    "sentence": "Poor cash conversion means the profit exists on paper but never reaches the bank.",
+    "ipa": "/kæʃ kənˈvərʒən/"
+   }
+  ],
+  "collocations": [
+   "CFO versus net income",
+   "the accruals ratio",
+   "cash conversion",
+   "classify to flatter cash flow"
+  ],
+  "example": "Net income rose for three years while operating cash flow fell — a widening gap that, on cash flow quality grounds, warned of an accounting reckoning to come.",
+  "links": [
+   {
+    "to": "cash-flow-statement",
+    "rel": "related"
+   },
+   {
+    "to": "free-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "revenue-quality-redflags",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "off-balance-sheet",
+  "zh": "表外项目",
+  "pinyin": "biǎowài xiàngmù",
+  "en": "off-balance-sheet items",
+  "def_zh": "未在资产负债表主体列示、却构成真实义务或风险的安排:特殊目的实体(SPV/VIE)、担保、承诺、2019年前的经营租赁、应收账款证券化。安然即靠SPV藏债而崩。分析师须把重大表外义务'调回'表内,才能看清真实杠杆。",
+  "def_en": "Arrangements not shown on the face of the balance sheet yet constituting real obligations or risk: special-purpose vehicles (SPVs/VIEs), guarantees, commitments, pre-2019 operating leases, receivables securitisation. Enron collapsed hiding debt in SPVs. Analysts must pull material off-balance-sheet obligations back on to see true leverage.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance",
+   "governance"
+  ],
+  "pron": "off-balance-sheet /ɔf-ˈbæləns-ʃit/",
+  "etymology": "off the balance sheet（在资产负债表之外）——义务'不在表上'却真实存在;SPV=Special-Purpose Vehicle。",
+  "synonyms": [
+   {
+    "word": "hidden liabilities",
+    "sentence": "Hidden liabilities are the debts a company hoped you'd never add back.",
+    "ipa": "/ˈhɪdən ˌlaɪəˈbɪlɪtiz/"
+   },
+   {
+    "word": "special-purpose vehicles",
+    "sentence": "Special-purpose vehicles let Enron park debt where the balance sheet couldn't see it.",
+    "ipa": "/ˈspɛʃəl-ˈpərpəs ˈviɪkəlz/"
+   }
+  ],
+  "collocations": [
+   "off-balance-sheet financing",
+   "special-purpose vehicles",
+   "bring it back on-balance-sheet",
+   "hidden obligations"
+  ],
+  "example": "The firm's reported debt looked modest until an analyst consolidated its off-balance-sheet vehicles — where the real, and dangerous, leverage had been parked.",
+  "links": [
+   {
+    "to": "lease-accounting",
+    "rel": "related"
+   },
+   {
+    "to": "pension-accounting",
+    "rel": "related"
+   },
+   {
+    "to": "solvency-ratios",
+    "rel": "related"
+   },
+   {
+    "to": "footnotes-mdna",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "related-party-transactions",
+  "zh": "关联方交易",
+  "pinyin": "guānlián fāng jiāoyì",
+  "en": "related-party transactions",
+  "def_zh": "公司与其管理层、大股东、关联企业之间的交易。它们未必按市场公平价格进行,可用于转移利润、掏空公司、虚增收入或掩盖亏损。附注必须披露。大量或异常的关联交易是治理薄弱与财务操纵的高危信号——尤其在新兴市场与家族企业。",
+  "def_en": "Dealings between a company and its management, major shareholders or affiliated entities. Not necessarily at arm's-length prices, they can shift profit, tunnel value out, inflate revenue or mask losses. The footnotes must disclose them. Heavy or unusual related-party activity is a high-risk signal of weak governance and financial manipulation — especially in emerging markets and family firms.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance",
+   "governance"
+  ],
+  "pron": "related-party transactions /rɪˈleɪtɪd-ˈpɑrti trænˈzækʃənz/",
+  "etymology": "related party（关联方）——有关联关系、非独立的交易对手;arm's-length（一臂之距）指公平独立的交易。",
+  "synonyms": [
+   {
+    "word": "tunnelling",
+    "sentence": "Tunnelling siphons value from a company to its controllers through related-party deals.",
+    "ipa": "/ˈtʌnəlɪŋ/"
+   },
+   {
+    "word": "non-arm's-length dealings",
+    "sentence": "Non-arm's-length dealings price a transaction to benefit the insider, not the shareholder.",
+    "ipa": "/nɑn-ɑrmz-lɛŋθ ˈdilɪŋz/"
+   }
+  ],
+  "collocations": [
+   "related-party disclosures",
+   "arm's-length pricing",
+   "tunnelling of value",
+   "affiliated transactions"
+  ],
+  "example": "The subsidiary sold goods cheaply to a company owned by the chairman — a related-party transaction tunnelling profit out to insiders at minority shareholders' expense.",
+  "links": [
+   {
+    "to": "corporate-governance",
+    "rel": "related"
+   },
+   {
+    "to": "agency-problem",
+    "rel": "related"
+   },
+   {
+    "to": "footnotes-mdna",
+    "rel": "related"
+   },
+   {
+    "to": "dictators-handbook",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "earnings-management",
+  "zh": "盈余管理",
+  "pinyin": "yíngyú guǎnlǐ",
+  "en": "earnings management",
+  "def_zh": "管理层在会计准则的弹性范围内(或越界)刻意调节报告利润以达成目标:平滑利润(把好年份的利润藏起来补贴坏年份)、大洗澡(big bath,新任CEO把坏账一次亏光,轻装上阵)、饼干罐储备(cookie-jar reserves,预留准备金待需时释放)。介于合法调节与舞弊之间的灰色地带。",
+  "def_en": "Management deliberately steering reported profit toward a target, within (or beyond) the flexibility of accounting rules: income smoothing (hiding good-year profit to prop up bad years), the big bath (a new CEO writing off everything at once to start clean), and cookie-jar reserves (over-provisioning to release later when needed). The grey zone between legitimate judgement and fraud.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance",
+   "governance"
+  ],
+  "pron": "earnings management /ˈərnɪŋz ˈmænɪʤmənt/",
+  "etymology": "manage（管理,源自意大利 maneggiare 驾驭马匹）——盈余'管理'即'驾驭'利润数字走向目标。",
+  "synonyms": [
+   {
+    "word": "income smoothing",
+    "sentence": "Income smoothing hides the peaks to fill the troughs, selling a stability that isn't real.",
+    "ipa": "/ˈɪnˌkəm sˈmuðɪŋ/"
+   },
+   {
+    "word": "the big bath",
+    "sentence": "The big bath kitchen-sinks every loss into one year so the next looks miraculous.",
+    "ipa": "/ðə bɪg bæθ/"
+   }
+  ],
+  "collocations": [
+   "smooth the earnings",
+   "the big bath",
+   "cookie-jar reserves",
+   "hit the analyst estimate"
+  ],
+  "example": "A new CEO took a giant 'big bath' write-off in year one — dumping every conceivable loss so the subsequent recovery, and the bonus, looked spectacular.",
+  "links": [
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "revenue-quality-redflags",
+    "rel": "related"
+   },
+   {
+    "to": "forensic-accounting",
+    "rel": "related"
+   },
+   {
+    "to": "kpi",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "forensic-accounting",
+  "zh": "财务鉴证与舞弊识别",
+  "pinyin": "cáiwù jiànzhèng yǔ wǔbì shíbié",
+  "en": "forensic accounting (fraud screens)",
+  "def_zh": "用量化模型主动筛查财务造假与破产风险:Beneish M-Score(综合应计、毛利、DSO等八项指标估算操纵概率)、Altman Z-Score(用五个比率预测破产)、Benford定律(异常数字分布)。它们不下定论,但能把值得深挖的可疑对象快速筛出——尽职调查与做空研究的利器。",
+  "def_en": "Using quantitative models to proactively screen for accounting fraud and bankruptcy risk: the Beneish M-Score (combining accruals, gross margin, DSO and five other metrics to estimate the probability of manipulation), the Altman Z-Score (five ratios predicting bankruptcy), and Benford's law (anomalous digit distributions). They don't prove anything, but flag suspects worth digging into — tools of due diligence and short-seller research.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "forensic accounting /ˌfɔˈrɛnsɪk əˈkaʊnɪŋ/",
+  "etymology": "forensic 源自拉丁 forensis（属于法庭的,forum 广场/法庭）——鉴证会计即'为法庭般严查'的会计分析。",
+  "synonyms": [
+   {
+    "word": "the Beneish M-Score",
+    "sentence": "The Beneish M-Score flags the companies whose numbers behave like manipulators' numbers.",
+    "ipa": "/ðə ˈbɛniːʃ ɛm-skɔr/"
+   },
+   {
+    "word": "the Altman Z-Score",
+    "sentence": "The Altman Z-Score compresses bankruptcy risk into a single, decades-tested number.",
+    "ipa": "/ðə ˈɔːltmən zi-skɔr/"
+   }
+  ],
+  "collocations": [
+   "a fraud screen",
+   "the M-Score and Z-Score",
+   "Benford's law",
+   "short-seller research"
+  ],
+  "example": "A forensic screen flagged the company on both the M-Score and a jumping DSO — the quantitative smoke that led short-sellers to the eventual fire.",
+  "links": [
+   {
+    "to": "earnings-management",
+    "rel": "related"
+   },
+   {
+    "to": "revenue-quality-redflags",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "sherlock-deduction",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "shares-outstanding",
+  "zh": "股本：基本与稀释",
+  "pinyin": "gǔběn: jīběn yǔ xīshì",
+  "en": "shares outstanding (basic vs diluted)",
+  "def_zh": "每股指标的分母有两种口径:基本股数(实际发行在外)与稀释股数(计入期权、可转债、限制性股票等潜在稀释,常用库存股法计算)。估值与每股收益须用稀释、全面摊薄口径,否则会高估每股价值。分析师算股权价值时必须用完全稀释股数。",
+  "def_en": "The denominator of per-share metrics comes two ways: basic shares (actually issued and outstanding) and diluted shares (including potential dilution from options, convertibles and restricted stock, usually via the treasury stock method). Valuation and EPS use the diluted, fully-loaded count, or per-share value is overstated. Analysts must use fully diluted shares when computing equity value.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "shares outstanding /ʃɛrz ˌaʊtˈstændɪŋ/",
+  "etymology": "outstanding（在外流通的）——已发行、'在外'由投资者持有的股份;treasury stock method 即库存股法。",
+  "synonyms": [
+   {
+    "word": "fully diluted shares",
+    "sentence": "Fully diluted shares count every option and convertible as if already exercised.",
+    "ipa": "/ˈfʊli dɪˈlutəd ʃɛrz/"
+   },
+   {
+    "word": "the treasury stock method",
+    "sentence": "The treasury stock method estimates the net new shares options would actually add.",
+    "ipa": "/ðə ˈtrɛʒəri stɑk ˈmɛθəd/"
+   }
+  ],
+  "collocations": [
+   "basic vs diluted share count",
+   "fully diluted",
+   "the treasury stock method",
+   "in-the-money options"
+  ],
+  "example": "Using basic instead of diluted shares understated the count by 12% — inflating per-share value until the analyst applied the treasury stock method to the option pool.",
+  "links": [
+   {
+    "to": "earnings-per-share",
+    "rel": "related"
+   },
+   {
+    "to": "dilution",
+    "rel": "related"
+   },
+   {
+    "to": "enterprise-value",
+    "rel": "related"
+   },
+   {
+    "to": "cap-table",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "minority-interest-associates",
+  "zh": "少数股东权益与联营企业",
+  "pinyin": "shǎoshù gǔdōng quányì yǔ liányíng qǐyè",
+  "en": "minority interest and associates",
+  "def_zh": "合并报表把控股子公司100%并入,再用'少数股东权益'扣除不属于母公司的部分;对20–50%的联营企业则用权益法(只按比例确认损益,不并表)。理解它们对计算企业价值(EV须加少数股东权益、减联营投资)与避免重复计算至关重要——投行估值的常见陷阱。",
+  "def_en": "Consolidated statements bring in 100% of controlled subsidiaries, then deduct the portion not owned via 'minority (non-controlling) interest'; for 20–50% associates, the equity method recognises only a proportional share of profit without consolidating. Understanding them is essential for computing enterprise value (add minority interest, subtract associate investments) and avoiding double-counting — a common trap in IB valuation.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "minority interest and associates /məˈnɔrəti ˈɪntəˌrɛst ənd əˈsoʊʃiˌeɪts/",
+  "etymology": "minority（少数）——子公司中母公司未持有的'少数'股份;associate（联营,拉丁 associare 结伴）指有重大影响但不控股的被投资方。",
+  "synonyms": [
+   {
+    "word": "non-controlling interest",
+    "sentence": "Non-controlling interest is the slice of a consolidated subsidiary the parent does not own.",
+    "ipa": "/nɑn-kənˈtroʊlɪŋ ˈɪntəˌrɛst/"
+   },
+   {
+    "word": "the equity method",
+    "sentence": "The equity method books your share of an associate's profit without pretending you control it.",
+    "ipa": "/ðə ˈɛkwəti ˈmɛθəd/"
+   }
+  ],
+  "collocations": [
+   "minority (non-controlling) interest",
+   "the equity method",
+   "add to the EV bridge",
+   "proportional consolidation"
+  ],
+  "example": "An analyst building the EV bridge added minority interest and subtracted the value of equity-method associates — without which the enterprise value would have been badly misstated.",
+  "links": [
+   {
+    "to": "enterprise-value",
+    "rel": "related"
+   },
+   {
+    "to": "ev-bridge",
+    "rel": "related"
+   },
+   {
+    "to": "balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "sum-of-the-parts",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "working-capital-analysis",
+  "zh": "营运资本变动分析",
+  "pinyin": "yíngyùn zīběn biàndòng fēnxī",
+  "en": "working-capital change analysis",
+  "def_zh": "营运资本(存货+应收−应付)的变动直接吞噬或释放现金:业务扩张时占用现金(利润变成库存与欠款),是快速增长企业'越赚越缺钱'的根源。分析师在建模时须预测营运资本随收入的变化(常用占收入百分比法),它是自由现金流与真实盈利质量的关键桥梁。",
+  "def_en": "Changes in working capital (inventory + receivables − payables) directly consume or release cash: growth ties cash up (profit becomes stock and unpaid invoices), the reason fast-growing firms 'earn more yet run short of cash'. In modelling, analysts project working capital against revenue (often as a percent of sales); it is the crucial bridge between free cash flow and true earnings quality.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "working-capital change analysis /ˈwərkɪŋ-ˈkæpɪtəl ʧeɪnʤ æˈnælɪsɪs/",
+  "etymology": "见 working-capital 节点;变动分析即追踪营运资本'增减'对现金的挤占或释放。",
+  "synonyms": [
+   {
+    "word": "the change in net working capital",
+    "sentence": "The change in net working capital is where growing profit quietly disappears into inventory.",
+    "ipa": "/ðə ʧeɪnʤ ɪn nɛt ˈwərkɪŋ ˈkæpɪtəl/"
+   },
+   {
+    "word": "cash tied up in growth",
+    "sentence": "Cash tied up in growth is why a booming company can still miss payroll.",
+    "ipa": "/kæʃ taɪd əp ɪn groʊθ/"
+   }
+  ],
+  "collocations": [
+   "the change in working capital",
+   "as a percent of sales",
+   "working-capital drag",
+   "release working capital"
+  ],
+  "example": "Modelling revenue up 30% but forgetting the working-capital build overstated free cash flow badly — the growth would have devoured cash, not generated it.",
+  "links": [
+   {
+    "to": "working-capital",
+    "rel": "related"
+   },
+   {
+    "to": "unlevered-free-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "cash-conversion-cycle",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "book-vs-market-value",
+  "zh": "账面价值与市场价值",
+  "pinyin": "zhàngmiàn jiàzhí yǔ shìchǎng jiàzhí",
+  "en": "book value vs market value",
+  "def_zh": "账面价值是资产负债表上的会计净资产(股东权益),市场价值是市场对公司的定价(市值)。两者差距反映无形资产、增长预期与账面滞后:市净率(P/B)高说明市场认可账面之外的价值(品牌、护城河),低于1则市场认为资产被高估或将亏损。银行、保险等重资产行业尤看P/B。",
+  "def_en": "Book value is the accounting net worth on the balance sheet (shareholders' equity); market value is what the market prices the company at (market cap). The gap reflects intangibles, growth expectations and accounting lag: a high price-to-book (P/B) means the market sees value beyond the books (brand, moat), while below 1 means the market judges the assets overstated or the firm loss-bound. Asset-heavy sectors like banks and insurers watch P/B closely.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "看懂财报 Reading Financial Statements"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "book value versus market value /bʊk ˈvælju ˈvərsəz ˈmɑrkɪt ˈvælju/",
+  "etymology": "book value（账面价值）——记在会计'账簿'上的价值;与市场实时定价相对。",
+  "synonyms": [
+   {
+    "word": "price-to-book",
+    "sentence": "Price-to-book below one says the market trusts the assets less than the accountants do.",
+    "ipa": "/praɪs-tɪ-bʊk/"
+   },
+   {
+    "word": "tangible book value",
+    "sentence": "Tangible book value strips out goodwill to show the hard net worth behind the shares.",
+    "ipa": "/ˈtænʤəbəl bʊk ˈvælju/"
+   }
+  ],
+  "collocations": [
+   "price-to-book ratio",
+   "tangible book value",
+   "trade below book",
+   "the book-market gap"
+  ],
+  "example": "A bank trading at 0.6x book value is the market betting its loan assets are worth less than stated — a value trap or an opportunity, depending who is right.",
+  "links": [
+   {
+    "to": "price-earnings-ratio",
+    "rel": "related"
+   },
+   {
+    "to": "balance-sheet",
+    "rel": "related"
+   },
+   {
+    "to": "goodwill-impairment",
+    "rel": "related"
+   },
+   {
+    "to": "residual-income-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "three-statement-model",
+  "zh": "三表联动模型",
+  "pinyin": "sānbiǎo liándòng móxíng",
+  "en": "the three-statement model",
+  "def_zh": "投行分析师建模的基本功:在Excel里把利润表、资产负债表、现金流量表用公式完全勾稽,由一套假设(收入增速、利润率、营运资本、资本开支等)驱动,自动生成未来预测。它是DCF、LBO、并购模型的地基——先建好三表模型,一切估值才能搭上去。",
+  "def_en": "The foundational build of an analyst's craft: in Excel, fully linking the income statement, balance sheet and cash flow statement with formulas, driven by one set of assumptions (revenue growth, margins, working capital, capex) to project the future automatically. It is the bedrock of the DCF, LBO and merger models — build the three-statement model first, and every valuation rests on it.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "three-statement model /θri-ˈsteɪtmənt ˈmɑdəl/",
+  "etymology": "three-statement（三张报表）——把三表'联动'成一个动态模型;是投行 analyst 训练营的第一课。",
+  "synonyms": [
+   {
+    "word": "the integrated model",
+    "sentence": "The integrated model makes one assumption ripple correctly through all three statements.",
+    "ipa": "/ðə ˈɪnəˌgreɪtɪd ˈmɑdəl/"
+   },
+   {
+    "word": "the operating model",
+    "sentence": "The operating model is the engine every DCF and LBO bolts onto.",
+    "ipa": "/ðə ˈɔpərˌeɪtɪŋ ˈmɑdəl/"
+   }
+  ],
+  "collocations": [
+   "build a three-statement model",
+   "the driver assumptions",
+   "the model plug",
+   "link the statements"
+  ],
+  "example": "Change the revenue growth cell and a well-built three-statement model updates profit, the balance sheet and cash — the acid test of correct linkages.",
+  "links": [
+   {
+    "to": "three-statement-linkage",
+    "rel": "related"
+   },
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "circularity-plug",
+    "rel": "related"
+   },
+   {
+    "to": "scenario-toggle",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "unlevered-free-cash-flow",
+  "zh": "无杠杆自由现金流",
+  "pinyin": "wú gànggǎn zìyóu xiànjīnliú",
+  "en": "unlevered free cash flow (FCFF)",
+  "def_zh": "DCF估企业价值用的现金流,独立于资本结构:息税前利润EBIT×(1−税率)+折旧摊销−资本开支−营运资本增加。它是'付利息前、归属全体资本方'的现金流,用WACC贴现得企业价值(EV)。记牢这条公式的搭建,是估值面试的必考。",
+  "def_en": "The cash flow used in a DCF to value the whole enterprise, independent of capital structure: EBIT × (1 − tax rate) + depreciation & amortisation − capex − increase in working capital. It is the cash available to all capital providers before interest, discounted at WACC to give enterprise value. Building this formula cold is a valuation-interview staple.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "unlevered free cash flow /ʌnˈlɛvərd fri kæʃ floʊ/",
+  "etymology": "unlevered（无杠杆的）——'加杠杆前'、不受债务影响的现金流;FCFF=Free Cash Flow to the Firm（归属公司的）。",
+  "synonyms": [
+   {
+    "word": "free cash flow to the firm",
+    "sentence": "Free cash flow to the firm belongs to lenders and shareholders alike, before interest splits it.",
+    "ipa": "/fri kæʃ floʊ tɪ ðə fərm/"
+   },
+   {
+    "word": "NOPAT-based cash flow",
+    "sentence": "NOPAT-based cash flow starts from after-tax operating profit and works down to cash.",
+    "ipa": "/ˈnoʊpæt-beɪst kæʃ floʊ/"
+   }
+  ],
+  "collocations": [
+   "EBIT times one minus tax",
+   "the FCFF build",
+   "unlevered cash flow",
+   "discount at WACC"
+  ],
+  "example": "Asked to build unlevered free cash flow, the analyst starts EBIT × (1 − t), adds back D&A, subtracts capex and the working-capital change — the FCFF the DCF discounts.",
+  "links": [
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "free-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "weighted-average-cost-of-capital",
+    "rel": "related"
+   },
+   {
+    "to": "working-capital-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "levered-free-cash-flow",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "levered-free-cash-flow",
+  "zh": "有杠杆自由现金流",
+  "pinyin": "yǒu gànggǎn zìyóu xiànjīnliú",
+  "en": "levered free cash flow (FCFE)",
+  "def_zh": "扣除利息与偿债后、真正归属股东的现金流:净利润+折旧摊销−资本开支−营运资本增加−强制还本+净新增借款。它用股权成本贴现,直接得股权价值。FCFF得企业价值、FCFE得股权价值——用错贴现率或现金流口径是新手大忌。",
+  "def_en": "The cash flow that remains for shareholders after interest and debt repayment: net income + D&A − capex − increase in working capital − mandatory debt repayment + net new borrowing. It is discounted at the cost of equity to give equity value directly. FCFF yields enterprise value, FCFE yields equity value — mismatching the discount rate to the cash flow is a classic rookie error.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "levered free cash flow /ˈlɛvərd fri kæʃ floʊ/",
+  "etymology": "levered（加杠杆的）——已考虑债务(利息、还本)后的现金流;FCFE=Free Cash Flow to Equity（归属股东的）。",
+  "synonyms": [
+   {
+    "word": "free cash flow to equity",
+    "sentence": "Free cash flow to equity is what's left for owners after the lenders are paid.",
+    "ipa": "/fri kæʃ floʊ tɪ ˈɛkwəti/"
+   },
+   {
+    "word": "cash available to shareholders",
+    "sentence": "Cash available to shareholders discounts at the cost of equity, not WACC.",
+    "ipa": "/kæʃ əˈveɪləbəl tɪ ˈʃɛˌrhoʊldərz/"
+   }
+  ],
+  "collocations": [
+   "FCFE",
+   "after interest and debt",
+   "discount at cost of equity",
+   "levered cash flow"
+  ],
+  "example": "For a bank, where debt is raw material, analysts value equity directly with levered FCFE and the cost of equity rather than the unlevered FCFF approach.",
+  "links": [
+   {
+    "to": "unlevered-free-cash-flow",
+    "rel": "contrast"
+   },
+   {
+    "to": "cost-of-equity",
+    "rel": "related"
+   },
+   {
+    "to": "dividend-discount-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "wacc-build",
+  "zh": "WACC 的搭建",
+  "pinyin": "WACC de dājiàn",
+  "en": "building the WACC",
+  "def_zh": "DCF贴现率的实操构建:①股权成本用CAPM=无风险利率+β×股权风险溢价,其中β常取可比公司β去杠杆(卸掉各自资本结构影响)再按目标公司资本结构重新加杠杆;②债务成本用税后利率;③按市值权重加权。每一步的假设都可辩论——WACC是DCF中最易被'凑'出目标估值的旋钮。",
+  "def_en": "The hands-on construction of the DCF discount rate: (1) cost of equity via CAPM = risk-free rate + beta × equity risk premium, where beta is often taken from comparables, unlevered to remove each one's capital structure, then relevered to the target's; (2) after-tax cost of debt; (3) weighted by market values. Every step's assumptions are debatable — WACC is the knob most easily 'tuned' to a desired DCF answer.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "building the WACC /ˈbɪldɪŋ ðə wæk/",
+  "etymology": "见 weighted-average-cost-of-capital 节点;'build'指在模型中逐项搭建这个贴现率。",
+  "synonyms": [
+   {
+    "word": "the discount-rate build",
+    "sentence": "The discount-rate build is where an honest DCF is separated from a reverse-engineered one.",
+    "ipa": "/ðə ˈdɪskaʊnt-reɪt bɪld/"
+   },
+   {
+    "word": "unlevering and relevering beta",
+    "sentence": "Unlevering and relevering beta ports a peer's risk onto your company's capital structure.",
+    "ipa": "/ʌnˈlɛvərɪŋ ənd riːˈlɛvərɪŋ ˈbeɪtə/"
+   }
+  ],
+  "collocations": [
+   "build the WACC",
+   "unlever the comparable betas",
+   "the after-tax cost of debt",
+   "market-value weights"
+  ],
+  "example": "Building WACC, the analyst pulls five peers' betas, unlevers each, averages, then relevers to the target's debt mix — a defensible beta, not a guessed one.",
+  "links": [
+   {
+    "to": "weighted-average-cost-of-capital",
+    "rel": "related"
+   },
+   {
+    "to": "unlevered-beta",
+    "rel": "narrower"
+   },
+   {
+    "to": "capital-asset-pricing-model",
+    "rel": "related"
+   },
+   {
+    "to": "cost-of-equity",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "unlevered-beta",
+  "zh": "去杠杆贝塔",
+  "pinyin": "qù gànggǎn bèitǎ",
+  "en": "unlevered (asset) beta",
+  "def_zh": "剥离了财务杠杆影响的β,只反映业务本身的风险(资产β)。因为一家公司的股票β同时含经营风险与财务(杠杆)风险,比较不同资本结构的公司时须先'去杠杆'到资产β,再按目标结构'加杠杆'。哈马达方程是标准工具。WACC搭建的关键中间步。",
+  "def_en": "Beta with the effect of financial leverage stripped out, reflecting only the risk of the business itself (asset beta). Because a company's equity beta contains both operating and financial (leverage) risk, comparing firms with different capital structures requires unlevering to the asset beta first, then relevering to the target's structure. The Hamada equation is the standard tool. A key intermediate step in building WACC.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "unlevered beta /ʌnˈlɛvərd ˈbeɪtə/",
+  "etymology": "unlevered（去杠杆的）——去掉债务放大效应后剩下的'资产'风险;Hamada 方程以物理学家 Robert Hamada 命名。",
+  "synonyms": [
+   {
+    "word": "asset beta",
+    "sentence": "Asset beta measures business risk alone, before any debt amplifies it.",
+    "ipa": "/ˈæˌsɛt ˈbeɪtə/"
+   },
+   {
+    "word": "the Hamada equation",
+    "sentence": "The Hamada equation is the bridge between a levered equity beta and its unlevered core.",
+    "ipa": "/ðə hɑːˈmɑːdə ɪkˈweɪʒən/"
+   }
+  ],
+  "collocations": [
+   "unlever the beta",
+   "asset vs equity beta",
+   "the Hamada equation",
+   "relever to target structure"
+  ],
+  "example": "A heavily indebted peer's equity beta of 2.0 unlevers to an asset beta of 1.1 — the business risk, before leverage inflated it, and the right basis for comparison.",
+  "links": [
+   {
+    "to": "beta",
+    "rel": "related"
+   },
+   {
+    "to": "wacc-build",
+    "rel": "related"
+   },
+   {
+    "to": "capital-structure",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "terminal-value-methods",
+  "zh": "终值的两种算法",
+  "pinyin": "zhōngzhí de liǎngzhǒng suànfǎ",
+  "en": "terminal value methods",
+  "def_zh": "DCF终值的两种主流算法,须交叉验证:①永续增长法(戈登):终期现金流×(1+g)÷(WACC−g),g须低于长期经济增速;②退出倍数法:终期EBITDA×可比退出倍数。两法结果应相互印证——若隐含增长率或隐含倍数不合理,说明假设有误。终值常占DCF估值的六到八成,是最须审慎之处。",
+  "def_en": "The two mainstream ways to compute DCF terminal value, to be cross-checked: (1) perpetuity growth (Gordon): final cash flow × (1 + g) ÷ (WACC − g), with g below long-run economic growth; (2) exit multiple: terminal EBITDA × a comparable exit multiple. The two should corroborate each other — if the implied growth rate or implied multiple is unreasonable, the assumptions are off. Terminal value is often 60–80% of a DCF, so it demands the most care.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "terminal value methods /ˈtərmənəl ˈvælju ˈmɛθədz/",
+  "etymology": "见 terminal-value 节点;'methods'指计算终值的两种并存算法及其相互校验。",
+  "synonyms": [
+   {
+    "word": "perpetuity growth vs exit multiple",
+    "sentence": "Perpetuity growth versus exit multiple should agree; when they diverge wildly, an assumption is lying.",
+    "ipa": "/ˌpərpɪˈtjuɪti groʊθ ˈvərsəz ˈɛksət ˈməltəpəl/"
+   },
+   {
+    "word": "the implied cross-check",
+    "sentence": "The implied cross-check backs the growth rate out of the exit multiple to test it for sanity.",
+    "ipa": "/ðə ˌɪmˈplaɪd krɔs-ʧɛk/"
+   }
+  ],
+  "collocations": [
+   "the Gordon growth method",
+   "the exit multiple method",
+   "the implied growth rate",
+   "cross-check the terminal value"
+  ],
+  "example": "An analyst computes terminal value both ways; when the exit multiple implies an absurd 6% perpetual growth, it exposes an over-optimistic assumption in the base case.",
+  "links": [
+   {
+    "to": "terminal-value",
+    "rel": "related"
+   },
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "ev-ebitda",
+    "rel": "related"
+   },
+   {
+    "to": "sensitivity-tables",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "mid-year-convention",
+  "zh": "年中折现惯例",
+  "pinyin": "niánzhōng zhéxiàn guànlì",
+  "en": "the mid-year convention",
+  "def_zh": "DCF建模的技术细节:假设现金流均匀分布于全年、平均在年中而非年末产生,故贴现期采用0.5、1.5、2.5…而非1、2、3。它使估值略微上升(现金流提前半年折现),更贴近现实。看似琐碎,却是分析师专业度的体现——面试官爱问。",
+  "def_en": "A technical detail of DCF modelling: assuming cash flows arrive evenly through the year, on average at mid-year rather than year-end, so discount periods are 0.5, 1.5, 2.5… instead of 1, 2, 3. It nudges the valuation slightly higher (cash discounted half a year sooner) and is more realistic. Seemingly trivial, it signals an analyst's polish — and interviewers love to ask about it.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "mid-year convention /mɪd-jɪr kənˈvɛnʃən/",
+  "etymology": "mid-year（年中）——把现金流的时点定在'年中'而非年末;convention 即业界约定俗成的处理惯例。",
+  "synonyms": [
+   {
+    "word": "mid-period discounting",
+    "sentence": "Mid-period discounting assumes cash trickles in all year, not in one December lump.",
+    "ipa": "/mɪd-ˈpɪriəd ˈdɪˌskaʊnɪŋ/"
+   },
+   {
+    "word": "the half-year adjustment",
+    "sentence": "The half-year adjustment lifts the valuation modestly and more honestly.",
+    "ipa": "/ðə hæf-jɪr əˈʤəstmənt/"
+   }
+  ],
+  "collocations": [
+   "apply the mid-year convention",
+   "discount periods of 0.5, 1.5",
+   "mid-period assumption",
+   "the stub period"
+  ],
+  "example": "Switching to the mid-year convention raised the DCF value 3% — small, but the kind of correct detail that distinguishes a careful model from a sloppy one.",
+  "links": [
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "time-value-of-money",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "ev-bridge",
+  "zh": "企业价值到股权价值的桥",
+  "pinyin": "qǐyè jiàzhí dào gǔquán jiàzhí de qiáo",
+  "en": "the EV-to-equity bridge",
+  "def_zh": "DCF或倍数法先得企业价值(EV),须'搭桥'到股权价值再到每股价值:EV−净债务−少数股东权益−优先股−养老金缺口+联营/超额现金=股权价值;再÷完全稀释股数=每股价值。每一项加减都易错,是估值输出的最后也最易翻车的一步。",
+  "def_en": "A DCF or multiples approach first gives enterprise value (EV), which must be bridged to equity value and then to per-share value: EV − net debt − minority interest − preferred − pension deficit + associates/excess cash = equity value; then ÷ fully diluted shares = value per share. Each adjustment is error-prone — the last and most easily botched step of a valuation.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "EV-to-equity bridge /ˌiːˈviː-tɪ-ˈɛkwəti brɪʤ/",
+  "etymology": "bridge（桥）——从企业价值'跨接'到股权价值的一系列加减调整项。",
+  "synonyms": [
+   {
+    "word": "the equity value bridge",
+    "sentence": "The equity value bridge is where an EV becomes a real, per-share price.",
+    "ipa": "/ðə ˈɛkwəti ˈvælju brɪʤ/"
+   },
+   {
+    "word": "net debt adjustment",
+    "sentence": "The net debt adjustment turns what the business is worth into what the shares are worth.",
+    "ipa": "/nɛt dɛt əˈʤəstmənt/"
+   }
+  ],
+  "collocations": [
+   "bridge EV to equity value",
+   "subtract net debt",
+   "the adjustment items",
+   "down to per-share value"
+  ],
+  "example": "The analyst's EV of 5bn became a per-share value only after the bridge — subtracting net debt, minorities and the pension deficit, then dividing by diluted shares.",
+  "links": [
+   {
+    "to": "enterprise-value",
+    "rel": "related"
+   },
+   {
+    "to": "minority-interest-associates",
+    "rel": "related"
+   },
+   {
+    "to": "shares-outstanding",
+    "rel": "related"
+   },
+   {
+    "to": "pension-accounting",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "sensitivity-tables",
+  "zh": "敏感性表格",
+  "pinyin": "mǐngǎnxìng biǎogé",
+  "en": "sensitivity (data) tables",
+  "def_zh": "在估值模型中用Excel数据表把两个关键假设(如WACC与永续增长率、进入与退出倍数)做成二维网格,展示估值在各组合下的取值区间。它承认'单一数字是假象',把DCF从一个点变成一个范围,是估值汇报的标配。配合'足球场图'展示最终区间。",
+  "def_en": "In a valuation model, an Excel data table arranges two key assumptions (WACC and perpetual growth, or entry and exit multiple) into a two-dimensional grid showing the valuation across every combination. It admits that a single number is an illusion, turning a DCF from a point into a range — standard in valuation output, paired with a 'football field' to display the final range.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "sensitivity tables /ˌsɛnsɪˈtɪvɪti ˈteɪbəlz/",
+  "etymology": "见 sensitivity-analysis 节点;data table 是 Excel 中生成二维敏感性网格的功能。",
+  "synonyms": [
+   {
+    "word": "the data table",
+    "sentence": "The data table sweeps two assumptions at once to map the whole valuation surface.",
+    "ipa": "/ðə ˈdætə ˈteɪbəl/"
+   },
+   {
+    "word": "the sensitivity grid",
+    "sentence": "The sensitivity grid shows the client a range, not a spuriously precise single figure.",
+    "ipa": "/ðə ˌsɛnsɪˈtɪvɪti grɪd/"
+   }
+  ],
+  "collocations": [
+   "a two-way data table",
+   "WACC by growth rate",
+   "the sensitivity grid",
+   "present a range"
+  ],
+  "example": "The sensitivity table showed the DCF ranged from 40 to 70 per share across plausible WACC and growth pairs — honesty the single base-case number would have hidden.",
+  "links": [
+   {
+    "to": "sensitivity-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "football-field",
+    "rel": "related"
+   },
+   {
+    "to": "terminal-value-methods",
+    "rel": "related"
+   },
+   {
+    "to": "scenario-toggle",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "football-field",
+  "zh": "足球场估值图",
+  "pinyin": "zúqiúchǎng gūzhí tú",
+  "en": "the football field chart",
+  "def_zh": "投行展示估值结论的经典图表:把DCF、可比公司、先例交易、52周股价等多种估值方法各自的价值区间,画成一排水平横条(形似足球场的场地线),让客户/董事会一眼看清各方法的估值范围与重叠区。它体现'估值是区间而非精确数字'的专业态度。",
+  "def_en": "The classic chart investment banks use to present a valuation conclusion: the value ranges from several methods — DCF, comparable companies, precedent transactions, 52-week share price — drawn as a row of horizontal bars (resembling a football field's yard lines), letting a client or board see each method's range and where they overlap. It embodies the professional stance that valuation is a range, not a precise number.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "football field chart /ˈfʊtˌbɔl fild ʧɑrt/",
+  "etymology": "football field（美式橄榄球场）——横条排列形似球场码线,故名;投行 pitch book 的标志性图表。",
+  "synonyms": [
+   {
+    "word": "the valuation range chart",
+    "sentence": "The valuation range chart lets several methods vote and shows where they agree.",
+    "ipa": "/ðə væljuˈeɪʃən reɪnʤ ʧɑrt/"
+   },
+   {
+    "word": "the summary of values",
+    "sentence": "The summary of values is a football field: every method a bar, the overlap the answer.",
+    "ipa": "/ðə ˈsəməri əv ˈvæljuz/"
+   }
+  ],
+  "collocations": [
+   "the football field",
+   "the overlap range",
+   "methods side by side",
+   "the valuation summary"
+  ],
+  "example": "The football field showed DCF, comps and precedents all clustering around 55–65 per share — an overlap that gave the board confidence in the fairness range.",
+  "links": [
+   {
+    "to": "sensitivity-tables",
+    "rel": "related"
+   },
+   {
+    "to": "comparable-companies-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "precedent-transactions",
+    "rel": "related"
+   },
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "comparable-companies-analysis",
+  "zh": "可比公司分析（实操）",
+  "pinyin": "kěbǐ gōngsī fēnxī",
+  "en": "comparable companies analysis (mechanics)",
+  "def_zh": "'comps'的实操建模:①筛选业务、规模、增长、地域相近的可比上市公司;②统一口径计算各自的EV与倍数(EV/EBITDA、EV/Sales、P/E),须做LTM(最近十二个月)与日历化调整;③取中位数/均值应用于目标公司;④按增长与利润率差异调整。是相对估值的主力,也是分析师日常最频繁的工作。",
+  "def_en": "The hands-on build of 'comps': (1) screen for peers similar in business, size, growth and geography; (2) compute each one's EV and multiples (EV/EBITDA, EV/Sales, P/E) on a consistent basis, with LTM (last-twelve-months) and calendarisation adjustments; (3) apply the median/mean to the target; (4) adjust for differences in growth and margin. The workhorse of relative valuation and an analyst's most frequent task.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "comparable companies analysis /ˈkɑmprəbəl ˈkəmpəˌniz æˈnælɪsɪs/",
+  "etymology": "comparable（可比的）——挑选'可资比较'的同类公司;'comps'为业界简称。",
+  "synonyms": [
+   {
+    "word": "trading comps",
+    "sentence": "Trading comps price the target off what the market pays for its living peers.",
+    "ipa": "/ˈtreɪdɪŋ kɑmpz/"
+   },
+   {
+    "word": "the comp set",
+    "sentence": "The comp set is chosen as carefully as the multiple applied to it — a bad peer poisons the answer.",
+    "ipa": "/ðə kɑmp sɛt/"
+   }
+  ],
+  "collocations": [
+   "build the comps",
+   "the peer set",
+   "LTM multiples",
+   "apply the median multiple"
+  ],
+  "example": "Comparable companies analysis put the peer set at 10–12x EBITDA; applying the median to the target's EBITDA framed a market-based value to sit beside the DCF.",
+  "links": [
+   {
+    "to": "trading-multiples",
+    "rel": "related"
+   },
+   {
+    "to": "ltm-calendarisation",
+    "rel": "related"
+   },
+   {
+    "to": "ev-ebitda",
+    "rel": "related"
+   },
+   {
+    "to": "football-field",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "ltm-calendarisation",
+  "zh": "最近十二个月与日历化",
+  "pinyin": "zuìjìn shí'èr gèyuè yǔ rìlìhuà",
+  "en": "LTM and calendarisation",
+  "def_zh": "倍数分析的两个技术调整:LTM(最近十二个月,亦称TTM)用最新可得的滚动一年数据而非上一财年,更及时;日历化(calendarisation)把财年结束月份不同的公司统一调整到同一日历期间,以便公平比较。忽略这两步,comps就是在拿苹果比橘子。",
+  "def_en": "Two technical adjustments in multiples analysis: LTM (last twelve months, also TTM) uses the most recent rolling year of data rather than the last fiscal year, for timeliness; calendarisation aligns companies with different fiscal year-ends to the same calendar period for fair comparison. Skip these two steps and comps compare apples with oranges.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "LTM and calendarisation /ˌɛltiːˈɛm ənd kəˌlɛndəraɪˈzeɪʃən/",
+  "etymology": "LTM=Last Twelve Months;calendarise 即'化到同一日历期间';都是让财务数据'时间可比'的调整。",
+  "synonyms": [
+   {
+    "word": "last twelve months",
+    "sentence": "Last twelve months captures the most recent reality, not last year's stale annual report.",
+    "ipa": "/læst twɛlv mənθs/"
+   },
+   {
+    "word": "fiscal-year alignment",
+    "sentence": "Fiscal-year alignment stops a December company being compared with a June one at cross-purposes.",
+    "ipa": "/ˈfɪskəl-jɪr əˈlaɪnmənt/"
+   }
+  ],
+  "collocations": [
+   "LTM / TTM figures",
+   "calendarise the comps",
+   "the stub period",
+   "align the fiscal years"
+  ],
+  "example": "Before comparing a June-end firm with December-end peers, the analyst calendarises all to the same period and uses LTM figures — or the multiples would be meaningless.",
+  "links": [
+   {
+    "to": "comparable-companies-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "trading-multiples",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "precedent-transactions-mechanics",
+  "zh": "先例交易分析（实操）",
+  "pinyin": "xiānlì jiāoyì fēnxī shícāo",
+  "en": "precedent transactions (mechanics)",
+  "def_zh": "用过往同类并购的成交倍数给目标定价的实操:①搜集近年可比行业的并购交易(交易数据库);②算出各交易的隐含EV/EBITDA等倍数,含控制权溢价;③剔除极端与市况异常的交易;④应用中位数。因含协议控制权溢价,倍数通常高于二级市场comps,常用于并购卖方定价的下限参考。",
+  "def_en": "The hands-on use of past comparable M&A deal multiples to price a target: (1) gather recent industry deals (transaction databases); (2) compute each deal's implied EV/EBITDA and other multiples, control premium included; (3) exclude outliers and deals struck in abnormal markets; (4) apply the median. Because these embed a control premium, multiples usually run above public comps — often a floor reference in sell-side M&A pricing.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "precedent transactions mechanics /ˈprɛsɪdənt trænˈzækʃənz məˈkænɪks/",
+  "etymology": "见 precedent-transactions 节点;'mechanics'指实际搜集交易、计算倍数的建模步骤。",
+  "synonyms": [
+   {
+    "word": "deal comps",
+    "sentence": "Deal comps show what acquirers actually paid, control premium and all.",
+    "ipa": "/dil kɑmpz/"
+   },
+   {
+    "word": "transaction multiples",
+    "sentence": "Transaction multiples set the bar for what a control buyer might pay again.",
+    "ipa": "/trænˈzækʃən ˈməltəpəlz/"
+   }
+  ],
+  "collocations": [
+   "screen the deal database",
+   "the implied deal multiple",
+   "control premium included",
+   "the transaction comp set"
+  ],
+  "example": "Precedent transactions showed acquirers paying 14–16x EBITDA in the sector — a control-inclusive range that anchored the sell-side's price expectations above the trading comps.",
+  "links": [
+   {
+    "to": "precedent-transactions",
+    "rel": "related"
+   },
+   {
+    "to": "control-premium",
+    "rel": "related"
+   },
+   {
+    "to": "mergers-acquisitions",
+    "rel": "related"
+   },
+   {
+    "to": "football-field",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "lbo-model",
+  "zh": "杠杆收购模型",
+  "pinyin": "gànggǎn shōugòu móxíng",
+  "en": "the LBO model",
+  "def_zh": "私募基金评估收购的核心模型:以大量债务收购目标,用其现金流逐年偿债(去杠杆),持有3–7年后按退出倍数卖出,计算股权内部收益率(IRR)与投资倍数(MOIC)。它反向求解——'为达到目标IRR,最多能付多少收购价?'。资金来源与运用、债务偿还表、回报桥是三大组件。",
+  "def_en": "The core model private equity uses to evaluate a buyout: acquire the target with heavy debt, pay it down year by year from the target's cash flow (deleverage), then sell after 3–7 years at an exit multiple, computing the equity IRR and MOIC. It is often solved backwards — 'what is the most we can pay to still hit the target IRR?'. Sources and uses, the debt schedule and the returns bridge are its three components.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "LBO model /ˌɛlbiːˈoʊ ˈmɑdəl/",
+  "etymology": "见 leveraged-buyout 节点;LBO model 是私募 analyst 的招牌建模,与三表模型并列必备。",
+  "synonyms": [
+   {
+    "word": "the buyout model",
+    "sentence": "The buyout model asks how much debt the target's cash flow can safely carry and repay.",
+    "ipa": "/ðə baɪaʊt ˈmɑdəl/"
+   },
+   {
+    "word": "the ability-to-pay analysis",
+    "sentence": "The ability-to-pay analysis solves the LBO backwards from the required return to the maximum price.",
+    "ipa": "/ðə əˈbɪləˌti-tɪ-peɪ æˈnælɪsɪs/"
+   }
+  ],
+  "collocations": [
+   "build an LBO",
+   "solve for the entry price",
+   "the required IRR",
+   "stress the downside case"
+  ],
+  "example": "The LBO model solved backwards: to hit a 25% IRR over five years, the fund could pay at most 11x EBITDA — its disciplined ceiling in the auction.",
+  "links": [
+   {
+    "to": "leveraged-buyout",
+    "rel": "related"
+   },
+   {
+    "to": "sources-and-uses",
+    "rel": "narrower"
+   },
+   {
+    "to": "debt-schedule",
+    "rel": "narrower"
+   },
+   {
+    "to": "lbo-returns-bridge",
+    "rel": "narrower"
+   },
+   {
+    "to": "internal-rate-of-return",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "sources-and-uses",
+  "zh": "资金来源与运用",
+  "pinyin": "zījīn láiyuán yǔ yùnyòng",
+  "en": "sources and uses of funds",
+  "def_zh": "任何交易(收购、LBO、重组)的第一张表:'运用'列出所需资金(收购股权、偿还既有债务、交易费用),'来源'列出资金从何来(各层债务、股权出资、目标现金)。两侧必须相等。它决定了交易的资本结构与初始杠杆,是LBO模型的起点。",
+  "def_en": "The first schedule of any deal (acquisition, LBO, restructuring): 'uses' lists the funds needed (buying equity, repaying existing debt, fees), 'sources' lists where they come from (each debt tranche, equity contribution, target cash). The two sides must equal. It sets the deal's capital structure and initial leverage — the starting point of the LBO model.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "sources and uses of funds /ˈsɔrsəz ənd ˈjuzɪz əv fəndz/",
+  "etymology": "sources（来源）与 uses（用途）——资金从哪来、到哪去的一张平衡表,两侧金额必然相等。",
+  "synonyms": [
+   {
+    "word": "the funding table",
+    "sentence": "The funding table shows every dollar's origin and destination, and they must balance.",
+    "ipa": "/ðə ˈfəndɪŋ ˈteɪbəl/"
+   },
+   {
+    "word": "the capital structure at close",
+    "sentence": "The capital structure at close is set the moment sources and uses lock in.",
+    "ipa": "/ðə ˈkæpɪtəl ˈstrəkʧər æt kloʊz/"
+   }
+  ],
+  "collocations": [
+   "sources and uses",
+   "the equity cheque",
+   "fund the purchase price",
+   "the day-one leverage"
+  ],
+  "example": "The sources and uses showed the buyout funded 70% with debt tranches and 30% equity — fixing the leverage the debt schedule would then have to service.",
+  "links": [
+   {
+    "to": "lbo-model",
+    "rel": "broader"
+   },
+   {
+    "to": "debt-schedule",
+    "rel": "related"
+   },
+   {
+    "to": "capital-structure",
+    "rel": "related"
+   },
+   {
+    "to": "leveraged-buyout",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "debt-schedule",
+  "zh": "债务偿还表",
+  "pinyin": "zhàiwù chánghuán biǎo",
+  "en": "the debt schedule",
+  "def_zh": "LBO/三表模型中逐年追踪每层债务余额、利息、强制与选择性偿还(现金清扫cash sweep)的明细表。它按优先级瀑布偿债:先还高级债,循环贷(revolver)用于弥补现金短缺。它是模型循环引用的核心(利息取决于债务余额,债务偿还取决于现金,现金取决于利息)——分析师须懂'开启迭代计算'。",
+  "def_en": "The schedule in an LBO/three-statement model that tracks, year by year, each debt tranche's balance, interest, and mandatory and optional repayment (the cash sweep). It repays by priority waterfall — senior debt first, the revolver plugging cash shortfalls. It is the heart of the model's circularity (interest depends on the debt balance, repayment depends on cash, cash depends on interest) — analysts must know to enable iterative calculation.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "debt schedule /dɛt ˈskɛʤʊl/",
+  "etymology": "schedule（明细表,源自拉丁 scedula 小纸条）——列出每层债务'逐年'偿还的明细;cash sweep 即'现金清扫'还债。",
+  "synonyms": [
+   {
+    "word": "the cash sweep",
+    "sentence": "The cash sweep uses every spare dollar to pay down debt ahead of schedule.",
+    "ipa": "/ðə kæʃ swip/"
+   },
+   {
+    "word": "the debt waterfall",
+    "sentence": "The debt waterfall repays senior tranches before junior ones ever see a cent.",
+    "ipa": "/ðə dɛt ˈwɔːtərfɔːl/"
+   }
+  ],
+  "collocations": [
+   "the debt schedule",
+   "the cash sweep",
+   "the revolver",
+   "mandatory vs optional repayment"
+  ],
+  "example": "The debt schedule swept all excess cash to repay the senior term loan first — the deleveraging that, in the returns bridge, converts into growing equity value.",
+  "links": [
+   {
+    "to": "lbo-model",
+    "rel": "broader"
+   },
+   {
+    "to": "paydown-waterfall",
+    "rel": "related"
+   },
+   {
+    "to": "circularity-plug",
+    "rel": "related"
+   },
+   {
+    "to": "leverage",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "paydown-waterfall",
+  "zh": "债务偿还瀑布",
+  "pinyin": "zhàiwù chánghuán pùbù",
+  "en": "the debt paydown waterfall",
+  "def_zh": "多层债务的偿还优先级顺序:循环信贷(revolver)→定期贷款A(TLA)→定期贷款B(TLB)→夹层(mezzanine)→高收益债(high-yield)。越高级利率越低、越先偿还、越先受偿;越次级风险越高、利率越高。这套结构决定了各债权人的风险回报,也是信贷分析与LBO建模的骨架。",
+  "def_en": "The priority order in which layered debt is repaid: revolver → term loan A (TLA) → term loan B (TLB) → mezzanine → high-yield. The more senior the tranche, the lower its rate, the earlier it is repaid and the first to be made whole; the more junior, the higher the risk and rate. This structure sets each lender's risk-reward and is the skeleton of credit analysis and LBO modelling.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "debt paydown waterfall /dɛt ˈpeɪdaʊn ˈwɔːtərfɔːl/",
+  "etymology": "waterfall（瀑布）——资金像瀑布自上而下,先注满高级层再溢流到次级层;tranche 法语'切片'指债务分层。",
+  "synonyms": [
+   {
+    "word": "the capital stack",
+    "sentence": "The capital stack ranks every claim from safest senior debt to riskiest equity.",
+    "ipa": "/ðə ˈkæpɪtəl stæk/"
+   },
+   {
+    "word": "seniority",
+    "sentence": "Seniority decides who gets paid first when the cash — or the bankruptcy estate — runs short.",
+    "ipa": "/sinˈjɔrɪti/"
+   }
+  ],
+  "collocations": [
+   "the capital stack",
+   "senior vs subordinated debt",
+   "term loan A / B",
+   "the mezzanine tranche"
+  ],
+  "example": "In the waterfall, the revolver and senior term loan are repaid before the high-yield bonds see a cent — which is why the junior tranches demand far higher coupons.",
+  "links": [
+   {
+    "to": "debt-schedule",
+    "rel": "related"
+   },
+   {
+    "to": "capital-structure",
+    "rel": "related"
+   },
+   {
+    "to": "solvency-ratios",
+    "rel": "related"
+   },
+   {
+    "to": "liquidation-preference",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "lbo-returns-bridge",
+  "zh": "LBO 回报归因桥",
+  "pinyin": "LBO huíbào guīyīn qiáo",
+  "en": "the LBO returns bridge",
+  "def_zh": "拆解私募股权收益从何而来的三大来源:①去杠杆(用现金流还债,债务减少直接增加股权价值);②EBITDA增长(收入增长+利润率改善);③倍数扩张(退出倍数高于进入倍数,最不可控、最靠运气)。好的PE靠前两者创造价值,靠倍数扩张赚钱则更接近赌博。面试必考的价值创造拆解。",
+  "def_en": "Decomposing where private-equity returns come from, into three sources: (1) deleveraging (paying down debt from cash flow directly grows equity value); (2) EBITDA growth (revenue growth plus margin improvement); (3) multiple expansion (exiting at a higher multiple than entry — the least controllable, most luck-dependent). Good PE creates value through the first two; relying on multiple expansion is closer to gambling. A must-know value-creation decomposition for interviews.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "LBO returns bridge /ˌɛlbiːˈoʊ rɪˈtərnz brɪʤ/",
+  "etymology": "bridge（桥）——把入场股权到出场股权的价值变化'搭桥'拆解为若干来源;归因分析的标准工具。",
+  "synonyms": [
+   {
+    "word": "value-creation bridge",
+    "sentence": "The value-creation bridge shows whether returns came from skill or from a rising market.",
+    "ipa": "/ˈvælju-kriˈeɪʃən brɪʤ/"
+   },
+   {
+    "word": "deleveraging plus growth",
+    "sentence": "Deleveraging plus growth is earned return; multiple expansion is often just luck.",
+    "ipa": "/diːˈlɛvərɪdʒɪŋ pləs groʊθ/"
+   }
+  ],
+  "collocations": [
+   "the returns attribution",
+   "deleveraging, growth, multiple expansion",
+   "the value-creation bridge",
+   "entry vs exit multiple"
+  ],
+  "example": "The returns bridge revealed the deal's IRR came mostly from multiple expansion, not operations — a warning that repeating it depended on a market the fund couldn't control.",
+  "links": [
+   {
+    "to": "lbo-model",
+    "rel": "broader"
+   },
+   {
+    "to": "internal-rate-of-return",
+    "rel": "related"
+   },
+   {
+    "to": "moic",
+    "rel": "related"
+   },
+   {
+    "to": "entry-exit-multiple",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "entry-exit-multiple",
+  "zh": "进入与退出倍数",
+  "pinyin": "jìnrù yǔ tuìchū bèishù",
+  "en": "entry and exit multiples",
+  "def_zh": "LBO中收购时支付的估值倍数(进入)与卖出时实现的倍数(退出)。核心原则:进入倍数越低、退出倍数越高,回报越好——'低买高卖'的杠杆版。谨慎的基金假设退出倍数等于或低于进入倍数(不指望倍数扩张),把回报建立在可控的运营改善上,而非市场的慷慨。",
+  "def_en": "The valuation multiple paid at acquisition (entry) and realised at sale (exit) in an LBO. The core principle: the lower the entry multiple and the higher the exit multiple, the better the return — 'buy low, sell high' with leverage. Prudent funds assume an exit multiple equal to or below entry (not banking on expansion), basing returns on controllable operational improvement rather than the market's generosity.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "entry and exit multiples /ˈɛntri ənd ˈɛksət ˈməltəpəlz/",
+  "etymology": "entry（进入）与 exit（退出）——投资的入场与出场;multiple 见前。",
+  "synonyms": [
+   {
+    "word": "multiple expansion",
+    "sentence": "Multiple expansion is the tailwind you hope for but never underwrite.",
+    "ipa": "/ˈməltəpəl ɪkˈspænʧən/"
+   },
+   {
+    "word": "buy low, sell high",
+    "sentence": "Buy low, sell high, with leverage in between, is the LBO in five words.",
+    "ipa": "/baɪ loʊ sɛl haɪ/"
+   }
+  ],
+  "collocations": [
+   "the entry multiple",
+   "the exit multiple",
+   "assume flat multiples",
+   "conservative exit assumption"
+  ],
+  "example": "The fund underwrote the deal assuming it exits at the same multiple it entered — any multiple expansion would be upside, never the thesis.",
+  "links": [
+   {
+    "to": "lbo-returns-bridge",
+    "rel": "related"
+   },
+   {
+    "to": "lbo-model",
+    "rel": "related"
+   },
+   {
+    "to": "ev-ebitda",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "accretion-dilution-model",
+  "zh": "增厚稀释模型",
+  "pinyin": "zēnghòu xīshì móxíng",
+  "en": "the accretion/dilution model",
+  "def_zh": "并购中判断交易对收购方每股收益(EPS)即时影响的模型:合并双方净利润、加上协同、减去融资成本(新债利息或新股稀释),除以交易后总股数,与收购方独立EPS比较。用现金/债务融资通常增厚(利率低于收益率),用股票融资是否稀释取决于双方市盈率高低。并购谈判的快速财务筛。",
+  "def_en": "The model judging a deal's immediate effect on the acquirer's EPS: combine both companies' net income, add synergies, subtract financing costs (interest on new debt or dilution from new shares), divide by post-deal shares, and compare with the acquirer's standalone EPS. Cash/debt financing is usually accretive (rates below the earnings yield); whether stock financing dilutes depends on the two firms' relative P/E ratios. A quick financial screen in M&A negotiation.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "accretion dilution model /əˈkriːʃən dɪˈluʃən ˈmɑdəl/",
+  "etymology": "见 accretion-dilution 节点;'model'指在Excel中搭建合并EPS并比较的完整测算。",
+  "synonyms": [
+   {
+    "word": "the EPS impact model",
+    "sentence": "The EPS impact model is the first number a board asks about any acquisition.",
+    "ipa": "/ðə ˌiːpiːˈɛs ˌɪmˈpækt ˈmɑdəl/"
+   },
+   {
+    "word": "the merger consequences",
+    "sentence": "The merger consequences on EPS often decide whether to pay in cash or in stock.",
+    "ipa": "/ðə ˈmərʤər ˈkɑnsəkˌwɛnsəz/"
+   }
+  ],
+  "collocations": [
+   "accretive or dilutive",
+   "the P/E rule of thumb",
+   "cash vs stock consideration",
+   "pro forma EPS"
+  ],
+  "example": "The accretion/dilution model showed a stock deal would be dilutive because the acquirer's P/E was lower than the target's — pushing the board toward a cash-funded offer.",
+  "links": [
+   {
+    "to": "accretion-dilution",
+    "rel": "related"
+   },
+   {
+    "to": "merger-model",
+    "rel": "related"
+   },
+   {
+    "to": "earnings-per-share",
+    "rel": "related"
+   },
+   {
+    "to": "price-earnings-ratio",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "merger-model",
+  "zh": "并购合并模型",
+  "pinyin": "bìnggòu hébìng móxíng",
+  "en": "the merger model",
+  "def_zh": "完整测算一桩收购财务后果的模型:合并双方三张报表,处理收购价分摊(PPA)产生的商誉与资产增值折旧,分阶段计入协同效应,测算备考(pro forma)的每股收益、杠杆与回报。它比增厚稀释更全面,是并购顾问评估交易结构与出价的核心工具。",
+  "def_en": "The full model of an acquisition's financial consequences: combining both companies' three statements, handling the goodwill and stepped-up asset depreciation from purchase price allocation (PPA), phasing in synergies, and computing pro forma EPS, leverage and returns. More comprehensive than accretion/dilution alone, it is the core tool an M&A adviser uses to evaluate deal structure and the offer price.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "merger model /ˈmərʤər ˈmɑdəl/",
+  "etymology": "merger（合并）+ model——完整模拟'合并后'实体的财务模型;pro forma 拉丁'依格式'即'假设交易已完成'的备考报表。",
+  "synonyms": [
+   {
+    "word": "the pro forma model",
+    "sentence": "The pro forma model shows the combined company as if the deal had already closed.",
+    "ipa": "/ðə proʊ ˈfɔrmə ˈmɑdəl/"
+   },
+   {
+    "word": "the combination analysis",
+    "sentence": "The combination analysis tests whether one plus one really makes more than two.",
+    "ipa": "/ðə ˌkɑmbəˈneɪʃən æˈnælɪsɪs/"
+   }
+  ],
+  "collocations": [
+   "build the merger model",
+   "pro forma statements",
+   "phase in the synergies",
+   "the combined entity"
+  ],
+  "example": "The merger model showed that after purchase-price allocation and phased synergies, the deal turned accretive only in year three — reshaping how the banker pitched it.",
+  "links": [
+   {
+    "to": "accretion-dilution-model",
+    "rel": "related"
+   },
+   {
+    "to": "purchase-price-allocation",
+    "rel": "narrower"
+   },
+   {
+    "to": "synergies",
+    "rel": "related"
+   },
+   {
+    "to": "mergers-acquisitions",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "purchase-price-allocation",
+  "zh": "收购价分摊",
+  "pinyin": "shōugòujià fēntān",
+  "en": "purchase price allocation (PPA)",
+  "def_zh": "收购完成后,把支付的收购价按公允价值分配到被收购方的各项可辨认资产与负债,超出净资产公允价值的部分记为商誉;可辨认无形资产(客户关系、专利、品牌)被单独确认并摊销,有形资产可能被'评估增值'(step-up)从而增加未来折旧。它直接影响并购后利润与商誉规模。",
+  "def_en": "After a deal closes, allocating the purchase price to the target's identifiable assets and liabilities at fair value, with the excess over net asset fair value booked as goodwill; identifiable intangibles (customer relationships, patents, brands) are recognised separately and amortised, and tangible assets may be 'stepped up' in value, raising future depreciation. It directly shapes post-deal earnings and the size of goodwill.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "purchase price allocation /ˈpərʧəs praɪs ˌæləˈkeɪʃən/",
+  "etymology": "allocation（分配,拉丁 locare 放置）——把收购价'分配'到各项资产;step-up 即资产账面价值'调升'至公允价值。",
+  "synonyms": [
+   {
+    "word": "the asset step-up",
+    "sentence": "The asset step-up raises depreciation and thus lowers reported post-deal profit.",
+    "ipa": "/ðə ˈæˌsɛt stɛp-əp/"
+   },
+   {
+    "word": "goodwill creation",
+    "sentence": "Goodwill creation is the plug: whatever the price exceeds identifiable net assets.",
+    "ipa": "/ˈgʊdˈwɪl kriˈeɪʃən/"
+   }
+  ],
+  "collocations": [
+   "allocate the purchase price",
+   "the asset step-up",
+   "identifiable intangibles",
+   "goodwill on acquisition"
+  ],
+  "example": "Purchase price allocation stepped up the target's plant and booked large intangibles — the resulting extra depreciation and amortisation dragged pro forma earnings for years.",
+  "links": [
+   {
+    "to": "merger-model",
+    "rel": "related"
+   },
+   {
+    "to": "goodwill-impairment",
+    "rel": "related"
+   },
+   {
+    "to": "depreciation-amortisation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "circularity-plug",
+  "zh": "循环引用与平衡插头",
+  "pinyin": "xúnhuán yǐnyòng yǔ pínghéng chātóu",
+  "en": "circularity and the balancing plug",
+  "def_zh": "三表模型的技术难点:利息费用取决于债务余额,债务偿还取决于可用现金,现金又取决于利息——形成循环引用。须在Excel开启'迭代计算'求解,或用断路开关(circuit breaker)避免报错。此外,资产负债表须靠'现金/循环贷'作为平衡插头(plug)自动配平。掌握它是建出可运行模型的门槛。",
+  "def_en": "The technical crux of a three-statement model: interest expense depends on the debt balance, debt repayment depends on available cash, and cash depends on interest — a circular reference. It is solved by enabling Excel's iterative calculation, or a circuit breaker switch to avoid errors. The balance sheet is also auto-balanced by a cash/revolver 'plug'. Mastering this is the threshold to building a model that actually runs.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "circularity and the balancing plug /ˌsɜːrkjʊˈlærɪti ənd ðə ˈbælənsɪŋ pləg/",
+  "etymology": "circular reference（循环引用）——公式互相依赖成环;plug（插头/填塞）指用来'配平'资产负债表的科目。",
+  "synonyms": [
+   {
+    "word": "the circular reference",
+    "sentence": "The circular reference is why the interest, debt and cash cells chase each other in a loop.",
+    "ipa": "/ðə ˈsərkjələr ˈrɛfərəns/"
+   },
+   {
+    "word": "iterative calculation",
+    "sentence": "Iterative calculation lets Excel converge on the answer the circularity would otherwise refuse.",
+    "ipa": "/ˈɪtərˌeɪtɪv ˌkælkjəˈleɪʃən/"
+   }
+  ],
+  "collocations": [
+   "break the circularity",
+   "enable iterative calculation",
+   "the cash plug",
+   "a circuit breaker switch"
+  ],
+  "example": "The model threw a circular-reference error until the analyst enabled iterative calculation — letting interest, debt paydown and cash converge instead of looping forever.",
+  "links": [
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   },
+   {
+    "to": "debt-schedule",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-linkage",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "scenario-toggle",
+  "zh": "情景切换开关",
+  "pinyin": "qíngjǐng qiēhuàn kāiguān",
+  "en": "scenario toggles (bull/base/bear)",
+  "def_zh": "在模型中用一个开关(下拉菜单或数字选择)一键切换牛市/基准/熊市三套假设,让同一模型瞬间呈现乐观、中性、悲观三种结果。它把敏感性分析升级为完整情景分析,是稳健建模与向管理层展示不确定性的标配。配合CHOOSE或INDEX函数实现。",
+  "def_en": "A switch in the model (a dropdown or number) that flips between bull/base/bear assumption sets with one click, letting the same model instantly show optimistic, neutral and pessimistic outcomes. It upgrades sensitivity analysis to full scenario analysis and is standard in robust modelling and in presenting uncertainty to management. Implemented with CHOOSE or INDEX functions.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "scenario toggles /sɪˈnɛrioʊ ˈtɑgəlz/",
+  "etymology": "toggle（拨动开关）——在几套假设间'拨动'切换;bull（牛,涨）/bear（熊,跌）为市场情绪的传统隐喻。",
+  "synonyms": [
+   {
+    "word": "the case switch",
+    "sentence": "The case switch turns one model into three without touching a single formula.",
+    "ipa": "/ðə keɪs swɪʧ/"
+   },
+   {
+    "word": "bull, base and bear",
+    "sentence": "Bull, base and bear cases replace false precision with an honest spread of outcomes.",
+    "ipa": "/bʊl beɪs ənd bɛr/"
+   }
+  ],
+  "collocations": [
+   "a scenario toggle",
+   "bull/base/bear cases",
+   "the CHOOSE function",
+   "flip the case"
+  ],
+  "example": "A scenario toggle let the analyst show the board the deal's returns under bull, base and bear cases in seconds — uncertainty made visible, not hidden.",
+  "links": [
+   {
+    "to": "scenario-planning",
+    "rel": "related"
+   },
+   {
+    "to": "sensitivity-tables",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "normalisation-adjustments",
+  "zh": "建模中的正常化调整",
+  "pinyin": "jiànmó zhōng de zhèngchánghuà tiáozhěng",
+  "en": "normalisation adjustments (in modelling)",
+  "def_zh": "建模前把历史财务'洗干净'的调整:剔除一次性项目、还原会计政策差异、调整非经常性损益、标准化营运资本、修正关联交易定价,得出可持续、可预测的历史基准,再据此预测未来。垃圾进垃圾出——不做正常化,再精巧的模型也建在被扭曲的历史上。",
+  "def_en": "Cleaning historical financials before modelling: stripping out one-off items, undoing accounting-policy differences, adjusting non-recurring gains and losses, standardising working capital, and correcting related-party pricing, to arrive at a sustainable, predictable historical base from which to forecast. Garbage in, garbage out — without normalisation, even an elegant model rests on distorted history.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "normalisation adjustments /ˌnɔːməlaɪˈzeɪʃən əˈʤəstmənts/",
+  "etymology": "见 one-time-items 节点;建模语境的正常化=为预测搭建可靠历史基准的一系列清洗调整。",
+  "synonyms": [
+   {
+    "word": "scrubbing the financials",
+    "sentence": "Scrubbing the financials is the unglamorous work that decides whether the forecast means anything.",
+    "ipa": "/ˈskrəbɪŋ ðə ˌfaɪˈnænʃəlz/"
+   },
+   {
+    "word": "the clean historical base",
+    "sentence": "A clean historical base is the only honest launchpad for a projection.",
+    "ipa": "/ðə klin hɪˈstɔrɪkəl beɪs/"
+   }
+  ],
+  "collocations": [
+   "normalise the historicals",
+   "scrub the numbers",
+   "the sustainable base",
+   "adjust for one-offs"
+  ],
+  "example": "Before forecasting, the analyst normalised three years of history — removing a lawsuit gain and a restructuring charge — so the projection built on real, repeatable earning power.",
+  "links": [
+   {
+    "to": "one-time-items",
+    "rel": "related"
+   },
+   {
+    "to": "quality-of-earnings",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "dividend-discount-model",
+  "zh": "股利折现模型",
+  "pinyin": "gǔlì zhéxiàn móxíng",
+  "en": "the dividend discount model (DDM)",
+  "def_zh": "最古老的股权估值法:股票价值等于其未来全部股利按股权成本贴现的现值。戈登增长模型是其简化版:价值=下期股利÷(股权成本−永续增长率)。它对稳定分红的成熟企业(公用事业)与银行(现金流难定义、以股利为准)尤其适用,但对不分红的成长股几乎无用。",
+  "def_en": "The oldest equity valuation method: a stock is worth the present value of all its future dividends discounted at the cost of equity. The Gordon growth model is its simplified form: value = next dividend ÷ (cost of equity − perpetual growth rate). It suits mature, steady dividend-payers (utilities) and banks (whose cash flows are hard to define, so dividends stand in), but is nearly useless for non-paying growth stocks.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "dividend discount model /ˈdɪvɪˌdɛnd ˈdɪskaʊnt ˈmɑdəl/",
+  "etymology": "dividend（股利）+ discount（折现）——把未来股利折现;DDM 是最早的内在价值模型,先于 DCF。",
+  "synonyms": [
+   {
+    "word": "the Gordon growth model",
+    "sentence": "The Gordon growth model values a share as a growing perpetuity of dividends.",
+    "ipa": "/ðə ˈgɔrdən groʊθ ˈmɑdəl/"
+   },
+   {
+    "word": "dividend-based valuation",
+    "sentence": "Dividend-based valuation suits the utility and the bank, not the cash-hoarding growth firm.",
+    "ipa": "/ˈdɪvɪˌdɛnd-beɪst væljuˈeɪʃən/"
+   }
+  ],
+  "collocations": [
+   "the dividend discount model",
+   "the Gordon growth formula",
+   "suits stable payers",
+   "the perpetual dividend"
+  ],
+  "example": "For a regulated utility paying a steady, growing dividend, the DDM gives a cleaner value than a DCF wrestling with capex-heavy free cash flow.",
+  "links": [
+   {
+    "to": "terminal-value-methods",
+    "rel": "related"
+   },
+   {
+    "to": "cost-of-equity",
+    "rel": "related"
+   },
+   {
+    "to": "dividend-policy",
+    "rel": "related"
+   },
+   {
+    "to": "levered-free-cash-flow",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "reverse-dcf",
+  "zh": "反向 DCF",
+  "pinyin": "fǎnxiàng DCF",
+  "en": "the reverse DCF",
+  "def_zh": "不用DCF去'算出'目标价,而是反过来问:'当前股价隐含了怎样的增长与利润率假设?'把市场价格倒推为一组增长预期,再判断这些预期是否现实。它把估值从'我认为值多少'转为'市场在押注什么、这个赌注合理吗'——价值投资者识别高估或低估的利器。",
+  "def_en": "Instead of using a DCF to compute a target price, asking the reverse: 'what growth and margin assumptions does the current share price imply?' Backing the market price out into a set of growth expectations, then judging whether they are realistic. It shifts valuation from 'what I think it's worth' to 'what is the market betting, and is that bet reasonable' — a value investor's tool for spotting over- or under-valuation.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "reverse DCF /rɪˈvərs ˌdiːsiːˈɛf/",
+  "etymology": "reverse（反向）——把DCF反过来用:由价格倒推假设,而非由假设推价格。",
+  "synonyms": [
+   {
+    "word": "the expectations-implied approach",
+    "sentence": "The expectations-implied approach reads the growth the price is already paying for.",
+    "ipa": "/ðə ˌɛkspɛkˈteɪʃənz-ˌɪmˈplaɪd əˈproʊʧ/"
+   },
+   {
+    "word": "what's priced in",
+    "sentence": "'What's priced in' asks whether the market's implicit forecast can possibly be met.",
+    "ipa": "/wəts praɪst ɪn/"
+   }
+  ],
+  "collocations": [
+   "a reverse DCF",
+   "what the price implies",
+   "the implied growth rate",
+   "priced for perfection"
+  ],
+  "example": "A reverse DCF showed the stock's price required 25% growth for a decade — 'priced for perfection', which told the investor the risk was all on the downside.",
+  "links": [
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "efficient-market-hypothesis",
+    "rel": "related"
+   },
+   {
+    "to": "psychology-of-money",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "residual-income-model",
+  "zh": "剩余收益模型",
+  "pinyin": "shèngyú shōuyì móxíng",
+  "en": "the residual income model",
+  "def_zh": "从账面价值出发的估值法:股权价值=当前账面净资产+未来各期'剩余收益'(净利润−股权资本成本×账面净资产)的现值。它把经济利润的思想用于股权估值,当股利不稳定、自由现金流难测时尤为有用,与EVA一脉相承。对银行、保险等以账面价值为核心的行业特别贴切。",
+  "def_en": "A valuation method anchored on book value: equity value = current book equity + the present value of future 'residual income' (net income − cost-of-equity capital × book equity). It applies the economic-profit idea to equity valuation, and is especially useful when dividends are erratic and free cash flow is hard to forecast — a cousin of EVA. It fits book-value-centric industries like banks and insurers particularly well.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "residual income model /rɪˈzɪʤuəl ˈɪnˌkəm ˈmɑdəl/",
+  "etymology": "residual（剩余的,拉丁 residuus 留下的）——扣除股权资本成本后'剩余'的收益;与经济利润同源。",
+  "synonyms": [
+   {
+    "word": "the economic-profit approach",
+    "sentence": "The economic-profit approach values the returns a firm earns above its cost of equity.",
+    "ipa": "/ðə ˌɛkəˈnɑmɪk-ˈprɑfɪt əˈproʊʧ/"
+   },
+   {
+    "word": "abnormal earnings",
+    "sentence": "Abnormal earnings — profit beyond the capital charge — are what the residual income model capitalises.",
+    "ipa": "/æbˈnɔrməl ˈərnɪŋz/"
+   }
+  ],
+  "collocations": [
+   "the residual income model",
+   "book value plus residual income",
+   "the equity charge",
+   "suits banks and insurers"
+  ],
+  "example": "For a bank, where free cash flow is ill-defined, the residual income model values it off book equity plus the returns it earns above its cost of equity.",
+  "links": [
+   {
+    "to": "economic-profit",
+    "rel": "related"
+   },
+   {
+    "to": "book-vs-market-value",
+    "rel": "related"
+   },
+   {
+    "to": "cost-of-equity",
+    "rel": "related"
+   },
+   {
+    "to": "dividend-discount-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "leveraged-recap",
+  "zh": "杠杆资本重组",
+  "pinyin": "gànggǎn zīběn chóngzǔ",
+  "en": "the leveraged recapitalisation",
+  "def_zh": "公司大举举债,把募得资金以特别股利或股票回购返还给股东,从而大幅提高杠杆、重塑资本结构。私募基金用它在不出售企业的情况下提前套现(dividend recap);上市公司用它防御收购或提升股东回报。它以更高的财务风险换取更高的股权回报与税盾——是资本结构主动管理的激进手段。",
+  "def_en": "A company borrows heavily and returns the proceeds to shareholders as a special dividend or buyback, sharply raising leverage and reshaping the capital structure. Private-equity funds use it to cash out early without selling the business (a dividend recap); public companies use it to defend against takeovers or boost shareholder returns. It trades higher financial risk for higher equity returns and a tax shield — an aggressive tool of active capital-structure management.",
+  "sources": [
+   {
+    "book": "biz",
+    "chapter": "金融估值模型 Valuation Modelling"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "leveraged recapitalisation /ˈlɛvərɪdʒd riːˌkæpɪtəlaɪˈzeɪʃən/",
+  "etymology": "recapitalisation（资本重组）——重新'安排资本'结构;leveraged 指以大幅举债实现,dividend recap 即'派息式重组'。",
+  "synonyms": [
+   {
+    "word": "the dividend recap",
+    "sentence": "A dividend recap lets a PE fund take money off the table without selling the company.",
+    "ipa": "/ðə ˈdɪvɪˌdɛnd ˈriˌkæp/"
+   },
+   {
+    "word": "gearing up the balance sheet",
+    "sentence": "Gearing up the balance sheet returns cash to owners and risk to lenders.",
+    "ipa": "/ˈgɪrɪŋ əp ðə ˈbæləns ʃit/"
+   }
+  ],
+  "collocations": [
+   "a leveraged recap",
+   "the dividend recapitalisation",
+   "return cash via debt",
+   "re-gear the balance sheet"
+  ],
+  "example": "Two years in, the fund did a dividend recap — loading the company with fresh debt to pay itself a large dividend, locking in returns before any sale.",
+  "links": [
+   {
+    "to": "capital-structure",
+    "rel": "related"
+   },
+   {
+    "to": "leverage",
+    "rel": "related"
+   },
+   {
+    "to": "private-equity",
+    "rel": "related"
+   },
+   {
+    "to": "tax-shield",
+    "rel": "related"
+   },
+   {
+    "to": "share-buyback",
+    "rel": "related"
+   }
+  ]
  }
 ]
