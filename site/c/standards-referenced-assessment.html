@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>标准参照评估 · standards-referenced assessment · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">评估与反馈 Assessment &amp; Feedback</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>标准参照评估 <span class="pinyin">biāozhǔn cānzhào pínggū</span><span class="en">standards-referenced assessment</span></h1>
+<p class="meta">🔊 <span class="ipa">standards-referenced assessment /ˈstændərdz-ˈrɛfərənst əˈsɛsmənt/</span></p>
+<div class="card"><p class="zh">依据预设的成绩标准（如A–E水平描述）判定学生表现,而非按学生间排名（常模参照）或简单及格线（标准参照的旧义）。NSW采用此制:每个成绩对应明确的能力描述,学生对标准而非对彼此。它要求量规清晰、评分调节以保证判断一致。</p><p class="endef">Judging student performance against pre-set grade standards (e.g. A–E level descriptions), rather than by ranking students against each other (norm-referenced) or a simple pass mark. NSW uses this system: each grade corresponds to an explicit description of ability, and students are measured against the standard, not one another. It demands clear rubrics and moderation to keep judgements consistent.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>reference（参照,拉丁 referre 带回）——评估&#x27;参照&#x27;既定标准而非彼此;与 norm-referenced（常模参照）相对。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>criterion-referenced</b> <span class='ipa'>/kraɪˈtɪəriən ˈrɛfərənst/</span><br><em>Criterion-referenced grading asks &#x27;did they meet the standard?&#x27;, not &#x27;who came top?&#x27;</em></li><li>▸ <b>the common grade scale</b> <span class='ipa'>/ðə ˈkɑmən greɪd skeɪl/</span><br><em>The common grade scale gives every A the same meaning across every classroom.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ standards-referenced grading</li><li>▸ the A-E grade scale</li><li>▸ against the standard, not the cohort</li><li>▸ the achievement standard</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Under standards-referenced assessment, a whole class can earn an A if they all meet the standard — grades describe achievement, not scarcity.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/rubric.html">评分量规 · the rubric (marking criteria)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/moderation.html">评分调节（会商） · moderation</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/assessment-of-learning.html">对学习的评估（AoL） · assessment of learning (AoL)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/reliability-validity.html">信度与效度 · reliability and validity</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/moderation.html">评分调节（会商） · moderation</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/assessment-of-learning.html">对学习的评估（AoL） · assessment of learning (AoL)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/rubric.html">评分量规 · the rubric (marking criteria)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/reliability-validity.html">信度与效度 · reliability and validity</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>teach 评估与反馈 Assessment &amp; Feedback</p>
+<p><a class="tag" href="../themes.html#teaching">#teaching</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

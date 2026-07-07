@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SAMR 技术整合模型 · the SAMR model · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">计算机与技术教育 Computing &amp; Technology Education</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>SAMR 技术整合模型 <span class="pinyin">SAMR jìshù zhěnghé móxíng</span><span class="en">the SAMR model</span></h1>
+<p class="meta">🔊 <span class="ipa">the SAMR model /ðə ˈsæmər ˈmɑdəl/</span></p>
+<div class="card"><p class="zh">评估课堂技术整合深度的四级模型:替代（Substitution,技术只替代旧工具无功能改变,如用平板读PDF代替纸)、增强（Augmentation,有功能改进)、修改（Modification,技术使任务被显著重新设计)、重塑（Redefinition,技术使原本不可能的任务成为可能)。前两级&#x27;增强&#x27;现有教学,后两级&#x27;转化&#x27;教学。目标是走向转化而非停留在替代。</p><p class="endef">A four-level model for gauging the depth of classroom technology integration: Substitution (tech replaces an old tool with no functional change, e.g. reading a PDF on a tablet instead of paper), Augmentation (a functional improvement), Modification (tech significantly redesigns the task), Redefinition (tech makes possible what was previously impossible). The first two enhance existing teaching, the latter two transform it. The aim is to move toward transformation, not linger at substitution.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>SAMR = Substitution/Augmentation/Modification/Redefinition 首字母缩略——Ruben Puentedura 提出。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>enhancement vs transformation</b> <span class='ipa'>/ɛnˈhænsmənt ˈvərsəz ˌtrænsfərˈmeɪʃən/</span><br><em>Enhancement vs transformation is the line SAMR draws between using tech and being changed by it.</em></li><li>▸ <b>beyond substitution</b> <span class='ipa'>/bɪɔnd ˌsəbstɪˈtuʃən/</span><br><em>Beyond substitution is where technology starts to earn its place in the lesson.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ the SAMR model</li><li>▸ substitution to redefinition</li><li>▸ enhancement vs transformation</li><li>▸ move up the levels</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Having students collaboratively build and publish a game for a global audience is Redefinition — SAMR&#x27;s top level, doing what no pre-digital lesson could.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/tpack.html">整合技术的学科教学知识（TPACK） · TPACK (technological pedagogical content knowledge)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/ai-in-education.html">教育中的生成式AI · generative AI in schools</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/authentic-assessment.html">真实性评估 · authentic assessment</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/tpack.html">整合技术的学科教学知识（TPACK） · TPACK (technological pedagogical content knowledge)</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>teach 计算机与技术教育 Computing &amp; Technology Education</p>
+<p><a class="tag" href="../themes.html#teaching">#teaching</a><a class="tag" href="../themes.html#technology">#technology</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

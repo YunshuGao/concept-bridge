@@ -1,0 +1,3255 @@
+[
+ {
+  "id": "gtpa",
+  "zh": "毕业教师表现评估（GTPA）",
+  "pinyin": "bìyè jiàoshī biǎoxiàn pínggū",
+  "en": "the Graduate Teacher Performance Assessment (GTPA)",
+  "def_zh": "澳大利亚职前教师在最后一年教育实习中完成的顶点评估（capstone）,要求以证据证明自己'具备入职课堂的能力'（classroom-ready）。它围绕一个完整教学循环的五项相互关联的实践——计划、教学、评估、反思、研判——展开,核心是证明教学对学生学习产生的影响。是全国认可的两大教师表现评估（TPA）之一。",
+  "def_en": "A capstone assessment completed by preservice teachers during their final-year professional experience, requiring them to evidence that they are classroom-ready. It is built around five interrelated practices of a full teaching cycle — planning, teaching, assessing, reflecting and appraising — with the core aim of demonstrating the impact of teaching on student learning. One of the two nationally recognised Teaching Performance Assessments (TPAs).",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "Graduate Teacher Performance Assessment /ˈgræʤəˌweɪt ˈtiʧər pərˈfɔrməns əˈsɛsmənt/",
+  "etymology": "capstone（拱顶石）——建筑收顶的最后一块石,喻教师资格的'收顶'评估;GTPA 由澳大利亚天主教大学 ILSTE 研发。",
+  "synonyms": [
+   {
+    "word": "a capstone assessment",
+    "sentence": "A capstone assessment gathers a whole degree's learning into one culminating demonstration.",
+    "ipa": "/ə ˈkæpˌstoʊn əˈsɛsmənt/"
+   },
+   {
+    "word": "teaching performance assessment",
+    "sentence": "A teaching performance assessment judges what you can do in a classroom, not what you can recite.",
+    "ipa": "/ˈtiʧɪŋ pərˈfɔrməns əˈsɛsmənt/"
+   }
+  ],
+  "collocations": [
+   "complete the GTPA",
+   "classroom-ready",
+   "the five practices",
+   "evidence of impact"
+  ],
+  "example": "The GTPA asks you to show, with evidence, that your teaching moved student learning — not that you planned a nice lesson, but that the lesson worked.",
+  "nuance": "GTPA 与 AfGT 是澳洲两大认证 TPA,各校择一;都对标 APST 毕业阶段(Graduate)。关键区别于普通实习报告:GTPA 要求'数据素养'与'对学习影响的研判',而非仅描述你做了什么。",
+  "links": [
+   {
+    "to": "gtpa-five-practices",
+    "rel": "narrower"
+   },
+   {
+    "to": "apst",
+    "rel": "related"
+   },
+   {
+    "to": "evidence-of-impact",
+    "rel": "related"
+   },
+   {
+    "to": "classroom-ready",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "gtpa-five-practices",
+  "zh": "GTPA 的五项实践",
+  "pinyin": "GTPA de wǔxiàng shíjiàn",
+  "en": "the five practices of the GTPA",
+  "def_zh": "GTPA 教学循环的五个相互关联的阶段:①计划（planning,依据课程与学情设计对齐的教学）;②教学（teaching,实施并因应学生调整）;③评估（assessing,收集学习证据并作判断）;④反思（reflecting,批判性检视教学决策）;⑤研判（appraising,用数据分析教学对学习的影响并规划下一步）。第五项'研判'最能区分优秀与合格。",
+  "def_en": "The five interrelated stages of the GTPA teaching cycle: (1) planning — designing aligned teaching from the curriculum and knowledge of students; (2) teaching — enacting and adjusting responsively; (3) assessing — gathering evidence of learning and making judgements; (4) reflecting — critically examining teaching decisions; (5) appraising — using data to analyse the impact of teaching on learning and plan next steps. The fifth, appraising, is what separates the strong from the merely adequate.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the five practices of the GTPA /ðə faɪv ˈpræktɪsɪz əv ðə ˌdʒiːtiːpiːˈeɪ/",
+  "etymology": "appraise 源自古法语 aprisier（定价、评估,拉丁 pretium 价格）——'研判'即为教学的成效'定价'。",
+  "synonyms": [
+   {
+    "word": "the teaching cycle",
+    "sentence": "The teaching cycle turns teaching from a performance into a loop of evidence and adjustment.",
+    "ipa": "/ðə ˈtiʧɪŋ ˈsaɪkəl/"
+   },
+   {
+    "word": "appraising impact",
+    "sentence": "Appraising impact is where a teacher proves the learning happened, not just the teaching.",
+    "ipa": "/əˈpreɪzɪŋ ˌɪmˈpækt/"
+   }
+  ],
+  "collocations": [
+   "plan, teach, assess, reflect, appraise",
+   "the teaching cycle",
+   "appraise the impact",
+   "data-informed next steps"
+  ],
+  "example": "Under the five practices, an analysis of pre- and post-assessment data — appraising — turns 'I taught arrays' into 'these students' array skills improved, and here is my evidence'.",
+  "links": [
+   {
+    "to": "gtpa",
+    "rel": "broader"
+   },
+   {
+    "to": "evidence-of-impact",
+    "rel": "related"
+   },
+   {
+    "to": "data-informed-practice",
+    "rel": "related"
+   },
+   {
+    "to": "reflective-practice",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "evidence-of-impact",
+  "zh": "对学习影响的证据",
+  "pinyin": "duì xuéxí yǐngxiǎng de zhèngjù",
+  "en": "evidence of impact on student learning",
+  "def_zh": "GTPA与教师认证的核心要求:不只描述教了什么,而是用具体证据（学生作品、前后测数据、观察记录、反馈）证明教学'导致'了学习的发生与进步。它把教学从'活动'转向'成效',是循证教学（evidence-based practice）在教师评估中的落地。",
+  "def_en": "The central demand of the GTPA and teacher accreditation: not describing what you taught but using concrete evidence (student work samples, pre/post data, observations, feedback) to show that your teaching caused learning to happen and improve. It shifts teaching from activity to outcome — evidence-based practice applied to the assessment of teachers.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "evidence of impact on student learning /ˈɛvədəns əv ˌɪmˈpækt ɔn ˈstudənt ˈlərnɪŋ/",
+  "etymology": "evidence 源自拉丁 ex-（出）+ videre（看）——证据即'使人看得见'之物;教学影响须'可见'方能采信,呼应 Hattie 的 visible learning。",
+  "synonyms": [
+   {
+    "word": "impact on learning",
+    "sentence": "Impact on learning is the difference the teaching made, shown rather than claimed.",
+    "ipa": "/ˌɪmˈpækt ɔn ˈlərnɪŋ/"
+   },
+   {
+    "word": "evidence-based practice",
+    "sentence": "Evidence-based practice asks teachers to prove what works, not to defend what's familiar.",
+    "ipa": "/ˈɛvədəns-beɪst ˈpræktɪs/"
+   }
+  ],
+  "collocations": [
+   "evidence student learning",
+   "the impact on learning",
+   "annotated work samples",
+   "pre- and post-assessment data"
+  ],
+  "example": "Two work samples — one before instruction, one after — annotated to show the specific growth, are stronger evidence of impact than any lesson plan.",
+  "links": [
+   {
+    "to": "gtpa",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   },
+   {
+    "to": "data-informed-practice",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "moderation",
+  "zh": "评分调节（会商）",
+  "pinyin": "píngfēn tiáojié",
+  "en": "moderation",
+  "def_zh": "多位评分者对同一批学生作品共同研讨、比对判断标准,以确保评分的一致性、公平性与可靠性的过程。它校准了不同教师'心中的尺子',是标准参照评估可信的保障。GTPA、HSC与校本评估都依赖社会化调节（social moderation）达成共识判断。",
+  "def_en": "The process by which several assessors jointly discuss the same student work and compare their judgements against the standards, to ensure consistency, fairness and reliability of grading. It calibrates the different 'rulers in teachers' heads' and is what makes standards-referenced assessment trustworthy. The GTPA, the HSC and school-based assessment all rely on social moderation to reach agreed judgements.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "moderation /ˌmɑdərˈeɪʃən/",
+  "etymology": "moderate 源自拉丁 moderari（节制、调节,modus 尺度）——调节即'以共同尺度节制个人偏差'。",
+  "synonyms": [
+   {
+    "word": "social moderation",
+    "sentence": "Social moderation replaces one teacher's private judgement with a shared, defensible one.",
+    "ipa": "/ˈsoʊʃəl ˌmɑdərˈeɪʃən/"
+   },
+   {
+    "word": "calibration",
+    "sentence": "Calibration lines up markers so the same work earns the same grade, whoever marks it.",
+    "ipa": "/ˌkæləˈbreɪʃən/"
+   }
+  ],
+  "collocations": [
+   "moderate the marking",
+   "reach consistency of judgement",
+   "calibrate against the standards",
+   "a moderation meeting"
+  ],
+  "example": "At a moderation meeting, two teachers grading the same coding project to different marks discuss the criteria until their judgements align — reliability, made social.",
+  "links": [
+   {
+    "to": "standards-referenced-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "reliability-validity",
+    "rel": "related"
+   },
+   {
+    "to": "rubric",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "classroom-ready",
+  "zh": "具备入职课堂能力",
+  "pinyin": "jùbèi rùzhí kètáng nénglì",
+  "en": "classroom-ready (practice-readiness)",
+  "def_zh": "澳大利亚教师教育改革的核心目标与用语:毕业生须证明已'做好走进课堂独立教学的准备',而非仅掌握理论。它是TPA(如GTPA)存在的理由——以真实教学证据担保新教师的实践就绪度,回应'教师培养脱离实践'的批评。",
+  "def_en": "A central goal and phrase of Australian teacher-education reform: graduates must demonstrate they are ready to walk into a classroom and teach independently, not merely that they have grasped theory. It is the reason TPAs like the GTPA exist — to guarantee new teachers' practice-readiness through real classroom evidence, answering the critique that teacher training is detached from practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "classroom-ready /ˈklæsˌrum-ˈrɛdi/",
+  "etymology": "ready 古英语 rǣde（准备好的,与 ride 同源:'备好上路'）——'课堂就绪'即备好独立执教。",
+  "synonyms": [
+   {
+    "word": "practice-readiness",
+    "sentence": "Practice-readiness is theory that has survived contact with thirty real students.",
+    "ipa": "/ˈpræktɪs-ˈrɛdinəs/"
+   },
+   {
+    "word": "profession-ready",
+    "sentence": "A profession-ready graduate can be trusted with a class from day one.",
+    "ipa": "/prəˈfɛʃən-ˈrɛdi/"
+   }
+  ],
+  "collocations": [
+   "classroom-ready graduates",
+   "practice-readiness",
+   "ready to teach independently",
+   "the theory-practice gap"
+  ],
+  "example": "'Classroom-ready' is why the GTPA asks for evidence from a real teaching cycle, not an essay — the profession wants proof you can do it, not describe it.",
+  "links": [
+   {
+    "to": "gtpa",
+    "rel": "related"
+   },
+   {
+    "to": "apst",
+    "rel": "related"
+   },
+   {
+    "to": "professional-experience",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "apst",
+  "zh": "澳大利亚教师专业标准（APST）",
+  "pinyin": "àodàlìyà jiàoshī zhuānyè biāozhǔn",
+  "en": "the Australian Professional Standards for Teachers (APST)",
+  "def_zh": "全国统一的教师能力框架,由AITSL制定,含7项标准、归为3大领域（专业知识、专业实践、专业投入）,并划分4个职业阶段（毕业Graduate→熟练Proficient→高度精湛Highly Accomplished→引领Lead）。它是教师认证、GTPA评判、专业发展与绩效的共同语言与标尺。",
+  "def_en": "A national framework of teacher capability, developed by AITSL, with 7 standards grouped into 3 domains (Professional Knowledge, Professional Practice, Professional Engagement) and 4 career stages (Graduate → Proficient → Highly Accomplished → Lead). It is the common language and yardstick for teacher accreditation, GTPA judgement, professional development and performance.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "Australian Professional Standards for Teachers /ɔˈstreɪljən prəˈfɛʃənəl ˈstændərdz fər ˈtiʧərz/",
+  "etymology": "standard 源自古法语 estandart（军旗、集结点）——标准即'共同集结、衡量的旗帜';APST 是全澳教师的共同旗帜。",
+  "synonyms": [
+   {
+    "word": "the teaching standards",
+    "sentence": "The teaching standards turn 'good teaching' from opinion into described, assessable practice.",
+    "ipa": "/ðə ˈtiʧɪŋ ˈstændərdz/"
+   },
+   {
+    "word": "the seven standards",
+    "sentence": "The seven standards span knowing students, content, planning, environment, assessment, learning and engagement.",
+    "ipa": "/ðə ˈsɛvən ˈstændərdz/"
+   }
+  ],
+  "collocations": [
+   "the seven standards",
+   "the three domains",
+   "the four career stages",
+   "demonstrate against the APST"
+  ],
+  "example": "Every piece of GTPA evidence is mapped to APST descriptors at the Graduate stage — the standards are the rubric your practice is judged against.",
+  "links": [
+   {
+    "to": "apst-domains",
+    "rel": "narrower"
+   },
+   {
+    "to": "career-stages",
+    "rel": "narrower"
+   },
+   {
+    "to": "aitsl",
+    "rel": "related"
+   },
+   {
+    "to": "gtpa",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "apst-domains",
+  "zh": "APST 的三大领域与七项标准",
+  "pinyin": "APST de sāndà lǐngyù yǔ qīxiàng biāozhǔn",
+  "en": "the three domains and seven standards",
+  "def_zh": "专业知识（标准1了解学生及其学习方式、标准2掌握学科内容及其教法）;专业实践（标准3规划并实施有效教学、标准4营造支持性安全的学习环境、标准5评估反馈并报告学习）;专业投入（标准6参与专业学习、标准7与同事家长社区专业互动）。记住这七条,才能把证据精准对标。",
+  "def_en": "Professional Knowledge (Standard 1: know students and how they learn; Standard 2: know the content and how to teach it); Professional Practice (Standard 3: plan for and implement effective teaching; Standard 4: create and maintain supportive, safe learning environments; Standard 5: assess, provide feedback and report on learning); Professional Engagement (Standard 6: engage in professional learning; Standard 7: engage professionally with colleagues, parents/carers and the community). Knowing the seven lets you map evidence precisely.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the three domains and seven standards /ðə θri doʊˈmeɪnz ənd ˈsɛvən ˈstændərdz/",
+  "etymology": "domain 源自拉丁 dominium（领地、所有）——教学能力的三大'领地':知、行、群。",
+  "synonyms": [
+   {
+    "word": "know, do, engage",
+    "sentence": "'Know, do, engage' is the three domains in three verbs.",
+    "ipa": "/noʊ du ɪnˈgeɪʤ/"
+   },
+   {
+    "word": "the standard descriptors",
+    "sentence": "The standard descriptors spell out what each standard looks like at each career stage.",
+    "ipa": "/ðə ˈstændərd dɪˈskrɪptərz/"
+   }
+  ],
+  "collocations": [
+   "Professional Knowledge, Practice, Engagement",
+   "Standard 5 assessment",
+   "map to the descriptors",
+   "the focus areas"
+  ],
+  "example": "When you show differentiated tasks, you're evidencing Standard 1.5 (differentiate teaching for the full range of students) — naming the descriptor makes the evidence legible.",
+  "links": [
+   {
+    "to": "apst",
+    "rel": "broader"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "career-stages",
+  "zh": "教师职业发展阶段",
+  "pinyin": "jiàoshī zhíyè fāzhǎn jiēduàn",
+  "en": "the four career stages",
+  "def_zh": "APST把教师专业成长划为四阶:毕业（Graduate,完成职前培养、达标可任教）、熟练（Proficient,通过认证的合格在职教师,多数教师的目标）、高度精湛（Highly Accomplished）、引领（Lead,示范与引领同行）。GTPA对标毕业阶段;新教师入职后须在规定年限内从毕业晋升至熟练。",
+  "def_en": "The APST maps teacher growth across four stages: Graduate (completed initial training, meeting the standard to teach), Proficient (an accredited, fully qualified practising teacher — most teachers' target), Highly Accomplished, and Lead (modelling and leading peers). The GTPA is pitched at the Graduate stage; new teachers must progress from Graduate to Proficient within a set timeframe after starting.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the four career stages /ðə fɔr kərɪr ˈsteɪʤɪz/",
+  "etymology": "stage 源自古法语 estage（站立处、层级,拉丁 stare 站）——职业'阶段'即专业成长的层级。",
+  "synonyms": [
+   {
+    "word": "Graduate to Proficient",
+    "sentence": "Graduate to Proficient is the first climb every new teacher must make on the ladder.",
+    "ipa": "/ˈgræʤəˌweɪt tɪ prɑˈfɪʃənt/"
+   },
+   {
+    "word": "the accreditation ladder",
+    "sentence": "The accreditation ladder turns career progression into evidenced stages, not just years served.",
+    "ipa": "/ðə əˌkrɛdəˈteɪʃən ˈlædər/"
+   }
+  ],
+  "collocations": [
+   "Graduate and Proficient",
+   "progress to Proficient",
+   "the career stage descriptors",
+   "Highly Accomplished and Lead"
+  ],
+  "example": "Your GTPA evidences the Graduate stage; once teaching, you'll compile evidence over your first years to accredit at Proficient — the same standards, a higher bar.",
+  "links": [
+   {
+    "to": "apst",
+    "rel": "broader"
+   },
+   {
+    "to": "nesa-accreditation",
+    "rel": "related"
+   },
+   {
+    "to": "gtpa",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "nesa-accreditation",
+  "zh": "NESA 教师认证",
+  "pinyin": "NESA jiàoshī rènzhèng",
+  "en": "NESA and teacher accreditation",
+  "def_zh": "新南威尔士教育标准局（NESA）是本州教师认证、课程大纲（syllabus）与高考（HSC）的主管机构。所有教师须经NESA认证方可执教,并按APST从毕业阶段晋升至熟练阶段、持续维持认证（专业发展学时）。它把全国标准落地为本州的法定要求。",
+  "def_en": "The NSW Education Standards Authority (NESA) is the state body governing teacher accreditation, syllabuses and the HSC. All teachers must be NESA-accredited to teach, progressing from the Graduate to the Proficient stage under the APST and maintaining accreditation through professional development hours. It turns the national standards into the state's statutory requirements.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "governance"
+  ],
+  "pron": "NESA and teacher accreditation /ˈniːsə ənd ˈtiʧər əˌkrɛdəˈteɪʃən/",
+  "etymology": "accredit 源自拉丁 ad-（向）+ credere（相信）——认证即'官方予以信任、承认其资格'。",
+  "synonyms": [
+   {
+    "word": "teacher registration",
+    "sentence": "Teacher registration is the licence to practise, renewed by evidence and hours.",
+    "ipa": "/ˈtiʧər ˌrɛʤɪˈstreɪʃən/"
+   },
+   {
+    "word": "maintaining accreditation",
+    "sentence": "Maintaining accreditation ties the right to teach to ongoing professional learning.",
+    "ipa": "/meɪnˈteɪnɪŋ əˌkrɛdəˈteɪʃən/"
+   }
+  ],
+  "collocations": [
+   "NESA accreditation",
+   "accredit at Proficient",
+   "professional development hours",
+   "the NSW syllabus"
+  ],
+  "example": "NESA accredits you at Graduate on entry; you then compile Proficient evidence and log professional-development hours to keep the accreditation live.",
+  "links": [
+   {
+    "to": "career-stages",
+    "rel": "related"
+   },
+   {
+    "to": "syllabus-outcomes",
+    "rel": "related"
+   },
+   {
+    "to": "apst",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "aitsl",
+  "zh": "澳大利亚教学与学校领导协会（AITSL）",
+  "pinyin": "àodàlìyà jiàoxué yǔ xuéxiào lǐngdǎo xiéhuì",
+  "en": "AITSL",
+  "def_zh": "制定并维护全国教师专业标准（APST）、校长标准与教师教育认证框架的国家机构。它是澳洲教师专业化的'标准制定者',提供大量循证教学资源（如高影响教学策略HITS）。理解AITSL与NESA的分工——前者定全国标准,后者在本州执行——是读懂澳洲教师治理的关键。",
+  "def_en": "The national body that develops and maintains the Australian Professional Standards for Teachers (APST), the Principal Standard and the accreditation framework for teacher education. It is the standard-setter of Australian teacher professionalism, providing evidence-based resources (such as the High Impact Teaching Strategies, HITS). Understanding the division between AITSL and NESA — the former sets national standards, the latter enforces them in the state — is key to reading Australian teacher governance.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "governance"
+  ],
+  "pron": "AITSL /ˈaɪtsəl/",
+  "etymology": "AITSL = Australian Institute for Teaching and School Leadership 首字母缩略(读作'eye-tsul')。",
+  "synonyms": [
+   {
+    "word": "the standard-setter",
+    "sentence": "The standard-setter writes the framework the states then enforce.",
+    "ipa": "/ðə ˈstændərd-ˈsɛtər/"
+   },
+   {
+    "word": "the national teaching body",
+    "sentence": "The national teaching body harmonises what 'good teaching' means across eight jurisdictions.",
+    "ipa": "/ðə ˈnæʃənəl ˈtiʧɪŋ ˈbɑdi/"
+   }
+  ],
+  "collocations": [
+   "AITSL standards",
+   "the national framework",
+   "evidence-based resources",
+   "AITSL and NESA"
+  ],
+  "example": "AITSL defines the APST nationally; NESA applies it in NSW — the same standards, one national author and one state enforcer.",
+  "links": [
+   {
+    "to": "apst",
+    "rel": "related"
+   },
+   {
+    "to": "nesa-accreditation",
+    "rel": "related"
+   },
+   {
+    "to": "high-impact-teaching",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "professional-experience",
+  "zh": "专业实习",
+  "pinyin": "zhuānyè shíxí",
+  "en": "professional experience (the practicum)",
+  "def_zh": "职前教师在真实学校、由指导教师（supervising teacher）督导下进行的驻校教学实践,是教师培养的核心与GTPA证据的来源。它把大学的理论置于课堂的真实复杂性中检验,新教师在此从'观察—协同—独立'逐步接过教学责任。",
+  "def_en": "The in-school teaching practice a preservice teacher undertakes in a real school under a supervising teacher, the core of teacher preparation and the source of GTPA evidence. It tests university theory against the real complexity of classrooms, as the new teacher progressively takes over responsibility from observing to co-teaching to teaching solo.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "GTPA 与教师专业标准 GTPA & Teacher Standards"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "professional experience /prəˈfɛʃənəl ɪkˈspɪriəns/",
+  "etymology": "practicum 源自拉丁 practicus（实践的,希腊 praktikos）——'实践课',区别于理论课。",
+  "synonyms": [
+   {
+    "word": "the practicum",
+    "sentence": "The practicum is where the lecture theatre finally meets Period 5 on a Friday.",
+    "ipa": "/ðə ˈpræktɪkəm/"
+   },
+   {
+    "word": "the teaching placement",
+    "sentence": "A teaching placement hands you a real class and a mentor watching from the back.",
+    "ipa": "/ðə ˈtiʧɪŋ ˈpleɪsmənt/"
+   }
+  ],
+  "collocations": [
+   "the practicum",
+   "the supervising teacher",
+   "the placement school",
+   "gradual handover of teaching"
+  ],
+  "example": "Your GTPA draws its evidence from the professional experience — the practicum is where planning, teaching and appraising actually happen with real students.",
+  "links": [
+   {
+    "to": "gtpa",
+    "rel": "related"
+   },
+   {
+    "to": "mentoring",
+    "rel": "related"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "syllabus-outcomes",
+  "zh": "课程大纲与学习成果",
+  "pinyin": "kèchéng dàgāng yǔ xuéxí chéngguǒ",
+  "en": "syllabus outcomes",
+  "def_zh": "NESA课程大纲以'学习成果'（outcomes,常带编码如CT5-DAT-01）陈述学生学完某内容后应能做到什么。它是所有计划、教学与评估的法定起点与对标点——澳洲教学要求'成果导向',每份教案、每项评估都须明确对应具体大纲成果编码。",
+  "def_en": "NESA syllabuses state what students should be able to do after learning, as outcomes (often coded, e.g. CT5-DAT-01). They are the statutory starting point and reference for all planning, teaching and assessment — Australian teaching is outcomes-based, and every lesson plan and assessment must map to specific syllabus outcome codes.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "syllabus outcomes /ˈsɪləbəs ˈaʊtˌkəmz/",
+  "etymology": "syllabus 源自希腊误抄的拉丁 sittybas（书标签）——大纲即'内容的标签清单';outcome 即'学习产出的结果'。",
+  "synonyms": [
+   {
+    "word": "learning outcomes",
+    "sentence": "Learning outcomes state the destination before the journey is planned.",
+    "ipa": "/ˈlərnɪŋ ˈaʊtˌkəmz/"
+   },
+   {
+    "word": "the outcome codes",
+    "sentence": "The outcome codes let a lesson, a task and a report all point at the same target.",
+    "ipa": "/ðə ˈaʊtˌkəm koʊdz/"
+   }
+  ],
+  "collocations": [
+   "address the syllabus outcomes",
+   "the outcome code",
+   "outcomes-based planning",
+   "map to the syllabus"
+  ],
+  "example": "A Year 8 coding lesson names its outcome — 'designs, produces and evaluates algorithms' — so the plan, the task and the feedback all aim at the same coded target.",
+  "links": [
+   {
+    "to": "backward-design",
+    "rel": "related"
+   },
+   {
+    "to": "constructive-alignment",
+    "rel": "related"
+   },
+   {
+    "to": "nesa-accreditation",
+    "rel": "related"
+   },
+   {
+    "to": "scope-and-sequence",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "backward-design",
+  "zh": "逆向设计",
+  "pinyin": "nìxiàng shèjì",
+  "en": "backward design (Understanding by Design)",
+  "def_zh": "威金斯与麦克泰的教学设计法:从'期望的学习成果'倒推。三步——①确定学生应达成的成果与理解;②确定可接受的评估证据（怎么知道达成了）;③再设计教学活动。它防止'为活动而活动',确保教、学、评始终对准同一目标。是澳洲单元规划的主流范式。",
+  "def_en": "Wiggins and McTighe's design method: work backward from the desired learning outcomes. Three stages — (1) identify the outcomes and understandings students should reach; (2) determine acceptable evidence of assessment (how you'll know they got there); (3) only then design the learning activities. It prevents activity-for-activity's-sake and keeps teaching, learning and assessment aimed at the same target. The mainstream paradigm of Australian unit planning.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "backward design /ˈbækwərd dɪˈzaɪn/",
+  "etymology": "backward（向后）——从终点'向后'倒推设计;亦称 Understanding by Design（UbD,以理解为目标的设计）。",
+  "synonyms": [
+   {
+    "word": "begin with the end in mind",
+    "sentence": "'Begin with the end in mind' is backward design borrowed from Covey.",
+    "ipa": "/bɪˈgɪn wɪθ ðə ɛnd ɪn maɪnd/"
+   },
+   {
+    "word": "Understanding by Design",
+    "sentence": "Understanding by Design plans the assessment before the activities, not after.",
+    "ipa": "/ˌəndərˈstændɪŋ baɪ dɪˈzaɪn/"
+   }
+  ],
+  "collocations": [
+   "design backward from outcomes",
+   "Understanding by Design",
+   "evidence before activities",
+   "the three stages of UbD"
+  ],
+  "example": "Backward design plans the assessment task first — 'students will build and evaluate a working game' — then chooses only the lessons that get them there.",
+  "links": [
+   {
+    "to": "constructive-alignment",
+    "rel": "related"
+   },
+   {
+    "to": "syllabus-outcomes",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-of-learning",
+    "rel": "related"
+   },
+   {
+    "to": "seven-habits",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "constructive-alignment",
+  "zh": "建构性对齐",
+  "pinyin": "jiàngòuxìng duìqí",
+  "en": "constructive alignment",
+  "def_zh": "比格斯的原则:学习成果、评估任务、教学活动三者必须相互对齐、彼此支撑——想让学生学会'评估算法',就得让评估任务要求评估算法、教学活动练习评估算法。对齐则高效,错位则空转（教A考B学C是最常见的失败）。是逆向设计的理论内核。",
+  "def_en": "Biggs's principle: learning outcomes, assessment tasks and teaching activities must all align and reinforce one another — if you want students to learn to 'evaluate algorithms', the assessment must require evaluating algorithms and the activities must practise it. Aligned, it is efficient; misaligned, it spins its wheels (teaching A, testing B, having them practise C is the commonest failure). The theoretical core of backward design.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "constructive alignment /kənˈstrəktɪv əˈlaɪnmənt/",
+  "etymology": "align 源自古法语 aligner（排成一线,拉丁 linea 线）——对齐即'把目标、评估、活动排在同一条线上'。",
+  "synonyms": [
+   {
+    "word": "alignment of teaching and assessment",
+    "sentence": "Alignment of teaching and assessment is why students should never be surprised by the test.",
+    "ipa": "/əˈlaɪnmənt əv ˈtiʧɪŋ ənd əˈsɛsmənt/"
+   },
+   {
+    "word": "outcomes-assessment-activities fit",
+    "sentence": "Outcomes-assessment-activities fit is constructive alignment stated as a triangle.",
+    "ipa": "/ˈaʊtˌkəmz-əˈsɛsmənt-ækˈtɪvɪtiz fɪt/"
+   }
+  ],
+  "collocations": [
+   "align outcomes, assessment and activities",
+   "constructive alignment",
+   "the aligned unit",
+   "teach what you test"
+  ],
+  "example": "If the outcome is 'evaluate', but the test only asks students to 'recall', the unit lacks constructive alignment — and no amount of good teaching will fix the mismatch.",
+  "links": [
+   {
+    "to": "backward-design",
+    "rel": "related"
+   },
+   {
+    "to": "syllabus-outcomes",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "blooms-taxonomy",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "learning-intentions-success-criteria",
+  "zh": "学习目标与成功标准",
+  "pinyin": "xuéxí mùbiāo yǔ chénggōng biāozhǔn",
+  "en": "learning intentions and success criteria",
+  "def_zh": "向学生明示'今天要学什么'（learning intention,亦称WALT——We Are Learning To）与'达标长什么样'（success criteria,亦称WILF——What I'm Looking For）。它让学习目标透明可见,使学生能自我监控进度、自评作品。是可见学习与形成性评估的日常抓手,澳洲课堂的标配。",
+  "def_en": "Making explicit to students what they are learning today (the learning intention, also WALT — We Are Learning To) and what success looks like (the success criteria, also WILF — What I'm Looking For). It makes the goal transparent, letting students monitor their own progress and self-assess their work. A daily tool of visible learning and formative assessment, standard in Australian classrooms.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "learning intentions and success criteria /ˈlərnɪŋ ˌɪnˈtɛnʧənz ənd səkˈsɛs kraɪˈtɪəriə/",
+  "etymology": "intention 源自拉丁 intendere（伸向、瞄准）——学习'意图'即课堂瞄准的目标;WALT/WILF 为课堂化的记忆缩写。",
+  "synonyms": [
+   {
+    "word": "WALT and WILF",
+    "sentence": "WALT and WILF put the lesson's target and its bar in language students can hold.",
+    "ipa": "/wɔːlt ənd wɪlf/"
+   },
+   {
+    "word": "making learning visible",
+    "sentence": "Making learning visible lets students judge their own work against the criteria.",
+    "ipa": "/ˈmeɪkɪŋ ˈlərnɪŋ ˈvɪzəbəl/"
+   }
+  ],
+  "collocations": [
+   "share the learning intention",
+   "co-construct success criteria",
+   "WALT and WILF",
+   "against the success criteria"
+  ],
+  "example": "Posting the success criteria — 'a working loop, a comment on each block, tested with two inputs' — lets students check their own code before you ever mark it.",
+  "links": [
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "rubric",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "scope-and-sequence",
+  "zh": "教学进度框架",
+  "pinyin": "jiàoxué jìndù kuàngjià",
+  "en": "the scope and sequence",
+  "def_zh": "把一门课在一个学期或学年内要覆盖的内容（scope,范围）按合理的先后顺序（sequence,序列）排布的规划文件,标明各单元、周次、对应大纲成果与评估安排。它是单元教案之上的顶层规划,确保内容全覆盖、循序渐进、评估分布合理。",
+  "def_en": "A planning document arranging what a course must cover in a term or year (the scope) in a logical order (the sequence), showing units, weeks, the syllabus outcomes addressed and the assessment schedule. It sits above unit and lesson plans as the top-level plan, ensuring full coverage, sensible progression and a balanced spread of assessment.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "scope and sequence /skoʊp ənd ˈsikwəns/",
+  "etymology": "scope 见前(希腊 skopos 目标);sequence 源自拉丁 sequi（跟随）——'序列'即依次跟随的顺序。",
+  "synonyms": [
+   {
+    "word": "the teaching program",
+    "sentence": "The teaching program is the year mapped before the first bell rings.",
+    "ipa": "/ðə ˈtiʧɪŋ ˈproʊˌgræm/"
+   },
+   {
+    "word": "the coverage map",
+    "sentence": "A coverage map guarantees no outcome is quietly skipped by December.",
+    "ipa": "/ðə ˈkəvərɪʤ mæp/"
+   }
+  ],
+  "collocations": [
+   "the scope and sequence",
+   "map the term",
+   "the assessment schedule",
+   "sequence the outcomes"
+  ],
+  "example": "A Year 9 IST scope and sequence spreads the multimedia outcomes across the term, placing the major project in week 8 so prerequisite skills are taught first.",
+  "links": [
+   {
+    "to": "syllabus-outcomes",
+    "rel": "related"
+   },
+   {
+    "to": "backward-design",
+    "rel": "related"
+   },
+   {
+    "to": "lesson-plan",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "lesson-plan",
+  "zh": "教案",
+  "pinyin": "jiào'àn",
+  "en": "the lesson plan",
+  "def_zh": "单节课的详细设计:学习目标与成功标准、对标的大纲成果、教学环节与时间分配、所需资源、差异化安排、形成性评估检查点、以及'如果学生没懂怎么办'的应变。它把教学从即兴变为有意图的设计,是GTPA计划实践的直接证据。",
+  "def_en": "The detailed design of a single lesson: learning intentions and success criteria, the syllabus outcomes addressed, the sequence of activities and timing, resources needed, differentiation, formative check-points, and contingencies for 'what if they don't get it'. It turns teaching from improvisation into intentional design, and is direct evidence for the GTPA's planning practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the lesson plan /ðə ˈlɛsən plæn/",
+  "etymology": "plan 源自拉丁 planus（平面）→ 图纸→计划——教案即'一节课的施工图'。",
+  "synonyms": [
+   {
+    "word": "the lesson design",
+    "sentence": "A lesson design anticipates the misconception before the student meets it.",
+    "ipa": "/ðə ˈlɛsən dɪˈzaɪn/"
+   },
+   {
+    "word": "the teaching sequence",
+    "sentence": "The teaching sequence times the hook, the model, the practice and the check.",
+    "ipa": "/ðə ˈtiʧɪŋ ˈsikwəns/"
+   }
+  ],
+  "collocations": [
+   "write a lesson plan",
+   "the lesson sequence",
+   "timing and transitions",
+   "the formative check-point"
+  ],
+  "example": "A strong lesson plan doesn't just list activities — it names where you'll check understanding and what you'll do if half the class is lost.",
+  "links": [
+   {
+    "to": "scope-and-sequence",
+    "rel": "related"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "learning-intentions-success-criteria",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "blooms-taxonomy",
+  "zh": "布鲁姆认知目标分类",
+  "pinyin": "bùlǔmǔ rènzhī mùbiāo fēnlèi",
+  "en": "Bloom's taxonomy (revised)",
+  "def_zh": "把认知目标从低到高分为六层:记忆、理解、应用、分析、评价、创造（修订版）。它帮助教师设计不同思维层次的问题与任务,避免只停留在记忆层。动词是关键:'列出'是记忆,'设计一个游戏'是创造。用于撰写学习目标、分层提问与差异化任务。",
+  "def_en": "Classifying cognitive goals from lower to higher order: remember, understand, apply, analyse, evaluate, create (the revised version). It helps teachers design questions and tasks across levels of thinking, avoiding a diet of mere recall. The verbs are the key: 'list' is remembering, 'design a game' is creating. Used to write learning objectives, tier questions and differentiate tasks.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "Bloom's taxonomy /blumz tækˈsɒnəmi/",
+  "etymology": "taxonomy 源自希腊 taxis（排列）+ nomos（法则）——分类学即'排列的法则';以 Benjamin Bloom 命名(1956,2001修订)。",
+  "synonyms": [
+   {
+    "word": "higher-order thinking",
+    "sentence": "Higher-order thinking asks students to create and evaluate, not just recall and repeat.",
+    "ipa": "/haɪər-ˈɔrdər ˈθɪŋkɪŋ/"
+   },
+   {
+    "word": "the cognitive hierarchy",
+    "sentence": "The cognitive hierarchy climbs from remembering a fact to inventing something new with it.",
+    "ipa": "/ðə ˈkɑgnɪtɪv ˈhaɪˌrɑrki/"
+   }
+  ],
+  "collocations": [
+   "the six levels",
+   "higher-order thinking",
+   "command verbs",
+   "move up Bloom's"
+  ],
+  "example": "Bloom's taxonomy turns a flat worksheet into a laddered one: recall the syntax, apply it in a loop, then create an original game — thinking that climbs.",
+  "links": [
+   {
+    "to": "blooms-taxonomy",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "logic-toolkit",
+    "rel": "related"
+   },
+   {
+    "to": "constructive-alignment",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "gradual-release",
+  "zh": "责任逐步移交",
+  "pinyin": "zérèn zhúbù yíjiāo",
+  "en": "the gradual release of responsibility (I do / we do / you do)",
+  "def_zh": "教学责任从教师逐步转移到学生的模式:①我做（I do,教师示范与出声思考）;②我们一起做（we do,师生共同练习、支架密集）;③你们做（you do together,同伴协作）→你独立做（you do alone,独立应用）。它是显性教学的骨架,确保学生在支架撤除前已具备能力。",
+  "def_en": "A model shifting responsibility from teacher to student in stages: (1) I do (the teacher models with think-alouds); (2) we do (guided practice together, heavily scaffolded); (3) you do together (peer collaboration) → you do alone (independent application). It is the skeleton of explicit teaching, ensuring students are capable before the scaffold is removed.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the gradual release of responsibility /ðə ˈgræʤuəl riˈlis əv riˌspɑnsəˈbɪləti/",
+  "etymology": "release（松手、放开）——把学习责任'逐步松手'交给学生;由 Pearson 与 Gallagher(1983)提出。",
+  "synonyms": [
+   {
+    "word": "I do, we do, you do",
+    "sentence": "'I do, we do, you do' hands the work over only as fast as competence grows.",
+    "ipa": "/aɪ du wi du ju du/"
+   },
+   {
+    "word": "modelled to independent practice",
+    "sentence": "Modelled to independent practice withdraws support in step with rising skill.",
+    "ipa": "/ˈmɒdəld tɪ ˌɪndɪˈpɛndənt ˈpræktɪs/"
+   }
+  ],
+  "collocations": [
+   "I do, we do, you do",
+   "model, guide, release",
+   "withdraw the scaffold",
+   "guided to independent practice"
+  ],
+  "example": "Teaching a loop, you code one aloud (I do), write the next together (we do), then set students their own (you do) — releasing responsibility only as they're ready.",
+  "links": [
+   {
+    "to": "explicit-teaching",
+    "rel": "related"
+   },
+   {
+    "to": "scaffolding",
+    "rel": "related"
+   },
+   {
+    "to": "worked-examples",
+    "rel": "related"
+   },
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "explicit-teaching",
+  "zh": "显性教学",
+  "pinyin": "xiǎnxìng jiàoxué",
+  "en": "explicit (direct) teaching",
+  "def_zh": "清晰、有序、循序渐进地直接教授知识与技能,而非期望学生自行发现:明确目标、分解步骤、示范、检查理解、引导练习、独立练习、回顾。大量证据（尤其对新手与弱势学生）表明其高效。它是罗森夏因教学原理与澳洲HITS的核心,与探究式教学互补而非对立。",
+  "def_en": "Teaching knowledge and skills clearly, in a structured, step-by-step way, rather than expecting students to discover them: clear goals, broken-down steps, modelling, checking for understanding, guided practice, independent practice, review. Strong evidence (especially for novices and disadvantaged students) shows it works. It is central to Rosenshine's principles and Australia's HITS, complementary to inquiry rather than opposed.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "explicit teaching /ɪkˈsplɪsət ˈtiʧɪŋ/",
+  "etymology": "explicit 源自拉丁 explicare（展开、说明,ex- + plicare 折叠）——显性即'把内容明白展开'教,不留学生猜。",
+  "synonyms": [
+   {
+    "word": "direct instruction",
+    "sentence": "Direct instruction shows and tells before it asks students to try alone.",
+    "ipa": "/dɪˈrɛkt ˌɪnˈstrəkʃən/"
+   },
+   {
+    "word": "Rosenshine's principles",
+    "sentence": "Rosenshine's principles distil explicit teaching into small steps and frequent checks.",
+    "ipa": "/ˈroʊzənʃaɪnz ˈprɪnsəpəlz/"
+   }
+  ],
+  "collocations": [
+   "explicit instruction",
+   "check for understanding",
+   "small steps",
+   "model and guide"
+  ],
+  "example": "For novices learning to code, explicit teaching — model the syntax, check understanding, guide practice — beats leaving them to discover it and fail.",
+  "nuance": "显性教学≠满堂灌:它含大量检查理解与引导练习,并非教师独白。它与探究式学习是'何时用'的问题——新手打基础宜显性,已有基础做迁移宜探究。",
+  "links": [
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   },
+   {
+    "to": "cognitive-load-theory",
+    "rel": "related"
+   },
+   {
+    "to": "inquiry-based-learning",
+    "rel": "contrast"
+   }
+  ]
+ },
+ {
+  "id": "inquiry-based-learning",
+  "zh": "探究式学习",
+  "pinyin": "tànjiū shì xuéxí",
+  "en": "inquiry-based learning",
+  "def_zh": "以问题、情境或挑战驱动,让学生通过调查、实验、探索建构理解的教学法。它培养提问、批判与自主学习能力,契合技术学科的设计与问题解决。但证据显示:对缺乏先备知识的新手,纯发现式效率低——探究更适合已有基础、需要迁移与应用之时（'引导式探究'优于'纯发现'）。",
+  "def_en": "Teaching driven by questions, scenarios or challenges, where students build understanding through investigation, experiment and exploration. It develops questioning, critique and self-directed learning, and suits the design and problem-solving of technology subjects. But evidence shows pure discovery is inefficient for novices lacking prior knowledge — inquiry works better once a foundation exists and transfer and application are the goal (guided inquiry beats pure discovery).",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "inquiry-based learning /ˌɪnkˈwaɪˌri-beɪst ˈlərnɪŋ/",
+  "etymology": "inquire 源自拉丁 in-（入）+ quaerere（寻求）——探究即'向内寻求答案';project-based learning 是其常见形式。",
+  "synonyms": [
+   {
+    "word": "guided inquiry",
+    "sentence": "Guided inquiry gives novices enough structure to explore without drowning.",
+    "ipa": "/ˈgaɪdɪd ˌɪnkˈwaɪˌri/"
+   },
+   {
+    "word": "problem-based learning",
+    "sentence": "Problem-based learning starts from a genuine problem and pulls knowledge in to solve it.",
+    "ipa": "/ˈprɑbləm-beɪst ˈlərnɪŋ/"
+   }
+  ],
+  "collocations": [
+   "inquiry-based learning",
+   "guided vs pure discovery",
+   "the driving question",
+   "student-led investigation"
+  ],
+  "example": "Once students know the basics, an inquiry task — 'design a game that teaches fractions' — pushes transfer; given to novices with no coding, it would just frustrate.",
+  "nuance": "探究与显性教学的争论常被误设为对立;循证共识是'先显性后探究':新手需显性打底,有基础后探究促迁移。GTPA中能说清'为何此时选此法'比选边站更重要。",
+  "links": [
+   {
+    "to": "explicit-teaching",
+    "rel": "contrast"
+   },
+   {
+    "to": "project-based-learning",
+    "rel": "narrower"
+   },
+   {
+    "to": "design-thinking",
+    "rel": "related"
+   },
+   {
+    "to": "engineering-design-process",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "project-based-learning",
+  "zh": "项目式学习（PBL）",
+  "pinyin": "xiàngmù shì xuéxí",
+  "en": "project-based learning (PBL)",
+  "def_zh": "学生通过持续数周、围绕真实问题或产品的项目来学习并展示知识与技能——设计并制作游戏、网站、多媒体作品。它天然契合技术学科与你的Game On课程:真实产出、迭代、公开展示（如GitHub Pages）能激发投入。关键是'项目服务于学习目标',而非为做而做。",
+  "def_en": "Students learn and demonstrate knowledge and skills through a sustained, multi-week project around an authentic problem or product — designing and building a game, website or multimedia artefact. It fits technology subjects and your Game On course naturally: a real product, iteration and public exhibition (e.g. on GitHub Pages) drive engagement. The key is that the project serves the learning outcomes, not making-for-making's-sake.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "project-based learning /ˈprɑʤɛkt-beɪst ˈlərnɪŋ/",
+  "etymology": "project 源自拉丁 pro-（向前）+ jacere（投掷）——项目即'向前投射、要完成之事';PBL 与 problem-based learning 缩写同为 PBL。",
+  "synonyms": [
+   {
+    "word": "the authentic project",
+    "sentence": "An authentic project gives students a real audience and a reason to get it right.",
+    "ipa": "/ðə əˈθɛnɪk ˈprɑʤɛkt/"
+   },
+   {
+    "word": "learning by making",
+    "sentence": "Learning by making is PBL's ancestor in Papert's constructionism.",
+    "ipa": "/ˈlərnɪŋ baɪ ˈmeɪkɪŋ/"
+   }
+  ],
+  "collocations": [
+   "a project-based unit",
+   "the driving question",
+   "authentic product",
+   "public exhibition of work"
+  ],
+  "example": "Your Game On students learning Unity through building and publishing a real game is project-based learning — the artefact is the assessment and the motivation at once.",
+  "links": [
+   {
+    "to": "inquiry-based-learning",
+    "rel": "broader"
+   },
+   {
+    "to": "constructionism",
+    "rel": "related"
+   },
+   {
+    "to": "authentic-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "engineering-design-process",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "differentiation",
+  "zh": "差异化教学",
+  "pinyin": "chāyìhuà jiàoxué",
+  "en": "differentiation",
+  "def_zh": "根据学生不同的准备度、兴趣与学习方式,调整教学的内容、过程、成果或环境,使每个学生都能在其能力边缘获得适切挑战。常见做法:分层任务（支持/核心/拓展）、多样化支架、弹性分组、开放式任务。它是APST标准1.5的直接要求,也是你三层备课的理论根据。",
+  "def_en": "Adjusting the content, process, product or environment of teaching to students' differing readiness, interests and learning profiles, so each is appropriately challenged at the edge of their ability. Common moves: tiered tasks (support / core / extension), varied scaffolds, flexible grouping, open-ended tasks. It is the direct demand of APST Standard 1.5 and the rationale for your three-tier planning.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "differentiation /ˌdɪfərɛnʃiˈeɪʃən/",
+  "etymology": "differentiate 源自拉丁 differre（分开携带、区别）——差异化即'按学生差异区别对待'。",
+  "synonyms": [
+   {
+    "word": "tiered tasks",
+    "sentence": "Tiered tasks meet the same outcome at three levels of support and challenge.",
+    "ipa": "/tird tæsks/"
+   },
+   {
+    "word": "teaching to the edges",
+    "sentence": "Teaching to the edges stretches the able while catching the struggling.",
+    "ipa": "/ˈtiʧɪŋ tɪ ðə ˈɛʤɪz/"
+   }
+  ],
+  "collocations": [
+   "differentiate the task",
+   "support, core and extension",
+   "flexible grouping",
+   "content, process, product"
+  ],
+  "example": "Differentiating a coding lesson: the same outcome, but sentence-started code for support, a standard brief for core, and an open challenge for extension.",
+  "links": [
+   {
+    "to": "scaffolding",
+    "rel": "related"
+   },
+   {
+    "to": "universal-design-learning",
+    "rel": "related"
+   },
+   {
+    "to": "apst-domains",
+    "rel": "related"
+   },
+   {
+    "to": "zone-of-proximal-development",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "scaffolding",
+  "zh": "支架式教学",
+  "pinyin": "zhījià shì jiàoxué",
+  "en": "scaffolding",
+  "def_zh": "教师提供临时性的支持（提示、模板、句式起句、分步指引、示例）帮助学生完成暂时超出其独立能力的任务,随着能力增长逐步撤除支架,直至学生独立完成。它建立在维果茨基'最近发展区'之上——支架的作用正是跨越'能独立做'与'在帮助下能做'之间的差距。",
+  "def_en": "The teacher providing temporary supports (prompts, templates, sentence starters, step-by-step guides, examples) to help students accomplish a task momentarily beyond their independent ability, then gradually removing the scaffold as competence grows until they can do it alone. It rests on Vygotsky's zone of proximal development — the scaffold bridges the gap between what a learner can do alone and what they can do with help.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "scaffolding /ˈskæfoʊldɪŋ/",
+  "etymology": "scaffold（脚手架）——建筑施工的临时支撑,建成后拆除;教学支架同理,能力建成即撤。",
+  "synonyms": [
+   {
+    "word": "temporary support",
+    "sentence": "Temporary support is scaffolding's defining feature — it is meant to come down.",
+    "ipa": "/ˈtɛmpərˌɛri səˈpɔrt/"
+   },
+   {
+    "word": "fading the support",
+    "sentence": "Fading the support turns assisted performance into independent competence.",
+    "ipa": "/ˈfeɪdɪŋ ðə səˈpɔrt/"
+   }
+  ],
+  "collocations": [
+   "scaffold the task",
+   "sentence starters",
+   "fade the scaffold",
+   "the writing frame"
+  ],
+  "example": "A partially-completed code template scaffolds a struggling student into a working program, then you remove a little more of it each lesson until they write it unaided.",
+  "links": [
+   {
+    "to": "zone-of-proximal-development",
+    "rel": "related"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "worked-examples",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "zone-of-proximal-development",
+  "zh": "最近发展区",
+  "pinyin": "zuìjìn fāzhǎnqū",
+  "en": "the zone of proximal development (ZPD)",
+  "def_zh": "维果茨基:学生'能独立完成'与'在他人帮助下能完成'之间的区域。有效教学发生在这个区间——太易则无成长,太难则挫败。它是支架、差异化与'适切挑战'的理论根基:好的教学始终把任务定在学生的最近发展区内。",
+  "def_en": "Vygotsky's zone between what a student can do independently and what they can do with help from a more capable other. Effective teaching happens in this zone — too easy brings no growth, too hard brings frustration. It is the theoretical basis of scaffolding, differentiation and 'appropriate challenge': good teaching keeps the task inside the learner's zone of proximal development.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "the zone of proximal development /ðə zoʊn əv ˈprɒksɪməl dɪˈvɛləpmənt/",
+  "etymology": "proximal 源自拉丁 proximus（最近的）——'最近'发展区即紧邻当前能力、即将可达的区域;Vygotsky 俄文原词经英译普及。",
+  "synonyms": [
+   {
+    "word": "the learning zone",
+    "sentence": "The learning zone sits just beyond comfort and just short of panic.",
+    "ipa": "/ðə ˈlərnɪŋ zoʊn/"
+   },
+   {
+    "word": "desirable difficulty",
+    "sentence": "Desirable difficulty is challenge pitched inside the ZPD, hard enough to grow.",
+    "ipa": "/dɪˈzaɪərəbəl ˈdɪfɪˌkəlti/"
+   }
+  ],
+  "collocations": [
+   "within the ZPD",
+   "appropriate challenge",
+   "just beyond independent ability",
+   "the more knowledgeable other"
+  ],
+  "example": "A task in the ZPD is one a student can't quite do alone but can do with a hint — which is exactly where a scaffold earns its keep.",
+  "links": [
+   {
+    "to": "scaffolding",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "cognitive-load-theory",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "cognitive-load-theory",
+  "zh": "认知负荷理论",
+  "pinyin": "rènzhī fùhè lǐlùn",
+  "en": "cognitive load theory",
+  "def_zh": "斯威勒:工作记忆容量有限,一次能处理的新信息很少。教学须管理三类负荷:内在负荷（内容本身的难度）、外在负荷（拙劣设计造成的额外负担,须削减）、相关负荷（用于建构图式的有效努力,须促进）。它为显性教学、示例、分步与去冗余提供了认知科学依据。",
+  "def_en": "Sweller's theory: working memory is limited and can handle little new information at once. Teaching must manage three loads: intrinsic (the inherent difficulty of the content), extraneous (extra burden from poor design, to be cut), and germane (the useful effort of building schemas, to be fostered). It gives cognitive-science grounding to explicit teaching, worked examples, step-by-step sequencing and removing redundancy.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "cognitive load theory /ˈkɑgnɪtɪv loʊd ˈθɪri/",
+  "etymology": "cognitive 源自拉丁 cognoscere（认知）;load（负荷）即工作记忆承受的信息量;Sweller 1980年代创立。",
+  "synonyms": [
+   {
+    "word": "working memory limits",
+    "sentence": "Working memory limits are why a novice drowns in a task an expert finds trivial.",
+    "ipa": "/ˈwərkɪŋ ˈmɛməri ˈlɪmɪts/"
+   },
+   {
+    "word": "the expertise reversal effect",
+    "sentence": "The expertise reversal effect means support that helps novices can hinder experts.",
+    "ipa": "/ðə ˌɛkspərˈtiz rɪˈvərsəl ˈifɛkt/"
+   }
+  ],
+  "collocations": [
+   "manage cognitive load",
+   "intrinsic, extraneous, germane",
+   "reduce the extraneous load",
+   "worked-example effect"
+  ],
+  "example": "Cognitive load theory says teaching syntax and logic and a new IDE all at once overloads novices — introduce one at a time so working memory can cope.",
+  "links": [
+   {
+    "to": "mayer-multimedia",
+    "rel": "related"
+   },
+   {
+    "to": "worked-examples",
+    "rel": "narrower"
+   },
+   {
+    "to": "explicit-teaching",
+    "rel": "related"
+   },
+   {
+    "to": "zone-of-proximal-development",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "worked-examples",
+  "zh": "示例教学",
+  "pinyin": "shìlì jiàoxué",
+  "en": "worked examples",
+  "def_zh": "向学生完整展示一道问题的解题步骤与推理,再让其模仿练习——比让新手直接解题更高效,因为它降低了外在认知负荷,让工作记忆专注于建构解题图式。随能力增长逐步'淡化'示例（faded examples,留出空缺让学生补全）。是认知负荷理论最有力的实践之一。",
+  "def_en": "Showing students a complete, step-by-step solution and its reasoning, then having them imitate — more efficient for novices than solving from scratch, because it lowers extraneous cognitive load and lets working memory focus on building a solution schema. As competence grows, the examples are 'faded' (gaps left for students to complete). One of the most robust practices to come from cognitive load theory.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "教学设计与教学法 Planning & Pedagogy"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "worked examples /wərkt ɪgˈzæmpəlz/",
+  "etymology": "worked（做完的）——'做完的例子'即完整演示的解法;faded（淡化的）指逐步抽掉步骤让学生补。",
+  "synonyms": [
+   {
+    "word": "the worked-example effect",
+    "sentence": "The worked-example effect shows novices learn more from studying solutions than from floundering.",
+    "ipa": "/ðə wərkt-ɪgˈzæmpəl ˈifɛkt/"
+   },
+   {
+    "word": "faded examples",
+    "sentence": "Faded examples remove one step at a time until the student is solving unaided.",
+    "ipa": "/ˈfeɪdɪd ɪgˈzæmpəlz/"
+   }
+  ],
+  "collocations": [
+   "study a worked example",
+   "the worked-example effect",
+   "faded examples",
+   "completion problems"
+  ],
+  "example": "Before setting a coding problem, you walk through a fully worked example line by line — then fade it, leaving blanks for students to fill as their skill grows.",
+  "links": [
+   {
+    "to": "cognitive-load-theory",
+    "rel": "broader"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   },
+   {
+    "to": "scaffolding",
+    "rel": "related"
+   },
+   {
+    "to": "use-modify-create",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "formative-summative",
+  "zh": "形成性评估与终结性评估",
+  "pinyin": "xíngchéngxìng yǔ zhōngjiéxìng pínggū",
+  "en": "formative vs summative assessment",
+  "def_zh": "两类评估的根本区别在于目的:形成性评估在学习过程中进行,用于诊断与调整教学、给出改进反馈（'为了学习'）;终结性评估在学习末尾进行,用于判定成绩与达标程度（'对学习的总结'）。名言:'厨师尝汤是形成性,顾客尝汤是终结性。'两者缺一不可,但日常教学应以形成性为主。",
+  "def_en": "The two types differ fundamentally in purpose: formative assessment happens during learning, to diagnose, adjust teaching and give improvement feedback (for learning); summative assessment happens at the end, to judge grades and attainment (of learning). The saying: 'when the cook tastes the soup it's formative; when the guest tastes it, it's summative.' Both are essential, but day-to-day teaching should lean formative.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "formative versus summative assessment /ˈfɔːrmətɪv ˈvərsəz ˈsʌmətɪv əˈsɛsmənt/",
+  "etymology": "formative 源自拉丁 formare（塑形）——形成性评估'塑造'尚在进行的学习;summative 源自 summa（总和）——终结性即'总account'。",
+  "synonyms": [
+   {
+    "word": "assessment for vs of learning",
+    "sentence": "Assessment for learning shapes the teaching; assessment of learning grades the result.",
+    "ipa": "/əˈsɛsmənt fər ˈvərsəz əv ˈlərnɪŋ/"
+   },
+   {
+    "word": "tasting the soup",
+    "sentence": "Tasting the soup while cooking is formative; serving it is summative.",
+    "ipa": "/ˈteɪstɪŋ ðə sup/"
+   }
+  ],
+  "collocations": [
+   "formative and summative",
+   "low-stakes vs high-stakes",
+   "during vs at the end",
+   "feedback vs grading"
+  ],
+  "example": "A quiz you use to reteach a misunderstood concept is formative; the same quiz counted toward the report grade is summative — purpose, not format, decides.",
+  "links": [
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-of-learning",
+    "rel": "related"
+   },
+   {
+    "to": "diagnostic-assessment",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "assessment-for-learning",
+  "zh": "为了学习的评估（AfL）",
+  "pinyin": "wèile xuéxí de pínggū",
+  "en": "assessment for learning (AfL)",
+  "def_zh": "以评估信息即时指导教与学的形成性实践:明确成功标准、有效提问、给出可操作的改进反馈、同伴与自我评估、据证据调整教学。它把评估从'事后判分'变为'即时导航'。布莱克与威廉的研究表明,它是提升学习成效最有力的手段之一。GTPA评估实践的核心。",
+  "def_en": "The formative practice of using assessment information to steer teaching and learning in the moment: clarifying success criteria, effective questioning, giving actionable improvement feedback, peer and self-assessment, and adjusting teaching from the evidence. It turns assessment from after-the-fact grading into real-time navigation. Black and Wiliam's research shows it among the most powerful levers on learning. Central to the GTPA's assessing practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "assessment for learning /əˈsɛsmənt fər ˈlərnɪŋ/",
+  "etymology": "for（为了）——评估'为了'促进学习而非仅判定;由 Black 与 Wiliam《Inside the Black Box》普及。",
+  "synonyms": [
+   {
+    "word": "formative assessment",
+    "sentence": "Formative assessment feeds back into teaching before the grade is ever fixed.",
+    "ipa": "/ˈfɔːrmətɪv əˈsɛsmənt/"
+   },
+   {
+    "word": "minute-by-minute assessment",
+    "sentence": "Minute-by-minute assessment reads the room and reteaches on the spot.",
+    "ipa": "/ˈmɪnət-baɪ-ˈmɪnət əˈsɛsmənt/"
+   }
+  ],
+  "collocations": [
+   "assessment for learning",
+   "effective questioning",
+   "actionable feedback",
+   "adjust teaching on evidence"
+  ],
+  "example": "A quick exit ticket showing half the class confused about loops is assessment for learning — you reteach tomorrow instead of marching on.",
+  "links": [
+   {
+    "to": "formative-summative",
+    "rel": "related"
+   },
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   },
+   {
+    "to": "learning-intentions-success-criteria",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-as-learning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "assessment-as-learning",
+  "zh": "作为学习的评估（AaL）",
+  "pinyin": "zuòwéi xuéxí de pínggū",
+  "en": "assessment as learning (AaL)",
+  "def_zh": "学生通过自我评估与反思成为自身学习的评估者:对照成功标准自评作品、监控理解、设定改进目标、发展元认知。它把评估的主体从教师转向学生,培养自主学习者。与AfL（教师用评估调整教学）互补——AaL让学生用评估调整自己。",
+  "def_en": "Students becoming assessors of their own learning through self-assessment and reflection: judging their work against success criteria, monitoring their understanding, setting improvement goals and developing metacognition. It shifts the agent of assessment from teacher to student, cultivating self-directed learners. Complementary to AfL (the teacher using assessment to adjust teaching) — AaL has the student use assessment to adjust themselves.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "assessment as learning /əˈsɛsmənt ɛz ˈlərnɪŋ/",
+  "etymology": "as（作为）——评估本身'作为'一种学习活动(自评即学);强调学生的元认知主体性。",
+  "synonyms": [
+   {
+    "word": "self-assessment",
+    "sentence": "Self-assessment teaches students to see their own work through the criteria's eyes.",
+    "ipa": "/sɛlf-əˈsɛsmənt/"
+   },
+   {
+    "word": "metacognition",
+    "sentence": "Metacognition — thinking about one's thinking — is what assessment as learning builds.",
+    "ipa": "/ˌmɛtəkɒɡˈnɪʃən/"
+   }
+  ],
+  "collocations": [
+   "assessment as learning",
+   "self- and peer-assessment",
+   "metacognitive strategies",
+   "student as assessor"
+  ],
+  "example": "Having students rate their own code against the success criteria and plan one fix is assessment as learning — they internalise the standard instead of waiting for yours.",
+  "links": [
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "learning-intentions-success-criteria",
+    "rel": "related"
+   },
+   {
+    "to": "reflective-practice",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "assessment-of-learning",
+  "zh": "对学习的评估（AoL）",
+  "pinyin": "duì xuéxí de pínggū",
+  "en": "assessment of learning (AoL)",
+  "def_zh": "终结性评估,在学习阶段结束时判定学生达成了什么、达到何种水平,用于评分、报告与认证。它须可靠、有效、公平,并对标课程成果与成绩标准。逆向设计正是从这里倒推:先定AoL任务,再设计通向它的教学。",
+  "def_en": "Summative assessment, judging at the end of a phase what students have achieved and to what standard, for grading, reporting and certification. It must be reliable, valid and fair, and aligned to curriculum outcomes and grade standards. Backward design works from here: define the AoL task first, then design the teaching that leads to it.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "assessment of learning /əˈsɛsmənt əv ˈlərnɪŋ/",
+  "etymology": "of（对……的）——'对学习的'总结判定;与 for/as learning 构成 NSW 评估三分法。",
+  "synonyms": [
+   {
+    "word": "summative judgement",
+    "sentence": "A summative judgement certifies attainment against the standard, for the record.",
+    "ipa": "/ˈsʌmətɪv ˈʤəʤmənt/"
+   },
+   {
+    "word": "the reporting grade",
+    "sentence": "The reporting grade is assessment of learning made official.",
+    "ipa": "/ðə rɪˈpɔrtɪŋ greɪd/"
+   }
+  ],
+  "collocations": [
+   "assessment of learning",
+   "the summative task",
+   "grade against standards",
+   "the assessment schedule"
+  ],
+  "example": "The end-of-unit project that earns a mark on the report is assessment of learning — designed first, under backward design, so all teaching aims at it.",
+  "links": [
+   {
+    "to": "formative-summative",
+    "rel": "related"
+   },
+   {
+    "to": "standards-referenced-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "backward-design",
+    "rel": "related"
+   },
+   {
+    "to": "authentic-assessment",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "visible-learning-feedback",
+  "zh": "可见学习与反馈",
+  "pinyin": "kějiàn xuéxí yǔ fǎnkuì",
+  "en": "feedback (Hattie's visible learning)",
+  "def_zh": "哈蒂对数千项研究的综合分析发现,反馈是对学习影响最大的因素之一——但前提是有效反馈。有效反馈回答三问:我要去哪（目标）?我现在在哪（现状）?下一步怎么走（改进策略）?针对任务与过程、而非针对个人的反馈最有效;'做得好'式空泛表扬几乎无效。",
+  "def_en": "Hattie's synthesis of thousands of studies found feedback among the largest influences on learning — but only when it is effective. Effective feedback answers three questions: where am I going (the goal)? where am I now (current state)? where to next (improvement strategy)? Feedback about the task and the process, not the person, works best; vague praise like 'well done' does almost nothing.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "feedback /ˈfidˌbæk/",
+  "etymology": "feedback 源自工程学（输出'回馈'为输入以自我调节）——教学反馈即让学习'回馈'以修正;Hattie《Visible Learning》普及其效应量研究。",
+  "synonyms": [
+   {
+    "word": "effective feedback",
+    "sentence": "Effective feedback tells a student where to go next, not just how they did.",
+    "ipa": "/ˈifɛktɪv ˈfidˌbæk/"
+   },
+   {
+    "word": "feed-forward",
+    "sentence": "Feed-forward turns a mark into a next step the student can actually take.",
+    "ipa": "/fid-ˈfɔrwərd/"
+   }
+  ],
+  "collocations": [
+   "where to next",
+   "task, process, self-regulation",
+   "feed-forward",
+   "effect size"
+  ],
+  "example": "'Your loop repeats one time too many — check the boundary condition' is feedback that feeds forward; 'good effort, 6/10' is a grade that teaches nothing.",
+  "links": [
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "evidence-of-impact",
+    "rel": "related"
+   },
+   {
+    "to": "rubric",
+    "rel": "related"
+   },
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "rubric",
+  "zh": "评分量规",
+  "pinyin": "píngfēn liángguī",
+  "en": "the rubric (marking criteria)",
+  "def_zh": "把评估标准分解为若干维度、每个维度分若干表现水平并附具体描述的评分工具。它让评分透明一致（对标准参照评估至关重要）,能作为学生的成功标准指引学习,也是给出具体反馈的依据。好的量规描述'长什么样',而非仅给分数。",
+  "def_en": "An assessment tool breaking criteria into dimensions, each with performance levels described concretely. It makes marking transparent and consistent (essential for standards-referenced assessment), can serve as success criteria to guide students' learning, and is the basis for specific feedback. A good rubric describes what quality looks like, not just what score it earns.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "the rubric /ðə ˈrubrɪk/",
+  "etymology": "rubric 源自拉丁 rubrica（红赭石、红字标题）——中世纪手稿以红字标示规则,引申为评分'规则表'。",
+  "synonyms": [
+   {
+    "word": "marking criteria",
+    "sentence": "Marking criteria turn a grade from a hunch into a defensible judgement.",
+    "ipa": "/ˈmɑrkɪŋ kraɪˈtɪəriə/"
+   },
+   {
+    "word": "the criteria sheet",
+    "sentence": "A criteria sheet shared upfront becomes the student's map, not just the marker's ruler.",
+    "ipa": "/ðə kraɪˈtɪəriə ʃit/"
+   }
+  ],
+  "collocations": [
+   "a marking rubric",
+   "performance descriptors",
+   "standards-referenced criteria",
+   "co-construct the rubric"
+  ],
+  "example": "Sharing the rubric before the project — 'A-grade code is commented, tested and handles errors' — turns marking criteria into a learning guide, not a post-hoc verdict.",
+  "links": [
+   {
+    "to": "standards-referenced-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "learning-intentions-success-criteria",
+    "rel": "related"
+   },
+   {
+    "to": "moderation",
+    "rel": "related"
+   },
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "standards-referenced-assessment",
+  "zh": "标准参照评估",
+  "pinyin": "biāozhǔn cānzhào pínggū",
+  "en": "standards-referenced assessment",
+  "def_zh": "依据预设的成绩标准（如A–E水平描述）判定学生表现,而非按学生间排名（常模参照）或简单及格线（标准参照的旧义）。NSW采用此制:每个成绩对应明确的能力描述,学生对标准而非对彼此。它要求量规清晰、评分调节以保证判断一致。",
+  "def_en": "Judging student performance against pre-set grade standards (e.g. A–E level descriptions), rather than by ranking students against each other (norm-referenced) or a simple pass mark. NSW uses this system: each grade corresponds to an explicit description of ability, and students are measured against the standard, not one another. It demands clear rubrics and moderation to keep judgements consistent.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "standards-referenced assessment /ˈstændərdz-ˈrɛfərənst əˈsɛsmənt/",
+  "etymology": "reference（参照,拉丁 referre 带回）——评估'参照'既定标准而非彼此;与 norm-referenced（常模参照）相对。",
+  "synonyms": [
+   {
+    "word": "criterion-referenced",
+    "sentence": "Criterion-referenced grading asks 'did they meet the standard?', not 'who came top?'",
+    "ipa": "/kraɪˈtɪəriən ˈrɛfərənst/"
+   },
+   {
+    "word": "the common grade scale",
+    "sentence": "The common grade scale gives every A the same meaning across every classroom.",
+    "ipa": "/ðə ˈkɑmən greɪd skeɪl/"
+   }
+  ],
+  "collocations": [
+   "standards-referenced grading",
+   "the A-E grade scale",
+   "against the standard, not the cohort",
+   "the achievement standard"
+  ],
+  "example": "Under standards-referenced assessment, a whole class can earn an A if they all meet the standard — grades describe achievement, not scarcity.",
+  "links": [
+   {
+    "to": "rubric",
+    "rel": "related"
+   },
+   {
+    "to": "moderation",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-of-learning",
+    "rel": "related"
+   },
+   {
+    "to": "reliability-validity",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "diagnostic-assessment",
+  "zh": "诊断性评估",
+  "pinyin": "zhěnduànxìng pínggū",
+  "en": "diagnostic assessment",
+  "def_zh": "在教学开始前评估学生的已有知识、技能与迷思概念,以便据学情设计教学（'先摸底,再教'）。它是差异化与'从学生所在之处出发'的前提,能暴露先备知识缺口与顽固误解,避免在错误假设上施教。GTPA'了解学生'的关键证据。",
+  "def_en": "Assessing students' prior knowledge, skills and misconceptions before teaching begins, so instruction can be designed from where they actually are ('find out, then teach'). It is the precondition for differentiation and 'starting where the student is', exposing gaps in prior knowledge and stubborn misconceptions before teaching on false assumptions. Key evidence for the GTPA's knowing-students practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "diagnostic assessment /ˌdaɪəɡˈnɒstɪk əˈsɛsmənt/",
+  "etymology": "diagnosis 源自希腊 dia（透过）+ gnōsis（认知）——诊断即'透视认知状态';医学隐喻入教学。",
+  "synonyms": [
+   {
+    "word": "pre-assessment",
+    "sentence": "Pre-assessment reveals what to skip and what to reteach before you waste a lesson.",
+    "ipa": "/pri-əˈsɛsmənt/"
+   },
+   {
+    "word": "surfacing misconceptions",
+    "sentence": "Surfacing misconceptions early stops you building on a cracked foundation.",
+    "ipa": "/ˈsərfəsɪŋ ˌmɪskənˈsɛpʃənz/"
+   }
+  ],
+  "collocations": [
+   "diagnostic pre-test",
+   "prior knowledge",
+   "surface misconceptions",
+   "start where they are"
+  ],
+  "example": "A short diagnostic before a coding unit reveals half the class already knows loops but none understand variables — reshaping what you teach and to whom.",
+  "links": [
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "notional-machine",
+    "rel": "related"
+   },
+   {
+    "to": "apst-domains",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "authentic-assessment",
+  "zh": "真实性评估",
+  "pinyin": "zhēnshíxìng pínggū",
+  "en": "authentic assessment",
+  "def_zh": "让学生在贴近真实世界的情境中运用知识与技能完成有意义的任务与产出,而非答脱离情境的试题——设计并发布一个应用、为真实客户做多媒体方案、解决真实问题。它评估的是迁移与应用能力,契合技术学科,也最能激发投入。项目式学习常以真实性评估收尾。",
+  "def_en": "Having students apply knowledge and skills to meaningful, real-world-like tasks and products, rather than answering decontextualised questions — designing and publishing an app, making a multimedia solution for a real client, solving a genuine problem. It assesses transfer and application, suits technology subjects, and drives engagement. Project-based learning often culminates in authentic assessment.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "authentic assessment /əˈθɛnɪk əˈsɛsmənt/",
+  "etymology": "authentic 源自希腊 authentikos（本人所为、真实的）——真实性评估即'贴近真实世界的、学生真正动手做的'评估。",
+  "synonyms": [
+   {
+    "word": "performance assessment",
+    "sentence": "Performance assessment asks students to do the thing, not describe it.",
+    "ipa": "/pərˈfɔrməns əˈsɛsmənt/"
+   },
+   {
+    "word": "real-world tasks",
+    "sentence": "Real-world tasks test whether learning survives outside the exam room.",
+    "ipa": "/ril-wərld tæsks/"
+   }
+  ],
+  "collocations": [
+   "an authentic task",
+   "real-world application",
+   "performance-based assessment",
+   "assess transfer"
+  ],
+  "example": "Publishing a working game to GitHub Pages for a real audience is authentic assessment — it evidences applied skill in a way a written test never could.",
+  "links": [
+   {
+    "to": "project-based-learning",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-of-learning",
+    "rel": "related"
+   },
+   {
+    "to": "constructionism",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "reliability-validity",
+  "zh": "信度与效度",
+  "pinyin": "xìndù yǔ xiàodù",
+  "en": "reliability and validity",
+  "def_zh": "评估质量的两大支柱:效度（validity,评估是否真正测量了它声称要测的东西——用编程题测编程,不是用它测阅读理解）;信度（reliability,评估是否稳定一致——同一作品不同评分者、不同时间打分一致)。二者缺一不可:有信度无效度=精确地测错;有效度无信度=测对但不稳。",
+  "def_en": "The two pillars of assessment quality: validity (does the assessment truly measure what it claims to — testing coding with a coding task, not accidentally testing reading comprehension); reliability (is it stable and consistent — the same work graded the same by different markers and at different times). Both are essential: reliable but invalid = precisely measuring the wrong thing; valid but unreliable = right target, unsteady aim.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "reliability and validity /riˌlaɪəˈbɪləti ənd vəˈlɪdɪti/",
+  "etymology": "valid 源自拉丁 validus（强健、有效）——效度即'有效击中目标';reliable 源自 religare（系紧）——信度即'可靠系得住、不飘'。",
+  "synonyms": [
+   {
+    "word": "measuring the right thing well",
+    "sentence": "Measuring the right thing (validity) well (reliability) is the whole game of good assessment.",
+    "ipa": "/ˈmɛʒərɪŋ ðə raɪt θɪŋ wɛl/"
+   },
+   {
+    "word": "construct validity",
+    "sentence": "Construct validity asks whether the task really taps the ability you claim to assess.",
+    "ipa": "/ˈkɑnstrəkt vəˈlɪdɪti/"
+   }
+  ],
+  "collocations": [
+   "valid and reliable",
+   "construct validity",
+   "consistency of judgement",
+   "fair assessment"
+  ],
+  "example": "A coding test written in dense English may be unreliable-free yet invalid — it partly measures reading, not coding, penalising your EAL/D students unfairly.",
+  "links": [
+   {
+    "to": "moderation",
+    "rel": "related"
+   },
+   {
+    "to": "standards-referenced-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "eald",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "data-informed-practice",
+  "zh": "数据支持的教学决策",
+  "pinyin": "shùjù zhīchí de jiàoxué juécè",
+  "en": "data-informed practice",
+  "def_zh": "系统收集、分析并运用学习证据（评估结果、作品、观察、进度数据）来诊断需求、调整教学、评判影响、规划下一步。GTPA的'研判'实践与教师认证都要求教师是'数据素养'的:不凭感觉,而凭证据决策。关键词是'informed'（支持）而非'driven'（驱动）——数据辅助专业判断,不取代它。",
+  "def_en": "Systematically gathering, analysing and using evidence of learning (assessment results, work samples, observations, progress data) to diagnose needs, adjust teaching, appraise impact and plan next steps. The GTPA's appraising practice and teacher accreditation both demand data-literate teachers: deciding on evidence, not hunch. The word is 'informed', not 'driven' — data supports professional judgement, it does not replace it.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "评估与反馈 Assessment & Feedback"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "data-informed practice /ˈdætə-ˌɪnˈfɔrmd ˈpræktɪs/",
+  "etymology": "data 拉丁'被给予之物'(dare 给);informed 源自 informare（塑形、告知）——数据'告知'并塑造教学决策。",
+  "synonyms": [
+   {
+    "word": "data literacy",
+    "sentence": "Data literacy lets a teacher read a spreadsheet of results as a class's needs.",
+    "ipa": "/ˈdætə ˈlɪtərəsi/"
+   },
+   {
+    "word": "evidence-informed teaching",
+    "sentence": "Evidence-informed teaching decides by what worked, tempered by professional judgement.",
+    "ipa": "/ˈɛvədəns-ˌɪnˈfɔrmd ˈtiʧɪŋ/"
+   }
+  ],
+  "collocations": [
+   "data-informed vs data-driven",
+   "analyse the results",
+   "identify the trend",
+   "plan the next step"
+  ],
+  "example": "Analysing which quiz questions the class failed — data-informed practice — tells you exactly which concept to reteach, and the GTPA wants that reasoning shown.",
+  "links": [
+   {
+    "to": "gtpa-five-practices",
+    "rel": "related"
+   },
+   {
+    "to": "evidence-of-impact",
+    "rel": "related"
+   },
+   {
+    "to": "high-impact-teaching",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-for-learning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "reasonable-adjustments-nccd",
+  "zh": "合理调整与NCCD",
+  "pinyin": "hélǐ tiáozhěng yǔ NCCD",
+  "en": "reasonable adjustments and the NCCD",
+  "def_zh": "为残障学生提供的、使其能在平等基础上参与学习的调整（如额外时间、辅助技术、替代评估形式、修改任务）——法律要求（《残障歧视法》《残障教育标准》）。NCCD是'全国残障学生数据一致性收集',学校须记录所提供的调整及其证据。它是包容性教学的法定基石。",
+  "def_en": "Adjustments provided so students with disability can participate in learning on an equal basis (extra time, assistive technology, alternative assessment formats, modified tasks) — a legal requirement (the Disability Discrimination Act, the Disability Standards for Education). The NCCD is the Nationally Consistent Collection of Data on School Students with Disability, which schools must complete, recording adjustments made and the evidence for them. The statutory bedrock of inclusive practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "governance"
+  ],
+  "pron": "reasonable adjustments and the NCCD /ˈrizənəbəl əˈʤəstmənts ənd ðə ˌɛnsiːsiːˈdiː/",
+  "etymology": "adjustment（调整,拉丁 juxta 靠近→使贴合）——'合理'调整即在不损害标准前提下使学习贴合学生需要;NCCD 为数据收集缩写。",
+  "synonyms": [
+   {
+    "word": "reasonable adjustments",
+    "sentence": "Reasonable adjustments change the access, not the standard, of the learning.",
+    "ipa": "/ˈrizənəbəl əˈʤəstmənts/"
+   },
+   {
+    "word": "access, not advantage",
+    "sentence": "Adjustments give access, not advantage — the same outcome by a fairer route.",
+    "ipa": "/ˈækˌsɛs nɑt ædˈvæntɪʤ/"
+   }
+  ],
+  "collocations": [
+   "make reasonable adjustments",
+   "the NCCD",
+   "the Disability Standards",
+   "access to the curriculum"
+  ],
+  "example": "Giving a student with dyslexia extra time and text-to-speech is a reasonable adjustment — recorded for the NCCD — that changes access, not the standard being assessed.",
+  "links": [
+   {
+    "to": "universal-design-learning",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "student-wellbeing",
+    "rel": "related"
+   },
+   {
+    "to": "reliability-validity",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "eald",
+  "zh": "英语为附加语言/方言的学生（EAL/D）",
+  "pinyin": "EAL/D xuéshēng",
+  "en": "EAL/D learners",
+  "def_zh": "英语为附加语言或方言的学生——母语非英语、正在学习作为学习媒介的英语。教师须区分'语言难度'与'认知难度':不能因英语表达受限而低估其思维能力,须提供语言支架（词汇预教、句式框架、视觉支持、母语资源）同时保持学习目标的挑战度。你自己正是EAL/D背景的教师,对此尤有共情。",
+  "def_en": "Students learning English as an Additional Language or Dialect — whose first language is not English and who are learning English as the medium of instruction. Teachers must separate language difficulty from cognitive difficulty: not underestimate thinking because English expression is limited, and provide language scaffolds (pre-teaching vocabulary, sentence frames, visual support, first-language resources) while keeping the learning goal challenging. As an EAL/D-background teacher yourself, you bring particular empathy here.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "EAL/D learners /ˌiːeɪˈɛl diː ˈlɜːrnərz/",
+  "etymology": "EAL/D = English as an Additional Language or Dialect——'附加'语言强调英语是叠加于母语之上的,尊重已有语言资源。",
+  "synonyms": [
+   {
+    "word": "language scaffolds",
+    "sentence": "Language scaffolds let a student show mathematical thinking English hasn't yet caught up with.",
+    "ipa": "/ˈlæŋɡwɪdʒ ˈskæfoʊldz/"
+   },
+   {
+    "word": "the language demand",
+    "sentence": "Separating the language demand from the cognitive demand keeps assessment fair.",
+    "ipa": "/ðə ˈlæŋɡwɪdʒ dɪˈmænd/"
+   }
+  ],
+  "collocations": [
+   "EAL/D learners",
+   "language vs cognitive demand",
+   "pre-teach the vocabulary",
+   "sentence frames"
+  ],
+  "example": "An EAL/D student who codes brilliantly but writes hesitant English needs sentence frames for the evaluation write-up — support the language, not lower the thinking.",
+  "links": [
+   {
+    "to": "scaffolding",
+    "rel": "related"
+   },
+   {
+    "to": "reliability-validity",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "yiyun-li",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "universal-design-learning",
+  "zh": "通用学习设计（UDL）",
+  "pinyin": "tōngyòng xuéxí shèjì",
+  "en": "Universal Design for Learning (UDL)",
+  "def_zh": "一种预先为所有学习者的多样性而设计的框架,而非事后为个别学生打补丁。三大原则:提供多元的呈现方式（表征）、多元的行动与表达方式、多元的参与投入方式。理念源自建筑无障碍设计（坡道方便所有人,不止轮椅使用者）——好的通用设计减少了事后调整的需要。",
+  "def_en": "A framework for designing upfront for the diversity of all learners, rather than retrofitting for individuals afterwards. Its three principles: provide multiple means of representation, multiple means of action and expression, and multiple means of engagement. The idea comes from accessible architecture (a ramp helps everyone, not only wheelchair users) — good universal design reduces the need for later adjustments.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "Universal Design for Learning /ˌjunəˈvərsəl dɪˈzaɪn fər ˈlərnɪŋ/",
+  "etymology": "universal（普适的,拉丁 universus 整体）——为'所有人'预先设计;借自建筑学的 universal design。",
+  "synonyms": [
+   {
+    "word": "design for the edges",
+    "sentence": "Design for the edges and the middle is included for free.",
+    "ipa": "/dɪˈzaɪn fər ðə ˈɛʤɪz/"
+   },
+   {
+    "word": "the curb-cut effect",
+    "sentence": "The curb-cut effect: a ramp built for wheelchairs helps prams, trolleys and everyone.",
+    "ipa": "/ðə ˈkɜːrbkʌt ˈifɛkt/"
+   }
+  ],
+  "collocations": [
+   "Universal Design for Learning",
+   "multiple means of representation",
+   "design in, not bolt on",
+   "the curb-cut effect"
+  ],
+  "example": "Offering a concept as a video, a diagram and text (multiple representations) is UDL — designed for everyone upfront, so fewer individual adjustments are needed later.",
+  "links": [
+   {
+    "to": "reasonable-adjustments-nccd",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "mayer-multimedia",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "aboriginal-perspectives",
+  "zh": "原住民视角与文化回应式教学",
+  "pinyin": "yuánzhùmín shìjiǎo",
+  "en": "Aboriginal perspectives and culturally responsive teaching",
+  "def_zh": "在教学中真实、尊重地融入原住民与托雷斯海峡岛民的知识、历史与视角(NESA跨课程重点之一),并采用文化回应式教学——将学生的文化背景视为学习的资源而非障碍。'8 Ways'教学框架（讲故事、图像化、非线性、亲身实践等)提供了本土教学法的具体路径。要求教师避免刻板印象、与社区合作。",
+  "def_en": "Authentically and respectfully embedding Aboriginal and Torres Strait Islander knowledge, histories and perspectives in teaching (a NESA cross-curriculum priority), and adopting culturally responsive teaching — treating students' cultural backgrounds as a resource for learning, not a barrier. The '8 Ways' framework (story-sharing, symbols and images, non-linear, land-linked, hands-on, etc.) offers concrete Indigenous pedagogies. It requires teachers to avoid stereotypes and work with community.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "culture"
+  ],
+  "pron": "Aboriginal perspectives and culturally responsive teaching /ˌæbərˈɪʤənəl pərˈspɛktɪvz ənd ˈkəlʧərəˌli rɪˈspɑnsɪv ˈtiʧɪŋ/",
+  "etymology": "perspective 源自拉丁 perspicere（透视）——'视角'即从原住民立场看世界;文化回应即让教学'回应'学生的文化。",
+  "synonyms": [
+   {
+    "word": "culturally responsive teaching",
+    "sentence": "Culturally responsive teaching sees a student's culture as capital, not deficit.",
+    "ipa": "/ˈkəlʧərəˌli rɪˈspɑnsɪv ˈtiʧɪŋ/"
+   },
+   {
+    "word": "the 8 Ways framework",
+    "sentence": "The 8 Ways framework grounds learning in story, symbol, land and hands-on doing.",
+    "ipa": "/ðə weɪz ˈfreɪmˌwərk/"
+   }
+  ],
+  "collocations": [
+   "embed Aboriginal perspectives",
+   "cross-curriculum priority",
+   "the 8 Ways",
+   "work with community"
+  ],
+  "example": "Framing a coding project around local Aboriginal seasonal knowledge, developed with community, embeds perspectives authentically rather than as a tokenistic add-on.",
+  "links": [
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   },
+   {
+    "to": "differentiation",
+    "rel": "related"
+   },
+   {
+    "to": "cultural-heritage",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "trauma-informed-practice",
+  "zh": "创伤知情教育实践",
+  "pinyin": "chuāngshāng zhīqíng jiàoyù shíjiàn",
+  "en": "trauma-informed practice",
+  "def_zh": "认识到许多行为问题源于创伤与压力,以'这孩子经历了什么'取代'这孩子有什么毛病'的视角。它强调安全、可预期的常规、稳定的关系、情绪调节支持——先连接、后纠正。它把行为管理从惩罚转向理解与调节,与创伤心理学、依恋理论一脉相承,是学生福祉的重要维度。",
+  "def_en": "Recognising that much problem behaviour stems from trauma and stress, replacing 'what's wrong with this child?' with 'what happened to this child?'. It emphasises safety, predictable routines, stable relationships and support for emotional regulation — connect before you correct. It shifts behaviour management from punishment to understanding and regulation, of a piece with trauma psychology and attachment theory, and a key dimension of student wellbeing.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "trauma-informed practice /ˈtrɔmə-ˌɪnˈfɔrmd ˈpræktɪs/",
+  "etymology": "trauma 希腊语'伤口'——创伤知情即'知晓伤口的存在'而据以调整回应;informed 见前。",
+  "synonyms": [
+   {
+    "word": "connect before correct",
+    "sentence": "Connect before you correct calms the nervous system before it addresses the behaviour.",
+    "ipa": "/kəˈnɛkt ˌbiˈfɔr kərˈɛkt/"
+   },
+   {
+    "word": "what happened to you",
+    "sentence": "'What happened to you?' replaces 'what's wrong with you?' and changes everything downstream.",
+    "ipa": "/wət ˈhæpənd tɪ ju/"
+   }
+  ],
+  "collocations": [
+   "trauma-informed practice",
+   "connect before correct",
+   "predictable routines",
+   "co-regulation"
+  ],
+  "example": "A student who explodes when rushed may be dysregulated, not defiant — trauma-informed practice offers a predictable routine and a calm-down step before any consequence.",
+  "links": [
+   {
+    "to": "trauma-psychology",
+    "rel": "related"
+   },
+   {
+    "to": "attachment-theory",
+    "rel": "related"
+   },
+   {
+    "to": "behaviour-management",
+    "rel": "related"
+   },
+   {
+    "to": "student-wellbeing",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "student-wellbeing",
+  "zh": "学生福祉与关护义务",
+  "pinyin": "xuéshēng fúzhǐ yǔ guānhù yìwù",
+  "en": "student wellbeing and duty of care",
+  "def_zh": "教师负有法律与专业上的'关护义务'（duty of care）——采取合理措施保护学生免受可预见的伤害,涵盖身体安全、心理健康与儿童保护（强制报告）。学生福祉是有效学习的前提:马斯洛在前,布鲁姆在后——基本安全与归属未满足,认知学习难以发生。APST标准4的核心。",
+  "def_en": "Teachers hold a legal and professional duty of care — taking reasonable steps to protect students from foreseeable harm, spanning physical safety, mental health and child protection (mandatory reporting). Wellbeing is the precondition for effective learning: Maslow before Bloom — without basic safety and belonging, cognitive learning struggles to happen. Central to APST Standard 4.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "governance"
+  ],
+  "pron": "student wellbeing and duty of care /ˈstudənt wɛlˈbiːɪŋ ənd ˈduti əv kɛr/",
+  "etymology": "duty 源自古法语 deu（应尽的,拉丁 debere 亏欠）——'关护义务'即教师亏欠学生的照护责任。",
+  "synonyms": [
+   {
+    "word": "Maslow before Bloom",
+    "sentence": "Maslow before Bloom: a frightened or hungry child cannot climb the cognitive ladder.",
+    "ipa": "/ˈmæzloʊ ˌbiˈfɔr blum/"
+   },
+   {
+    "word": "mandatory reporting",
+    "sentence": "Mandatory reporting makes child protection a legal duty, not a discretionary kindness.",
+    "ipa": "/ˈmændəˌtɔri rɪˈpɔrtɪŋ/"
+   }
+  ],
+  "collocations": [
+   "duty of care",
+   "student wellbeing",
+   "mandatory reporting",
+   "child protection"
+  ],
+  "example": "Noticing and reporting signs a student may be at risk is duty of care — and no lesson plan matters until a child is safe enough to learn.",
+  "links": [
+   {
+    "to": "trauma-informed-practice",
+    "rel": "related"
+   },
+   {
+    "to": "psychological-safety",
+    "rel": "related"
+   },
+   {
+    "to": "motivation-theories",
+    "rel": "related"
+   },
+   {
+    "to": "apst-domains",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "high-impact-teaching",
+  "zh": "高影响教学策略（HITS）",
+  "pinyin": "gāo yǐngxiǎng jiàoxué cèlüè",
+  "en": "High Impact Teaching Strategies (HITS)",
+  "def_zh": "由教育部门综合循证研究提炼的一组已被证明对学习影响最大的教学策略:设定目标、结构化课程、显性教学、示范、协作学习、多元曝光、提问、反馈、元认知策略、差异化教学。它为教师提供了'什么最管用'的循证清单,是备课与专业发展的实用锚。",
+  "def_en": "A set of strategies distilled from evidence research as having the largest proven impact on learning: setting goals, structuring lessons, explicit teaching, worked examples, collaborative learning, multiple exposures, questioning, feedback, metacognitive strategies, and differentiated teaching. It gives teachers an evidence-based shortlist of what works best — a practical anchor for planning and professional development.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "包容性教学 Inclusive Practice"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "High Impact Teaching Strategies /haɪ ˌɪmˈpækt ˈtiʧɪŋ ˈstrætəʤiz/",
+  "etymology": "high impact（高影响）——借自 Hattie 的效应量研究,指对学习'影响量大'的策略;HITS 为其缩写。",
+  "synonyms": [
+   {
+    "word": "what works best",
+    "sentence": "'What works best' is the evidence question HITS tries to answer for busy teachers.",
+    "ipa": "/wət wərks bɛst/"
+   },
+   {
+    "word": "evidence-based strategies",
+    "sentence": "Evidence-based strategies spend a teacher's limited time on the highest-yield moves.",
+    "ipa": "/ˈɛvədəns-beɪst ˈstrætəʤiz/"
+   }
+  ],
+  "collocations": [
+   "the High Impact Teaching Strategies",
+   "evidence-based practice",
+   "effect size",
+   "what works best"
+  ],
+  "example": "Choosing HITS — explicit teaching, worked examples, feedback — for a coding unit means spending your energy on the moves the evidence says move learning most.",
+  "links": [
+   {
+    "to": "instructional-science",
+    "rel": "related"
+   },
+   {
+    "to": "explicit-teaching",
+    "rel": "related"
+   },
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   },
+   {
+    "to": "aitsl",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "primm",
+  "zh": "PRIMM 编程教学法",
+  "pinyin": "PRIMM biānchéng jiàoxuéfǎ",
+  "en": "PRIMM (Predict-Run-Investigate-Modify-Make)",
+  "def_zh": "专为编程教学设计的循序渐进框架:①预测（Predict,阅读代码猜其行为）②运行（Run,实际执行验证预测）③调查（Investigate,追踪代码为何如此运作）④修改（Modify,改动代码达成新目标）⑤创造（Make,从零编写自己的程序)。它先读后写、降低认知负荷,契合你的IST与Game On教学,是计算机教育界的循证明星方法。",
+  "def_en": "A staged framework designed for teaching programming: (1) Predict (read code and guess its behaviour); (2) Run (execute it to test the prediction); (3) Investigate (trace why it works as it does); (4) Modify (change it to meet a new goal); (5) Make (write your own program from scratch). Reading before writing lowers cognitive load, fits your IST and Game On teaching, and is an evidence-based star of computing education.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "PRIMM /prɪm/",
+  "etymology": "PRIMM = Predict/Run/Investigate/Modify/Make 首字母缩略——Sue Sentance 等基于社会建构主义与'先读后写'理念提出。",
+  "synonyms": [
+   {
+    "word": "read before write",
+    "sentence": "Read before write lets novices understand code before facing the blank screen.",
+    "ipa": "/rɛd ˌbiˈfɔr raɪt/"
+   },
+   {
+    "word": "the PRIMM stages",
+    "sentence": "The PRIMM stages walk a learner from predicting to creating, load kept low throughout.",
+    "ipa": "/ðə prɪm ˈsteɪʤɪz/"
+   }
+  ],
+  "collocations": [
+   "the PRIMM approach",
+   "predict, run, investigate, modify, make",
+   "read before write",
+   "start with working code"
+  ],
+  "example": "Teaching a loop with PRIMM: students predict what the code prints, run it, investigate the counter, modify the range, then make their own — understanding before the blank page.",
+  "links": [
+   {
+    "to": "use-modify-create",
+    "rel": "related"
+   },
+   {
+    "to": "worked-examples",
+    "rel": "related"
+   },
+   {
+    "to": "cognitive-load-theory",
+    "rel": "related"
+   },
+   {
+    "to": "notional-machine",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "use-modify-create",
+  "zh": "用-改-创 进阶",
+  "pinyin": "yòng-gǎi-chuàng jìnjiē",
+  "en": "the Use-Modify-Create progression",
+  "def_zh": "计算机教育的能力进阶框架:学生先使用他人的现成作品（Use,如玩/运行一个程序）,再修改它（Modify,调整参数、扩展功能,逐步获得所有权）,最后从零创造自己的作品（Create）。它体现责任逐步移交与支架淡化的理念,尤其契合Scratch、Unity等以'混改'（remix）起步的创作环境。",
+  "def_en": "A capability progression in computing education: students first use others' ready-made artefacts (Use — playing or running a program), then modify them (Modify — tweaking parameters, extending features, gradually gaining ownership), and finally create their own from scratch (Create). It embodies gradual release and fading scaffolds, and fits remix-first creative environments like Scratch and Unity especially well.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "the Use-Modify-Create progression /ðə juz-ˈmɑdəˌfaɪ-kriˈeɪt prəˈgrɛʃən/",
+  "etymology": "由 Lee 等(2011)提出——把计算思维的成长描述为从'用别人的'到'创自己的'三级递进。",
+  "synonyms": [
+   {
+    "word": "remix to create",
+    "sentence": "Remix to create lets ownership grow before originality is demanded.",
+    "ipa": "/ˈriːmɪks tɪ kriˈeɪt/"
+   },
+   {
+    "word": "the ownership gradient",
+    "sentence": "The ownership gradient runs from using code you didn't write to writing code no one has.",
+    "ipa": "/ðə ˈoʊnərˌʃɪp ˈgreɪdiənt/"
+   }
+  ],
+  "collocations": [
+   "Use, Modify, Create",
+   "start by remixing",
+   "grow ownership",
+   "from consumer to creator"
+  ],
+  "example": "In Scratch, students first play a game (Use), then change its speed and sprites (Modify), then build their own (Create) — ownership rising as the scaffold fades.",
+  "links": [
+   {
+    "to": "primm",
+    "rel": "related"
+   },
+   {
+    "to": "constructionism",
+    "rel": "related"
+   },
+   {
+    "to": "gradual-release",
+    "rel": "related"
+   },
+   {
+    "to": "project-based-learning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "unplugged-computing",
+  "zh": "不插电计算机教学",
+  "pinyin": "bù chādiàn jìsuànjī jiàoxué",
+  "en": "unplugged computing",
+  "def_zh": "不用电脑、通过实体活动、游戏与人体演示来教计算机科学概念（用扑克牌教排序算法、用寻宝游戏教二分查找、用人体演示网络路由）。它剥离编程语法的干扰,让学生聚焦概念本身,降低认知负荷,也适合设备不足或作为概念引入。计算思维可以先'离屏'建立。",
+  "def_en": "Teaching computer science concepts without computers, through physical activities, games and kinaesthetic demonstrations (card games for sorting algorithms, a treasure hunt for binary search, students acting out network routing). It strips away the distraction of programming syntax, letting students focus on the concept itself, lowers cognitive load, and suits low-resource settings or concept introductions. Computational thinking can be built off-screen first.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "unplugged computing /ʌnˈplʌɡd kəmˈpjutɪŋ/",
+  "etymology": "unplugged（拔掉电源的）——'不插电'即脱离电脑;源自 Bell 等《CS Unplugged》项目。",
+  "synonyms": [
+   {
+    "word": "CS unplugged",
+    "sentence": "CS unplugged teaches sorting with a deck of cards before a line of code.",
+    "ipa": "/siz ʌnˈplʌɡd/"
+   },
+   {
+    "word": "kinaesthetic computing",
+    "sentence": "Kinaesthetic computing lets students be the algorithm before they program it.",
+    "ipa": "/ˌkɪnəsˈθɛtɪk kəmˈpjutɪŋ/"
+   }
+  ],
+  "collocations": [
+   "an unplugged activity",
+   "concept before code",
+   "CS Unplugged",
+   "off-screen learning"
+  ],
+  "example": "Teaching binary search unplugged — students guess a number as you say 'higher/lower' — builds the concept before any syntax gets in the way.",
+  "links": [
+   {
+    "to": "computational-thinking",
+    "rel": "related"
+   },
+   {
+    "to": "cognitive-load-theory",
+    "rel": "related"
+   },
+   {
+    "to": "explicit-teaching",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "pair-programming-pedagogy",
+  "zh": "结对编程（教学法）",
+  "pinyin": "jiéduì biānchéng",
+  "en": "pair programming (as pedagogy)",
+  "def_zh": "两名学生共用一台电脑协作编程:一人'驾驶'（driver,敲代码）,一人'领航'（navigator,审阅思路与错误),定时轮换。作为教学法,它促进同伴学习、出声思考、错误讨论与坚持,降低编程的挫败与孤立感,尤其有助于弱势与女生群体的参与。是协作学习在计算机课堂的具体形态。",
+  "def_en": "Two students collaborating at one computer: one 'driving' (typing the code), one 'navigating' (reviewing the thinking and catching errors), swapping roles on a timer. As pedagogy, it fosters peer learning, think-alouds, discussion of errors and persistence, reducing the frustration and isolation of programming — especially helping the participation of disadvantaged students and girls. Collaborative learning in concrete classroom form.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "pair programming /pɛr ˈproʊˌgræmɪŋ/",
+  "etymology": "pair（一对）+ programming——源自敏捷软件开发的实践,被引入教学以促进协作与学习。",
+  "synonyms": [
+   {
+    "word": "driver and navigator",
+    "sentence": "The driver and navigator split typing from thinking so neither works alone.",
+    "ipa": "/ˈdraɪvər ənd ˈnævəˌgeɪtər/"
+   },
+   {
+    "word": "collaborative coding",
+    "sentence": "Collaborative coding turns a solitary struggle into a shared, talkative one.",
+    "ipa": "/kəˈlæbərˌeɪtɪv ˈkoʊdɪŋ/"
+   }
+  ],
+  "collocations": [
+   "pair programming",
+   "driver and navigator",
+   "swap roles",
+   "collaborative learning"
+  ],
+  "example": "Pairing a confident coder as navigator with a hesitant driver spreads skill and confidence — pair programming as a deliberate pedagogy, not just a seating plan.",
+  "links": [
+   {
+    "to": "psychological-safety",
+    "rel": "related"
+   },
+   {
+    "to": "zone-of-proximal-development",
+    "rel": "related"
+   },
+   {
+    "to": "impro-status",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "notional-machine",
+  "zh": "概念机器与编程迷思",
+  "pinyin": "gàiniàn jīqì yǔ biānchéng mísī",
+  "en": "the notional machine and programming misconceptions",
+  "def_zh": "'概念机器'是学生心中对'计算机如何执行代码'的心智模型。许多编程困难源于这个模型错误或缺失(以为变量像标签能同时存多值、以为代码会'理解'意图、不懂执行是逐行顺序的)。教学的关键任务之一是显性地建立正确的概念机器,并主动诊断与纠正常见迷思概念。",
+  "def_en": "The 'notional machine' is a student's mental model of how a computer executes code. Many programming difficulties stem from this model being wrong or missing (thinking a variable is a label holding many values at once, that code 'understands' intent, or not grasping that execution is line-by-line and sequential). A key teaching task is to build the correct notional machine explicitly, and to actively diagnose and correct common misconceptions.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "the notional machine /ðə ˈnoʊʃənəl məˈʃin/",
+  "etymology": "notional（概念上的,拉丁 notio 概念）——'概念机器'是 du Boulay(1986)提出的、学生想象中的抽象执行机器。",
+  "synonyms": [
+   {
+    "word": "the mental model of execution",
+    "sentence": "The mental model of execution is what a student thinks the computer is doing, right or wrong.",
+    "ipa": "/ðə ˈmɛntəl ˈmɑdəl əv ˌɛksəˈkjuʃən/"
+   },
+   {
+    "word": "misconception diagnosis",
+    "sentence": "Misconception diagnosis finds the broken mental model before it breaks the next program.",
+    "ipa": "/ˌmɪskənˈsɛpʃən ˌdaɪəgˈnoʊsəs/"
+   }
+  ],
+  "collocations": [
+   "the notional machine",
+   "trace the execution",
+   "common misconceptions",
+   "the mental model"
+  ],
+  "example": "A student who can't grasp why a swap needs a temp variable holds a flawed notional machine — making execution visible, line by line, repairs the model.",
+  "links": [
+   {
+    "to": "diagnostic-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "debugging-as-skill",
+    "rel": "related"
+   },
+   {
+    "to": "cognitive-load-theory",
+    "rel": "related"
+   },
+   {
+    "to": "computational-thinking",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "debugging-as-skill",
+  "zh": "调试作为可教的技能",
+  "pinyin": "tiáoshì zuòwéi kějiào de jìnéng",
+  "en": "debugging as a teachable skill",
+  "def_zh": "调试（找出并修正程序错误）不是天赋,而是可显性教授的系统技能:复现错误、阅读报错信息、缩小范围、提出假设、逐步排查、追踪变量值。它培养的是坚持、逻辑推理与'错误是学习机会'的成长心态。刻意教调试(而非只教写正确代码),能显著降低学生的编程挫败感。",
+  "def_en": "Debugging (finding and fixing errors in programs) is not a talent but a systematic skill that can be taught explicitly: reproduce the error, read the error message, narrow it down, form a hypothesis, test step by step, trace variable values. It cultivates persistence, logical reasoning and the growth mindset that errors are learning opportunities. Deliberately teaching debugging — not just how to write correct code — markedly lowers students' programming frustration.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "debugging as a teachable skill /diˈbəgɪŋ ɛz ə ˈtiʧəbəl skɪl/",
+  "etymology": "debug（除虫）——1947年葛丽丝·霍普在继电器里发现真飞蛾的典故;调试即'除去程序中的虫'。",
+  "synonyms": [
+   {
+    "word": "systematic debugging",
+    "sentence": "Systematic debugging replaces random poking with a reproducible hunt.",
+    "ipa": "/ˌsɪstəˈmætɪk diˈbəgɪŋ/"
+   },
+   {
+    "word": "errors as learning",
+    "sentence": "Treating errors as learning turns the red text from a verdict into a clue.",
+    "ipa": "/ˈɛrərz ɛz ˈlərnɪŋ/"
+   }
+  ],
+  "collocations": [
+   "teach debugging explicitly",
+   "read the error message",
+   "narrow it down",
+   "errors are opportunities"
+  ],
+  "example": "Modelling how you debug — reading the error, forming a hypothesis, checking one thing — teaches a transferable skill, and reframes bugs as puzzles rather than failures.",
+  "links": [
+   {
+    "to": "notional-machine",
+    "rel": "related"
+   },
+   {
+    "to": "sherlock-deduction",
+    "rel": "related"
+   },
+   {
+    "to": "computational-thinking",
+    "rel": "related"
+   },
+   {
+    "to": "atomic-habits",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "constructionism",
+  "zh": "建造主义",
+  "pinyin": "jiànzào zhǔyì",
+  "en": "constructionism (Papert)",
+  "def_zh": "派普特(Scratch与LOGO之父)的学习理论:当学生亲手建造一个对自己有意义、可与他人分享的公开作品（一个游戏、一个机器人、一个动画）时,学习最为深刻。它是皮亚杰建构主义（学习是在头脑中建构知识）的延伸——不仅在脑中建构,更通过在世界中'建造'来建构。你的Game On课程正是建造主义的实践。",
+  "def_en": "Seymour Papert's theory (father of Scratch and LOGO): learning is deepest when students build a public artefact meaningful to them and shareable with others — a game, a robot, an animation. It extends Piaget's constructivism (learning as constructing knowledge in the mind) — not only constructing in the head, but by building in the world. Your Game On course is constructionism in practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology",
+   "ideas"
+  ],
+  "pron": "constructionism /kənˈstrʌkʃənɪzəm/",
+  "etymology": "construction（建造,拉丁 struere 堆建）——'建造'主义强调通过实际建造作品来学习,与 constructivism（建构主义）一字之差、一脉相承。",
+  "synonyms": [
+   {
+    "word": "learning by making",
+    "sentence": "Learning by making anchors an abstract idea in a thing you built and can show.",
+    "ipa": "/ˈlərnɪŋ baɪ ˈmeɪkɪŋ/"
+   },
+   {
+    "word": "the shareable artefact",
+    "sentence": "The shareable artefact gives learning an audience and the learner a stake.",
+    "ipa": "/ðə ˈʃɛərəbəl ˈɑːrtɪfækt/"
+   }
+  ],
+  "collocations": [
+   "learning by making",
+   "a personally meaningful project",
+   "the public artefact",
+   "hard fun"
+  ],
+  "example": "A student debugging their own game until it works embodies constructionism — the meaningful, shareable artefact makes the abstract logic worth mastering.",
+  "links": [
+   {
+    "to": "project-based-learning",
+    "rel": "related"
+   },
+   {
+    "to": "use-modify-create",
+    "rel": "related"
+   },
+   {
+    "to": "authentic-assessment",
+    "rel": "related"
+   },
+   {
+    "to": "intrinsic-motivation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "tpack",
+  "zh": "整合技术的学科教学知识（TPACK）",
+  "pinyin": "zhěnghé jìshù de xuékē jiàoxué zhīshi",
+  "en": "TPACK (technological pedagogical content knowledge)",
+  "def_zh": "描述有效技术整合所需的三类知识及其交集:学科内容知识(CK)、教学法知识(PK)、技术知识(TK),三者交叠处即TPACK——知道用什么技术、以什么教法、教什么内容最有效。它提醒:光有技术工具不够,须让技术服务于特定内容的特定教法。是数字教学与你TAS教学的核心框架。",
+  "def_en": "A framework describing the three knowledge types (and their intersections) needed for effective technology integration: Content Knowledge (CK), Pedagogical Knowledge (PK) and Technological Knowledge (TK), overlapping at TPACK — knowing which technology, with which pedagogy, teaches which content best. It warns that having the tool is not enough; technology must serve a specific pedagogy for specific content. A core framework for digital teaching and your TAS practice.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "TPACK /ˈtiːpæk/",
+  "etymology": "TPACK = Technological Pedagogical Content Knowledge——Mishra 与 Koehler(2006)在舒尔曼PCK基础上加入技术维度。",
+  "synonyms": [
+   {
+    "word": "technology integration",
+    "sentence": "Technology integration works when the tool, the method and the content reinforce each other.",
+    "ipa": "/tɛkˈnɑləʤi ˌɪnəˈgreɪʃən/"
+   },
+   {
+    "word": "more than the tool",
+    "sentence": "More than the tool: TPACK asks what pedagogy and content justify using it at all.",
+    "ipa": "/mɔr ðən ðə tul/"
+   }
+  ],
+  "collocations": [
+   "the TPACK framework",
+   "technology integration",
+   "content, pedagogy, technology",
+   "the sweet spot"
+  ],
+  "example": "Using a game engine to teach loops isn't automatically good — TPACK asks whether that technology, with your pedagogy, teaches that content better than the alternatives.",
+  "links": [
+   {
+    "to": "samr-model",
+    "rel": "related"
+   },
+   {
+    "to": "ai-in-education",
+    "rel": "related"
+   },
+   {
+    "to": "mayer-multimedia",
+    "rel": "related"
+   },
+   {
+    "to": "design-thinking",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "samr-model",
+  "zh": "SAMR 技术整合模型",
+  "pinyin": "SAMR jìshù zhěnghé móxíng",
+  "en": "the SAMR model",
+  "def_zh": "评估课堂技术整合深度的四级模型:替代（Substitution,技术只替代旧工具无功能改变,如用平板读PDF代替纸)、增强（Augmentation,有功能改进)、修改（Modification,技术使任务被显著重新设计)、重塑（Redefinition,技术使原本不可能的任务成为可能)。前两级'增强'现有教学,后两级'转化'教学。目标是走向转化而非停留在替代。",
+  "def_en": "A four-level model for gauging the depth of classroom technology integration: Substitution (tech replaces an old tool with no functional change, e.g. reading a PDF on a tablet instead of paper), Augmentation (a functional improvement), Modification (tech significantly redesigns the task), Redefinition (tech makes possible what was previously impossible). The first two enhance existing teaching, the latter two transform it. The aim is to move toward transformation, not linger at substitution.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "计算机与技术教育 Computing & Technology Education"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "technology"
+  ],
+  "pron": "the SAMR model /ðə ˈsæmər ˈmɑdəl/",
+  "etymology": "SAMR = Substitution/Augmentation/Modification/Redefinition 首字母缩略——Ruben Puentedura 提出。",
+  "synonyms": [
+   {
+    "word": "enhancement vs transformation",
+    "sentence": "Enhancement vs transformation is the line SAMR draws between using tech and being changed by it.",
+    "ipa": "/ɛnˈhænsmənt ˈvərsəz ˌtrænsfərˈmeɪʃən/"
+   },
+   {
+    "word": "beyond substitution",
+    "sentence": "Beyond substitution is where technology starts to earn its place in the lesson.",
+    "ipa": "/bɪɔnd ˌsəbstɪˈtuʃən/"
+   }
+  ],
+  "collocations": [
+   "the SAMR model",
+   "substitution to redefinition",
+   "enhancement vs transformation",
+   "move up the levels"
+  ],
+  "example": "Having students collaboratively build and publish a game for a global audience is Redefinition — SAMR's top level, doing what no pre-digital lesson could.",
+  "links": [
+   {
+    "to": "tpack",
+    "rel": "related"
+   },
+   {
+    "to": "ai-in-education",
+    "rel": "related"
+   },
+   {
+    "to": "authentic-assessment",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "reflective-practice",
+  "zh": "反思性实践",
+  "pinyin": "fǎnsīxìng shíjiàn",
+  "en": "reflective practice (Schön)",
+  "def_zh": "舍恩:专业人士通过反思其实践而持续成长。两种反思:行动中反思(reflection-in-action,教学当下的即时调整)与行动后反思(reflection-on-action,课后回顾分析)。反思性实践把经验转化为学习——'经验本身不会自动带来成长,反思才会'。它是GTPA反思实践、教师专业发展与'终身学习者'身份的核心。",
+  "def_en": "Donald Schön: professionals grow by reflecting on their practice. Two kinds: reflection-in-action (adjusting in the moment while teaching) and reflection-on-action (reviewing and analysing afterwards). Reflective practice turns experience into learning — 'experience alone does not bring growth; reflection does'. It is central to the GTPA's reflecting practice, teacher professional development, and the identity of the lifelong learner.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "反思性实践 Reflective Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "ideas"
+  ],
+  "pron": "reflective practice /rɪˈflɛktɪv ˈpræktɪs/",
+  "etymology": "reflect 源自拉丁 reflectere（回弯、折返）——反思即'思想折返回看'自身实践;Schön《The Reflective Practitioner》(1983)奠基。",
+  "synonyms": [
+   {
+    "word": "reflection-in and on action",
+    "sentence": "Reflection-in-action fixes the lesson live; reflection-on-action improves the next one.",
+    "ipa": "/rɪˈflɛkʃən-ɪn ənd ɔn ˈækʃən/"
+   },
+   {
+    "word": "the reflective practitioner",
+    "sentence": "The reflective practitioner treats every lesson as data on their own teaching.",
+    "ipa": "/ðə rɪˈflɛktɪv prækˈtɪʃənər/"
+   }
+  ],
+  "collocations": [
+   "reflection-in-action",
+   "reflection-on-action",
+   "critically reflect",
+   "turn experience into learning"
+  ],
+  "example": "Noticing mid-lesson that your explanation confused students and switching to an example is reflection-in-action; writing afterwards about why it failed is reflection-on-action.",
+  "links": [
+   {
+    "to": "gtpa-five-practices",
+    "rel": "related"
+   },
+   {
+    "to": "professional-learning-community",
+    "rel": "related"
+   },
+   {
+    "to": "assessment-as-learning",
+    "rel": "related"
+   },
+   {
+    "to": "ultralearning",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "professional-learning-community",
+  "zh": "专业学习共同体（PLC）",
+  "pinyin": "zhuānyè xuéxí gòngtóngtǐ",
+  "en": "the professional learning community (PLC)",
+  "def_zh": "教师定期协作、共同探究如何提升学生学习的团队实践:分享数据与作品、共同备课与评分调节、互相观课、循证改进。它把教学从孤立的个人劳动转为集体专业学习,呼应APST标准7(与同事专业互动)。'没有人比我们所有人更聪明'——PLC是教师持续成长最有力的组织形式之一。",
+  "def_en": "A team practice where teachers collaborate regularly, jointly inquiring into how to improve student learning: sharing data and work, planning and moderating together, observing each other, improving on evidence. It turns teaching from isolated individual labour into collective professional learning, echoing APST Standard 7 (engaging professionally with colleagues). 'None of us is as smart as all of us' — the PLC is among the most powerful organisational forms for teachers' ongoing growth.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "反思性实践 Reflective Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "org"
+  ],
+  "pron": "the professional learning community /ðə prəˈfɛʃənəl ˈlərnɪŋ kəmˈjunɪti/",
+  "etymology": "community 源自拉丁 communis（共同）——专业'共同体'即以共同探究为纽带的教师团队。",
+  "synonyms": [
+   {
+    "word": "collaborative inquiry",
+    "sentence": "Collaborative inquiry makes improving teaching a team sport with shared evidence.",
+    "ipa": "/kəˈlæbərˌeɪtɪv ˌɪnkˈwaɪˌri/"
+   },
+   {
+    "word": "collective efficacy",
+    "sentence": "Collective efficacy — a staff's shared belief they can lift learning — is among the largest school-level effects.",
+    "ipa": "/kəˈlɛktɪv ˈɛfɪkəsi/"
+   }
+  ],
+  "collocations": [
+   "a professional learning community",
+   "collaborative inquiry",
+   "shared data and practice",
+   "collective efficacy"
+  ],
+  "example": "A TAS faculty PLC that moderates coding projects together and shares what worked turns each teacher's trial into everyone's learning.",
+  "links": [
+   {
+    "to": "reflective-practice",
+    "rel": "related"
+   },
+   {
+    "to": "moderation",
+    "rel": "related"
+   },
+   {
+    "to": "psychological-safety",
+    "rel": "related"
+   },
+   {
+    "to": "high-conflict",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "mentoring",
+  "zh": "指导与被指导",
+  "pinyin": "zhǐdǎo yǔ bèi zhǐdǎo",
+  "en": "mentoring (the supervising teacher)",
+  "def_zh": "经验丰富的教师(mentor/supervising teacher)通过观课、反馈、示范、协同备课与情感支持,引导新手教师成长。对职前教师而言,指导教师既是实习的评估者也是最重要的学习资源。好的指导平衡'支持'与'挑战',提供具体可行的反馈而非泛泛评价——它本身就是一种教学。",
+  "def_en": "An experienced teacher (mentor / supervising teacher) guiding a novice's growth through observation, feedback, modelling, co-planning and emotional support. For a preservice teacher, the supervising teacher is both the assessor of the placement and its most important learning resource. Good mentoring balances support with challenge and gives specific, actionable feedback rather than vague appraisal — it is itself a form of teaching.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "反思性实践 Reflective Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "org"
+  ],
+  "pron": "mentoring /ˈmɛntərɪŋ/",
+  "etymology": "mentor 源自《奥德赛》中特勒马科斯的导师门托尔(实为雅典娜化身)——'导师'即以智慧引路者。",
+  "synonyms": [
+   {
+    "word": "the supervising teacher",
+    "sentence": "The supervising teacher watches from the back and turns what they saw into your next step.",
+    "ipa": "/ðə ˈsupərˌvaɪzɪŋ ˈtiʧər/"
+   },
+   {
+    "word": "support and challenge",
+    "sentence": "Good mentoring pairs support with challenge, so comfort never becomes coasting.",
+    "ipa": "/səˈpɔrt ənd ˈʧælənʤ/"
+   }
+  ],
+  "collocations": [
+   "the supervising teacher",
+   "observation and feedback",
+   "support and challenge",
+   "co-planning"
+  ],
+  "example": "A mentor who says 'your explanation lost them at the second step — try a worked example there' gives the specific, actionable feedback that grows a new teacher.",
+  "links": [
+   {
+    "to": "professional-experience",
+    "rel": "related"
+   },
+   {
+    "to": "visible-learning-feedback",
+    "rel": "related"
+   },
+   {
+    "to": "nouwen-wounded-healer",
+    "rel": "related"
+   },
+   {
+    "to": "situational-leadership",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "professional-ethics-conduct",
+  "zh": "专业伦理与行为准则",
+  "pinyin": "zhuānyè lúnlǐ yǔ xíngwéi zhǔnzé",
+  "en": "professional ethics and codes of conduct",
+  "def_zh": "教师作为受托于学生、家长与社会的专业人士,须遵守的伦理与行为规范:关护义务、保密、专业边界、公平无偏、诚信、与家长社区恰当互动、维护职业声誉。它涵盖强制报告、隐私、社交媒体使用等具体准则。专业性不仅是能力,更是可信赖的品行——APST标准7与教师认证的伦理维度。",
+  "def_en": "The ethical and behavioural standards teachers must uphold as professionals entrusted by students, parents and society: duty of care, confidentiality, professional boundaries, fairness and impartiality, integrity, appropriate engagement with parents and community, and safeguarding the profession's reputation. It covers concrete codes on mandatory reporting, privacy and social-media use. Professionalism is not only competence but trustworthy conduct — the ethical dimension of APST Standard 7 and teacher accreditation.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "反思性实践 Reflective Practice"
+   }
+  ],
+  "themes": [
+   "teaching",
+   "governance"
+  ],
+  "pron": "professional ethics and codes of conduct /prəˈfɛʃənəl ˈɛθɪks ənd koʊdz əv ˈkɑndəkt/",
+  "etymology": "ethics 源自希腊 ethos（品性、习俗）——伦理即'为人处世的品性';conduct 源自拉丁 conducere（引导）——行为即'如何引导自己'。",
+  "synonyms": [
+   {
+    "word": "the code of conduct",
+    "sentence": "The code of conduct draws the boundary lines a professional does not cross.",
+    "ipa": "/ðə koʊd əv ˈkɑndəkt/"
+   },
+   {
+    "word": "professional boundaries",
+    "sentence": "Professional boundaries protect the student, the teacher and the trust between them.",
+    "ipa": "/prəˈfɛʃənəl ˈbaʊndəriz/"
+   }
+  ],
+  "collocations": [
+   "the code of conduct",
+   "professional boundaries",
+   "confidentiality",
+   "fairness and integrity"
+  ],
+  "example": "Keeping a struggling student's home circumstances confidential, while still reporting a genuine safety concern, is the ethical balance professional conduct requires.",
+  "links": [
+   {
+    "to": "student-wellbeing",
+    "rel": "related"
+   },
+   {
+    "to": "nesa-accreditation",
+    "rel": "related"
+   },
+   {
+    "to": "bingham-rule-of-law",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "parent-carer-engagement",
+  "zh": "家校沟通与协作",
+  "pinyin": "jiāxiào gōutōng yǔ xiézuò",
+  "en": "parent and carer engagement",
+  "def_zh": "与家长/照护者建立尊重、双向的伙伴关系,共同支持学生学习与福祉:清晰及时的沟通、汇报学习进展、倾听家庭视角、尊重文化多样性、在敏感对话中保持专业。研究表明家庭参与显著影响学生成效。对EAL/D与多元文化家庭,须注意语言与文化的可及性。APST标准7的组成部分。",
+  "def_en": "Building respectful, two-way partnerships with parents and carers to jointly support students' learning and wellbeing: clear and timely communication, reporting on progress, listening to the family's perspective, respecting cultural diversity, and staying professional in sensitive conversations. Research shows family engagement significantly affects student outcomes. For EAL/D and culturally diverse families, attend to linguistic and cultural accessibility. Part of APST Standard 7.",
+  "sources": [
+   {
+    "book": "teach",
+    "chapter": "反思性实践 Reflective Practice"
+   }
+  ],
+  "themes": [
+   "teaching"
+  ],
+  "pron": "parent and carer engagement /ˈpɛrənt ənd ˈkɛərər ɛnˈgeɪʤmənt/",
+  "etymology": "engage 源自古法语 engager（使承诺、结约,gage 抵押）——'engagement'即建立相互投入的关系。",
+  "synonyms": [
+   {
+    "word": "the home-school partnership",
+    "sentence": "The home-school partnership treats parents as allies in learning, not just recipients of grades.",
+    "ipa": "/ðə hoʊm-skul ˈpɑrtnərˌʃɪp/"
+   },
+   {
+    "word": "two-way communication",
+    "sentence": "Two-way communication listens to the family's knowledge, not only broadcasts the school's.",
+    "ipa": "/tu-weɪ kəmˌjunəˈkeɪʃən/"
+   }
+  ],
+  "collocations": [
+   "parent-teacher partnership",
+   "report on progress",
+   "the home-school link",
+   "culturally responsive communication"
+  ],
+  "example": "Framing a difficult conversation as 'how can we together help your child' — and offering an interpreter for an EAL/D family — turns a report into genuine parent engagement.",
+  "links": [
+   {
+    "to": "eald",
+    "rel": "related"
+   },
+   {
+    "to": "aboriginal-perspectives",
+    "rel": "related"
+   },
+   {
+    "to": "high-conflict",
+    "rel": "related"
+   },
+   {
+    "to": "carnegie-influence",
+    "rel": "related"
+   }
+  ]
+ }
+]

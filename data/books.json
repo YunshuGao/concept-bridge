@@ -668,6 +668,23 @@
     "看懂财报 Reading Financial Statements",
     "金融估值模型 Valuation Modelling"
    ]
+  },
+  {
+   "id": "teach",
+   "title_zh": "教学专业实践（GTPA·教师专业标准·计算机教育教学法）",
+   "title_en": "Teaching Professional Practice — GTPA, teacher standards & computing pedagogy",
+   "format": "framework",
+   "path": "-",
+   "phase": 9,
+   "status": "complete",
+   "chapters": [
+    "GTPA 与教师专业标准 GTPA & Teacher Standards",
+    "教学设计与教学法 Planning & Pedagogy",
+    "评估与反馈 Assessment & Feedback",
+    "包容性教学 Inclusive Practice",
+    "计算机与技术教育 Computing & Technology Education",
+    "反思性实践 Reflective Practice"
+   ]
   }
  ]
 }
