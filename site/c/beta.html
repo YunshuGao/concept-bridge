@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>贝塔系数 · beta · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Valuation 估值</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>贝塔系数 <span class="pinyin">bèitǎ xìshù</span><span class="en">beta</span></h1>
+<p class="meta">🔊 <span class="ipa">beta /ˈbeɪtə/</span></p>
+<div class="card"><p class="zh">衡量个股回报相对整体市场波动的敏感度:β=1 随市场同步，β&gt;1 波动更大（更激进），β&lt;1 更稳。它是 CAPM 中唯一被定价的风险——代表无法通过分散消除的系统性风险。</p><p class="endef">A measure of a stock&#x27;s return sensitivity to the overall market: beta 1 moves with the market, above 1 swings more (aggressive), below 1 is steadier. It is the only risk CAPM prices — representing the systematic risk that diversification cannot remove.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>希腊字母 β——统计回归中市场因子的斜率系数，金融借用以名“市场敏感度”。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>market sensitivity</b> <span class='ipa'>/ˈmɑrkɪt ˌsɛnsɪˈtɪvɪti/</span><br><em>Market sensitivity tells you how a stock trembles when the index shakes.</em></li><li>▸ <b>systematic risk</b> <span class='ipa'>/ˌsɪstəˈmætɪk rɪsk/</span><br><em>Systematic risk is the part of volatility no diversification can launder away.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ a high-beta stock</li><li>▸ beta of 1.2</li><li>▸ levered vs asset beta</li><li>▸ defensive low-beta names</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>In a downturn, high-beta cyclicals fall hardest while low-beta utilities hold up — beta is the market&#x27;s amplification factor.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/capital-asset-pricing-model.html">资本资产定价模型 · the CAPM</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/diversification.html">分散化 · diversification</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/cost-of-equity.html">股权成本 · the cost of equity</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/cost-of-equity.html">股权成本 · the cost of equity</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/capital-asset-pricing-model.html">资本资产定价模型 · the CAPM</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/diversification.html">分散化 · diversification</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/sharpe-ratio.html">夏普比率 · the Sharpe ratio</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Valuation 估值</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

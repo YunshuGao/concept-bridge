@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>专家与通才 · the generalist problem-solver · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">The Consulting Method 咨询方法</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>专家与通才 <span class="pinyin">zhuānjiā yǔ tōngcái</span><span class="en">the generalist problem-solver</span></h1>
+<p class="meta">🔊 <span class="ipa">generalist problem-solver /ˈʤɛnərəlɪst ˈprɑbləm-ˈsɑlvər/</span></p>
+<div class="card"><p class="zh">咨询的独特价值主张:训练有素的结构化思考者，即便非行业专家，也能靠方法（拆解、假设、类比、快速学习）在陌生领域快速产出洞见。通才用方法弥补知识，专家用知识深挖——两者互补。</p><p class="endef">Consulting&#x27;s distinctive proposition: a trained structured thinker, even without industry expertise, can produce insight fast in an unfamiliar field through method — decomposition, hypotheses, analogy, rapid learning. The generalist substitutes method for knowledge; the expert digs deeper with it. The two are complementary.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>generalist 源自拉丁 generalis（属于全类的，genus 类）——通才即“跨类通用”者，与 specialist（专于一类）相对。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>structured problem-solving</b> <span class='ipa'>/ˈstrəkʧərd ˈprɑbləm-ˈsɑlvɪŋ/</span><br><em>Structured problem-solving is the generalist&#x27;s replacement for domain memory.</em></li><li>▸ <b>the T-shaped professional</b> <span class='ipa'>/ðə ti-ʃeɪpt prəˈfɛʃənəl/</span><br><em>The T-shaped professional pairs broad method with one deep spike.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ a fresh pair of eyes</li><li>▸ structured problem-solving</li><li>▸ T-shaped skills</li><li>▸ method over memory</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>A generalist team cracked a chemicals problem the insiders couldn&#x27;t — not by knowing more chemistry, but by asking the structured questions insiders had stopped asking.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>通才的风险是“懂皮毛的自负”——好的通才始终配合行业专家，用方法组织专家的知识，而非替代它。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/first-principles-thinking.html">第一性原理思考 · first-principles thinking</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/synthesis.html">综合 · synthesis (vs analysis)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/munger-mental-models.html">芒格与思维模型 · Charlie Munger: the latticework of mental models</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/first-principles-thinking.html">第一性原理思考 · first-principles thinking</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz The Consulting Method 咨询方法</p>
+<p><a class="tag" href="../themes.html#consulting">#consulting</a><a class="tag" href="../themes.html#ideas">#ideas</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

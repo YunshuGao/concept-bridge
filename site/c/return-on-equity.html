@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>净资产收益率 · return on equity (ROE) · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Valuation 估值</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>净资产收益率 <span class="pinyin">jìngzīchǎn shōuyìlǜ</span><span class="en">return on equity (ROE)</span></h1>
+<p class="meta">🔊 <span class="ipa">return on equity /rɪˈtərn ɔn ˈɛkwəti/</span></p>
+<div class="card"><p class="zh">净利润除以股东权益——衡量股东每投入一元自有资本获得的回报。高 ROE 可能来自真实的经营优势，也可能来自高杠杆的放大。杜邦分析把它拆成利润率、资产周转、权益乘数三部分以辨真伪。</p><p class="endef">Net profit divided by shareholders&#x27; equity — the return earned on each dollar of shareholders&#x27; own capital. High ROE can reflect genuine operating strength or merely amplification by leverage. DuPont analysis splits it into margin, asset turnover and the equity multiplier to tell which.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>见 cost-of-equity；ROE 即“股东这份 equity 每年生出的回报率”。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>shareholder return on capital</b> <span class='ipa'>/ˈʃɛˌrhoʊldər rɪˈtərn ɔn ˈkæpɪtəl/</span><br><em>Shareholder return on capital flatters itself when debt does the lifting.</em></li><li>▸ <b>levered return</b> <span class='ipa'>/ˈlɛvərd rɪˈtərn/</span><br><em>A levered return can look brilliant right up until the cycle turns.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ a high ROE</li><li>▸ leverage flatters ROE</li><li>▸ the DuPont decomposition</li><li>▸ return on tangible equity</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Two firms both post 20% ROE — but DuPont reveals one earns it on operations and the other borrowed its way there, and only one is safe.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>ROE 会被杠杆美化:借更多债、缩小股权基数即可抬高 ROE，却同时放大风险——单看 ROE 会误判，须配合 ROIC 与负债率。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/dupont-analysis.html">杜邦分析 · the DuPont analysis</a></li><li><span class="rel">对比 contrast</span> <a class="node" href="../c/return-on-invested-capital.html">投入资本回报率 · return on invested capital (ROIC)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/leverage.html">财务杠杆 · financial leverage</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/dupont-analysis.html">杜邦分析 · the DuPont analysis</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Valuation 估值</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

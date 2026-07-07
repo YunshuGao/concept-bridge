@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>产品市场契合 · product-market fit (PMF) · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Growth &amp; Frameworks 增长与框架</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>产品市场契合 <span class="pinyin">chǎnpǐn shìchǎng qìhé</span><span class="en">product-market fit (PMF)</span></h1>
+<p class="meta">🔊 <span class="ipa">product-market fit /ˈprɑdəkt-ˈmɑrkɪt fɪt/</span></p>
+<div class="card"><p class="zh">产品恰好满足了一个强需求市场，以致增长开始自我拉动——用户留存、口碑、拉动式需求。达到 PMF 前，唯一要务是寻找它；达到后，重心转向增长。创业的分水岭。</p><p class="endef">The point where a product so well satisfies a strong-demand market that growth starts pulling itself — retention holds, word of mouth spreads, demand pulls. Before PMF the only job is to find it; after PMF the job becomes growth. The watershed of a startup.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>由投资人 Marc Andreessen 普及——“市场拉着产品从你手里跑”的那一刻，是他给创业者的唯一北极星。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>the pull</b> <span class='ipa'>/ðə pʊl/</span><br><em>You feel the pull of product-market fit; you don&#x27;t have to argue for it.</em></li><li>▸ <b>retention curve</b> <span class='ipa'>/riˈtɛnʃən kərv/</span><br><em>A retention curve that flattens above zero is PMF&#x27;s clearest fingerprint.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ reach product-market fit</li><li>▸ the market pulls the product</li><li>▸ retention as the proof</li><li>▸ before and after PMF</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Founders chasing growth before product-market fit pour fuel on a fire that isn&#x27;t lit — the retention curve tells the truth the pitch deck won&#x27;t.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/jobs-to-be-done.html">用户目标理论 · jobs to be done (JTBD)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/churn-retention.html">流失与留存 · churn and retention</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/lean-startup.html">精益创业 · the lean startup</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/cohort-analysis.html">队列分析 · cohort analysis</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/focus-strategy.html">专注战略 · focus (niche) strategy</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/value-proposition.html">价值主张 · the value proposition</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/jobs-to-be-done.html">用户目标理论 · jobs to be done (JTBD)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/lean-startup.html">精益创业 · the lean startup</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/mvp.html">最小可行产品 · the minimum viable product (MVP)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/north-star-metric.html">北极星指标 · the north star metric</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/churn-retention.html">流失与留存 · churn and retention</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/cohort-analysis.html">队列分析 · cohort analysis</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/go-to-market.html">上市策略（GTM） · the go-to-market (GTM) strategy</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/crossing-the-chasm.html">跨越鸿沟 · crossing the chasm</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Growth &amp; Frameworks 增长与框架</p>
+<p><a class="tag" href="../themes.html#strategy">#strategy</a><a class="tag" href="../themes.html#marketing">#marketing</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

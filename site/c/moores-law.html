@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>摩尔定律 · Moore&#x27;s law · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">Organisation, Tech &amp; Governance 组织、科技与治理</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>摩尔定律 <span class="pinyin">mó&#x27;ěr dìnglǜ</span><span class="en">Moore&#x27;s law</span></h1>
+<p class="meta">🔊 <span class="ipa">Moore&#x27;s law /mʊrz lɔ/</span></p>
+<div class="card"><p class="zh">英特尔创始人摩尔1965年观察:集成电路上的晶体管数量约每两年翻一番,计算能力指数级增长而成本骤降。它既是半导体行业的自我实现预言,也是过去半世纪数字革命的底层引擎——指数增长如何重塑一切的范本。</p><p class="endef">Intel co-founder Gordon Moore&#x27;s 1965 observation that the number of transistors on a chip roughly doubles every two years — computing power growing exponentially as cost collapses. Both a self-fulfilling prophecy for the semiconductor industry and the underlying engine of the digital revolution — the exemplar of how exponential growth reshapes everything.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>以 Gordon Moore 命名——非物理定律而是经验趋势,却因成为行业目标而自我实现数十年。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>exponential improvement</b> <span class='ipa'>/ˌɛkspoʊˈnɛnʃəl ˌɪmˈpruvmənt/</span><br><em>Exponential improvement is why last decade&#x27;s supercomputer fits in your pocket.</em></li><li>▸ <b>the cost collapse</b> <span class='ipa'>/ðə kɔst kəˈlæps/</span><br><em>The cost collapse Moore&#x27;s law describes is what made computing ubiquitous.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ Moore&#x27;s law</li><li>▸ exponential growth in compute</li><li>▸ the end of Moore&#x27;s law</li><li>▸ doubling every two years</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Moore&#x27;s law turned computing from a room-sized luxury into a disposable commodity — the exponential curve behind smartphones, cloud and AI alike.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/s-curve.html">S 曲线 · the technology S-curve</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/second-industrial-revolution.html">第二次工业革命 · the Second Industrial Revolution</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/ai-imagenet.html">李飞飞与 ImageNet（《我看见的世界》） · Fei-Fei Li, ImageNet and the deep-learning turn</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz Organisation, Tech &amp; Governance 组织、科技与治理</p>
+<p><a class="tag" href="../themes.html#tech">#tech</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关键绩效指标 · key performance indicators (KPIs) · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">The Consulting Method 咨询方法</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>关键绩效指标 <span class="pinyin">guānjiàn jìxiào zhǐbiāo</span><span class="en">key performance indicators (KPIs)</span></h1>
+<p class="meta">🔊 <span class="ipa">key performance indicators /ki pərˈfɔrməns ˈɪndəˌkeɪtərz/</span></p>
+<div class="card"><p class="zh">衡量组织、团队或流程是否达成目标的量化指标。好的 KPI 少而关键、可操作、难以被操纵。危险在于“度量什么就得到什么”——错误的 KPI 会诱导错误行为。</p><p class="endef">Quantified measures of whether an organisation, team or process is hitting its goals. Good KPIs are few, actionable and hard to game. The danger: you get what you measure — the wrong KPI drives the wrong behaviour.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>performance 源自古法语 parfournir（完成、执行）——KPI 即“衡量执行成效的关键指标”。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>metrics that matter</b> <span class='ipa'>/ˈmɛtrɪks ðət ˈmætər/</span><br><em>Metrics that matter change behaviour; vanity metrics only decorate reports.</em></li><li>▸ <b>Goodhart&#x27;s law</b> <span class='ipa'>/ˈɡʊdhɑːrts lɔ/</span><br><em>Goodhart&#x27;s law warns: when a measure becomes a target, it stops measuring well.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ track KPIs</li><li>▸ vanity vs actionable metrics</li><li>▸ move the metric</li><li>▸ what gets measured gets managed</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>A call centre rewarded on &#x27;calls per hour&#x27; hit the KPI by rushing customers off — a textbook case of Goodhart&#x27;s law punishing a lazy metric.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>古德哈特定律:一旦指标变成考核目标，它就失去了作为指标的意义（人会优化指标而非目标本身）。设 KPI 须防被“钻空子”。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/north-star-metric.html">北极星指标 · the north star metric</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/okr.html">目标与关键结果 · OKRs (objectives and key results)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/driver-tree.html">驱动因素树 · the driver (value) tree</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/driver-tree.html">驱动因素树 · the driver (value) tree</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/benchmarking.html">标杆对标 · benchmarking</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/balanced-scorecard.html">平衡计分卡 · the balanced scorecard</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/okr.html">目标与关键结果 · OKRs (objectives and key results)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/north-star-metric.html">北极星指标 · the north star metric</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/net-promoter-score.html">净推荐值（NPS） · the net promoter score (NPS)</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/incentive-design.html">激励设计 · incentive design</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz The Consulting Method 咨询方法</p>
+<p><a class="tag" href="../themes.html#consulting">#consulting</a><a class="tag" href="../themes.html#org">#org</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

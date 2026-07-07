@@ -646,6 +646,26 @@
    "phase": 7,
    "status": "complete",
    "chapters": []
+  },
+  {
+   "id": "biz",
+   "title_zh": "现代商业与金融（麦肯锡知识体系）",
+   "title_en": "Modern Business & Finance — the McKinsey knowledge stack",
+   "format": "framework",
+   "path": "-",
+   "phase": 8,
+   "status": "complete",
+   "chapters": [
+    "Strategy 战略",
+    "Growth & Frameworks 增长与框架",
+    "The Consulting Method 咨询方法",
+    "Valuation 估值",
+    "Corporate Finance & Deals 公司金融与交易",
+    "Accounting & Unit Economics 会计与单位经济",
+    "Macro, Markets & Risk 宏观、市场与风险",
+    "Marketing, Growth & Operations 营销、增长与运营",
+    "Organisation, Tech & Governance 组织、科技与治理"
+   ]
   }
  ]
 }
