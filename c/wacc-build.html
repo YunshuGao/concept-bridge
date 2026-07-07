@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WACC 的搭建 · building the WACC · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">金融估值模型 Valuation Modelling</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>WACC 的搭建 <span class="pinyin">WACC de dājiàn</span><span class="en">building the WACC</span></h1>
+<p class="meta">🔊 <span class="ipa">building the WACC /ˈbɪldɪŋ ðə wæk/</span></p>
+<div class="card"><p class="zh">DCF贴现率的实操构建:①股权成本用CAPM=无风险利率+β×股权风险溢价,其中β常取可比公司β去杠杆(卸掉各自资本结构影响)再按目标公司资本结构重新加杠杆;②债务成本用税后利率;③按市值权重加权。每一步的假设都可辩论——WACC是DCF中最易被&#x27;凑&#x27;出目标估值的旋钮。</p><p class="endef">The hands-on construction of the DCF discount rate: (1) cost of equity via CAPM = risk-free rate + beta × equity risk premium, where beta is often taken from comparables, unlevered to remove each one&#x27;s capital structure, then relevered to the target&#x27;s; (2) after-tax cost of debt; (3) weighted by market values. Every step&#x27;s assumptions are debatable — WACC is the knob most easily &#x27;tuned&#x27; to a desired DCF answer.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>见 weighted-average-cost-of-capital 节点;&#x27;build&#x27;指在模型中逐项搭建这个贴现率。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>the discount-rate build</b> <span class='ipa'>/ðə ˈdɪskaʊnt-reɪt bɪld/</span><br><em>The discount-rate build is where an honest DCF is separated from a reverse-engineered one.</em></li><li>▸ <b>unlevering and relevering beta</b> <span class='ipa'>/ʌnˈlɛvərɪŋ ənd riːˈlɛvərɪŋ ˈbeɪtə/</span><br><em>Unlevering and relevering beta ports a peer&#x27;s risk onto your company&#x27;s capital structure.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ build the WACC</li><li>▸ unlever the comparable betas</li><li>▸ the after-tax cost of debt</li><li>▸ market-value weights</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Building WACC, the analyst pulls five peers&#x27; betas, unlevers each, averages, then relevers to the target&#x27;s debt mix — a defensible beta, not a guessed one.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/weighted-average-cost-of-capital.html">加权平均资本成本 · WACC (weighted average cost of capital)</a></li><li><span class="rel">下位 narrower</span> <a class="node" href="../c/unlevered-beta.html">去杠杆贝塔 · unlevered (asset) beta</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/capital-asset-pricing-model.html">资本资产定价模型 · the CAPM</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/cost-of-equity.html">股权成本 · the cost of equity</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/unlevered-beta.html">去杠杆贝塔 · unlevered (asset) beta</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>biz 金融估值模型 Valuation Modelling</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
