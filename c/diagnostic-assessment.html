@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>诊断性评估 · diagnostic assessment · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">评估与反馈 Assessment &amp; Feedback</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>诊断性评估 <span class="pinyin">zhěnduànxìng pínggū</span><span class="en">diagnostic assessment</span></h1>
+<p class="meta">🔊 <span class="ipa">diagnostic assessment /ˌdaɪəɡˈnɒstɪk əˈsɛsmənt/</span></p>
+<div class="card"><p class="zh">在教学开始前评估学生的已有知识、技能与迷思概念,以便据学情设计教学（&#x27;先摸底,再教&#x27;）。它是差异化与&#x27;从学生所在之处出发&#x27;的前提,能暴露先备知识缺口与顽固误解,避免在错误假设上施教。GTPA&#x27;了解学生&#x27;的关键证据。</p><p class="endef">Assessing students&#x27; prior knowledge, skills and misconceptions before teaching begins, so instruction can be designed from where they actually are (&#x27;find out, then teach&#x27;). It is the precondition for differentiation and &#x27;starting where the student is&#x27;, exposing gaps in prior knowledge and stubborn misconceptions before teaching on false assumptions. Key evidence for the GTPA&#x27;s knowing-students practice.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>diagnosis 源自希腊 dia（透过）+ gnōsis（认知）——诊断即&#x27;透视认知状态&#x27;;医学隐喻入教学。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>pre-assessment</b> <span class='ipa'>/pri-əˈsɛsmənt/</span><br><em>Pre-assessment reveals what to skip and what to reteach before you waste a lesson.</em></li><li>▸ <b>surfacing misconceptions</b> <span class='ipa'>/ˈsərfəsɪŋ ˌmɪskənˈsɛpʃənz/</span><br><em>Surfacing misconceptions early stops you building on a cracked foundation.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ diagnostic pre-test</li><li>▸ prior knowledge</li><li>▸ surface misconceptions</li><li>▸ start where they are</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>A short diagnostic before a coding unit reveals half the class already knows loops but none understand variables — reshaping what you teach and to whom.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/assessment-for-learning.html">为了学习的评估（AfL） · assessment for learning (AfL)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/differentiation.html">差异化教学 · differentiation</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/notional-machine.html">概念机器与编程迷思 · the notional machine and programming misconceptions</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/apst-domains.html">APST 的三大领域与七项标准 · the three domains and seven standards</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/formative-summative.html">形成性评估与终结性评估 · formative vs summative assessment</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/notional-machine.html">概念机器与编程迷思 · the notional machine and programming misconceptions</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>teach 评估与反馈 Assessment &amp; Feedback</p>
+<p><a class="tag" href="../themes.html#teaching">#teaching</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
