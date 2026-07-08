@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>战略与战术资产配置 · strategic vs tactical allocation &amp; rebalancing · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">投资组合管理（三级）Portfolio Management (Level III)</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>战略与战术资产配置 <span class="pinyin">zhànlüè yǔ zhànshù zīchǎn pèizhì</span><span class="en">strategic vs tactical allocation &amp; rebalancing</span></h1>
+<p class="meta">🔊 <span class="ipa">strategic versus tactical allocation /strəˈtiʤɪk ˈvərsəz ˈtæktɪkəl ˌæləˈkeɪʃən/</span></p>
+<div class="card"><p class="zh">战略资产配置(SAA)是依IPS设定的长期目标比例(政策组合);战术资产配置(TAA)是围绕它做的短期主动偏离,押注市场时机。再平衡则是定期把漂移的比例拉回目标——它天然&#x27;高抛低吸&#x27;,是纪律化的风险控制。多数证据支持坚守战略配置+再平衡,慎用战术择时。</p><p class="endef">Strategic asset allocation (SAA) is the long-run target mix set by the IPS (the policy portfolio); tactical asset allocation (TAA) is short-term active deviation around it, betting on market timing. Rebalancing periodically pulls the drifted weights back to target — inherently &#x27;sell high, buy low&#x27;, a disciplined risk control. Most evidence favours holding the strategic allocation and rebalancing, and using tactical timing sparingly.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>strategy（将道,见前）vs tactics（希腊 taktikē 布阵）——长期&#x27;战略&#x27;与短期&#x27;战术&#x27;之分,借自军事。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>the policy portfolio</b> <span class='ipa'>/ðə ˈpɑləsi pɔrtˈfoʊliˌoʊ/</span><br><em>The policy portfolio is the strategic home the tactics only briefly leave.</em></li><li>▸ <b>rebalancing discipline</b> <span class='ipa'>/riːˈbælənsɪŋ ˈdɪsəplən/</span><br><em>Rebalancing discipline forces you to trim winners and buy losers, against every instinct.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ strategic vs tactical</li><li>▸ the policy portfolio</li><li>▸ rebalance to target</li><li>▸ disciplined rebalancing</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>After a stock rally lifts equities from a 60% target to 70%, rebalancing sells the excess back to 60% — mechanically selling high, and resetting risk to the client&#x27;s tolerance.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">上位 broader</span> <a class="node" href="../c/asset-allocation.html">资产配置 · asset allocation</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/index-investing.html">指数投资与个股研究（博格与林奇） · index investing and stock-picking: Bogle v. Lynch</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/efficient-market-hypothesis.html">有效市场假说 · the efficient market hypothesis (EMH)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/behavioural-finance.html">行为金融学 · behavioural finance</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/asset-allocation.html">资产配置 · asset allocation</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>cfa 投资组合管理（三级）Portfolio Management (Level III)</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
