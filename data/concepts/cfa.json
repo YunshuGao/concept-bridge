@@ -1,0 +1,1537 @@
+[
+ {
+  "id": "cfa-program",
+  "zh": "CFA 特许金融分析师",
+  "pinyin": "CFA tèxǔ jīnróng fēnxīshī",
+  "en": "the CFA Program (Chartered Financial Analyst)",
+  "def_zh": "CFA协会的三级投资分析认证,对应知识→分析→判断的进阶:一级'这是什么?'(建立金融语言),二级'如何估值?'(分析与估值,公认最难),三级'该怎么做?'(投资组合与财富管理决策)。十大科目贯穿三级,权重随级别从记忆转向应用再转向判断。",
+  "def_en": "The CFA Institute's three-level investment credential, mirroring knowledge → analysis → judgement: Level I ('what is it?' — the language of finance), Level II ('how do I value it?' — analysis and valuation, widely considered the hardest), Level III ('what should I do?' — portfolio and wealth-management decisions). Ten topic areas run through all three, with emphasis shifting from recall to application to judgement.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "CFA 项目与职业道德 The Program & Ethics"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ideas"
+  ],
+  "pron": "CFA /ˌsiːɛfˈeɪ/",
+  "etymology": "Chartered（特许的,源自 charter 特许状）+ Financial Analyst——'特许金融分析师';如同学医:一级学解剖,二级诊断,三级为真实病人定治疗方案。",
+  "synonyms": [
+   {
+    "word": "the charter",
+    "sentence": "Earning the charter takes most candidates several years and hundreds of hours per level.",
+    "ipa": "/ðə ˈʧɑrtər/"
+   },
+   {
+    "word": "buy-side credential",
+    "sentence": "The CFA is prized on the buy-side; investment banking leans more on modelling than on the charter.",
+    "ipa": "/baɪ-saɪd krɪˈdɛnʃəl/"
+   }
+  ],
+  "collocations": [
+   "a CFA charterholder",
+   "pass Level II",
+   "the three levels",
+   "the ten topic areas"
+  ],
+  "example": "For a strategy-and-consulting path, the CFA's most valuable parts are financial statement analysis, corporate finance, economics, equity and fixed-income valuation, and ethics — the tools for analysing companies and making business decisions.",
+  "nuance": "CFA重投资分析(买方),与投行的建模/交易(卖方)侧重不同;想进高盛投行或麦肯锡战略,单靠CFA不够,宜配合财务建模、会计、演示沟通与案例面试。",
+  "links": [
+   {
+    "to": "cfa-ethics",
+    "rel": "narrower"
+   },
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   },
+   {
+    "to": "portfolio-theory",
+    "rel": "related"
+   },
+   {
+    "to": "three-statement-model",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "cfa-ethics",
+  "zh": "CFA 职业道德准则",
+  "pinyin": "CFA zhíyè dàodé zhǔnzé",
+  "en": "the CFA Code of Ethics & Standards",
+  "def_zh": "CFA协会的《道德准则与职业行为标准》——贯穿三级、权重最高的支柱。核心:客户利益至上、诚信、独立客观、勤勉、信息披露、不利用重大非公开信息(内幕交易)、公平对待客户。金融的信任基础比任何估值技巧都根本。",
+  "def_en": "The CFA Institute's Code of Ethics and Standards of Professional Conduct — the pillar that runs through all three levels and carries the heaviest weight. Its core: client interests first, integrity, independence and objectivity, diligence, disclosure, no trading on material non-public information (insider trading), and fair dealing. The trust foundation of finance, more fundamental than any valuation technique.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "CFA 项目与职业道德 The Program & Ethics"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ethics",
+   "governance"
+  ],
+  "pron": "Code of Ethics /koʊd əv ˈɛθɪks/",
+  "etymology": "ethics 源自希腊 ethos（品性、习俗）——职业道德即从业者的'品性规范';CFA把它列为第一科目,分量最重。",
+  "synonyms": [
+   {
+    "word": "the Standards of Professional Conduct",
+    "sentence": "The Standards of Professional Conduct turn abstract ethics into testable rules.",
+    "ipa": "/ðə ˈstændərdz əv prəˈfɛʃənəl ˈkɑndəkt/"
+   },
+   {
+    "word": "client-first",
+    "sentence": "'Client-first' is the ethical spine the whole credential is built around.",
+    "ipa": "/klaɪənt-fərst/"
+   }
+  ],
+  "collocations": [
+   "the Code and Standards",
+   "material non-public information",
+   "independence and objectivity",
+   "the ethics adjustment"
+  ],
+  "example": "The famous 'ethics adjustment' can decide a borderline CFA pass — the Institute signals that competence without integrity is disqualifying.",
+  "nuance": "内幕交易(用重大非公开信息交易)是最严重的违规;道德不是软技能,而是可考、可罚、决定职业存亡的硬约束——与教材'依法治国'的信任逻辑相通。",
+  "links": [
+   {
+    "to": "fiduciary-duty",
+    "rel": "related"
+   },
+   {
+    "to": "cfa-program",
+    "rel": "broader"
+   },
+   {
+    "to": "corporate-governance",
+    "rel": "related"
+   },
+   {
+    "to": "bingham-rule-of-law",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "fiduciary-duty",
+  "zh": "受托责任",
+  "pinyin": "shòutuō zérèn",
+  "en": "fiduciary duty",
+  "def_zh": "受托人(基金经理、顾问、董事)必须把委托人(客户、股东)的利益置于自身利益之上的法律与道德义务:忠实义务(loyalty,不自利、不利益冲突)与勤勉义务(care,尽职审慎)。它是资产管理与财富顾问的信任基石,违反即为最严重的职业与法律过错。",
+  "def_en": "The legal and ethical obligation of a fiduciary (a fund manager, adviser, director) to put the principal's interests (the client's, the shareholders') above their own: a duty of loyalty (no self-dealing or conflicts) and a duty of care (diligent prudence). It is the trust foundation of asset and wealth management, and breaching it is among the gravest professional and legal failures.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "CFA 项目与职业道德 The Program & Ethics"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ethics",
+   "governance"
+  ],
+  "pron": "fiduciary duty /fɪˈdjuːʃəri ˈduti/",
+  "etymology": "fiduciary 源自拉丁 fiducia（信任,fidere 信赖）——受托人即'被信任者';与 faith、confide 同根。",
+  "synonyms": [
+   {
+    "word": "duty of loyalty and care",
+    "sentence": "The duty of loyalty and care forbids the adviser from profiting at the client's expense.",
+    "ipa": "/ˈduti əv ˈlɔɪəlti ənd kɛr/"
+   },
+   {
+    "word": "the prudent-investor rule",
+    "sentence": "The prudent-investor rule holds a fiduciary to the standard of a careful professional, not a gambler.",
+    "ipa": "/ðə ˈprudənt-ˌɪnˈvɛstər rul/"
+   }
+  ],
+  "collocations": [
+   "breach of fiduciary duty",
+   "act in the client's best interest",
+   "conflict of interest",
+   "the fiduciary standard"
+  ],
+  "example": "A fiduciary who steers clients into high-fee funds that pay him a commission has breached the duty of loyalty — the conflict itself is the violation.",
+  "nuance": "受托责任与教材'公仆'、'为人民服务'同构:受人之托、忠人之事;区别于纯'适当性'(suitability)标准——受托标准更高,须最优,不只'合适'。",
+  "links": [
+   {
+    "to": "cfa-ethics",
+    "rel": "related"
+   },
+   {
+    "to": "agency-problem",
+    "rel": "related"
+   },
+   {
+    "to": "corporate-governance",
+    "rel": "related"
+   },
+   {
+    "to": "western-civil-service",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "hypothesis-testing",
+  "zh": "假设检验",
+  "pinyin": "jiǎshè jiǎnyàn",
+  "en": "hypothesis testing",
+  "def_zh": "统计推断的核心程序:设原假设(H0,如'该策略无超额收益')与备择假设,计算检验统计量与p值,在给定显著性水平下决定拒绝或不拒绝H0。它让'这个结果是真的还是运气?'成为可量化的判断——量化分析与实证金融的地基。",
+  "def_en": "The core procedure of statistical inference: state a null hypothesis (H0, e.g. 'this strategy has no excess return') and an alternative, compute a test statistic and p-value, and decide whether to reject or fail to reject H0 at a chosen significance level. It makes 'is this result real or luck?' a quantifiable judgement — the foundation of quantitative analysis and empirical finance.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "定量方法与经济学 Quantitative Methods & Economics"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ideas"
+  ],
+  "pron": "hypothesis testing /haɪˈpɑθəsəs ˈtɛstɪŋ/",
+  "etymology": "hypothesis 源自希腊 hypo（在下）+ thesis（放置）——'假设'即置于论证之下的前提;p-value 的 p 为 probability（概率）。",
+  "synonyms": [
+   {
+    "word": "significance testing",
+    "sentence": "Significance testing asks how surprised we should be if the null were true.",
+    "ipa": "/sɪgˈnɪfɪkəns ˈtɛstɪŋ/"
+   },
+   {
+    "word": "the p-value",
+    "sentence": "A small p-value means the data would be unlikely if the null hypothesis held.",
+    "ipa": "/ðə pi-ˈvælju/"
+   }
+  ],
+  "collocations": [
+   "reject the null hypothesis",
+   "the p-value",
+   "statistical significance",
+   "Type I and Type II error"
+  ],
+  "example": "Before trusting a backtested strategy, an analyst tests whether its returns are statistically distinguishable from luck — a low p-value, not a pretty equity curve, is the evidence.",
+  "nuance": "统计显著≠经济显著≠真实(见 model-risk);p值被广泛误用(p-hacking)。'拒绝H0'不等于'证明备择为真',只是'数据与H0不符'。",
+  "links": [
+   {
+    "to": "regression-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "logic-toolkit",
+    "rel": "related"
+   },
+   {
+    "to": "model-risk",
+    "rel": "related"
+   },
+   {
+    "to": "forensic-accounting",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "regression-analysis",
+  "zh": "回归分析",
+  "pinyin": "huíguī fēnxī",
+  "en": "regression analysis",
+  "def_zh": "用一个方程刻画因变量与一个或多个自变量的关系(y=α+βx+ε),估计系数、拟合优度(R²)与显著性。金融中无处不在:估β(CAPM)、因子模型、预测、检验关系。它是把'相关'量化并逼近'因果'的主力工具——但相关不等于因果。",
+  "def_en": "Modelling the relationship between a dependent variable and one or more independent variables with an equation (y = α + βx + ε), estimating coefficients, goodness of fit (R²) and significance. Ubiquitous in finance: estimating beta (CAPM), factor models, forecasting, testing relationships. The workhorse for quantifying association and approaching causation — though correlation is not causation.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "定量方法与经济学 Quantitative Methods & Economics"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ideas"
+  ],
+  "pron": "regression analysis /rəˈgrɛʃən æˈnælɪsɪs/",
+  "etymology": "regression 源自高尔顿'向均值回归'(regression to the mean)的研究——统计学借其名;拉丁 regredi（退回）。",
+  "synonyms": [
+   {
+    "word": "linear regression",
+    "sentence": "Linear regression fits the best straight line through a cloud of points.",
+    "ipa": "/ˈlɪniər rəˈgrɛʃən/"
+   },
+   {
+    "word": "the factor model",
+    "sentence": "A factor model is a regression of returns on the drivers that explain them.",
+    "ipa": "/ðə ˈfæktər ˈmɑdəl/"
+   }
+  ],
+  "collocations": [
+   "run a regression",
+   "the beta coefficient",
+   "R-squared",
+   "multiple regression"
+  ],
+  "example": "Regressing a stock's returns on the market's returns yields its beta — the slope that CAPM (which the CFA leans on) then prices.",
+  "nuance": "回归的经典陷阱:相关≠因果;过拟合;遗漏变量;共线性。R²高不代表模型对,可能只是曲线拟合(见 model-risk)。",
+  "links": [
+   {
+    "to": "beta",
+    "rel": "related"
+   },
+   {
+    "to": "capital-asset-pricing-model",
+    "rel": "related"
+   },
+   {
+    "to": "factor-investing",
+    "rel": "related"
+   },
+   {
+    "to": "hypothesis-testing",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "price-elasticity",
+  "zh": "价格弹性",
+  "pinyin": "jiàgé tánxìng",
+  "en": "price elasticity of demand",
+  "def_zh": "需求量对价格变化的敏感度:需求量变化百分比÷价格变化百分比。弹性大(奢侈品、有替代品)则提价伤销量;弹性小(必需品、成瘾品、无替代)则提价增收入。它是定价、税收归宿与收入预测的微观经济基石,CFA一级经济学的核心。",
+  "def_en": "How sensitively quantity demanded responds to a price change: the percentage change in quantity divided by the percentage change in price. Elastic goods (luxuries, easy substitutes) lose volume when priced up; inelastic ones (necessities, addictive goods, no substitute) gain revenue. A microeconomic bedrock of pricing, tax incidence and revenue forecasting — core to CFA Level I economics.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "定量方法与经济学 Quantitative Methods & Economics"
+   }
+  ],
+  "themes": [
+   "economy",
+   "finance"
+  ],
+  "pron": "price elasticity /praɪs ˌiːlæˈstɪsɪti/",
+  "etymology": "elastic 源自希腊 elastikos（可伸展的）——弹性即需求'伸缩'的程度;经济学借物理学之词。",
+  "synonyms": [
+   {
+    "word": "demand sensitivity",
+    "sentence": "Demand sensitivity decides whether a price rise fattens or starves revenue.",
+    "ipa": "/dɪˈmænd ˌsɛnsɪˈtɪvɪti/"
+   },
+   {
+    "word": "inelastic demand",
+    "sentence": "Inelastic demand is why utilities and cigarettes can raise prices with little volume loss.",
+    "ipa": "/ˌɪnɪˈlæstɪk dɪˈmænd/"
+   }
+  ],
+  "collocations": [
+   "elastic vs inelastic demand",
+   "cross-price elasticity",
+   "pricing power",
+   "tax incidence"
+  ],
+  "example": "A firm with inelastic demand (a patented drug) can raise prices and grow revenue; one facing elastic demand (a commodity) cannot — elasticity is pricing power, measured.",
+  "links": [
+   {
+    "to": "pricing-strategy",
+    "rel": "related"
+   },
+   {
+    "to": "willingness-to-pay",
+    "rel": "related"
+   },
+   {
+    "to": "market-structures",
+    "rel": "related"
+   },
+   {
+    "to": "econ-principles",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "industry-analysis",
+  "zh": "行业分析",
+  "pinyin": "hángyè fēnxī",
+  "en": "industry analysis",
+  "def_zh": "在给个股估值前先判断其所处行业的结构、生命周期与前景——因为一家好公司在坏行业里也难赚钱(五力模型)。CFA权益投资的第一步:自上而下从宏观→行业→公司,或识别行业驱动因素、周期性与竞争格局,再落到个股。",
+  "def_en": "Judging the structure, life cycle and prospects of a company's industry before valuing the stock — because even a good company struggles in a bad industry (the five forces). The first step of CFA equity analysis: top-down from macro → industry → company, identifying industry drivers, cyclicality and competitive structure before reaching the individual stock.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance",
+   "strategy"
+  ],
+  "pron": "industry analysis /ˈɪndəstri æˈnælɪsɪs/",
+  "etymology": "industry 源自拉丁 industria（勤勉）——'行业'本义勤劳制造,后指同类企业的集合。",
+  "synonyms": [
+   {
+    "word": "top-down analysis",
+    "sentence": "Top-down analysis picks the ocean before it picks the fish.",
+    "ipa": "/tɔp-daʊn æˈnælɪsɪs/"
+   },
+   {
+    "word": "sector rotation",
+    "sentence": "Sector rotation shifts money toward the industries the cycle is about to favour.",
+    "ipa": "/ˈsɛktər roʊˈteɪʃən/"
+   }
+  ],
+  "collocations": [
+   "the industry life cycle",
+   "cyclical vs defensive",
+   "top-down vs bottom-up",
+   "competitive structure"
+  ],
+  "example": "An analyst valuing an airline starts with industry analysis — brutal five-forces economics — which caps how good even the best-run carrier's returns can be.",
+  "links": [
+   {
+    "to": "five-forces",
+    "rel": "related"
+   },
+   {
+    "to": "competitive-rivalry",
+    "rel": "related"
+   },
+   {
+    "to": "business-cycle",
+    "rel": "related"
+   },
+   {
+    "to": "discounted-cash-flow",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "yield-to-maturity",
+  "zh": "到期收益率",
+  "pinyin": "dàoqī shōuyìlǜ",
+  "en": "yield to maturity (YTM)",
+  "def_zh": "债券的内部收益率:使其所有未来现金流(票息+本金)现值等于当前价格的贴现率。它是债券市场的通用'价格语言'——报价常以收益率而非价格进行。价格与收益率反向:收益率上升,价格下跌。是固定收益分析的核心度量。",
+  "def_en": "A bond's internal rate of return: the discount rate that sets the present value of all its future cash flows (coupons + principal) equal to its current price. It is the bond market's common 'price language' — quotes are often in yield, not price. Price and yield move inversely: yields up, prices down. The central measure of fixed-income analysis.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "yield to maturity /jild tɪ məˈʧʊrəti/",
+  "etymology": "yield 源自古英语 gieldan（支付、产出）——债券'产出'的年化回报;YTM 假设持有到期且票息按YTM再投资。",
+  "synonyms": [
+   {
+    "word": "the redemption yield",
+    "sentence": "The redemption yield is what you earn if you hold the bond to maturity and reinvest coupons at that rate.",
+    "ipa": "/ðə rɪˈdɛmʃən jild/"
+   },
+   {
+    "word": "bond-equivalent yield",
+    "sentence": "Bond-equivalent yield standardises quotes so instruments can be compared.",
+    "ipa": "/bɑnd-ɪkˈwɪvələnt jild/"
+   }
+  ],
+  "collocations": [
+   "the yield to maturity",
+   "price-yield inverse relationship",
+   "trade on yield",
+   "the coupon vs the yield"
+  ],
+  "example": "When rates rise, an existing 3% bond must fall in price until its yield to maturity matches the new 5% market — the mechanical seesaw behind duration.",
+  "nuance": "YTM是承诺收益,非实现收益:假设持有到期且票息按YTM再投资(再投资风险),违约则更低(见 credit-analysis)。票息率≠当期收益率≠YTM,三者须分清。",
+  "links": [
+   {
+    "to": "government-bonds",
+    "rel": "related"
+   },
+   {
+    "to": "duration",
+    "rel": "related"
+   },
+   {
+    "to": "interest-rates",
+    "rel": "related"
+   },
+   {
+    "to": "time-value-of-money",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "credit-analysis",
+  "zh": "信用分析",
+  "pinyin": "xìnyòng fēnxī",
+  "en": "credit analysis",
+  "def_zh": "评估借款人(公司或国家)按期还本付息的能力与意愿,即违约风险。工具:信用评级(投资级/高收益)、财务比率(杠杆、利息保障)、'信用五C'、行业与经营分析。它决定债券的信用利差与定价,是固定收益与信贷投资的核心工作。",
+  "def_en": "Assessing a borrower's (a company's or country's) ability and willingness to repay interest and principal on time — its default risk. Tools: credit ratings (investment-grade vs high-yield), financial ratios (leverage, interest coverage), the 'five Cs of credit', and industry and business analysis. It drives a bond's credit spread and pricing — the core work of fixed-income and credit investing.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "credit analysis /ˈkrɛdɪt æˈnælɪsɪs/",
+  "etymology": "credit 源自拉丁 credere（相信）——信用即'可被相信偿还';与 creed、credible 同根。",
+  "synonyms": [
+   {
+    "word": "default-risk assessment",
+    "sentence": "Default-risk assessment prices the chance the promise isn't kept.",
+    "ipa": "/dɪˈfɔlt-rɪsk əˈsɛsmənt/"
+   },
+   {
+    "word": "the five Cs of credit",
+    "sentence": "The five Cs — character, capacity, capital, collateral, conditions — frame any credit judgement.",
+    "ipa": "/ðə faɪv siz əv ˈkrɛdɪt/"
+   }
+  ],
+  "collocations": [
+   "investment-grade vs high-yield",
+   "the credit rating",
+   "interest coverage",
+   "probability of default"
+  ],
+  "example": "Downgrading a borrower from investment-grade to high-yield ('junk') widens its credit spread and can force selling — credit analysis is where that call is made.",
+  "links": [
+   {
+    "to": "solvency-ratios",
+    "rel": "related"
+   },
+   {
+    "to": "credit-spread",
+    "rel": "related"
+   },
+   {
+    "to": "sovereign-risk",
+    "rel": "related"
+   },
+   {
+    "to": "government-bonds",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "convexity",
+  "zh": "凸性",
+  "pinyin": "tūxìng",
+  "en": "convexity",
+  "def_zh": "债券价格-收益率关系的曲率,是久期(线性近似)的二阶修正。因为这条曲线是凸的,久期会高估收益率上升时的跌幅、低估下降时的涨幅——凸性对债券持有者有利:大跌少一点、大涨多一点。利率大幅波动时,只看久期会算错。",
+  "def_en": "The curvature of a bond's price-yield relationship — the second-order correction to duration (a linear approximation). Because the curve is convex, duration overstates the price fall when yields rise and understates the rise when they fall — convexity works in the bondholder's favour: less downside, more upside on big moves. Ignore it and you misprice bonds when rates swing sharply.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "convexity /kənˈvɛksɪti/",
+  "etymology": "convex 源自拉丁 convexus（拱起的、弯曲的）——凸性即价格-收益率曲线'向上拱起'的弧度。",
+  "synonyms": [
+   {
+    "word": "the curvature correction",
+    "sentence": "The curvature correction is why duration alone misprices a bond in a big rate move.",
+    "ipa": "/ðə ˈkərvəʧər kərˈɛkʃən/"
+   },
+   {
+    "word": "positive convexity",
+    "sentence": "Positive convexity means gains accelerate and losses decelerate — a free option for the holder.",
+    "ipa": "/ˈpɑzətɪv kənˈvɛksɪti/"
+   }
+  ],
+  "collocations": [
+   "duration and convexity",
+   "positive vs negative convexity",
+   "the price-yield curve",
+   "the second-order effect"
+  ],
+  "example": "For a large rate shock, an analyst adds a convexity adjustment to the duration estimate — duration alone would overstate the loss and understate the gain.",
+  "nuance": "负凸性(如可赎回债、MBS)反过来伤害持有者:利率下降时价格涨幅被'封顶'(发行人赎回)。凸性是久期的必要补充,尤其在利率剧烈波动时。",
+  "links": [
+   {
+    "to": "duration",
+    "rel": "related"
+   },
+   {
+    "to": "yield-to-maturity",
+    "rel": "related"
+   },
+   {
+    "to": "securitisation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "credit-spread",
+  "zh": "信用利差",
+  "pinyin": "xìnyòng lìchā",
+  "en": "the credit spread",
+  "def_zh": "公司债(或任何有违约风险的债券)相对同期限无风险国债的额外收益率——市场对承担信用风险要求的补偿。利差扩大=市场担忧上升(衰退、危机);收窄=风险偏好回升。它是信用市场的'恐惧温度计',也是信用投资超额收益的来源。",
+  "def_en": "The extra yield a corporate bond (or any bond with default risk) offers over a same-maturity risk-free government bond — the market's compensation for bearing credit risk. Widening spreads mean rising fear (recession, crisis); tightening means returning risk appetite. It is the credit market's fear thermometer and the source of excess return in credit investing.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "credit spread /ˈkrɛdɪt sprɛd/",
+  "etymology": "spread（价差,古英语 sprǣdan 展开）——两种收益率之间'展开'的差距。",
+  "synonyms": [
+   {
+    "word": "the risk premium of credit",
+    "sentence": "The credit spread is the risk premium of lending to someone who might not pay.",
+    "ipa": "/ðə rɪsk ˈprimiəm əv ˈkrɛdɪt/"
+   },
+   {
+    "word": "spread widening",
+    "sentence": "Spread widening in a downturn punishes credit and rewards safe government bonds.",
+    "ipa": "/sprɛd ˈwaɪdənɪŋ/"
+   }
+  ],
+  "collocations": [
+   "spreads widen / tighten",
+   "the risk-free benchmark",
+   "spread over Treasuries",
+   "the high-yield spread"
+  ],
+  "example": "In a crisis, flight to safety drives government yields down and credit spreads sharply up — the same fear, read two ways.",
+  "links": [
+   {
+    "to": "credit-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "government-bonds",
+    "rel": "related"
+   },
+   {
+    "to": "equity-risk-premium",
+    "rel": "related"
+   },
+   {
+    "to": "systemic-risk",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "securitisation",
+  "zh": "证券化",
+  "pinyin": "zhèngquànhuà",
+  "en": "securitisation",
+  "def_zh": "把一组能产生现金流的资产(房贷、车贷、信用卡应收)打包成资金池,再发行以其现金流为支持的可交易证券(MBS/ABS),并按风险分层(优先级/次级)出售。它盘活流动性、分散风险,但2008年因底层劣质房贷+过度分层+评级失灵而引爆全球危机。",
+  "def_en": "Pooling a set of cash-flow-producing assets (mortgages, car loans, credit-card receivables) and issuing tradable securities backed by those cash flows (MBS/ABS), sold in risk-ranked tranches (senior/junior). It creates liquidity and spreads risk — but in 2008, poor underlying mortgages, excessive tranching and failed ratings turned it into the trigger of a global crisis.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "权益与固定收益 Equity & Fixed Income"
+   }
+  ],
+  "themes": [
+   "finance",
+   "governance"
+  ],
+  "pron": "securitisation /sɪˌkjʊərɪtaɪˈzeɪʃən/",
+  "etymology": "securitise = security（证券,拉丁 securus 无忧）+ -ise——把资产'变成证券';2008后成为金融风险的代名词之一。",
+  "synonyms": [
+   {
+    "word": "asset-backed securities",
+    "sentence": "Asset-backed securities turn illiquid loans into instruments anyone can trade.",
+    "ipa": "/ˈæˌsɛt-bækt sɪˈkjʊrətiz/"
+   },
+   {
+    "word": "tranching",
+    "sentence": "Tranching slices one pool into safe and risky layers priced separately.",
+    "ipa": "/ˈtrɑːnʃɪŋ/"
+   }
+  ],
+  "collocations": [
+   "mortgage-backed securities",
+   "the tranches",
+   "the originate-to-distribute model",
+   "pooling and tranching"
+  ],
+  "example": "Securitisation let banks sell mortgages off their books ('originate to distribute'), which quietly removed the incentive to check whether borrowers could pay — a root of 2008.",
+  "nuance": "证券化本身中性、有用(分散风险、增流动性);2008的教训是激励扭曲(发放即转售→不审核质量)+过度复杂(CDO²)+评级机构失职,而非工具本身。与 too-big-to-fail、moral-hazard 相连。",
+  "links": [
+   {
+    "to": "convexity",
+    "rel": "related"
+   },
+   {
+    "to": "leverage-cycle",
+    "rel": "related"
+   },
+   {
+    "to": "moral-hazard-finance",
+    "rel": "related"
+   },
+   {
+    "to": "systemic-risk",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "swaps",
+  "zh": "互换",
+  "pinyin": "hùhuàn",
+  "en": "swaps",
+  "def_zh": "两方约定在未来一段时间内互相交换现金流的衍生合约:最常见的利率互换(用浮动利率换固定利率)、货币互换。企业用它把浮动利率债务转成固定(对冲利率风险)、或调整货币敞口。名义本金巨大,是场外衍生品市场的主力,也是系统性关联的来源之一。",
+  "def_en": "Derivative contracts in which two parties agree to exchange cash flows over a period: most commonly an interest-rate swap (exchanging a floating rate for a fixed rate) or a currency swap. Firms use them to turn floating-rate debt into fixed (hedging interest-rate risk) or to adjust currency exposure. With huge notional amounts, swaps are the backbone of the OTC derivatives market — and a source of systemic interconnection.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "swaps /swɑps/",
+  "etymology": "swap 源自中古英语 swappen（击掌成交,原指'拍手'）——成交时击掌,引申为'交换'。",
+  "synonyms": [
+   {
+    "word": "the interest-rate swap",
+    "sentence": "An interest-rate swap trades a floating obligation for a fixed one without touching the principal.",
+    "ipa": "/ðə ˈɪntəˌrɛst-reɪt swɑp/"
+   },
+   {
+    "word": "a series of forwards",
+    "sentence": "A swap can be seen as a series of forward contracts bundled together.",
+    "ipa": "/ə ˈsɪriz əv ˈfɔrwərdz/"
+   }
+  ],
+  "collocations": [
+   "an interest-rate swap",
+   "the notional principal",
+   "fixed-for-floating",
+   "the swap curve"
+  ],
+  "example": "A company with floating-rate debt fearing rate rises enters a swap to pay fixed and receive floating — converting uncertain future interest into a known cost.",
+  "links": [
+   {
+    "to": "derivatives",
+    "rel": "broader"
+   },
+   {
+    "to": "hedging",
+    "rel": "related"
+   },
+   {
+    "to": "interest-rates",
+    "rel": "related"
+   },
+   {
+    "to": "futures",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "put-call-parity",
+  "zh": "看跌-看涨平价",
+  "pinyin": "kàndiē-kànzhǎng píngjià",
+  "en": "put-call parity",
+  "def_zh": "期权定价的基石恒等式:一份看涨期权+行权价的现值现金,等于一份看跌期权+标的资产(同行权价、同到期)。它由无套利原理导出——若关系被打破,即存在无风险套利机会。它把看涨、看跌、标的、无风险债券四者锁在一个方程里,是理解期权与布莱克-斯科尔斯的入口。",
+  "def_en": "A cornerstone no-arbitrage identity of option pricing: a call plus the present value of the strike in cash equals a put plus the underlying asset (same strike, same expiry). It follows from the no-arbitrage principle — if the relationship breaks, a risk-free arbitrage exists. It locks calls, puts, the underlying and a risk-free bond into one equation, and is the gateway to understanding options and Black-Scholes.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ideas"
+  ],
+  "pron": "put-call parity /pʊt-kɔl ˈpɛrəti/",
+  "etymology": "parity 源自拉丁 paritas（相等,par 同等）——'平价'即两种组合价值相等;违反则套利者立刻'搬平'它。",
+  "synonyms": [
+   {
+    "word": "the no-arbitrage relation",
+    "sentence": "The no-arbitrage relation says two portfolios with identical payoffs must have identical prices.",
+    "ipa": "/ðə noʊ-ˈɑːrbɪtrɑːʒ riˈleɪʃən/"
+   },
+   {
+    "word": "synthetic positions",
+    "sentence": "Put-call parity lets you build a synthetic call from a put, the stock and a bond.",
+    "ipa": "/sɪnˈθɛtɪk pəˈzɪʃənz/"
+   }
+  ],
+  "collocations": [
+   "put-call parity",
+   "no-arbitrage pricing",
+   "synthetic option",
+   "replicating portfolio"
+  ],
+  "example": "If put-call parity is violated, an arbitrageur buys the cheap side and sells the dear side for a risk-free profit — which is exactly why, in liquid markets, it almost always holds.",
+  "links": [
+   {
+    "to": "options",
+    "rel": "related"
+   },
+   {
+    "to": "black-scholes",
+    "rel": "related"
+   },
+   {
+    "to": "derivatives",
+    "rel": "related"
+   },
+   {
+    "to": "arbitrage",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "arbitrage",
+  "zh": "套利",
+  "pinyin": "tàolì",
+  "en": "arbitrage",
+  "def_zh": "利用同一资产(或等价现金流)在不同市场或形式间的价格差异,以无风险(或极低风险)方式锁定利润:同时低买高卖。'无套利'是现代资产定价的基本假设——因为套利者会迅速抹平价差。真实世界的套利有限、有风险(见LTCM),但作为定价原理无处不在。",
+  "def_en": "Exploiting a price difference for the same asset (or equivalent cash flows) across markets or forms to lock in a risk-free (or very low-risk) profit: buy low and sell high simultaneously. 'No-arbitrage' is a founding assumption of modern asset pricing — because arbitrageurs quickly erase such gaps. Real-world arbitrage is limited and risky (see LTCM), but as a pricing principle it is everywhere.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "arbitrage /ˈɑːrbɪtrɑːʒ/",
+  "etymology": "arbitrage 法语'仲裁、裁定'（拉丁 arbitrari 判断）——套利者'裁定'两地正确价格,使其趋同。",
+  "synonyms": [
+   {
+    "word": "the law of one price",
+    "sentence": "The law of one price says identical assets can't trade at two prices for long.",
+    "ipa": "/ðə lɔ əv wən praɪs/"
+   },
+   {
+    "word": "riskless profit",
+    "sentence": "A true riskless profit is rare, fleeting, and instantly competed away.",
+    "ipa": "/ˈrɪskləs ˈprɑfɪt/"
+   }
+  ],
+  "collocations": [
+   "a no-arbitrage condition",
+   "the law of one price",
+   "limits to arbitrage",
+   "risk arbitrage"
+  ],
+  "example": "If gold is cheaper in London than New York by more than shipping costs, arbitrage buys London and sells New York until the prices converge.",
+  "nuance": "'无风险套利'在教科书里干净,现实中有限制(资金、时间、模型风险)——LTCM正因'套利趋同'在极端行情下未能兑现而崩溃(见 model-risk)。",
+  "links": [
+   {
+    "to": "put-call-parity",
+    "rel": "related"
+   },
+   {
+    "to": "efficient-market-hypothesis",
+    "rel": "related"
+   },
+   {
+    "to": "model-risk",
+    "rel": "related"
+   },
+   {
+    "to": "hedge-fund-strategies",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "alternative-investments",
+  "zh": "另类投资",
+  "pinyin": "lìnglèi tóuzī",
+  "en": "alternative investments",
+  "def_zh": "传统股票与债券之外的资产类别:私募股权、房地产、对冲基金、大宗商品、基础设施、艺术品等。特点是低流动性、信息不透明、费用高、与传统资产相关性较低——因而被用于分散风险与追求超额收益。CFA将其单列为一大科目,是机构配置的重要一环。",
+  "def_en": "Asset classes beyond traditional stocks and bonds: private equity, real estate, hedge funds, commodities, infrastructure, art. Their hallmarks are illiquidity, opacity, high fees and lower correlation to traditional assets — which is why they're used for diversification and the pursuit of excess return. The CFA treats them as a distinct topic area and a key part of institutional allocation.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "alternative investments /ɔlˈtərnətɪv ˌɪnˈvɛstmənts/",
+  "etymology": "alternative 源自拉丁 alternare（轮流、交替）——'另类'即传统股债之外的'另一选择'。",
+  "synonyms": [
+   {
+    "word": "alts",
+    "sentence": "Allocations to alts have grown as institutions chase diversification and yield.",
+    "ipa": "/ɑltz/"
+   },
+   {
+    "word": "private markets",
+    "sentence": "Private markets trade illiquidity and opacity for a hoped-for return premium.",
+    "ipa": "/ˈpraɪvət ˈmɑrkɪts/"
+   }
+  ],
+  "collocations": [
+   "the illiquidity premium",
+   "private markets",
+   "low correlation to stocks",
+   "the alternatives sleeve"
+  ],
+  "example": "An endowment holds 40% in alternatives — private equity, real estate, hedge funds — accepting illiquidity in exchange for diversification and a return premium.",
+  "links": [
+   {
+    "to": "private-equity",
+    "rel": "narrower"
+   },
+   {
+    "to": "hedge-fund-strategies",
+    "rel": "narrower"
+   },
+   {
+    "to": "real-assets",
+    "rel": "narrower"
+   },
+   {
+    "to": "asset-allocation",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "hedge-fund-strategies",
+  "zh": "对冲基金策略",
+  "pinyin": "duìchōng jījīn cèlüè",
+  "en": "hedge-fund strategies",
+  "def_zh": "对冲基金追求绝对收益(不论市场涨跌)的多样打法:多空股票(long/short)、事件驱动(并购套利)、相对价值/套利、全球宏观(押注利率/汇率/大宗)、量化。多用杠杆、衍生品、做空,收费高(经典'2/20',见 carried-interest)。目标是与市场低相关的'阿尔法'。",
+  "def_en": "The diverse playbooks hedge funds use to seek absolute return (regardless of market direction): equity long/short, event-driven (merger arbitrage), relative-value/arbitrage, global macro (betting on rates, currencies, commodities), and quantitative. They lean on leverage, derivatives and short-selling, and charge high fees (the classic '2 and 20', see carried interest). The aim is 'alpha' with low correlation to the market.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "hedge-fund strategies /hɛʤ-fənd ˈstrætəʤiz/",
+  "etymology": "hedge fund 得名于1949年Jones的'对冲'多空组合(hedge 树篱,喻风险屏障);今多数已非严格'对冲'。",
+  "synonyms": [
+   {
+    "word": "absolute return",
+    "sentence": "Absolute-return strategies aim to make money whether the market rises or falls.",
+    "ipa": "/ˈæbsəˌlut rɪˈtərn/"
+   },
+   {
+    "word": "alpha",
+    "sentence": "Alpha is return beyond what the market's risk explains — the thing hedge funds sell.",
+    "ipa": "/ˈælfə/"
+   }
+  ],
+  "collocations": [
+   "long/short equity",
+   "global macro",
+   "event-driven",
+   "alpha vs beta"
+  ],
+  "example": "A global-macro fund bets on a currency devaluation using leverage and derivatives — a strategy uncorrelated with whether the stock market rises.",
+  "nuance": "高费用+多数长期跑不赢指数(扣费后)是持续争议;'阿尔法'稀缺且难持续。与 carried-interest(2/20)、arbitrage 相连。",
+  "links": [
+   {
+    "to": "alternative-investments",
+    "rel": "broader"
+   },
+   {
+    "to": "arbitrage",
+    "rel": "related"
+   },
+   {
+    "to": "carried-interest",
+    "rel": "related"
+   },
+   {
+    "to": "mergers-acquisitions",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "real-assets",
+  "zh": "实物资产",
+  "pinyin": "shíwù zīchǎn",
+  "en": "real assets (real estate, commodities, infrastructure)",
+  "def_zh": "有形的、内在价值的资产:房地产、大宗商品(能源、金属、农产品)、基础设施。它们提供分散化与通胀对冲(通胀时实物往往保值/升值),但流动性差、管理复杂、周期性强。是另类投资与机构长期配置的重要组成。",
+  "def_en": "Tangible, intrinsically valuable assets: real estate, commodities (energy, metals, agriculture) and infrastructure. They offer diversification and an inflation hedge (in inflation, real things tend to hold or gain value), but are illiquid, management-intensive and cyclical. A key component of alternatives and long-horizon institutional allocation.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "衍生品与另类投资 Derivatives & Alternatives"
+   }
+  ],
+  "themes": [
+   "finance",
+   "economy"
+  ],
+  "pron": "real assets /ril ˈæˌsɛts/",
+  "etymology": "real 源自拉丁 res（物、实体）——'实物'资产即'有实体之物',与金融'纸面'资产相对。",
+  "synonyms": [
+   {
+    "word": "the inflation hedge",
+    "sentence": "Real assets are prized as an inflation hedge when paper money is losing value.",
+    "ipa": "/ðə ˌɪnˈfleɪʃən hɛʤ/"
+   },
+   {
+    "word": "tangible assets",
+    "sentence": "Tangible assets can be touched, and rarely go to zero the way a share can.",
+    "ipa": "/ˈtænʤəbəl ˈæˌsɛts/"
+   }
+  ],
+  "collocations": [
+   "an inflation hedge",
+   "real estate and commodities",
+   "hard assets",
+   "the illiquidity premium"
+  ],
+  "example": "When inflation surged, investors rotated into real assets — property, energy, farmland — whose value rises with the price level, unlike fixed-rate bonds.",
+  "links": [
+   {
+    "to": "alternative-investments",
+    "rel": "broader"
+   },
+   {
+    "to": "inflation",
+    "rel": "related"
+   },
+   {
+    "to": "corporations-exchanges",
+    "rel": "related"
+   },
+   {
+    "to": "food-agriculture",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "asset-allocation",
+  "zh": "资产配置",
+  "pinyin": "zīchǎn pèizhì",
+  "en": "asset allocation",
+  "def_zh": "把投资组合在各大资产类别(股票、债券、现金、另类)间的分配决策——研究显示,它解释了组合长期回报波动的绝大部分,远超个股选择或择时。这是投资组合管理最重要的决策,CFA三级的核心:先定配置,再谈选券。",
+  "def_en": "The decision of how to split a portfolio across the major asset classes (stocks, bonds, cash, alternatives) — research shows it explains the overwhelming majority of a portfolio's long-run return variability, far more than security selection or market timing. It is the single most important decision in portfolio management, and the heart of CFA Level III: get the allocation right before worrying about which securities.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "asset allocation /ˈæˌsɛt ˌæləˈkeɪʃən/",
+  "etymology": "allocate 源自拉丁 ad-（向）+ locare（放置）——配置即'把资本放到各类资产中'。",
+  "synonyms": [
+   {
+    "word": "the allocation decision",
+    "sentence": "The allocation decision, not stock-picking, drives most of the outcome.",
+    "ipa": "/ðə ˌæləˈkeɪʃən dɪˈsɪʒən/"
+   },
+   {
+    "word": "the policy mix",
+    "sentence": "The policy mix sets the long-run home for each dollar across asset classes.",
+    "ipa": "/ðə ˈpɑləsi mɪks/"
+   }
+  ],
+  "collocations": [
+   "strategic asset allocation",
+   "the policy portfolio",
+   "stocks/bonds/alternatives split",
+   "allocation drives returns"
+  ],
+  "example": "A famous study found asset allocation explained over 90% of the variability of a portfolio's returns over time — which is why Level III starts here, not with stock tips.",
+  "links": [
+   {
+    "to": "efficient-frontier",
+    "rel": "related"
+   },
+   {
+    "to": "portfolio-theory",
+    "rel": "related"
+   },
+   {
+    "to": "strategic-tactical-allocation",
+    "rel": "narrower"
+   },
+   {
+    "to": "diversification",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "efficient-frontier",
+  "zh": "有效前沿",
+  "pinyin": "yǒuxiào qiányán",
+  "en": "the efficient frontier",
+  "def_zh": "马科维茨投资组合理论的核心图像:在风险-回报平面上,由'给定风险下回报最高、或给定回报下风险最低'的所有最优组合连成的曲线。理性投资者只应持有前沿上的组合;前沿之下的组合都是'次优'(可在不加风险下提高回报)。资产配置的理论标尺。",
+  "def_en": "The core image of Markowitz's portfolio theory: on the risk-return plane, the curve of all optimal portfolios that offer the highest return for a given risk (or the lowest risk for a given return). A rational investor should hold only portfolios on the frontier; anything below it is sub-optimal (you could raise return without adding risk). The theoretical yardstick of asset allocation.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "efficient frontier /ɪˈfɪʃənt frənˈtɪr/",
+  "etymology": "frontier（边疆、前沿,拉丁 frons 前额）——'有效前沿'即最优组合所在的'边界曲线',其外不可达、其内不理性。",
+  "synonyms": [
+   {
+    "word": "the optimal portfolio set",
+    "sentence": "The optimal portfolio set is where you can't get more return without more risk.",
+    "ipa": "/ðə ˈɑptɪməl pɔrtˈfoʊliˌoʊ sɛt/"
+   },
+   {
+    "word": "mean-variance optimisation",
+    "sentence": "Mean-variance optimisation searches for the frontier by trading expected return against variance.",
+    "ipa": "/min-ˈvɛriəns ɑptɪmɪˈzeɪʃən/"
+   }
+  ],
+  "collocations": [
+   "on the efficient frontier",
+   "mean-variance optimisation",
+   "the optimal portfolio",
+   "risk-return trade-off"
+  ],
+  "example": "Combining low-correlation assets pushes the efficient frontier up and to the left — more return for the same risk, the free lunch of diversification.",
+  "nuance": "前沿依赖对回报、方差、相关性的估计,而这些极难准确估计(估计误差→'优化即放大误差');故实务常用更稳健的方法。理论优美,落地须谨慎。",
+  "links": [
+   {
+    "to": "portfolio-theory",
+    "rel": "broader"
+   },
+   {
+    "to": "diversification",
+    "rel": "related"
+   },
+   {
+    "to": "asset-allocation",
+    "rel": "related"
+   },
+   {
+    "to": "sharpe-ratio",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "investment-policy-statement",
+  "zh": "投资政策声明（IPS）",
+  "pinyin": "tóuzī zhèngcè shēngmíng",
+  "en": "the Investment Policy Statement (IPS)",
+  "def_zh": "投资管理的宪法性文件:明确客户的目标(回报要求)与约束条件——用'RR-TTLLU'框架:回报(Return)、风险(Risk)、时间跨度(Time)、税收(Tax)、流动性(Liquidity)、法律(Legal)、特殊情况(Unique)。它把'该怎么投?'锚定在客户的真实处境上,是CFA三级与专业理财的起点与准绳。",
+  "def_en": "The constitutional document of investment management: it spells out a client's objectives (return, risk) and constraints — via the framework of return, risk, time horizon, taxes, liquidity, legal, and unique circumstances. It anchors 'how should this be invested?' to the client's real situation, and is the starting point and yardstick of CFA Level III and professional advising.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "Investment Policy Statement /ˌɪnˈvɛstmənt ˈpɑləsi ˈsteɪtmənt/",
+  "etymology": "policy 源自希腊 politeia（治理、政体）——IPS即组合的'治理章程';如同宪法之于国家。",
+  "synonyms": [
+   {
+    "word": "objectives and constraints",
+    "sentence": "Objectives and constraints — return, risk, time, tax, liquidity, legal, unique — are the IPS in one breath.",
+    "ipa": "/əˈbʤɛktɪvz ənd kənˈstreɪnts/"
+   },
+   {
+    "word": "the investment mandate",
+    "sentence": "The investment mandate written in the IPS binds the manager as a fiduciary.",
+    "ipa": "/ðə ˌɪnˈvɛstmənt ˈmænˌdeɪt/"
+   }
+  ],
+  "collocations": [
+   "draft the IPS",
+   "objectives and constraints",
+   "return and risk objectives",
+   "liquidity and time horizon"
+  ],
+  "example": "A 45-year-old business owner retiring in 15 years, worried about inflation — the IPS turns that human situation into explicit return, risk, liquidity and time-horizon terms that drive the allocation.",
+  "nuance": "IPS区分风险'承受能力'(ability,客观:财力、时间跨度)与'承受意愿'(willingness,主观:心理),二者取其低。与YOS的'宪法'同构:先定原则,再谈执行。",
+  "links": [
+   {
+    "to": "risk-tolerance",
+    "rel": "related"
+   },
+   {
+    "to": "asset-allocation",
+    "rel": "related"
+   },
+   {
+    "to": "wealth-management",
+    "rel": "related"
+   },
+   {
+    "to": "fiduciary-duty",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "risk-tolerance",
+  "zh": "风险承受度",
+  "pinyin": "fēngxiǎn chéngshòudù",
+  "en": "risk tolerance (ability vs willingness)",
+  "def_zh": "投资者能承受多大损失。须区分两面:承受能力(ability,客观——财力、时间跨度、收入稳定性)与承受意愿(willingness,主观——心理舒适度)。二者不一致时通常取更保守的一方。它决定组合的股债比例,是IPS与资产配置的关键输入。",
+  "def_en": "How much loss an investor can bear. It has two sides that must be separated: ability (objective — wealth, time horizon, income stability) and willingness (subjective — psychological comfort). When they conflict, you generally take the more conservative. It sets the stock-bond balance and is a key input to the IPS and asset allocation.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance",
+   "ideas"
+  ],
+  "pron": "risk tolerance /rɪsk ˈtɑlərəns/",
+  "etymology": "tolerance 源自拉丁 tolerare（承受、忍耐）——风险'承受度'即能忍受多少波动与损失。",
+  "synonyms": [
+   {
+    "word": "ability vs willingness",
+    "sentence": "Ability vs willingness: a wealthy client may afford risk but not stomach it.",
+    "ipa": "/əˈbɪləˌti ˈvərsəz ˈwɪlɪŋnəs/"
+   },
+   {
+    "word": "risk appetite",
+    "sentence": "Risk appetite that outruns risk capacity is how people sell at the bottom.",
+    "ipa": "/rɪsk ˈæpəˌtaɪt/"
+   }
+  ],
+  "collocations": [
+   "ability vs willingness to take risk",
+   "risk capacity",
+   "the conservative of the two",
+   "stomach a 20% loss"
+  ],
+  "example": "A client says 'I want high returns but can't tolerate losing 20%' — ability and willingness conflict, so the IPS anchors to the lower, and the portfolio is built to a loss the client can actually endure.",
+  "nuance": "最经典的实务问题:客户嘴上要高收益、心里怕大跌。行为金融(见 loss-aversion)解释为何'意愿'常低于'能力';好顾问管理的是能被坚持下去的组合,不是理论最优。",
+  "links": [
+   {
+    "to": "investment-policy-statement",
+    "rel": "related"
+   },
+   {
+    "to": "loss-aversion",
+    "rel": "related"
+   },
+   {
+    "to": "risk-return-tradeoff",
+    "rel": "related"
+   },
+   {
+    "to": "behavioural-finance",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "strategic-tactical-allocation",
+  "zh": "战略与战术资产配置",
+  "pinyin": "zhànlüè yǔ zhànshù zīchǎn pèizhì",
+  "en": "strategic vs tactical allocation & rebalancing",
+  "def_zh": "战略资产配置(SAA)是依IPS设定的长期目标比例(政策组合);战术资产配置(TAA)是围绕它做的短期主动偏离,押注市场时机。再平衡则是定期把漂移的比例拉回目标——它天然'高抛低吸',是纪律化的风险控制。多数证据支持坚守战略配置+再平衡,慎用战术择时。",
+  "def_en": "Strategic asset allocation (SAA) is the long-run target mix set by the IPS (the policy portfolio); tactical asset allocation (TAA) is short-term active deviation around it, betting on market timing. Rebalancing periodically pulls the drifted weights back to target — inherently 'sell high, buy low', a disciplined risk control. Most evidence favours holding the strategic allocation and rebalancing, and using tactical timing sparingly.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "strategic versus tactical allocation /strəˈtiʤɪk ˈvərsəz ˈtæktɪkəl ˌæləˈkeɪʃən/",
+  "etymology": "strategy（将道,见前）vs tactics（希腊 taktikē 布阵）——长期'战略'与短期'战术'之分,借自军事。",
+  "synonyms": [
+   {
+    "word": "the policy portfolio",
+    "sentence": "The policy portfolio is the strategic home the tactics only briefly leave.",
+    "ipa": "/ðə ˈpɑləsi pɔrtˈfoʊliˌoʊ/"
+   },
+   {
+    "word": "rebalancing discipline",
+    "sentence": "Rebalancing discipline forces you to trim winners and buy losers, against every instinct.",
+    "ipa": "/riːˈbælənsɪŋ ˈdɪsəplən/"
+   }
+  ],
+  "collocations": [
+   "strategic vs tactical",
+   "the policy portfolio",
+   "rebalance to target",
+   "disciplined rebalancing"
+  ],
+  "example": "After a stock rally lifts equities from a 60% target to 70%, rebalancing sells the excess back to 60% — mechanically selling high, and resetting risk to the client's tolerance.",
+  "links": [
+   {
+    "to": "asset-allocation",
+    "rel": "broader"
+   },
+   {
+    "to": "index-investing",
+    "rel": "related"
+   },
+   {
+    "to": "efficient-market-hypothesis",
+    "rel": "related"
+   },
+   {
+    "to": "behavioural-finance",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "performance-attribution",
+  "zh": "业绩归因",
+  "pinyin": "yèjì guīyīn",
+  "en": "performance attribution",
+  "def_zh": "拆解投资组合相对基准的超额收益从何而来:配置效应(在对的资产类别上超配/低配)、选择效应(在类别内选对了证券)、以及交互与择时效应。它回答'我的回报是靠运气、择时、选股还是配置?',是评估基金经理真实技能、区分阿尔法与贝塔的核心工具。",
+  "def_en": "Decomposing a portfolio's excess return over its benchmark into its sources: the allocation effect (over/under-weighting the right asset classes), the selection effect (picking the right securities within a class), plus interaction and timing effects. It answers 'did my return come from luck, timing, stock-picking or allocation?' — the core tool for judging a manager's real skill and separating alpha from beta.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "performance attribution /pərˈfɔrməns ˌætrɪˈbjuʃən/",
+  "etymology": "attribute 源自拉丁 attribuere（归于、分派）——归因即'把回报分派给各来源'。",
+  "synonyms": [
+   {
+    "word": "return decomposition",
+    "sentence": "Return decomposition tells you whether the manager earned the return or just rode the market.",
+    "ipa": "/rɪˈtərn ˌdikəmpəˈzɪʃən/"
+   },
+   {
+    "word": "allocation vs selection",
+    "sentence": "Allocation vs selection separates 'right asset class' skill from 'right stock' skill.",
+    "ipa": "/ˌæləˈkeɪʃən ˈvərsəz səˈlɛkʃən/"
+   }
+  ],
+  "collocations": [
+   "the allocation and selection effects",
+   "alpha vs beta",
+   "attribute the return",
+   "excess return vs benchmark"
+  ],
+  "example": "Attribution reveals a fund beat its benchmark not by stock-picking (selection) but by luckily over-weighting energy (allocation) — a very different verdict on the manager's skill.",
+  "links": [
+   {
+    "to": "sharpe-ratio",
+    "rel": "related"
+   },
+   {
+    "to": "beta",
+    "rel": "related"
+   },
+   {
+    "to": "factor-investing",
+    "rel": "related"
+   },
+   {
+    "to": "index-investing",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "factor-investing",
+  "zh": "因子投资",
+  "pinyin": "yīnzǐ tóuzī",
+  "en": "factor investing (smart beta)",
+  "def_zh": "用系统性、可复制的'因子'(而非个别选股或市场整体)来解释与获取回报:价值、规模、动量、质量、低波动等。源自法马-弗伦奇三/五因子模型。它把过去被当作'阿尔法'(技能)的部分,重新解释为可低成本捕捉的'因子暴露'(贝塔的延伸)——介于纯被动指数与主动选股之间。",
+  "def_en": "Using systematic, replicable 'factors' — rather than individual stock-picking or the whole market — to explain and harvest returns: value, size, momentum, quality, low volatility. It grew from the Fama-French three/five-factor model. It reinterprets much of what was once sold as 'alpha' (skill) as low-cost, capturable 'factor exposure' (an extension of beta) — sitting between pure passive indexing and active stock-picking.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "factor investing /ˈfæktər ˌɪnˈvɛstɪŋ/",
+  "etymology": "factor 源自拉丁 facere（做、造成）——因子即'造成回报的共同驱动力';smart beta 是其市场化别名。",
+  "synonyms": [
+   {
+    "word": "smart beta",
+    "sentence": "Smart beta packages a factor tilt into a cheap, rules-based index.",
+    "ipa": "/smɑrt ˈbeɪtə/"
+   },
+   {
+    "word": "the Fama-French factors",
+    "sentence": "The Fama-French factors showed value and size explain returns the market factor alone missed.",
+    "ipa": "/ðə ˈfɑːmə-frɛnʧ ˈfæktərz/"
+   }
+  ],
+  "collocations": [
+   "value and momentum factors",
+   "smart beta",
+   "factor exposure",
+   "the Fama-French model"
+  ],
+  "example": "A value factor fund systematically buys cheap stocks — capturing, at index-like cost, a return premium once credited to star managers' 'skill'.",
+  "nuance": "因子投资模糊了'阿尔法vs贝塔'的界线:昨天的阿尔法常是今天的可复制因子(贝塔)。因子会拥挤、会失效、会经历长期回撤——非免费午餐。",
+  "links": [
+   {
+    "to": "regression-analysis",
+    "rel": "related"
+   },
+   {
+    "to": "efficient-market-hypothesis",
+    "rel": "related"
+   },
+   {
+    "to": "index-investing",
+    "rel": "related"
+   },
+   {
+    "to": "performance-attribution",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "wealth-management",
+  "zh": "财富管理",
+  "pinyin": "cáifù guǎnlǐ",
+  "en": "wealth management",
+  "def_zh": "为个人与家庭(尤其高净值人群)提供的综合性、目标导向的财务服务:不止投资,还涵盖退休、税务、遗产、保险与人生目标规划。核心是理解客户的目标与风险承受度、构建合适组合、并把建议讲清楚。它是CFA三级最贴近'为真实的人做决策'的领域,重在信任与沟通。",
+  "def_en": "Comprehensive, goals-based financial service for individuals and families (especially the high-net-worth): not just investing, but retirement, tax, estate, insurance and life-goal planning. Its core is understanding a client's goals and risk tolerance, building a suitable portfolio, and explaining the recommendation clearly. It is the CFA Level III arena closest to 'making decisions for a real person' — built on trust and communication.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "wealth management /wɛlθ ˈmænɪʤmənt/",
+  "etymology": "wealth 源自古英语 wela（福祉、财富）——与 well 同根;'财富'本义即'过得好',不止金钱。",
+  "synonyms": [
+   {
+    "word": "goals-based investing",
+    "sentence": "Goals-based investing organises money around a life, not around a benchmark.",
+    "ipa": "/goʊlz-beɪst ˌɪnˈvɛstɪŋ/"
+   },
+   {
+    "word": "the trusted adviser",
+    "sentence": "The trusted adviser sells judgement and communication as much as returns.",
+    "ipa": "/ðə ˈtrəstɪd ædˈvaɪzər/"
+   }
+  ],
+  "collocations": [
+   "high-net-worth clients",
+   "goals-based planning",
+   "the client relationship",
+   "estate and tax planning"
+  ],
+  "example": "Wealth management for a business owner blends portfolio construction with succession, tax and estate planning — the numbers serve the life, not the reverse.",
+  "links": [
+   {
+    "to": "investment-policy-statement",
+    "rel": "related"
+   },
+   {
+    "to": "risk-tolerance",
+    "rel": "related"
+   },
+   {
+    "to": "fiduciary-duty",
+    "rel": "related"
+   },
+   {
+    "to": "personal-finance-classics",
+    "rel": "related"
+   }
+  ]
+ },
+ {
+  "id": "institutional-investing",
+  "zh": "机构投资",
+  "pinyin": "jīgòu tóuzī",
+  "en": "institutional investing (pensions & endowments)",
+  "def_zh": "为大型机构——养老金、捐赠基金、主权基金、保险公司——管理资金。各有独特的目标与约束:养老金须匹配未来负债(资产负债管理ALM);捐赠基金追求永续(耶鲁'捐赠模式'重仓另类);保险须匹配赔付。规模大、时间跨度长、专业化高,是资产管理行业的'买方巨头'。",
+  "def_en": "Managing money for large institutions — pension funds, endowments, sovereign wealth funds, insurers. Each has distinctive objectives and constraints: pensions must match future liabilities (asset-liability management); endowments seek perpetuity (the Yale 'endowment model' tilts heavily to alternatives); insurers must match claims. Large-scale, long-horizon and highly professional — the 'buy-side giants' of asset management.",
+  "sources": [
+   {
+    "book": "cfa",
+    "chapter": "投资组合管理（三级）Portfolio Management (Level III)"
+   }
+  ],
+  "themes": [
+   "finance"
+  ],
+  "pron": "institutional investing /ˌɪnstɪˈtuʃənəl ˌɪnˈvɛstɪŋ/",
+  "etymology": "institution 源自拉丁 instituere（设立）——机构即'设立的组织';机构投资者是资本市场最大的'设立式'资金池。",
+  "synonyms": [
+   {
+    "word": "the endowment model",
+    "sentence": "The endowment model, pioneered at Yale, leans on illiquid alternatives a perpetual fund can hold.",
+    "ipa": "/ðə ɛnˈdaʊmənt ˈmɑdəl/"
+   },
+   {
+    "word": "asset-liability management",
+    "sentence": "Asset-liability management matches a pension's investments to the pensions it must one day pay.",
+    "ipa": "/ˈæˌsɛt-ˌlaɪəˈbɪlɪti ˈmænɪʤmənt/"
+   }
+  ],
+  "collocations": [
+   "pensions and endowments",
+   "asset-liability management",
+   "the endowment model",
+   "the long horizon"
+  ],
+  "example": "A university endowment, investing in perpetuity, can hold far more illiquid alternatives than an individual — the endowment model turns its long horizon into a return premium.",
+  "links": [
+   {
+    "to": "alternative-investments",
+    "rel": "related"
+   },
+   {
+    "to": "asset-allocation",
+    "rel": "related"
+   },
+   {
+    "to": "pension-accounting",
+    "rel": "related"
+   },
+   {
+    "to": "investment-policy-statement",
+    "rel": "related"
+   }
+  ]
+ }
+]

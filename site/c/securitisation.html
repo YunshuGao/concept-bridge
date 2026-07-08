@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>证券化 · securitisation · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">权益与固定收益 Equity &amp; Fixed Income</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>证券化 <span class="pinyin">zhèngquànhuà</span><span class="en">securitisation</span></h1>
+<p class="meta">🔊 <span class="ipa">securitisation /sɪˌkjʊərɪtaɪˈzeɪʃən/</span></p>
+<div class="card"><p class="zh">把一组能产生现金流的资产(房贷、车贷、信用卡应收)打包成资金池,再发行以其现金流为支持的可交易证券(MBS/ABS),并按风险分层(优先级/次级)出售。它盘活流动性、分散风险,但2008年因底层劣质房贷+过度分层+评级失灵而引爆全球危机。</p><p class="endef">Pooling a set of cash-flow-producing assets (mortgages, car loans, credit-card receivables) and issuing tradable securities backed by those cash flows (MBS/ABS), sold in risk-ranked tranches (senior/junior). It creates liquidity and spreads risk — but in 2008, poor underlying mortgages, excessive tranching and failed ratings turned it into the trigger of a global crisis.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>securitise = security（证券,拉丁 securus 无忧）+ -ise——把资产&#x27;变成证券&#x27;;2008后成为金融风险的代名词之一。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>asset-backed securities</b> <span class='ipa'>/ˈæˌsɛt-bækt sɪˈkjʊrətiz/</span><br><em>Asset-backed securities turn illiquid loans into instruments anyone can trade.</em></li><li>▸ <b>tranching</b> <span class='ipa'>/ˈtrɑːnʃɪŋ/</span><br><em>Tranching slices one pool into safe and risky layers priced separately.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ mortgage-backed securities</li><li>▸ the tranches</li><li>▸ the originate-to-distribute model</li><li>▸ pooling and tranching</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Securitisation let banks sell mortgages off their books (&#x27;originate to distribute&#x27;), which quietly removed the incentive to check whether borrowers could pay — a root of 2008.</em></p></div>
+<h2>Nuance 陷阱与辨析</h2><div class='card nuance'><p>证券化本身中性、有用(分散风险、增流动性);2008的教训是激励扭曲(发放即转售→不审核质量)+过度复杂(CDO²)+评级机构失职,而非工具本身。与 too-big-to-fail、moral-hazard 相连。</p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/convexity.html">凸性 · convexity</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/leverage-cycle.html">杠杆周期 · the leverage cycle</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/moral-hazard-finance.html">金融中的道德风险 · moral hazard in finance</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/systemic-risk.html">系统性风险 · systemic risk</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/convexity.html">凸性 · convexity</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>cfa 权益与固定收益 Equity &amp; Fixed Income</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a><a class="tag" href="../themes.html#governance">#governance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

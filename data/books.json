@@ -685,6 +685,22 @@
     "计算机与技术教育 Computing & Technology Education",
     "反思性实践 Reflective Practice"
    ]
+  },
+  {
+   "id": "cfa",
+   "title_zh": "CFA 特许金融分析师课程体系",
+   "title_en": "The CFA Program — Chartered Financial Analyst curriculum",
+   "format": "curriculum",
+   "path": "-",
+   "phase": 10,
+   "status": "complete",
+   "chapters": [
+    "CFA 项目与职业道德 The Program & Ethics",
+    "定量方法与经济学 Quantitative Methods & Economics",
+    "权益与固定收益 Equity & Fixed Income",
+    "衍生品与另类投资 Derivatives & Alternatives",
+    "投资组合管理（三级）Portfolio Management (Level III)"
+   ]
   }
  ]
 }

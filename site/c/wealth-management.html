@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>财富管理 · wealth management · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb">投资组合管理（三级）Portfolio Management (Level III)</span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>财富管理 <span class="pinyin">cáifù guǎnlǐ</span><span class="en">wealth management</span></h1>
+<p class="meta">🔊 <span class="ipa">wealth management /wɛlθ ˈmænɪʤmənt/</span></p>
+<div class="card"><p class="zh">为个人与家庭(尤其高净值人群)提供的综合性、目标导向的财务服务:不止投资,还涵盖退休、税务、遗产、保险与人生目标规划。核心是理解客户的目标与风险承受度、构建合适组合、并把建议讲清楚。它是CFA三级最贴近&#x27;为真实的人做决策&#x27;的领域,重在信任与沟通。</p><p class="endef">Comprehensive, goals-based financial service for individuals and families (especially the high-net-worth): not just investing, but retirement, tax, estate, insurance and life-goal planning. Its core is understanding a client&#x27;s goals and risk tolerance, building a suitable portfolio, and explaining the recommendation clearly. It is the CFA Level III arena closest to &#x27;making decisions for a real person&#x27; — built on trust and communication.</p></div>
+<h2>Etymology 词源</h2><div class='card'><p>wealth 源自古英语 wela（福祉、财富）——与 well 同根;&#x27;财富&#x27;本义即&#x27;过得好&#x27;,不止金钱。</p></div>
+<h2>Synonyms 近义词</h2><div class='card'><ul class='plain'><li>▸ <b>goals-based investing</b> <span class='ipa'>/goʊlz-beɪst ˌɪnˈvɛstɪŋ/</span><br><em>Goals-based investing organises money around a life, not around a benchmark.</em></li><li>▸ <b>the trusted adviser</b> <span class='ipa'>/ðə ˈtrəstɪd ædˈvaɪzər/</span><br><em>The trusted adviser sells judgement and communication as much as returns.</em></li></ul></div>
+<h2>Collocations 常用搭配</h2><div class='card'><ul class='plain'><li>▸ high-net-worth clients</li><li>▸ goals-based planning</li><li>▸ the client relationship</li><li>▸ estate and tax planning</li></ul></div>
+<h2>In the wild 语境例句</h2><div class='card'><p><em>Wealth management for a business owner blends portfolio construction with succession, tax and estate planning — the numbers serve the life, not the reverse.</em></p></div>
+<h2>Network 概念网络</h2><div class='card'><ul class='plain'><li><span class="rel">相关 related</span> <a class="node" href="../c/investment-policy-statement.html">投资政策声明（IPS） · the Investment Policy Statement (IPS)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/risk-tolerance.html">风险承受度 · risk tolerance (ability vs willingness)</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/fiduciary-duty.html">受托责任 · fiduciary duty</a></li><li><span class="rel">相关 related</span> <a class="node" href="../c/personal-finance-classics.html">个人理财经典概念 · the personal-finance canon</a></li><li><span class="rel">← linked from</span> <a class="node" href="../c/investment-policy-statement.html">投资政策声明（IPS） · the Investment Policy Statement (IPS)</a></li></ul></div>
+<h2>Source 出处</h2><p class='meta'>cfa 投资组合管理（三级）Portfolio Management (Level III)</p>
+<p><a class="tag" href="../themes.html#finance">#finance</a></p>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>

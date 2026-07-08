@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CFA 特许金融分析师课程体系 · ConceptBridge</title>
+<style>
+:root { --ink:#1a1a2e; --acc:#b4373a; --acc2:#1f6f8b; --bg:#faf8f4; --card:#ffffff;
+        --muted:#6b6b7b; --line:#e5e0d8; }
+* { box-sizing:border-box; margin:0; }
+body { font-family:'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+       background:var(--bg); color:var(--ink); line-height:1.65; }
+header { background:var(--ink); color:#fff; padding:.8rem 1.2rem;
+         display:flex; gap:1rem; align-items:center; flex-wrap:wrap; position:relative; }
+header a { color:#fff; text-decoration:none; font-weight:600; }
+header .crumb { color:#bbb; font-weight:400; font-size:.9rem; }
+#q { flex:1; min-width:180px; max-width:420px; padding:.45rem .7rem;
+     border-radius:6px; border:none; font-size:1rem; }
+#results { position:absolute; top:3.4rem; right:1.2rem; left:auto; width:min(480px,90vw);
+           background:var(--card); border:1px solid var(--line); border-radius:8px;
+           box-shadow:0 8px 24px rgba(0,0,0,.18); max-height:60vh; overflow:auto; z-index:9; }
+#results a { display:block; padding:.55rem .8rem; color:var(--ink);
+             text-decoration:none; border-bottom:1px solid var(--line); }
+#results a:hover { background:var(--bg); }
+main { max-width:920px; margin:0 auto; padding:1.4rem 1.2rem 4rem; }
+h1 { font-size:1.7rem; margin:.8rem 0 .3rem; }
+h1 .en { color:var(--acc2); display:block; font-size:1.15rem; font-weight:600; }
+h2 { font-size:1.05rem; color:var(--acc); margin:1.5rem 0 .5rem;
+     text-transform:uppercase; letter-spacing:.06em; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:1rem 1.2rem; margin:.6rem 0; }
+.zh { font-size:1.02rem; } .endef { color:var(--acc2); margin-top:.3rem; }
+.pinyin { color:var(--muted); font-style:italic; font-size:1rem; }
+.ipa { color:var(--acc2); font-family:"Segoe UI","Charis SIL",serif; font-size:.95rem; }
+.tag { display:inline-block; background:#eee7db; border-radius:99px; padding:.1rem .7rem;
+       font-size:.82rem; margin:.15rem .25rem .15rem 0; color:var(--ink);
+       text-decoration:none; }
+.nuance { border-left:4px solid var(--acc); background:#fdf1f1; }
+ul.plain { list-style:none; padding:0; } ul.plain li { padding:.2rem 0; }
+.rel { color:var(--muted); font-size:.85rem; margin-right:.4rem; }
+a.node { color:var(--acc2); text-decoration:none; font-weight:600; }
+a.node:hover { text-decoration:underline; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:.6rem; }
+.grid .card { margin:0; }
+.meta { color:var(--muted); font-size:.88rem; }
+footer { text-align:center; color:var(--muted); font-size:.85rem; padding:2rem 0; }
+canvas { width:100%; background:var(--card); border:1px solid var(--line); border-radius:10px; }
+.count { color:var(--muted); font-weight:400; font-size:1rem; }
+</style>
+</head>
+<body>
+<header>
+  <a href="../index.html">概念桥 ConceptBridge</a>
+  <span class="crumb"></span>
+  <input id="q" type="search" placeholder="搜索 search: 科举 / keju / examination…"
+         autocomplete="off">
+  <div id="results" style="display:none"></div>
+</header>
+<main>
+<h1>CFA 特许金融分析师课程体系<span class="en">The CFA Program — Chartered Financial Analyst curriculum</span></h1>
+<h2>CFA 项目与职业道德 The Program &amp; Ethics <span class='count'>(3)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/cfa-program.html">CFA 特许金融分析师 · the CFA Program (Chartered Financial Analyst)</a></div><div class='card'><a class="node" href="../c/cfa-ethics.html">CFA 职业道德准则 · the CFA Code of Ethics &amp; Standards</a></div><div class='card'><a class="node" href="../c/fiduciary-duty.html">受托责任 · fiduciary duty</a></div></div>
+<h2>定量方法与经济学 Quantitative Methods &amp; Economics <span class='count'>(8)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/inflation.html">通货膨胀 · inflation</a></div><div class='card'><a class="node" href="../c/business-cycle.html">经济周期 · the business cycle</a></div><div class='card'><a class="node" href="../c/monetary-policy.html">货币政策 · monetary policy</a></div><div class='card'><a class="node" href="../c/interest-rates.html">利率 · interest rates</a></div><div class='card'><a class="node" href="../c/market-structures.html">市场结构 · market structures</a></div><div class='card'><a class="node" href="../c/hypothesis-testing.html">假设检验 · hypothesis testing</a></div><div class='card'><a class="node" href="../c/regression-analysis.html">回归分析 · regression analysis</a></div><div class='card'><a class="node" href="../c/price-elasticity.html">价格弹性 · price elasticity of demand</a></div></div>
+<h2>权益与固定收益 Equity &amp; Fixed Income <span class='count'>(37)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/discounted-cash-flow.html">现金流折现 · discounted cash flow (DCF)</a></div><div class='card'><a class="node" href="../c/free-cash-flow.html">自由现金流 · free cash flow (FCF)</a></div><div class='card'><a class="node" href="../c/weighted-average-cost-of-capital.html">加权平均资本成本 · WACC (weighted average cost of capital)</a></div><div class='card'><a class="node" href="../c/cost-of-equity.html">股权成本 · the cost of equity</a></div><div class='card'><a class="node" href="../c/capital-asset-pricing-model.html">资本资产定价模型 · the CAPM</a></div><div class='card'><a class="node" href="../c/beta.html">贝塔系数 · beta</a></div><div class='card'><a class="node" href="../c/terminal-value.html">终值 · terminal value</a></div><div class='card'><a class="node" href="../c/enterprise-value.html">企业价值 · enterprise value (EV)</a></div><div class='card'><a class="node" href="../c/ev-ebitda.html">EV/EBITDA 倍数 · the EV/EBITDA multiple</a></div><div class='card'><a class="node" href="../c/price-earnings-ratio.html">市盈率 · the price-to-earnings (P/E) ratio</a></div><div class='card'><a class="node" href="../c/return-on-invested-capital.html">投入资本回报率 · return on invested capital (ROIC)</a></div><div class='card'><a class="node" href="../c/return-on-equity.html">净资产收益率 · return on equity (ROE)</a></div><div class='card'><a class="node" href="../c/dupont-analysis.html">杜邦分析 · the DuPont analysis</a></div><div class='card'><a class="node" href="../c/tax-shield.html">税盾 · the tax shield</a></div><div class='card'><a class="node" href="../c/capital-structure.html">资本结构 · capital structure</a></div><div class='card'><a class="node" href="../c/modigliani-miller.html">MM 定理 · the Modigliani-Miller theorem</a></div><div class='card'><a class="node" href="../c/dividend-policy.html">股利政策 · dividend policy</a></div><div class='card'><a class="node" href="../c/income-statement.html">利润表 · the income statement</a></div><div class='card'><a class="node" href="../c/balance-sheet.html">资产负债表 · the balance sheet</a></div><div class='card'><a class="node" href="../c/cash-flow-statement.html">现金流量表 · the cash flow statement</a></div><div class='card'><a class="node" href="../c/gaap-ifrs.html">GAAP 与 IFRS · GAAP vs IFRS</a></div><div class='card'><a class="node" href="../c/ebitda.html">息税折旧摊销前利润 · EBITDA</a></div><div class='card'><a class="node" href="../c/quality-of-earnings.html">盈利质量 · quality of earnings</a></div><div class='card'><a class="node" href="../c/yield-curve.html">收益率曲线 · the yield curve</a></div><div class='card'><a class="node" href="../c/government-bonds.html">政府债券 · government bonds</a></div><div class='card'><a class="node" href="../c/duration.html">久期 · duration</a></div><div class='card'><a class="node" href="../c/equities.html">股票 · equities (stocks)</a></div><div class='card'><a class="node" href="../c/inventory-accounting.html">存货计价方法 · inventory accounting (FIFO/LIFO)</a></div><div class='card'><a class="node" href="../c/three-statement-model.html">三表联动模型 · the three-statement model</a></div><div class='card'><a class="node" href="../c/dividend-discount-model.html">股利折现模型 · the dividend discount model (DDM)</a></div><div class='card'><a class="node" href="../c/residual-income-model.html">剩余收益模型 · the residual income model</a></div><div class='card'><a class="node" href="../c/industry-analysis.html">行业分析 · industry analysis</a></div><div class='card'><a class="node" href="../c/yield-to-maturity.html">到期收益率 · yield to maturity (YTM)</a></div><div class='card'><a class="node" href="../c/credit-analysis.html">信用分析 · credit analysis</a></div><div class='card'><a class="node" href="../c/convexity.html">凸性 · convexity</a></div><div class='card'><a class="node" href="../c/credit-spread.html">信用利差 · the credit spread</a></div><div class='card'><a class="node" href="../c/securitisation.html">证券化 · securitisation</a></div></div>
+<h2>衍生品与另类投资 Derivatives &amp; Alternatives <span class='count'>(14)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/leveraged-buyout.html">杠杆收购 · the leveraged buyout (LBO)</a></div><div class='card'><a class="node" href="../c/private-equity.html">私募股权 · private equity (PE)</a></div><div class='card'><a class="node" href="../c/carried-interest.html">附带权益 · carried interest (carry)</a></div><div class='card'><a class="node" href="../c/options.html">期权 · options</a></div><div class='card'><a class="node" href="../c/derivatives.html">衍生品 · derivatives</a></div><div class='card'><a class="node" href="../c/futures.html">期货 · futures and forwards</a></div><div class='card'><a class="node" href="../c/hedging.html">对冲 · hedging</a></div><div class='card'><a class="node" href="../c/black-scholes.html">布莱克-斯科尔斯模型 · the Black-Scholes model</a></div><div class='card'><a class="node" href="../c/swaps.html">互换 · swaps</a></div><div class='card'><a class="node" href="../c/put-call-parity.html">看跌-看涨平价 · put-call parity</a></div><div class='card'><a class="node" href="../c/arbitrage.html">套利 · arbitrage</a></div><div class='card'><a class="node" href="../c/alternative-investments.html">另类投资 · alternative investments</a></div><div class='card'><a class="node" href="../c/hedge-fund-strategies.html">对冲基金策略 · hedge-fund strategies</a></div><div class='card'><a class="node" href="../c/real-assets.html">实物资产 · real assets (real estate, commodities, infrastructure)</a></div></div>
+<h2>投资组合管理（三级）Portfolio Management (Level III) <span class='count'>(17)</span></h2><div class='grid'><div class='card'><a class="node" href="../c/efficient-market-hypothesis.html">有效市场假说 · the efficient market hypothesis (EMH)</a></div><div class='card'><a class="node" href="../c/random-walk.html">随机漫步 · the random walk</a></div><div class='card'><a class="node" href="../c/portfolio-theory.html">投资组合理论 · modern portfolio theory</a></div><div class='card'><a class="node" href="../c/diversification.html">分散化 · diversification</a></div><div class='card'><a class="node" href="../c/sharpe-ratio.html">夏普比率 · the Sharpe ratio</a></div><div class='card'><a class="node" href="../c/risk-return-tradeoff.html">风险收益权衡 · the risk-return trade-off</a></div><div class='card'><a class="node" href="../c/behavioural-finance.html">行为金融学 · behavioural finance</a></div><div class='card'><a class="node" href="../c/loss-aversion.html">损失厌恶 · loss aversion</a></div><div class='card'><a class="node" href="../c/asset-allocation.html">资产配置 · asset allocation</a></div><div class='card'><a class="node" href="../c/efficient-frontier.html">有效前沿 · the efficient frontier</a></div><div class='card'><a class="node" href="../c/investment-policy-statement.html">投资政策声明（IPS） · the Investment Policy Statement (IPS)</a></div><div class='card'><a class="node" href="../c/risk-tolerance.html">风险承受度 · risk tolerance (ability vs willingness)</a></div><div class='card'><a class="node" href="../c/strategic-tactical-allocation.html">战略与战术资产配置 · strategic vs tactical allocation &amp; rebalancing</a></div><div class='card'><a class="node" href="../c/performance-attribution.html">业绩归因 · performance attribution</a></div><div class='card'><a class="node" href="../c/factor-investing.html">因子投资 · factor investing (smart beta)</a></div><div class='card'><a class="node" href="../c/wealth-management.html">财富管理 · wealth management</a></div><div class='card'><a class="node" href="../c/institutional-investing.html">机构投资 · institutional investing (pensions &amp; endowments)</a></div></div>
+</main>
+<footer>ConceptBridge · 中英概念网络 · generated by build.py</footer>
+<script>const ROOT="../";
+const box=document.getElementById('q'),res=document.getElementById('results');
+let IDX=null;
+async function idx(){ if(!IDX){ const r=await fetch(ROOT+'search-index.json');
+  IDX=await r.json(); } return IDX; }
+box&&box.addEventListener('input',async()=>{
+  const q=box.value.trim().toLowerCase();
+  if(!q){res.style.display='none';return;}
+  const d=await idx();
+  const hits=d.filter(e=>e.t.some(t=>t.includes(q))).slice(0,20);
+  res.innerHTML=hits.map(e=>`<a href="${ROOT}c/${e.id}.html"><b>${e.zh}</b> · ${e.en}</a>`).join('')
+    ||'<a>无结果 · no results</a>';
+  res.style.display='block';
+});
+document.addEventListener('click',e=>{ if(res&&!res.contains(e.target)&&e.target!==box)
+  res.style.display='none'; });
+</script>
+</body>
+</html>
